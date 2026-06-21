@@ -49,7 +49,7 @@ export function HomePage() {
             className="absolute -bottom-10 -left-10 h-40 w-40 rounded-full bg-[var(--color-accent-soft)]/50 blur-2xl"
           />
           <p className="mb-2 text-xs font-semibold uppercase tracking-[0.2em] text-[var(--color-accent)]">
-            K-Travel Auto-Curation
+            {t.heroEyebrow}
           </p>
           <h1 className="max-w-3xl font-serif text-3xl font-semibold leading-tight text-[var(--color-ink)] sm:text-4xl">
             {t.siteSubtitle}

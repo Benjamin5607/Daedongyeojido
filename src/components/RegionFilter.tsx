@@ -28,17 +28,31 @@ export function RegionFilter({
     for (const place of places) {
       if (place.region?.province) set.add(place.region.province);
     }
-    return [...set].sort();
-  }, [places]);
+    return [...set].sort((a, b) =>
+      getRegionLabel("provinces", a, locale).localeCompare(
+        getRegionLabel("provinces", b, locale)
+      )
+    );
+  }, [places, locale]);
 
   const cityOptions = useMemo(
-    () => getCityOptions(places, filter.province),
-    [places, filter.province]
+    () =>
+      getCityOptions(places, filter.province).sort((a, b) =>
+        getRegionLabel("cities", a, locale).localeCompare(
+          getRegionLabel("cities", b, locale)
+        )
+      ),
+    [places, filter.province, locale]
   );
 
   const districtOptions = useMemo(
-    () => getDistrictOptions(places, filter.province, filter.city),
-    [places, filter.province, filter.city]
+    () =>
+      getDistrictOptions(places, filter.province, filter.city).sort((a, b) =>
+        getRegionLabel("districts", a, locale).localeCompare(
+          getRegionLabel("districts", b, locale)
+        )
+      ),
+    [places, filter.province, filter.city, locale]
   );
 
   const hasActiveFilters = Boolean(

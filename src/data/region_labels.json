@@ -100,17 +100,17 @@
     },
     "jeju-si": {
       "ko": "제주시",
-      "en": "Jeju City",
+      "en": "Jeju-si",
       "ja": "済州市",
       "zh": "济州市",
-      "vi": "Thành phố Jeju",
-      "id": "Kota Jeju"
+      "vi": "Jeju-si",
+      "id": "Jeju-si"
     },
     "andong": {
       "ko": "안동시",
       "en": "Andong",
       "ja": "安東市",
-      "zh": "安东市",
+      "zh": "安东市旧市",
       "vi": "Andong",
       "id": "Andong"
     },
@@ -140,11 +140,11 @@
     },
     "seogwipo-si": {
       "ko": "서귀포시",
-      "en": "Seogwipo",
+      "en": "Jeju",
       "ja": "西帰浦市",
       "zh": "西归浦市",
-      "vi": "Seogwipo",
-      "id": "Seogwipo"
+      "vi": "Jeju",
+      "id": "Jeju"
     },
     "paju": {
       "ko": "파주시",
@@ -164,11 +164,11 @@
     },
     "icheon": {
       "ko": "이천시",
-      "en": "Icheon",
+      "en": "Gyeonggi",
       "ja": "利川市",
       "zh": "利川市",
-      "vi": "Icheon",
-      "id": "Icheon"
+      "vi": "Gyeonggi",
+      "id": "Gyeonggi"
     },
     "yongin": {
       "ko": "용인시",
@@ -228,11 +228,11 @@
     },
     "jinan": {
       "ko": "진안군",
-      "en": "Jinan",
+      "en": "Jeonbuk",
       "ja": "鎮安郡",
       "zh": "镇安郡",
-      "vi": "Jinan",
-      "id": "Jinan"
+      "vi": "Jeonbuk",
+      "id": "Jeonbuk"
     },
     "muju": {
       "ko": "무주군",
@@ -244,696 +244,696 @@
     },
     "ansan": {
       "ko": "안산시",
-      "en": "안산",
-      "ja": "안산",
-      "zh": "안산",
-      "vi": "안산",
-      "id": "안산"
+      "en": "Ansan",
+      "ja": "安山市",
+      "zh": "安山市",
+      "vi": "Ansan",
+      "id": "Ansan"
     },
     "siheung": {
       "ko": "시흥시",
-      "en": "시흥",
-      "ja": "시흥",
-      "zh": "시흥",
-      "vi": "시흥",
-      "id": "시흥"
+      "en": "Siheung",
+      "ja": "始興市",
+      "zh": "始兴市",
+      "vi": "Siheung",
+      "id": "Siheung"
     },
     "namyangju": {
       "ko": "남양주시",
-      "en": "남양주",
-      "ja": "남양주",
-      "zh": "남양주",
-      "vi": "남양주",
-      "id": "남양주"
+      "en": "Namyangju",
+      "ja": "南楊州市",
+      "zh": "南杨州市",
+      "vi": "Namyangju",
+      "id": "Namyangju"
     },
     "gunpo": {
       "ko": "군포시",
-      "en": "군포",
-      "ja": "군포",
-      "zh": "군포",
-      "vi": "군포",
-      "id": "군포"
+      "en": "Gunpo",
+      "ja": "軍浦市",
+      "zh": "军浦市",
+      "vi": "Gunpo",
+      "id": "Gunpo"
     },
     "hwaseong": {
       "ko": "화성시",
-      "en": "화성",
-      "ja": "화성",
-      "zh": "화성",
-      "vi": "화성",
-      "id": "화성"
+      "en": "Hwaseong",
+      "ja": "華城市",
+      "zh": "华城市",
+      "vi": "Hwaseong",
+      "id": "Hwaseong"
     },
     "goyang": {
       "ko": "고양시",
-      "en": "고양",
-      "ja": "고양",
-      "zh": "고양",
-      "vi": "고양",
-      "id": "고양"
+      "en": "Goyang",
+      "ja": "高陽市",
+      "zh": "高阳市",
+      "vi": "Goyang",
+      "id": "Goyang"
     },
     "uijeongbu": {
       "ko": "의정부시",
-      "en": "의정부",
-      "ja": "의정부",
-      "zh": "의정부",
-      "vi": "의정부",
-      "id": "의정부"
+      "en": "Uijeongbu",
+      "ja": "議政府市",
+      "zh": "议政府市",
+      "vi": "Uijeongbu",
+      "id": "Uijeongbu"
     },
     "yangpyeong": {
       "ko": "양평군",
-      "en": "양평",
-      "ja": "양평",
-      "zh": "양평",
-      "vi": "양평",
-      "id": "양평"
+      "en": "Yangpyeong",
+      "ja": "楊平郡",
+      "zh": "杨平郡",
+      "vi": "Yangpyeong",
+      "id": "Yangpyeong"
     },
     "yeoju": {
       "ko": "여주시",
-      "en": "여주",
-      "ja": "여주",
-      "zh": "여주",
-      "vi": "여주",
-      "id": "여주"
+      "en": "Gyeonggi",
+      "ja": "驪州市",
+      "zh": "骊州市",
+      "vi": "Gyeonggi",
+      "id": "Gyeonggi"
     },
     "pocheon": {
       "ko": "포천시",
-      "en": "포천",
-      "ja": "포천",
-      "zh": "포천",
-      "vi": "포천",
-      "id": "포천"
+      "en": "Pocheon",
+      "ja": "抱川市",
+      "zh": "抱川市",
+      "vi": "Pocheon",
+      "id": "Pocheon"
     },
     "bucheon": {
       "ko": "부천시",
-      "en": "부천",
-      "ja": "부천",
-      "zh": "부천",
-      "vi": "부천",
-      "id": "부천"
+      "en": "Bucheon",
+      "ja": "富川市",
+      "zh": "富川市",
+      "vi": "Bucheon",
+      "id": "Bucheon"
     },
     "gwangmyeong": {
       "ko": "광명시",
-      "en": "광명",
-      "ja": "광명",
-      "zh": "광명",
-      "vi": "광명",
-      "id": "광명"
+      "en": "Gwangmyeong",
+      "ja": "光明市",
+      "zh": "光明市",
+      "vi": "Gwangmyeong",
+      "id": "Gwangmyeong"
     },
     "yangju": {
       "ko": "양주시",
-      "en": "양주",
-      "ja": "양주",
-      "zh": "양주",
-      "vi": "양주",
-      "id": "양주"
+      "en": "Yangju",
+      "ja": "楊州市",
+      "zh": "杨州市",
+      "vi": "Yangju",
+      "id": "Yangju"
     },
     "dongducheon": {
       "ko": "동두천시",
-      "en": "동두천",
-      "ja": "동두천",
-      "zh": "동두천",
-      "vi": "동두천",
-      "id": "동두천"
+      "en": "Dongducheon",
+      "ja": "東豆川市",
+      "zh": "东豆川市",
+      "vi": "Dongducheon",
+      "id": "Dongducheon"
     },
     "uiwang": {
       "ko": "의왕시",
-      "en": "의왕",
-      "ja": "의왕",
-      "zh": "의왕",
-      "vi": "의왕",
-      "id": "의왕"
+      "en": "Uiwang",
+      "ja": "議旺市",
+      "zh": "义旺市",
+      "vi": "Uiwang",
+      "id": "Uiwang"
     },
     "gimpo": {
       "ko": "김포시",
-      "en": "김포",
-      "ja": "김포",
-      "zh": "김포",
-      "vi": "김포",
-      "id": "김포"
+      "en": "Gimpo",
+      "ja": "金浦市",
+      "zh": "金浦市",
+      "vi": "Gimpo",
+      "id": "Gimpo"
     },
     "yeoncheon": {
       "ko": "연천군",
-      "en": "연천",
-      "ja": "연천",
-      "zh": "연천",
-      "vi": "연천",
-      "id": "연천"
+      "en": "Yeoncheon",
+      "ja": "漣川郡",
+      "zh": "涟川郡",
+      "vi": "Yeoncheon",
+      "id": "Yeoncheon"
     },
     "guri": {
       "ko": "구리시",
-      "en": "구리",
-      "ja": "구리",
-      "zh": "구리",
-      "vi": "구리",
-      "id": "구리"
+      "en": "Guri",
+      "ja": "九里市",
+      "zh": "九里市",
+      "vi": "Guri",
+      "id": "Guri"
     },
     "wonju": {
       "ko": "원주시",
-      "en": "원주",
-      "ja": "원주",
-      "zh": "원주",
-      "vi": "원주",
-      "id": "원주"
+      "en": "Wonju",
+      "ja": "原州市",
+      "zh": "原州市",
+      "vi": "Wonju",
+      "id": "Wonju"
     },
     "hongcheon": {
       "ko": "홍천군",
-      "en": "홍천",
-      "ja": "홍천",
-      "zh": "홍천",
-      "vi": "홍천",
-      "id": "홍천"
+      "en": "Hongcheon",
+      "ja": "洪川郡",
+      "zh": "洪川郡",
+      "vi": "Hongcheon",
+      "id": "Hongcheon"
     },
     "taebaek": {
       "ko": "태백시",
-      "en": "태백",
-      "ja": "태백",
-      "zh": "태백",
-      "vi": "태백",
-      "id": "태백"
+      "en": "Taebaek",
+      "ja": "太白市",
+      "zh": "太白市",
+      "vi": "Taebaek",
+      "id": "Taebaek"
     },
     "yeongwol": {
       "ko": "영월군",
-      "en": "영월",
-      "ja": "영월",
-      "zh": "영월",
-      "vi": "영월",
-      "id": "영월"
+      "en": "Yeongwol",
+      "ja": "寧越郡",
+      "zh": "宁越郡",
+      "vi": "Yeongwol",
+      "id": "Yeongwol"
     },
     "jeongseon": {
       "ko": "정선군",
-      "en": "정선",
-      "ja": "정선",
-      "zh": "정선",
-      "vi": "정선",
-      "id": "정선"
+      "en": "Jeongseon",
+      "ja": "旌善郡",
+      "zh": "旌善郡",
+      "vi": "Jeongseon",
+      "id": "Jeongseon"
     },
     "inje": {
       "ko": "인제군",
-      "en": "인제",
-      "ja": "인제",
-      "zh": "인제",
-      "vi": "인제",
-      "id": "인제"
+      "en": "Inje",
+      "ja": "麟蹄郡",
+      "zh": "麟蹄郡",
+      "vi": "Inje",
+      "id": "Inje"
     },
     "goseong-gangwon": {
       "ko": "고성군",
-      "en": "고성",
-      "ja": "고성",
-      "zh": "고성",
-      "vi": "고성",
-      "id": "고성"
+      "en": "Goseong",
+      "ja": "高城郡",
+      "zh": "高城郡",
+      "vi": "Goseong",
+      "id": "Goseong"
     },
     "cheongju": {
       "ko": "청주시",
-      "en": "청주",
-      "ja": "청주",
-      "zh": "청주",
-      "vi": "청주",
-      "id": "청주"
+      "en": "Cheongju",
+      "ja": "清州市",
+      "zh": "清州市",
+      "vi": "Cheongju",
+      "id": "Cheongju"
     },
     "chungju": {
       "ko": "충주시",
-      "en": "충주",
-      "ja": "충주",
-      "zh": "충주",
-      "vi": "충주",
-      "id": "충주"
+      "en": "Chungju",
+      "ja": "忠州市",
+      "zh": "忠州市",
+      "vi": "Chungju",
+      "id": "Chungju"
     },
     "jecheon": {
       "ko": "제천시",
-      "en": "제천",
-      "ja": "제천",
-      "zh": "제천",
-      "vi": "제천",
-      "id": "제천"
+      "en": "Chungbuk",
+      "ja": "堤川市",
+      "zh": "堤川市",
+      "vi": "Chungbuk",
+      "id": "Chungbuk"
     },
     "danyang": {
       "ko": "단양군",
-      "en": "단양",
-      "ja": "단양",
-      "zh": "단양",
-      "vi": "단양",
-      "id": "단양"
+      "en": "Danyang",
+      "ja": "丹陽郡",
+      "zh": "丹阳郡",
+      "vi": "Danyang",
+      "id": "Danyang"
     },
     "boeun": {
       "ko": "보은군",
-      "en": "보은",
-      "ja": "보은",
-      "zh": "보은",
-      "vi": "보은",
-      "id": "보은"
+      "en": "Boeun",
+      "ja": "報恩郡",
+      "zh": "报恩郡",
+      "vi": "Boeun",
+      "id": "Boeun"
     },
     "goesan": {
       "ko": "괴산군",
-      "en": "괴산",
-      "ja": "괴산",
-      "zh": "괴산",
-      "vi": "괴산",
-      "id": "괴산"
+      "en": "Goesan",
+      "ja": "槐山郡",
+      "zh": "槐山郡",
+      "vi": "Goesan",
+      "id": "Goesan"
     },
     "jeungpyeong": {
       "ko": "증평군",
-      "en": "증평",
-      "ja": "증평",
-      "zh": "증평",
-      "vi": "증평",
-      "id": "증평"
+      "en": "Jeungpyeong",
+      "ja": "曾坪郡",
+      "zh": "曾坪郡",
+      "vi": "Jeungpyeong",
+      "id": "Jeungpyeong"
     },
     "okcheon": {
       "ko": "옥천군",
-      "en": "옥천",
-      "ja": "옥천",
-      "zh": "옥천",
-      "vi": "옥천",
-      "id": "옥천"
+      "en": "Okcheon",
+      "ja": "沃川郡",
+      "zh": "沃川郡",
+      "vi": "Okcheon",
+      "id": "Okcheon"
     },
     "eumseong": {
       "ko": "음성군",
-      "en": "음성",
-      "ja": "음성",
-      "zh": "음성",
-      "vi": "음성",
-      "id": "음성"
+      "en": "Eumseong",
+      "ja": "陰城郡",
+      "zh": "陰城郡",
+      "vi": "Eumseong",
+      "id": "Eumseong"
     },
     "cheonan": {
       "ko": "천안시",
-      "en": "천안",
-      "ja": "천안",
-      "zh": "천안",
-      "vi": "천안",
-      "id": "천안"
+      "en": "Cheonan",
+      "ja": "天安市",
+      "zh": "天安市",
+      "vi": "Cheonan",
+      "id": "Cheonan"
     },
     "asan": {
       "ko": "아산시",
-      "en": "아산",
-      "ja": "아산",
-      "zh": "아산",
-      "vi": "아산",
-      "id": "아산"
+      "en": "Asan",
+      "ja": "牙山市",
+      "zh": "牙山市",
+      "vi": "Asan",
+      "id": "Asan"
     },
     "seosan": {
       "ko": "서산시",
-      "en": "서산",
-      "ja": "서산",
-      "zh": "서산",
-      "vi": "서산",
-      "id": "서산"
+      "en": "Chungnam",
+      "ja": "瑞山市",
+      "zh": "瑞山市",
+      "vi": "Chungnam",
+      "id": "Chungnam"
     },
     "gongju": {
       "ko": "공주시",
-      "en": "공주",
-      "ja": "공주",
-      "zh": "공주",
-      "vi": "공주",
-      "id": "공주"
+      "en": "Gongju",
+      "ja": "公州市",
+      "zh": "公州市",
+      "vi": "Gongju",
+      "id": "Gongju"
     },
     "dangjin": {
       "ko": "당진시",
-      "en": "당진",
-      "ja": "당진",
-      "zh": "당진",
-      "vi": "당진",
-      "id": "당진"
+      "en": "Dangjin",
+      "ja": "唐津市",
+      "zh": "唐津市",
+      "vi": "Dangjin",
+      "id": "Dangjin"
     },
     "buyeo": {
       "ko": "부여군",
-      "en": "부여",
-      "ja": "부여",
-      "zh": "부여",
-      "vi": "부여",
-      "id": "부여"
+      "en": "Buyeo",
+      "ja": "扶余郡",
+      "zh": "扶余郡",
+      "vi": "Buyeo",
+      "id": "Buyeo"
     },
     "nonsan": {
       "ko": "논산시",
-      "en": "논산",
-      "ja": "논산",
-      "zh": "논산",
-      "vi": "논산",
-      "id": "논산"
+      "en": "Chungnam",
+      "ja": "論山市",
+      "zh": "论山市",
+      "vi": "Chungnam",
+      "id": "Chungnam"
     },
     "taean": {
       "ko": "태안군",
-      "en": "태안",
-      "ja": "태안",
-      "zh": "태안",
-      "vi": "태안",
-      "id": "태안"
+      "en": "Taean",
+      "ja": "泰安郡",
+      "zh": "泰安郡",
+      "vi": "Taean",
+      "id": "Taean"
     },
     "geumsan": {
       "ko": "금산군",
-      "en": "금산",
-      "ja": "금산",
-      "zh": "금산",
-      "vi": "금산",
-      "id": "금산"
+      "en": "Geumsan",
+      "ja": "錦山郡",
+      "zh": "锦山郡",
+      "vi": "Geumsan",
+      "id": "Geumsan"
     },
     "seocheon": {
       "ko": "서천군",
-      "en": "서천",
-      "ja": "서천",
-      "zh": "서천",
-      "vi": "서천",
-      "id": "서천"
+      "en": "Seocheon",
+      "ja": "舒川郡",
+      "zh": "舒川郡",
+      "vi": "Seocheon",
+      "id": "Seocheon"
     },
     "gunsan": {
       "ko": "군산시",
-      "en": "군산",
-      "ja": "군산",
-      "zh": "군산",
-      "vi": "군산",
-      "id": "군산"
+      "en": "Gunsan",
+      "ja": "群山市",
+      "zh": "群山市",
+      "vi": "Gunsan",
+      "id": "Gunsan"
     },
     "iksan": {
       "ko": "익산시",
-      "en": "익산",
-      "ja": "익산",
-      "zh": "익산",
-      "vi": "익산",
-      "id": "익산"
+      "en": "Iksan",
+      "ja": "益山市",
+      "zh": "益山市",
+      "vi": "Iksan",
+      "id": "Iksan"
     },
     "jeongeup": {
       "ko": "정읍시",
-      "en": "정읍",
-      "ja": "정읍",
-      "zh": "정읍",
-      "vi": "정읍",
-      "id": "정읍"
+      "en": "Jeonbuk",
+      "ja": "井邑市",
+      "zh": "井邑市",
+      "vi": "Jeonbuk",
+      "id": "Jeonbuk"
     },
     "namwon": {
       "ko": "남원시",
-      "en": "남원",
-      "ja": "남원",
-      "zh": "남원",
-      "vi": "남원",
-      "id": "남원"
+      "en": "Jeonbuk",
+      "ja": "南原市",
+      "zh": "南原市",
+      "vi": "Jeonbuk",
+      "id": "Jeonbuk"
     },
     "buan": {
       "ko": "부안군",
-      "en": "부안",
-      "ja": "부안",
-      "zh": "부안",
-      "vi": "부안",
-      "id": "부안"
+      "en": "Jeonbuk",
+      "ja": "扶安郡",
+      "zh": "扶安郡",
+      "vi": "Jeonbuk",
+      "id": "Jeonbuk"
     },
     "sunchang": {
       "ko": "순창군",
-      "en": "순창",
-      "ja": "순창",
-      "zh": "순창",
-      "vi": "순창",
-      "id": "순창"
+      "en": "Sunchang",
+      "ja": "淳昌郡",
+      "zh": "淳昌郡",
+      "vi": "Sunchang",
+      "id": "Sunchang"
     },
     "gimje": {
       "ko": "김제시",
-      "en": "김제",
-      "ja": "김제",
-      "zh": "김제",
-      "vi": "김제",
-      "id": "김제"
+      "en": "Jeonbuk",
+      "ja": "金堤市",
+      "zh": "金堤市",
+      "vi": "Jeonbuk",
+      "id": "Jeonbuk"
     },
     "imsil": {
       "ko": "임실군",
-      "en": "임실",
-      "ja": "임실",
-      "zh": "임실",
-      "vi": "임실",
-      "id": "임실"
+      "en": "Imsil",
+      "ja": "任実郡",
+      "zh": "任实郡",
+      "vi": "Imsil",
+      "id": "Imsil"
     },
     "yeosu": {
       "ko": "여수시",
-      "en": "여수",
-      "ja": "여수",
-      "zh": "여수",
-      "vi": "여수",
-      "id": "여수"
+      "en": "Yeosu",
+      "ja": "麗水市",
+      "zh": "丽水市",
+      "vi": "Yeosu",
+      "id": "Yeosu"
     },
     "mokpo": {
       "ko": "목포시",
-      "en": "목포",
-      "ja": "목포",
-      "zh": "목포",
-      "vi": "목포",
-      "id": "목포"
+      "en": "Mokpo",
+      "ja": "木浦市",
+      "zh": "木浦市",
+      "vi": "Mokpo",
+      "id": "Mokpo"
     },
     "suncheon": {
       "ko": "순천시",
-      "en": "순천",
-      "ja": "순천",
-      "zh": "순천",
-      "vi": "순천",
-      "id": "순천"
+      "en": "Jeonnam",
+      "ja": "順天市",
+      "zh": "顺天市",
+      "vi": "Jeonnam",
+      "id": "Jeonnam"
     },
     "damyang": {
       "ko": "담양군",
-      "en": "담양",
-      "ja": "담양",
-      "zh": "담양",
-      "vi": "담양",
-      "id": "담양"
+      "en": "Damyang",
+      "ja": "潭陽郡",
+      "zh": "潭阳郡",
+      "vi": "Damyang",
+      "id": "Damyang"
     },
     "gwangyang": {
       "ko": "광양시",
-      "en": "광양",
-      "ja": "광양",
-      "zh": "광양",
-      "vi": "광양",
-      "id": "광양"
+      "en": "Gwangyang",
+      "ja": "光陽市",
+      "zh": "光阳市",
+      "vi": "Gwangyang",
+      "id": "Gwangyang"
     },
     "naju": {
       "ko": "나주시",
-      "en": "나주",
-      "ja": "나주",
-      "zh": "나주",
-      "vi": "나주",
-      "id": "나주"
+      "en": "Jeonnam",
+      "ja": "羅州市",
+      "zh": "罗州市",
+      "vi": "Jeonnam",
+      "id": "Jeonnam"
     },
     "haenam": {
       "ko": "해남군",
-      "en": "해남",
-      "ja": "해남",
-      "zh": "해남",
-      "vi": "해남",
-      "id": "해남"
+      "en": "Haenam",
+      "ja": "海南郡",
+      "zh": "海南郡",
+      "vi": "Haenam",
+      "id": "Haenam"
     },
     "jindo": {
       "ko": "진도군",
-      "en": "진도",
-      "ja": "진도",
-      "zh": "진도",
-      "vi": "진도",
-      "id": "진도"
+      "en": "Jindo",
+      "ja": "珍島郡",
+      "zh": "珍岛郡",
+      "vi": "Jindo",
+      "id": "Jindo"
     },
     "goheung": {
       "ko": "고흥군",
-      "en": "고흥",
-      "ja": "고흥",
-      "zh": "고흥",
-      "vi": "고흥",
-      "id": "고흥"
+      "en": "Goheung",
+      "ja": "高興郡",
+      "zh": "高兴郡",
+      "vi": "Goheung",
+      "id": "Goheung"
     },
     "wando": {
       "ko": "완도군",
-      "en": "완도",
-      "ja": "완도",
-      "zh": "완도",
-      "vi": "완도",
-      "id": "완도"
+      "en": "Wando",
+      "ja": "莞島郡",
+      "zh": "莞岛郡",
+      "vi": "Wando",
+      "id": "Wando"
     },
     "gumi": {
       "ko": "구미시",
-      "en": "구미",
-      "ja": "구미",
-      "zh": "구미",
-      "vi": "구미",
-      "id": "구미"
+      "en": "Gumi",
+      "ja": "亀尾市",
+      "zh": "龟尾市",
+      "vi": "Gumi",
+      "id": "Gumi"
     },
     "gyeongsan": {
       "ko": "경산시",
-      "en": "경산",
-      "ja": "경산",
-      "zh": "경산",
-      "vi": "경산",
-      "id": "경산"
+      "en": "Gyeongsan",
+      "ja": "慶山市",
+      "zh": "庆山市",
+      "vi": "Gyeongsan",
+      "id": "Gyeongsan"
     },
     "yeongju": {
       "ko": "영주시",
-      "en": "영주",
-      "ja": "영주",
-      "zh": "영주",
-      "vi": "영주",
-      "id": "영주"
+      "en": "Yeongju",
+      "ja": "栄州市",
+      "zh": "荣州市",
+      "vi": "Yeongju",
+      "id": "Yeongju"
     },
     "mungyeong": {
       "ko": "문경시",
-      "en": "문경",
-      "ja": "문경",
-      "zh": "문경",
-      "vi": "문경",
-      "id": "문경"
+      "en": "Gyeongbuk",
+      "ja": "聞慶市",
+      "zh": "闻庆市",
+      "vi": "Gyeongbuk",
+      "id": "Gyeongbuk"
     },
     "uljin": {
       "ko": "울진군",
-      "en": "울진",
-      "ja": "울진",
-      "zh": "울진",
-      "vi": "울진",
-      "id": "울진"
+      "en": "Uljin",
+      "ja": "蔚珍郡",
+      "zh": "蔚珍郡",
+      "vi": "Uljin",
+      "id": "Uljin"
     },
     "sangju": {
       "ko": "상주시",
-      "en": "상주",
-      "ja": "상주",
-      "zh": "상주",
-      "vi": "상주",
-      "id": "상주"
+      "en": "Gyeongbuk",
+      "ja": "尙州市",
+      "zh": "尚州市",
+      "vi": "Gyeongbuk",
+      "id": "Gyeongbuk"
     },
     "goryeong": {
       "ko": "고령군",
-      "en": "고령",
-      "ja": "고령",
-      "zh": "고령",
-      "vi": "고령",
-      "id": "고령"
+      "en": "Goryeong",
+      "ja": "高靈郡",
+      "zh": "高灵郡",
+      "vi": "Goryeong",
+      "id": "Goryeong"
     },
     "changwon": {
       "ko": "창원시",
-      "en": "창원",
-      "ja": "창원",
-      "zh": "창원",
-      "vi": "창원",
-      "id": "창원"
+      "en": "Changwon",
+      "ja": "昌原市",
+      "zh": "昌原市",
+      "vi": "Changwon",
+      "id": "Changwon"
     },
     "jinju": {
       "ko": "진주시",
-      "en": "진주",
-      "ja": "진주",
-      "zh": "진주",
-      "vi": "진주",
-      "id": "진주"
+      "en": "Jinju",
+      "ja": "晋州市",
+      "zh": "晋州市",
+      "vi": "Jinju",
+      "id": "Jinju"
     },
     "tongyeong": {
       "ko": "통영시",
-      "en": "통영",
-      "ja": "통영",
-      "zh": "통영",
-      "vi": "통영",
-      "id": "통영"
+      "en": "Tongyeong",
+      "ja": "統营市",
+      "zh": "统营市",
+      "vi": "Tongyeong",
+      "id": "Tongyeong"
     },
     "geoje": {
       "ko": "거제시",
-      "en": "거제",
-      "ja": "거제",
-      "zh": "거제",
-      "vi": "거제",
-      "id": "거제"
+      "en": "Geoje",
+      "ja": "巨濟市",
+      "zh": "巨济市古县",
+      "vi": "Geoje",
+      "id": "Geoje"
     },
     "sacheon": {
       "ko": "사천시",
-      "en": "사천",
-      "ja": "사천",
-      "zh": "사천",
-      "vi": "사천",
-      "id": "사천"
+      "en": "Gyeongnam",
+      "ja": "泗川市",
+      "zh": "泗川市",
+      "vi": "Gyeongnam",
+      "id": "Gyeongnam"
     },
     "gimhae": {
       "ko": "김해시",
-      "en": "김해",
-      "ja": "김해",
-      "zh": "김해",
-      "vi": "김해",
-      "id": "김해"
+      "en": "Gyeongnam",
+      "ja": "金海市",
+      "zh": "金海市",
+      "vi": "Gyeongnam",
+      "id": "Gyeongnam"
     },
     "yangsan": {
       "ko": "양산시",
-      "en": "양산",
-      "ja": "양산",
-      "zh": "양산",
-      "vi": "양산",
-      "id": "양산"
+      "en": "Gyeongnam",
+      "ja": "梁山市",
+      "zh": "梁山市",
+      "vi": "Gyeongnam",
+      "id": "Gyeongnam"
     },
     "miryang": {
       "ko": "밀양시",
-      "en": "밀양",
-      "ja": "밀양",
-      "zh": "밀양",
-      "vi": "밀양",
-      "id": "밀양"
+      "en": "Gyeongnam",
+      "ja": "密陽市",
+      "zh": "密阳市",
+      "vi": "Gyeongnam",
+      "id": "Gyeongnam"
     },
     "hadong": {
       "ko": "하동군",
-      "en": "하동",
-      "ja": "하동",
-      "zh": "하동",
-      "vi": "하동",
-      "id": "하동"
+      "en": "Hadong",
+      "ja": "河東郡",
+      "zh": "河东郡",
+      "vi": "Hadong",
+      "id": "Hadong"
     },
     "haman": {
       "ko": "함안군",
-      "en": "함안",
-      "ja": "함안",
-      "zh": "함안",
-      "vi": "함안",
-      "id": "함안"
+      "en": "Haman",
+      "ja": "咸安郡",
+      "zh": "咸安郡",
+      "vi": "Haman",
+      "id": "Haman"
     }
   },
   "districts": {
     "yongsan": {
-      "ko": "용산구",
+      "ko": "龍山区",
       "en": "Yongsan-gu",
       "ja": "龍山区",
-      "zh": "龙山区",
+      "zh": "梨泰院路27街49",
       "vi": "Yongsan-gu",
       "id": "Yongsan-gu"
     },
     "jongno": {
-      "ko": "종로구",
+      "ko": "鍾路区",
       "en": "Jongno-gu",
       "ja": "鍾路区",
-      "zh": "钟路区",
+      "zh": "昌庆宫路88",
       "vi": "Jongno-gu",
       "id": "Jongno-gu"
     },
     "gangnam": {
-      "ko": "강남구",
+      "ko": "江南区",
       "en": "Gangnam-gu",
       "ja": "江南区",
-      "zh": "江南区",
+      "zh": "永东大路513",
       "vi": "Gangnam-gu",
       "id": "Gangnam-gu"
     },
     "jung-seoul": {
-      "ko": "중구",
+      "ko": "中区",
       "en": "Jung-gu",
       "ja": "中区",
-      "zh": "中区",
+      "zh": "明洞10街29",
       "vi": "Jung-gu",
       "id": "Jung-gu"
     },
     "mapo": {
-      "ko": "마포구",
-      "en": "Mapo-gu",
-      "ja": "麻浦区",
-      "zh": "麻浦区",
-      "vi": "Mapo-gu",
-      "id": "Mapo-gu"
+      "ko": "鍾路区",
+      "en": "18 Tongin-dong",
+      "ja": "鍾路区",
+      "zh": "通仁洞18",
+      "vi": "18 Tongin-dong",
+      "id": "18 Tongin-dong"
     },
     "haeundae": {
-      "ko": "해운대구",
-      "en": "Haeundae-gu",
+      "ko": "海雲台区",
+      "en": "1467 U-dong",
       "ja": "海雲台区",
-      "zh": "海云台区",
-      "vi": "Haeundae-gu",
-      "id": "Haeundae-gu"
+      "zh": "釜山海云台区",
+      "vi": "1467 U-dong",
+      "id": "1467 U-dong"
     },
     "jung-busan": {
-      "ko": "중구",
+      "ko": "中区",
       "en": "Jung-gu",
       "ja": "中区",
-      "zh": "中区",
+      "zh": "札嘎其海岸路52",
       "vi": "Jung-gu",
       "id": "Jung-gu"
     },
     "palddal": {
-      "ko": "팔달구",
+      "ko": "八達区",
       "en": "Paldal-gu",
       "ja": "八達区",
       "zh": "八达区",
@@ -941,7 +941,7 @@
       "id": "Paldal-gu"
     },
     "aewol": {
-      "ko": "애월읍",
+      "ko": "涯月邑",
       "en": "Aewol-eup",
       "ja": "涯月邑",
       "zh": "涯月邑",
@@ -949,119 +949,119 @@
       "id": "Aewol-eup"
     },
     "hahoe": {
-      "ko": "풍천면",
-      "en": "Pungcheon-myeon",
-      "ja": "豊川面",
-      "zh": "丰川面",
-      "vi": "Pungcheon-myeon",
-      "id": "Pungcheon-myeon"
+      "ko": "河回民俗村",
+      "en": "Hahoe Folk Village",
+      "ja": "河回民俗村",
+      "zh": "河回民俗村",
+      "vi": "Hahoe Folk Village",
+      "id": "Hahoe Folk Village"
     },
     "wolseong": {
-      "ko": "월성동",
-      "en": "Wolseong-dong",
-      "ja": "月城洞",
-      "zh": "月城洞",
-      "vi": "Wolseong-dong",
-      "id": "Wolseong-dong"
+      "ko": "544",
+      "en": "544 Bomun-ro",
+      "ja": "544",
+      "zh": "普门路544",
+      "vi": "544 Bomun-ro",
+      "id": "544 Bomun-ro"
     },
     "wansan": {
-      "ko": "완산구",
-      "en": "Wansan-gu",
+      "ko": "完山区",
+      "en": "Gyeonggijeon-gil",
       "ja": "完山区",
-      "zh": "完山区",
-      "vi": "Wansan-gu",
-      "id": "Wansan-gu"
+      "zh": "完山区庆基殿街",
+      "vi": "Gyeonggijeon-gil",
+      "id": "Gyeonggijeon-gil"
     },
     "gyodong": {
-      "ko": "교동",
-      "en": "Gyodong",
-      "ja": "校洞",
-      "zh": "校洞",
-      "vi": "Gyodong",
-      "id": "Gyodong"
+      "ko": "南部市場",
+      "en": "Nambu Market",
+      "ja": "南部市場",
+      "zh": "南部市场",
+      "vi": "Nambu Market",
+      "id": "Nambu Market"
     },
     "yeongdeungpo": {
-      "ko": "영등포구",
+      "ko": "永登浦区",
       "en": "Yeongdeungpo-gu",
       "ja": "永登浦区",
-      "zh": "永登浦区",
+      "zh": "汝矣岛汉江公园",
       "vi": "Yeongdeungpo-gu",
       "id": "Yeongdeungpo-gu"
     },
     "seodaemun": {
-      "ko": "서대문구",
+      "ko": "西大門区",
       "en": "Seodaemun-gu",
       "ja": "西大門区",
-      "zh": "西大门区",
+      "zh": "北汉山路",
       "vi": "Seodaemun-gu",
       "id": "Seodaemun-gu"
     },
     "suyeong": {
-      "ko": "수영구",
-      "en": "Suyeong-gu",
+      "ko": "水営区",
+      "en": "Millak-dong",
       "ja": "水営区",
-      "zh": "水营区",
-      "vi": "Suyeong-gu",
-      "id": "Suyeong-gu"
+      "zh": "Millak洞",
+      "vi": "Millak-dong",
+      "id": "Millak-dong"
     },
     "saha": {
-      "ko": "사하구",
+      "ko": "沙下区",
       "en": "Saha-gu",
       "ja": "沙下区",
-      "zh": "沙下区",
+      "zh": "甘川2路203",
       "vi": "Saha-gu",
       "id": "Saha-gu"
     },
     "geumjeong": {
-      "ko": "금정구",
-      "en": "Geumjeong-gu",
+      "ko": "金井区",
+      "en": "546 Cheongnyong-dong",
       "ja": "金井区",
-      "zh": "金井区",
-      "vi": "Geumjeong-gu",
-      "id": "Geumjeong-gu"
+      "zh": "青龙洞546",
+      "vi": "546 Cheongnyong-dong",
+      "id": "546 Cheongnyong-dong"
     },
     "gijang": {
-      "ko": "기장군",
-      "en": "Gijang-gun",
+      "ko": "機張郡",
+      "en": "Gijang-eup",
       "ja": "機張郡",
-      "zh": "机张郡",
-      "vi": "Gijang-gun",
-      "id": "Gijang-gun"
+      "zh": "龙宫街86",
+      "vi": "Gijang-eup",
+      "id": "Gijang-eup"
     },
     "yeongdo": {
-      "ko": "영도구",
+      "ko": "影島区",
       "en": "Yeongdo-gu",
       "ja": "影島区",
-      "zh": "影岛区",
+      "zh": "新仙路104",
       "vi": "Yeongdo-gu",
       "id": "Yeongdo-gu"
     },
     "nam-busan": {
-      "ko": "남구",
+      "ko": "南区",
       "en": "Nam-gu",
       "ja": "南区",
-      "zh": "南区",
+      "zh": "二妓台",
       "vi": "Nam-gu",
       "id": "Nam-gu"
     },
     "seongsan": {
-      "ko": "성산읍",
-      "en": "Seongsan-eup",
-      "ja": "城山邑",
-      "zh": "城山邑",
-      "vi": "Seongsan-eup",
-      "id": "Seongsan-eup"
+      "ko": "涉地可支",
+      "en": "Seopjikoji",
+      "ja": "涉地可支",
+      "zh": "涉地可支",
+      "vi": "Seopjikoji",
+      "id": "Seopjikoji"
     },
     "pyoseon": {
-      "ko": "표선면",
-      "en": "Pyoseon-myeon",
-      "ja": "表善面",
-      "zh": "表善面",
-      "vi": "Pyoseon-myeon",
-      "id": "Pyoseon-myeon"
+      "ko": "表善里",
+      "en": "Pyoseon-ri",
+      "ja": "表善里",
+      "zh": "表善里",
+      "vi": "Pyoseon-ri",
+      "id": "Pyoseon-ri"
     },
     "gujwa": {
-      "ko": "구좌읍",
+      "ko": "旧左邑",
       "en": "Gujwa-eup",
       "ja": "旧左邑",
       "zh": "旧左邑",
@@ -1069,15 +1069,15 @@
       "id": "Gujwa-eup"
     },
     "imjingak": {
-      "ko": "임진각",
-      "en": "Imjingak",
-      "ja": "臨津閣",
-      "zh": "临津阁",
-      "vi": "Imjingak",
-      "id": "Imjingak"
+      "ko": "臨津閣路",
+      "en": "Imjingak-ro",
+      "ja": "臨津閣路",
+      "zh": "临津阁路",
+      "vi": "Imjingak-ro",
+      "id": "Imjingak-ro"
     },
     "yangdong": {
-      "ko": "양동면",
+      "ko": "陽東面",
       "en": "Yangdong-myeon",
       "ja": "陽東面",
       "zh": "阳东面",
@@ -1085,940 +1085,940 @@
       "id": "Yangdong-myeon"
     },
     "deokjin": {
-      "ko": "덕진구",
+      "ko": "徳津区",
       "en": "Deokjin-gu",
-      "ja": "德津区",
+      "ja": "徳津区",
       "zh": "德津区",
       "vi": "Deokjin-gu",
       "id": "Deokjin-gu"
     },
     "wongok": {
-      "ko": "wongok",
-      "en": "Wongok",
-      "ja": "Wongok",
-      "zh": "Wongok",
-      "vi": "Wongok",
-      "id": "Wongok"
+      "ko": "檀園区",
+      "en": "Wongok-dong",
+      "ja": "檀園区",
+      "zh": "檀园区旺谷洞",
+      "vi": "Wongok-dong",
+      "id": "Wongok-dong"
     },
     "oido": {
-      "ko": "oido",
-      "en": "Oido",
-      "ja": "Oido",
-      "zh": "Oido",
-      "vi": "Oido",
-      "id": "Oido"
+      "ko": "烏耳島洞",
+      "en": "Oido-dong",
+      "ja": "烏耳島洞",
+      "zh": "乌耳岛洞",
+      "vi": "Oido-dong",
+      "id": "Oido-dong"
     },
     "byeollae": {
-      "ko": "byeollae",
-      "en": "Byeollae",
-      "ja": "Byeollae",
-      "zh": "Byeollae",
-      "vi": "Byeollae",
-      "id": "Byeollae"
+      "ko": "別内洞",
+      "en": "Byeollae-dong",
+      "ja": "別内洞",
+      "zh": "别内洞",
+      "vi": "Byeollae-dong",
+      "id": "Byeollae-dong"
     },
     "daeyami": {
-      "ko": "daeyami",
-      "en": "Daeyami",
-      "ja": "Daeyami",
-      "zh": "Daeyami",
-      "vi": "Daeyami",
-      "id": "Daeyami"
+      "ko": "大野味洞",
+      "en": "Daeyami-dong",
+      "ja": "大野味洞",
+      "zh": "大野味洞",
+      "vi": "Daeyami-dong",
+      "id": "Daeyami-dong"
     },
     "bongdam": {
-      "ko": "bongdam",
-      "en": "Bongdam",
-      "ja": "Bongdam",
-      "zh": "Bongdam",
-      "vi": "Bongdam",
-      "id": "Bongdam"
+      "ko": "峰潭邑",
+      "en": "Bongdam-eup",
+      "ja": "峰潭邑",
+      "zh": "峰潭邑",
+      "vi": "Bongdam-eup",
+      "id": "Bongdam-eup"
     },
     "ilsan": {
-      "ko": "ilsan",
-      "en": "Ilsan",
-      "ja": "Ilsan",
-      "zh": "Ilsan",
-      "vi": "Ilsan",
-      "id": "Ilsan"
+      "ko": "一山洞",
+      "en": "Ilsan-dong",
+      "ja": "一山洞",
+      "zh": "一山洞",
+      "vi": "Ilsan-dong",
+      "id": "Ilsan-dong"
     },
     "uijeongbu-dong": {
-      "ko": "uijeongbu-dong",
-      "en": "Uijeongbu Dong",
-      "ja": "Uijeongbu Dong",
-      "zh": "Uijeongbu Dong",
-      "vi": "Uijeongbu Dong",
-      "id": "Uijeongbu Dong"
+      "ko": "議政府洞",
+      "en": "Uijeongbu-dong",
+      "ja": "議政府洞",
+      "zh": "议政府洞",
+      "vi": "Uijeongbu-dong",
+      "id": "Uijeongbu-dong"
     },
     "yangpyeong-eup": {
-      "ko": "yangpyeong-eup",
-      "en": "Yangpyeong Eup",
-      "ja": "Yangpyeong Eup",
-      "zh": "Yangpyeong Eup",
-      "vi": "Yangpyeong Eup",
-      "id": "Yangpyeong Eup"
+      "ko": "楊平郡",
+      "en": "Yangpyeong-eup",
+      "ja": "楊平郡",
+      "zh": "杨平邑",
+      "vi": "Yangpyeong-eup",
+      "id": "Yangpyeong-eup"
     },
     "yeoju-si": {
-      "ko": "yeoju-si",
-      "en": "Yeoju Si",
-      "ja": "Yeoju Si",
-      "zh": "Yeoju Si",
-      "vi": "Yeoju Si",
-      "id": "Yeoju Si"
+      "ko": "驪州市",
+      "en": "Yeoju-si",
+      "ja": "驪州市",
+      "zh": "骊州市",
+      "vi": "Yeoju-si",
+      "id": "Yeoju-si"
     },
     "soheul": {
-      "ko": "soheul",
-      "en": "Soheul",
-      "ja": "Soheul",
-      "zh": "Soheul",
-      "vi": "Soheul",
-      "id": "Soheul"
+      "ko": "蘇一面",
+      "en": "Soheul-myeon",
+      "ja": "蘇一面",
+      "zh": "苏一面",
+      "vi": "Soheul-myeon",
+      "id": "Soheul-myeon"
     },
     "jung-dong": {
-      "ko": "jung-dong",
-      "en": "Jung Dong",
-      "ja": "Jung Dong",
-      "zh": "Jung Dong",
-      "vi": "Jung Dong",
-      "id": "Jung Dong"
+      "ko": "中洞",
+      "en": "Jung-dong",
+      "ja": "中洞",
+      "zh": "中洞",
+      "vi": "Jung-dong",
+      "id": "Jung-dong"
     },
     "gwangmyeong-dong": {
-      "ko": "gwangmyeong-dong",
-      "en": "Gwangmyeong Dong",
-      "ja": "Gwangmyeong Dong",
-      "zh": "Gwangmyeong Dong",
-      "vi": "Gwangmyeong Dong",
-      "id": "Gwangmyeong Dong"
+      "ko": "光明洞",
+      "en": "Gwangmyeong-dong",
+      "ja": "光明洞",
+      "zh": "光明洞",
+      "vi": "Gwangmyeong-dong",
+      "id": "Gwangmyeong-dong"
     },
     "nogok": {
-      "ko": "nogok",
-      "en": "Nogok",
-      "ja": "Nogok",
-      "zh": "Nogok",
-      "vi": "Nogok",
-      "id": "Nogok"
+      "ko": "魯谷面",
+      "en": "Nogok-myeon",
+      "ja": "魯谷面",
+      "zh": "鲁谷面",
+      "vi": "Nogok-myeon",
+      "id": "Nogok-myeon"
     },
     "jiha": {
-      "ko": "jiha",
-      "en": "Jiha",
-      "ja": "Jiha",
-      "zh": "Jiha",
-      "vi": "Jiha",
-      "id": "Jiha"
+      "ko": "地下洞",
+      "en": "Jiha-dong",
+      "ja": "地下洞",
+      "zh": "地下洞",
+      "vi": "Jiha-dong",
+      "id": "Jiha-dong"
     },
     "burim": {
-      "ko": "burim",
-      "en": "Burim",
-      "ja": "Burim",
-      "zh": "Burim",
-      "vi": "Burim",
-      "id": "Burim"
+      "ko": "富林洞",
+      "en": "Burim-dong",
+      "ja": "富林洞",
+      "zh": "富林洞",
+      "vi": "Burim-dong",
+      "id": "Burim-dong"
     },
     "tongjin": {
-      "ko": "tongjin",
-      "en": "Tongjin",
-      "ja": "Tongjin",
-      "zh": "Tongjin",
-      "vi": "Tongjin",
-      "id": "Tongjin"
+      "ko": "通津洞",
+      "en": "Tongjin-dong",
+      "ja": "通津洞",
+      "zh": "通津洞",
+      "vi": "Tongjin-dong",
+      "id": "Tongjin-dong"
     },
     "songsan": {
-      "ko": "songsan",
-      "en": "Songsan",
-      "ja": "Songsan",
-      "zh": "Songsan",
-      "vi": "Songsan",
-      "id": "Songsan"
+      "ko": "松山洞",
+      "en": "Songsan-dong",
+      "ja": "松山洞",
+      "zh": "松山洞",
+      "vi": "Songsan-dong",
+      "id": "Songsan-dong"
     },
     "yeoncheon-eup": {
-      "ko": "yeoncheon-eup",
-      "en": "Yeoncheon Eup",
-      "ja": "Yeoncheon Eup",
-      "zh": "Yeoncheon Eup",
-      "vi": "Yeoncheon Eup",
-      "id": "Yeoncheon Eup"
+      "ko": "漣川郡",
+      "en": "Yeoncheon-eup",
+      "ja": "漣川郡",
+      "zh": "涟川邑",
+      "vi": "Yeoncheon-eup",
+      "id": "Yeoncheon-eup"
     },
     "guri-dong": {
-      "ko": "guri-dong",
-      "en": "Guri Dong",
-      "ja": "Guri Dong",
-      "zh": "Guri Dong",
-      "vi": "Guri Dong",
-      "id": "Guri Dong"
+      "ko": "九里洞",
+      "en": "Guri-dong",
+      "ja": "九里洞",
+      "zh": "九里洞",
+      "vi": "Guri-dong",
+      "id": "Guri-dong"
     },
     "seolseong": {
-      "ko": "seolseong",
-      "en": "Seolseong",
-      "ja": "Seolseong",
-      "zh": "Seolseong",
-      "vi": "Seolseong",
-      "id": "Seolseong"
+      "ko": "設城洞",
+      "en": "Seolseong-dong",
+      "ja": "設城洞",
+      "zh": "设城洞",
+      "vi": "Seolseong-dong",
+      "id": "Seolseong-dong"
     },
     "musil": {
-      "ko": "musil",
-      "en": "Musil",
-      "ja": "Musil",
-      "zh": "Musil",
-      "vi": "Musil",
-      "id": "Musil"
+      "ko": "武石洞",
+      "en": "Musil-dong",
+      "ja": "武石洞",
+      "zh": "武石洞",
+      "vi": "Musil-dong",
+      "id": "Musil-dong"
     },
     "hongcheon-eup": {
-      "ko": "hongcheon-eup",
-      "en": "Hongcheon Eup",
-      "ja": "Hongcheon Eup",
-      "zh": "Hongcheon Eup",
-      "vi": "Hongcheon Eup",
-      "id": "Hongcheon Eup"
+      "ko": "洪川郡",
+      "en": "Hongcheon-eup",
+      "ja": "洪川郡",
+      "zh": "洪川邑",
+      "vi": "Hongcheon-eup",
+      "id": "Hongcheon-eup"
     },
     "cheoram": {
-      "ko": "cheoram",
-      "en": "Cheoram",
-      "ja": "Cheoram",
-      "zh": "Cheoram",
-      "vi": "Cheoram",
-      "id": "Cheoram"
+      "ko": "鉄岩洞",
+      "en": "Cheoram-dong",
+      "ja": "鉄岩洞",
+      "zh": "铁岩洞",
+      "vi": "Cheoram-dong",
+      "id": "Cheoram-dong"
     },
     "yeongwol-eup": {
-      "ko": "yeongwol-eup",
-      "en": "Yeongwol Eup",
-      "ja": "Yeongwol Eup",
-      "zh": "Yeongwol Eup",
-      "vi": "Yeongwol Eup",
-      "id": "Yeongwol Eup"
+      "ko": "寧越郡",
+      "en": "Yeongwol-eup",
+      "ja": "寧越郡",
+      "zh": "宁越邑",
+      "vi": "Yeongwol-eup",
+      "id": "Yeongwol-eup"
     },
     "jeongseon-eup": {
-      "ko": "jeongseon-eup",
-      "en": "Jeongseon Eup",
-      "ja": "Jeongseon Eup",
-      "zh": "Jeongseon Eup",
-      "vi": "Jeongseon Eup",
-      "id": "Jeongseon Eup"
+      "ko": "旌善郡",
+      "en": "Jeongseon-eup",
+      "ja": "旌善郡",
+      "zh": "旌善邑",
+      "vi": "Jeongseon-eup",
+      "id": "Jeongseon-eup"
     },
     "inje-eup": {
-      "ko": "inje-eup",
-      "en": "Inje Eup",
-      "ja": "Inje Eup",
-      "zh": "Inje Eup",
-      "vi": "Inje Eup",
-      "id": "Inje Eup"
+      "ko": "麟蹄郡",
+      "en": "Inje-eup",
+      "ja": "麟蹄郡",
+      "zh": "麟蹄邑",
+      "vi": "Inje-eup",
+      "id": "Inje-eup"
     },
     "goseong-eup": {
-      "ko": "goseong-eup",
-      "en": "Goseong Eup",
-      "ja": "Goseong Eup",
-      "zh": "Goseong Eup",
-      "vi": "Goseong Eup",
-      "id": "Goseong Eup"
+      "ko": "高城郡",
+      "en": "Goseong-eup",
+      "ja": "高城郡",
+      "zh": "高城邑",
+      "vi": "Goseong-eup",
+      "id": "Goseong-eup"
     },
     "dongmyeong": {
-      "ko": "dongmyeong",
-      "en": "Dongmyeong",
-      "ja": "Dongmyeong",
-      "zh": "Dongmyeong",
-      "vi": "Dongmyeong",
-      "id": "Dongmyeong"
+      "ko": "東明洞",
+      "en": "Dongmyeong-dong",
+      "ja": "東明洞",
+      "zh": "东明洞",
+      "vi": "Dongmyeong-dong",
+      "id": "Dongmyeong-dong"
     },
     "mitan": {
-      "ko": "mitan",
-      "en": "Mitan",
-      "ja": "Mitan",
-      "zh": "Mitan",
-      "vi": "Mitan",
-      "id": "Mitan"
+      "ko": "平昌郡",
+      "en": "Mitan-myeon",
+      "ja": "平昌郡",
+      "zh": "美滩面",
+      "vi": "Mitan-myeon",
+      "id": "Mitan-myeon"
     },
     "gyeongpo": {
-      "ko": "gyeongpo",
-      "en": "Gyeongpo",
-      "ja": "Gyeongpo",
-      "zh": "Gyeongpo",
-      "vi": "Gyeongpo",
-      "id": "Gyeongpo"
+      "ko": "鏡浦洞",
+      "en": "Gyeongpo-dong",
+      "ja": "鏡浦洞",
+      "zh": "镜浦洞",
+      "vi": "Gyeongpo-dong",
+      "id": "Gyeongpo-dong"
     },
     "sokcho-dongmyeong": {
-      "ko": "sokcho-dongmyeong",
-      "en": "Sokcho Dongmyeong",
-      "ja": "Sokcho Dongmyeong",
-      "zh": "Sokcho Dongmyeong",
-      "vi": "Sokcho Dongmyeong",
-      "id": "Sokcho Dongmyeong"
+      "ko": "東明洞",
+      "en": "Dongmyeong-dong",
+      "ja": "東明洞",
+      "zh": "东明洞",
+      "vi": "Dongmyeong-dong",
+      "id": "Dongmyeong-dong"
     },
     "yangyang-eup": {
-      "ko": "yangyang-eup",
-      "en": "Yangyang Eup",
-      "ja": "Yangyang Eup",
-      "zh": "Yangyang Eup",
-      "vi": "Yangyang Eup",
-      "id": "Yangyang Eup"
+      "ko": "襄陽郡",
+      "en": "Yangyang-eup",
+      "ja": "襄陽郡",
+      "zh": "襄阳邑",
+      "vi": "Yangyang-eup",
+      "id": "Yangyang-eup"
     },
     "panbu": {
-      "ko": "panbu",
-      "en": "Panbu",
-      "ja": "Panbu",
-      "zh": "Panbu",
-      "vi": "Panbu",
-      "id": "Panbu"
+      "ko": "板阜面",
+      "en": "Panbu-myeon",
+      "ja": "板阜面",
+      "zh": "板阜面",
+      "vi": "Panbu-myeon",
+      "id": "Panbu-myeon"
     },
     "namcheon": {
-      "ko": "namcheon",
-      "en": "Namcheon",
-      "ja": "Namcheon",
-      "zh": "Namcheon",
-      "vi": "Namcheon",
-      "id": "Namcheon"
+      "ko": "洪川郡",
+      "en": "Namcheon-myeon",
+      "ja": "洪川郡",
+      "zh": "南川面",
+      "vi": "Namcheon-myeon",
+      "id": "Namcheon-myeon"
     },
     "buk-myeon": {
-      "ko": "buk-myeon",
-      "en": "Buk Myeon",
-      "ja": "Buk Myeon",
-      "zh": "Buk Myeon",
-      "vi": "Buk Myeon",
-      "id": "Buk Myeon"
+      "ko": "麟蹄郡",
+      "en": "Buk-myeon",
+      "ja": "麟蹄郡",
+      "zh": "北面",
+      "vi": "Buk-myeon",
+      "id": "Buk-myeon"
     },
     "geonbuk": {
-      "ko": "geonbuk",
-      "en": "Geonbuk",
-      "ja": "Geonbuk",
-      "zh": "Geonbuk",
-      "vi": "Geonbuk",
-      "id": "Geonbuk"
+      "ko": "高城郡",
+      "en": "Geonbuk-myeon",
+      "ja": "高城郡",
+      "zh": "县北面",
+      "vi": "Geonbuk-myeon",
+      "id": "Geonbuk-myeon"
     },
     "sangdang": {
-      "ko": "sangdang",
-      "en": "Sangdang",
-      "ja": "Sangdang",
-      "zh": "Sangdang",
-      "vi": "Sangdang",
-      "id": "Sangdang"
+      "ko": "上党区",
+      "en": "Sangdang-gu",
+      "ja": "上党区",
+      "zh": "上党区",
+      "vi": "Sangdang-gu",
+      "id": "Sangdang-gu"
     },
     "yongtan": {
-      "ko": "yongtan",
-      "en": "Yongtan",
-      "ja": "Yongtan",
-      "zh": "Yongtan",
-      "vi": "Yongtan",
-      "id": "Yongtan"
+      "ko": "永同面",
+      "en": "Yongtan-myeon",
+      "ja": "永同面",
+      "zh": "永同面",
+      "vi": "Yongtan-myeon",
+      "id": "Yongtan-myeon"
     },
     "jecheon-si": {
-      "ko": "jecheon-si",
-      "en": "Jecheon Si",
-      "ja": "Jecheon Si",
-      "zh": "Jecheon Si",
-      "vi": "Jecheon Si",
-      "id": "Jecheon Si"
+      "ko": "堤川市",
+      "en": "Jecheon-si",
+      "ja": "堤川市",
+      "zh": "堤川市",
+      "vi": "Jecheon-si",
+      "id": "Jecheon-si"
     },
     "danyang-eup": {
-      "ko": "danyang-eup",
-      "en": "Danyang Eup",
-      "ja": "Danyang Eup",
-      "zh": "Danyang Eup",
-      "vi": "Danyang Eup",
-      "id": "Danyang Eup"
+      "ko": "丹陽郡",
+      "en": "Danyang-eup",
+      "ja": "丹陽郡",
+      "zh": "丹阳邑",
+      "vi": "Danyang-eup",
+      "id": "Danyang-eup"
     },
     "boeun-eup": {
-      "ko": "boeun-eup",
-      "en": "Boeun Eup",
-      "ja": "Boeun Eup",
-      "zh": "Boeun Eup",
-      "vi": "Boeun Eup",
-      "id": "Boeun Eup"
+      "ko": "報恩郡",
+      "en": "Boeun-eup",
+      "ja": "報恩郡",
+      "zh": "报恩邑",
+      "vi": "Boeun-eup",
+      "id": "Boeun-eup"
     },
     "goesan-eup": {
-      "ko": "goesan-eup",
-      "en": "Goesan Eup",
-      "ja": "Goesan Eup",
-      "zh": "Goesan Eup",
-      "vi": "Goesan Eup",
-      "id": "Goesan Eup"
+      "ko": "槐山郡",
+      "en": "Goesan-eup",
+      "ja": "槐山郡",
+      "zh": "槐山邑",
+      "vi": "Goesan-eup",
+      "id": "Goesan-eup"
     },
     "jeungpyeong-eup": {
-      "ko": "jeungpyeong-eup",
-      "en": "Jeungpyeong Eup",
-      "ja": "Jeungpyeong Eup",
-      "zh": "Jeungpyeong Eup",
-      "vi": "Jeungpyeong Eup",
-      "id": "Jeungpyeong Eup"
+      "ko": "曾坪郡",
+      "en": "Jeungpyeong-eup",
+      "ja": "曾坪郡",
+      "zh": "曾坪邑",
+      "vi": "Jeungpyeong-eup",
+      "id": "Jeungpyeong-eup"
     },
     "okcheon-eup": {
-      "ko": "okcheon-eup",
-      "en": "Okcheon Eup",
-      "ja": "Okcheon Eup",
-      "zh": "Okcheon Eup",
-      "vi": "Okcheon Eup",
-      "id": "Okcheon Eup"
+      "ko": "沃川郡",
+      "en": "Okcheon-eup",
+      "ja": "沃川郡",
+      "zh": "沃川邑",
+      "vi": "Okcheon-eup",
+      "id": "Okcheon-eup"
     },
     "osong": {
-      "ko": "osong",
-      "en": "Osong",
-      "ja": "Osong",
-      "zh": "Osong",
-      "vi": "Osong",
-      "id": "Osong"
+      "ko": "五松邑",
+      "en": "Osong-eup",
+      "ja": "五松邑",
+      "zh": "五松邑",
+      "vi": "Osong-eup",
+      "id": "Osong-eup"
     },
     "eumseong-eup": {
-      "ko": "eumseong-eup",
-      "en": "Eumseong Eup",
-      "ja": "Eumseong Eup",
-      "zh": "Eumseong Eup",
-      "vi": "Eumseong Eup",
-      "id": "Eumseong Eup"
+      "ko": "陰城郡",
+      "en": "Eumseong-eup",
+      "ja": "陰城郡",
+      "zh": "阴城邑",
+      "vi": "Eumseong-eup",
+      "id": "Eumseong-eup"
     },
     "ungok": {
-      "ko": "ungok",
-      "en": "Ungok",
-      "ja": "Ungok",
-      "zh": "Ungok",
-      "vi": "Ungok",
-      "id": "Ungok"
+      "ko": "雲谷洞",
+      "en": "Ungok-dong",
+      "ja": "雲谷洞",
+      "zh": "云谷洞",
+      "vi": "Ungok-dong",
+      "id": "Ungok-dong"
     },
     "naeseong": {
-      "ko": "naeseong",
-      "en": "Naeseong",
-      "ja": "Naeseong",
-      "zh": "Naeseong",
-      "vi": "Naeseong",
-      "id": "Naeseong"
+      "ko": "報恩郡",
+      "en": "Naeseong-myeon",
+      "ja": "報恩郡",
+      "zh": "内圣面",
+      "vi": "Naeseong-myeon",
+      "id": "Naeseong-myeon"
     },
     "chilbo": {
-      "ko": "chilbo",
-      "en": "Chilbo",
-      "ja": "Chilbo",
-      "zh": "Chilbo",
-      "vi": "Chilbo",
-      "id": "Chilbo"
+      "ko": "槐山郡",
+      "en": "Chilbo-myeon",
+      "ja": "槐山郡",
+      "zh": "七宝面",
+      "vi": "Chilbo-myeon",
+      "id": "Chilbo-myeon"
     },
     "munui": {
-      "ko": "munui",
-      "en": "Munui",
-      "ja": "Munui",
-      "zh": "Munui",
-      "vi": "Munui",
-      "id": "Munui"
+      "ko": "文義面",
+      "en": "Munui-myeon",
+      "ja": "文義面",
+      "zh": "文义面",
+      "vi": "Munui-myeon",
+      "id": "Munui-myeon"
     },
     "bongbang": {
-      "ko": "bongbang",
-      "en": "Bongbang",
-      "ja": "Bongbang",
-      "zh": "Bongbang",
-      "vi": "Bongbang",
-      "id": "Bongbang"
+      "ko": "鳳凰洞",
+      "en": "Bongbang-dong",
+      "ja": "鳳凰洞",
+      "zh": "凤凰洞",
+      "vi": "Bongbang-dong",
+      "id": "Bongbang-dong"
     },
     "dujeong": {
-      "ko": "dujeong",
-      "en": "Dujeong",
-      "ja": "Dujeong",
-      "zh": "Dujeong",
-      "vi": "Dujeong",
-      "id": "Dujeong"
+      "ko": "西北区",
+      "en": "Dujeong-dong",
+      "ja": "西北区",
+      "zh": "西北区斗井洞",
+      "vi": "Dujeong-dong",
+      "id": "Dujeong-dong"
     },
     "onyang": {
-      "ko": "onyang",
-      "en": "Onyang",
-      "ja": "Onyang",
-      "zh": "Onyang",
-      "vi": "Onyang",
-      "id": "Onyang"
+      "ko": "温泉洞",
+      "en": "Oncheon-dong",
+      "ja": "温泉洞",
+      "zh": "温泉洞",
+      "vi": "Oncheon-dong",
+      "id": "Oncheon-dong"
     },
     "seosan-si": {
-      "ko": "seosan-si",
-      "en": "Seosan Si",
-      "ja": "Seosan Si",
-      "zh": "Seosan Si",
-      "vi": "Seosan Si",
-      "id": "Seosan Si"
+      "ko": "瑞山市",
+      "en": "Seosan-si",
+      "ja": "瑞山市",
+      "zh": "瑞山市",
+      "vi": "Seosan-si",
+      "id": "Seosan-si"
     },
     "ungjin": {
-      "ko": "ungjin",
-      "en": "Ungjin",
-      "ja": "Ungjin",
-      "zh": "Ungjin",
-      "vi": "Ungjin",
-      "id": "Ungjin"
+      "ko": "熊津洞",
+      "en": "Ungjin-dong",
+      "ja": "熊津洞",
+      "zh": "熊津洞",
+      "vi": "Ungjin-dong",
+      "id": "Ungjin-dong"
     },
     "sinjang": {
-      "ko": "sinjang",
-      "en": "Sinjang",
-      "ja": "Sinjang",
-      "zh": "Sinjang",
-      "vi": "Sinjang",
-      "id": "Sinjang"
+      "ko": "新昌洞",
+      "en": "Sinjang-dong",
+      "ja": "新昌洞",
+      "zh": "新昌洞",
+      "vi": "Sinjang-dong",
+      "id": "Sinjang-dong"
     },
     "gungnam": {
-      "ko": "gungnam",
-      "en": "Gungnam",
-      "ja": "Gungnam",
-      "zh": "Gungnam",
-      "vi": "Gungnam",
-      "id": "Gungnam"
+      "ko": "扶余郡",
+      "en": "Gungnam-myeon",
+      "ja": "扶余郡",
+      "zh": "宫南面",
+      "vi": "Gungnam-myeon",
+      "id": "Gungnam-myeon"
     },
     "nonsan-si": {
-      "ko": "nonsan-si",
-      "en": "Nonsan Si",
-      "ja": "Nonsan Si",
-      "zh": "Nonsan Si",
-      "vi": "Nonsan Si",
-      "id": "Nonsan Si"
+      "ko": "論山市",
+      "en": "Nonsan-si",
+      "ja": "論山市",
+      "zh": "论山市",
+      "vi": "Nonsan-si",
+      "id": "Nonsan-si"
     },
     "mallipo": {
-      "ko": "mallipo",
-      "en": "Mallipo",
-      "ja": "Mallipo",
-      "zh": "Mallipo",
-      "vi": "Mallipo",
-      "id": "Mallipo"
+      "ko": "泰安郡",
+      "en": "Mallipo-myeon",
+      "ja": "泰安郡",
+      "zh": "万里浦面",
+      "vi": "Mallipo-myeon",
+      "id": "Mallipo-myeon"
     },
     "seongjeong": {
-      "ko": "seongjeong",
-      "en": "Seongjeong",
-      "ja": "Seongjeong",
-      "zh": "Seongjeong",
-      "vi": "Seongjeong",
-      "id": "Seongjeong"
+      "ko": "西北区",
+      "en": "Seongjeong-dong",
+      "ja": "西北区",
+      "zh": "西北区城政洞",
+      "vi": "Seongjeong-dong",
+      "id": "Seongjeong-dong"
     },
     "geumsan-eup": {
-      "ko": "geumsan-eup",
-      "en": "Geumsan Eup",
-      "ja": "Geumsan Eup",
-      "zh": "Geumsan Eup",
-      "vi": "Geumsan Eup",
-      "id": "Geumsan Eup"
+      "ko": "錦山郡",
+      "en": "Geumsan-eup",
+      "ja": "錦山郡",
+      "zh": "锦山邑",
+      "vi": "Geumsan-eup",
+      "id": "Geumsan-eup"
     },
     "seocheon-eup": {
-      "ko": "seocheon-eup",
-      "en": "Seocheon Eup",
-      "ja": "Seocheon Eup",
-      "zh": "Seocheon Eup",
-      "vi": "Seocheon Eup",
-      "id": "Seocheon Eup"
+      "ko": "舒川郡",
+      "en": "Seocheon-eup",
+      "ja": "舒川郡",
+      "zh": "舒川邑",
+      "vi": "Seocheon-eup",
+      "id": "Seocheon-eup"
     },
     "dongnam": {
-      "ko": "dongnam",
-      "en": "Dongnam",
-      "ja": "Dongnam",
-      "zh": "Dongnam",
-      "vi": "Dongnam",
-      "id": "Dongnam"
+      "ko": "扶余郡",
+      "en": "Dongnam-ri",
+      "ja": "扶余郡",
+      "zh": "东南里",
+      "vi": "Dongnam-ri",
+      "id": "Dongnam-ri"
     },
     "songak": {
-      "ko": "songak",
-      "en": "Songak",
-      "ja": "Songak",
-      "zh": "Songak",
-      "vi": "Songak",
-      "id": "Songak"
+      "ko": "松岘面",
+      "en": "Songak-myeon",
+      "ja": "松岘面",
+      "zh": "松岘面",
+      "vi": "Songak-myeon",
+      "id": "Songak-myeon"
     },
     "palbong": {
-      "ko": "palbong",
-      "en": "Palbong",
-      "ja": "Palbong",
-      "zh": "Palbong",
-      "vi": "Palbong",
-      "id": "Palbong"
+      "ko": "八峰面",
+      "en": "Palbong-myeon",
+      "ja": "八峰面",
+      "zh": "八峰面",
+      "vi": "Palbong-myeon",
+      "id": "Palbong-myeon"
     },
     "haemang": {
-      "ko": "haemang",
-      "en": "Haemang",
-      "ja": "Haemang",
-      "zh": "Haemang",
-      "vi": "Haemang",
-      "id": "Haemang"
+      "ko": "海港洞",
+      "en": "Haemang-dong",
+      "ja": "海港洞",
+      "zh": "海港洞",
+      "vi": "Haemang-dong",
+      "id": "Haemang-dong"
     },
     "wanggung": {
-      "ko": "wanggung",
-      "en": "Wanggung",
-      "ja": "Wanggung",
-      "zh": "Wanggung",
-      "vi": "Wanggung",
-      "id": "Wanggung"
+      "ko": "王宫面",
+      "en": "Wanggung-myeon",
+      "ja": "王宫面",
+      "zh": "王宫面",
+      "vi": "Wanggung-myeon",
+      "id": "Wanggung-myeon"
     },
     "jeongeup-si": {
-      "ko": "jeongeup-si",
-      "en": "Jeongeup Si",
-      "ja": "Jeongeup Si",
-      "zh": "Jeongeup Si",
-      "vi": "Jeongeup Si",
-      "id": "Jeongeup Si"
+      "ko": "井邑市",
+      "en": "Jeongeup-si",
+      "ja": "井邑市",
+      "zh": "井邑市",
+      "vi": "Jeongeup-si",
+      "id": "Jeongeup-si"
     },
     "namwon-si": {
-      "ko": "namwon-si",
-      "en": "Namwon Si",
-      "ja": "Namwon Si",
-      "zh": "Namwon Si",
-      "vi": "Namwon Si",
-      "id": "Namwon Si"
+      "ko": "南原市",
+      "en": "Namwon-si",
+      "ja": "南原市",
+      "zh": "南原市",
+      "vi": "Namwon-si",
+      "id": "Namwon-si"
     },
     "seohak": {
-      "ko": "seohak",
-      "en": "Seohak",
-      "ja": "Seohak",
-      "zh": "Seohak",
-      "vi": "Seohak",
-      "id": "Seohak"
+      "ko": "完山区",
+      "en": "Seohak-dong",
+      "ja": "完山区",
+      "zh": "完山区西学洞",
+      "vi": "Seohak-dong",
+      "id": "Seohak-dong"
     },
     "buan-gun": {
-      "ko": "buan-gun",
-      "en": "Buan Gun",
-      "ja": "Buan Gun",
-      "zh": "Buan Gun",
-      "vi": "Buan Gun",
-      "id": "Buan Gun"
+      "ko": "扶安郡",
+      "en": "Buan-gun",
+      "ja": "扶安郡",
+      "zh": "扶安郡",
+      "vi": "Buan-gun",
+      "id": "Buan-gun"
     },
     "sunchang-eup": {
-      "ko": "sunchang-eup",
-      "en": "Sunchang Eup",
-      "ja": "Sunchang Eup",
-      "zh": "Sunchang Eup",
-      "vi": "Sunchang Eup",
-      "id": "Sunchang Eup"
+      "ko": "淳昌郡",
+      "en": "Sunchang-eup",
+      "ja": "淳昌郡",
+      "zh": "淳昌邑",
+      "vi": "Sunchang-eup",
+      "id": "Sunchang-eup"
     },
     "pungnam": {
-      "ko": "pungnam",
-      "en": "Pungnam",
-      "ja": "Pungnam",
-      "zh": "Pungnam",
-      "vi": "Pungnam",
-      "id": "Pungnam"
+      "ko": "完山区",
+      "en": "Pungnam-dong",
+      "ja": "完山区",
+      "zh": "完山区丰南洞",
+      "vi": "Pungnam-dong",
+      "id": "Pungnam-dong"
     },
     "gimje-si": {
-      "ko": "gimje-si",
-      "en": "Gimje Si",
-      "ja": "Gimje Si",
-      "zh": "Gimje Si",
-      "vi": "Gimje Si",
-      "id": "Gimje Si"
+      "ko": "金堤市",
+      "en": "Gimje-si",
+      "ja": "金堤市",
+      "zh": "金堤市",
+      "vi": "Gimje-si",
+      "id": "Gimje-si"
     },
     "imsil-eup": {
-      "ko": "imsil-eup",
-      "en": "Imsil Eup",
-      "ja": "Imsil Eup",
-      "zh": "Imsil Eup",
-      "vi": "Imsil Eup",
-      "id": "Imsil Eup"
+      "ko": "任実郡",
+      "en": "Imsil-eup",
+      "ja": "任実郡",
+      "zh": "任实邑",
+      "vi": "Imsil-eup",
+      "id": "Imsil-eup"
     },
     "jinan-gun": {
-      "ko": "jinan-gun",
-      "en": "Jinan Gun",
-      "ja": "Jinan Gun",
-      "zh": "Jinan Gun",
-      "vi": "Jinan Gun",
-      "id": "Jinan Gun"
+      "ko": "鎮安郡",
+      "en": "Jinan-gun",
+      "ja": "鎮安郡",
+      "zh": "镇安郡",
+      "vi": "Jinan-gun",
+      "id": "Jinan-gun"
     },
     "muju-gun": {
-      "ko": "muju-gun",
-      "en": "Muju Gun",
-      "ja": "Muju Gun",
-      "zh": "Muju Gun",
-      "vi": "Muju Gun",
-      "id": "Muju Gun"
+      "ko": "茂朱郡",
+      "en": "Muju-gun",
+      "ja": "茂朱郡",
+      "zh": "茂朱郡",
+      "vi": "Muju-gun",
+      "id": "Muju-gun"
     },
     "okgu": {
-      "ko": "okgu",
-      "en": "Okgu",
-      "ja": "Okgu",
-      "zh": "Okgu",
-      "vi": "Okgu",
-      "id": "Okgu"
+      "ko": "玉谷面",
+      "en": "Okgu-myeon",
+      "ja": "玉谷面",
+      "zh": "玉谷面",
+      "vi": "Okgu-myeon",
+      "id": "Okgu-myeon"
     },
     "dolsan": {
-      "ko": "dolsan",
-      "en": "Dolsan",
-      "ja": "Dolsan",
-      "zh": "Dolsan",
-      "vi": "Dolsan",
-      "id": "Dolsan"
+      "ko": "突山洞",
+      "en": "Dolsan-dong",
+      "ja": "突山洞",
+      "zh": "突山洞",
+      "vi": "Dolsan-dong",
+      "id": "Dolsan-dong"
     },
     "yudal": {
-      "ko": "yudal",
-      "en": "Yudal",
-      "ja": "Yudal",
-      "zh": "Yudal",
-      "vi": "Yudal",
-      "id": "Yudal"
+      "ko": "儒达洞",
+      "en": "Yudal-dong",
+      "ja": "儒达洞",
+      "zh": "儒达洞",
+      "vi": "Yudal-dong",
+      "id": "Yudal-dong"
     },
     "suncheon-si": {
-      "ko": "suncheon-si",
-      "en": "Suncheon Si",
-      "ja": "Suncheon Si",
-      "zh": "Suncheon Si",
-      "vi": "Suncheon Si",
-      "id": "Suncheon Si"
+      "ko": "順天市",
+      "en": "Suncheon-si",
+      "ja": "順天市",
+      "zh": "顺天市",
+      "vi": "Suncheon-si",
+      "id": "Suncheon-si"
     },
     "damyang-eup": {
-      "ko": "damyang-eup",
-      "en": "Damyang Eup",
-      "ja": "Damyang Eup",
-      "zh": "Damyang Eup",
-      "vi": "Damyang Eup",
-      "id": "Damyang Eup"
+      "ko": "潭陽郡",
+      "en": "Damyang-eup",
+      "ja": "潭陽郡",
+      "zh": "潭阳邑",
+      "vi": "Damyang-eup",
+      "id": "Damyang-eup"
     },
     "daap": {
-      "ko": "daap",
-      "en": "Daap",
-      "ja": "Daap",
-      "zh": "Daap",
-      "vi": "Daap",
-      "id": "Daap"
+      "ko": "多堡面",
+      "en": "Daap-myeon",
+      "ja": "多堡面",
+      "zh": "多堡面",
+      "vi": "Daap-myeon",
+      "id": "Daap-myeon"
     },
     "naju-si": {
-      "ko": "naju-si",
-      "en": "Naju Si",
-      "ja": "Naju Si",
-      "zh": "Naju Si",
-      "vi": "Naju Si",
-      "id": "Naju Si"
+      "ko": "羅州市",
+      "en": "Naju-si",
+      "ja": "羅州市",
+      "zh": "罗州市",
+      "vi": "Naju-si",
+      "id": "Naju-si"
     },
     "songji": {
-      "ko": "songji",
-      "en": "Songji",
-      "ja": "Songji",
-      "zh": "Songji",
-      "vi": "Songji",
-      "id": "Songji"
+      "ko": "海南郡",
+      "en": "Songji-myeon",
+      "ja": "海南郡",
+      "zh": "松芝面",
+      "vi": "Songji-myeon",
+      "id": "Songji-myeon"
     },
     "uisin": {
-      "ko": "uisin",
-      "en": "Uisin",
-      "ja": "Uisin",
-      "zh": "Uisin",
-      "vi": "Uisin",
-      "id": "Uisin"
+      "ko": "珍島郡",
+      "en": "Uisin-myeon",
+      "ja": "珍島郡",
+      "zh": "义新面",
+      "vi": "Uisin-myeon",
+      "id": "Uisin-myeon"
     },
     "jungang": {
-      "ko": "jungang",
-      "en": "Jungang",
-      "ja": "Jungang",
-      "zh": "Jungang",
-      "vi": "Jungang",
-      "id": "Jungang"
+      "ko": "中央洞",
+      "en": "Jungang-dong",
+      "ja": "中央洞",
+      "zh": "中央洞",
+      "vi": "Jungang-dong",
+      "id": "Jungang-dong"
     },
     "samhak": {
-      "ko": "samhak",
-      "en": "Samhak",
-      "ja": "Samhak",
-      "zh": "Samhak",
-      "vi": "Samhak",
-      "id": "Samhak"
+      "ko": "三湖洞",
+      "en": "Samhak-dong",
+      "ja": "三湖洞",
+      "zh": "三湖洞",
+      "vi": "Samhak-dong",
+      "id": "Samhak-dong"
     },
     "goheung-eup": {
-      "ko": "goheung-eup",
-      "en": "Goheung Eup",
-      "ja": "Goheung Eup",
-      "zh": "Goheung Eup",
-      "vi": "Goheung Eup",
-      "id": "Goheung Eup"
+      "ko": "高興郡",
+      "en": "Goheung-eup",
+      "ja": "高興郡",
+      "zh": "高兴邑",
+      "vi": "Goheung-eup",
+      "id": "Goheung-eup"
     },
     "wando-eup": {
-      "ko": "wando-eup",
-      "en": "Wando Eup",
-      "ja": "Wando Eup",
-      "zh": "Wando Eup",
-      "vi": "Wando Eup",
-      "id": "Wando Eup"
+      "ko": "莞島郡",
+      "en": "Wando-eup",
+      "ja": "莞島郡",
+      "zh": "莞岛邑",
+      "vi": "Wando-eup",
+      "id": "Wando-eup"
     },
     "gwangyang-si": {
-      "ko": "gwangyang-si",
-      "en": "Gwangyang Si",
-      "ja": "Gwangyang Si",
-      "zh": "Gwangyang Si",
-      "vi": "Gwangyang Si",
-      "id": "Gwangyang Si"
+      "ko": "光陽市",
+      "en": "Gwangyang-si",
+      "ja": "光陽市",
+      "zh": "光阳市",
+      "vi": "Gwangyang-si",
+      "id": "Gwangyang-si"
     },
     "gwonseon": {
-      "ko": "gwonseon",
-      "en": "Gwonseon",
-      "ja": "Gwonseon",
-      "zh": "Gwonseon",
-      "vi": "Gwonseon",
-      "id": "Gwonseon"
+      "ko": "権善洞",
+      "en": "Gwonseon-dong",
+      "ja": "権善洞",
+      "zh": "权善洞",
+      "vi": "Gwonseon-dong",
+      "id": "Gwonseon-dong"
     },
     "jinryang": {
-      "ko": "jinryang",
-      "en": "Jinryang",
-      "ja": "Jinryang",
-      "zh": "Jinryang",
-      "vi": "Jinryang",
-      "id": "Jinryang"
+      "ko": "進良邑",
+      "en": "Jinryang-eup",
+      "ja": "進良邑",
+      "zh": "进良邑",
+      "vi": "Jinryang-eup",
+      "id": "Jinryang-eup"
     },
     "punggi": {
-      "ko": "punggi",
-      "en": "Punggi",
-      "ja": "Punggi",
-      "zh": "Punggi",
-      "vi": "Punggi",
-      "id": "Punggi"
+      "ko": "豊基邑",
+      "en": "Punggi-eup",
+      "ja": "豊基邑",
+      "zh": "丰基邑",
+      "vi": "Punggi-eup",
+      "id": "Punggi-eup"
     },
     "mungyeong-si": {
-      "ko": "mungyeong-si",
-      "en": "Mungyeong Si",
-      "ja": "Mungyeong Si",
-      "zh": "Mungyeong Si",
-      "vi": "Mungyeong Si",
-      "id": "Mungyeong Si"
+      "ko": "聞慶市",
+      "en": "Mungyeong-si",
+      "ja": "聞慶市",
+      "zh": "闻庆市",
+      "vi": "Mungyeong-si",
+      "id": "Mungyeong-si"
     },
     "bomun": {
-      "ko": "bomun",
-      "en": "Bomun",
-      "ja": "Bomun",
-      "zh": "Bomun",
-      "vi": "Bomun",
-      "id": "Bomun"
+      "ko": "普門洞",
+      "en": "Bomun-dong",
+      "ja": "普門洞",
+      "zh": "普门洞",
+      "vi": "Bomun-dong",
+      "id": "Bomun-dong"
     },
     "daejam": {
-      "ko": "daejam",
-      "en": "Daejam",
-      "ja": "Daejam",
-      "zh": "Daejam",
-      "vi": "Daejam",
-      "id": "Daejam"
+      "ko": "大蚕洞",
+      "en": "Daejam-dong",
+      "ja": "大蚕洞",
+      "zh": "大蚕洞",
+      "vi": "Daejam-dong",
+      "id": "Daejam-dong"
     },
     "uljin-eup": {
-      "ko": "uljin-eup",
-      "en": "Uljin Eup",
-      "ja": "Uljin Eup",
-      "zh": "Uljin Eup",
-      "vi": "Uljin Eup",
-      "id": "Uljin Eup"
+      "ko": "蔚珍郡",
+      "en": "Uljin-eup",
+      "ja": "蔚珍郡",
+      "zh": "蔚珍邑",
+      "vi": "Uljin-eup",
+      "id": "Uljin-eup"
     },
     "hwango": {
-      "ko": "hwango",
-      "en": "Hwango",
-      "ja": "Hwango",
-      "zh": "Hwango",
-      "vi": "Hwango",
-      "id": "Hwango"
+      "ko": "桓宮洞",
+      "en": "Hwango-dong",
+      "ja": "桓宮洞",
+      "zh": "桓宫洞",
+      "vi": "Hwango-dong",
+      "id": "Hwango-dong"
     },
     "daebo": {
-      "ko": "daebo",
-      "en": "Daebo",
-      "ja": "Daebo",
-      "zh": "Daebo",
-      "vi": "Daebo",
-      "id": "Daebo"
+      "ko": "大甫面",
+      "en": "Daebo-myeon",
+      "ja": "大甫面",
+      "zh": "大甫面",
+      "vi": "Daebo-myeon",
+      "id": "Daebo-myeon"
     },
     "cheongsong-eup": {
-      "ko": "cheongsong-eup",
-      "en": "Cheongsong Eup",
-      "ja": "Cheongsong Eup",
-      "zh": "Cheongsong Eup",
-      "vi": "Cheongsong Eup",
-      "id": "Cheongsong Eup"
+      "ko": "青松郡",
+      "en": "Cheongsong-eup",
+      "ja": "青松郡",
+      "zh": "青松邑",
+      "vi": "Cheongsong-eup",
+      "id": "Cheongsong-eup"
     },
     "sangju-si": {
-      "ko": "sangju-si",
-      "en": "Sangju Si",
-      "ja": "Sangju Si",
-      "zh": "Sangju Si",
-      "vi": "Sangju Si",
-      "id": "Sangju Si"
+      "ko": "尙州市",
+      "en": "Sangju-si",
+      "ja": "尙州市",
+      "zh": "尚州市",
+      "vi": "Sangju-si",
+      "id": "Sangju-si"
     },
     "daegaya": {
-      "ko": "daegaya",
-      "en": "Daegaya",
-      "ja": "Daegaya",
-      "zh": "Daegaya",
-      "vi": "Daegaya",
-      "id": "Daegaya"
+      "ko": "高靈郡",
+      "en": "Daegaya-eup",
+      "ja": "高靈郡",
+      "zh": "大加耶邑",
+      "vi": "Daegaya-eup",
+      "id": "Daegaya-eup"
     },
     "ungdong": {
-      "ko": "ungdong",
+      "ko": "雲洞",
       "en": "Ungdong",
-      "ja": "Ungdong",
-      "zh": "Ungdong",
+      "ja": "雲洞",
+      "zh": "云洞",
       "vi": "Ungdong",
       "id": "Ungdong"
     },
     "geumseong": {
-      "ko": "geumseong",
-      "en": "Geumseong",
-      "ja": "Geumseong",
-      "zh": "Geumseong",
-      "vi": "Geumseong",
-      "id": "Geumseong"
+      "ko": "錦城面",
+      "en": "Geumseong-myeon",
+      "ja": "錦城面",
+      "zh": "锦城面",
+      "vi": "Geumseong-myeon",
+      "id": "Geumseong-myeon"
     },
     "bongpyeong": {
-      "ko": "bongpyeong",
-      "en": "Bongpyeong",
-      "ja": "Bongpyeong",
-      "zh": "Bongpyeong",
-      "vi": "Bongpyeong",
-      "id": "Bongpyeong"
+      "ko": "鳳坪洞",
+      "en": "Bongpyeong-dong",
+      "ja": "鳳坪洞",
+      "zh": "凤坪洞",
+      "vi": "Bongpyeong-dong",
+      "id": "Bongpyeong-dong"
     },
     "gohyeon": {
-      "ko": "gohyeon",
-      "en": "Gohyeon",
-      "ja": "Gohyeon",
-      "zh": "Gohyeon",
-      "vi": "Gohyeon",
-      "id": "Gohyeon"
+      "ko": "古縣洞",
+      "en": "Gohyeon-dong",
+      "ja": "古縣洞",
+      "zh": "古县洞",
+      "vi": "Gohyeon-dong",
+      "id": "Gohyeon-dong"
     },
     "sacheon-si": {
-      "ko": "sacheon-si",
-      "en": "Sacheon Si",
-      "ja": "Sacheon Si",
-      "zh": "Sacheon Si",
-      "vi": "Sacheon Si",
-      "id": "Sacheon Si"
+      "ko": "泗川市",
+      "en": "Sacheon-si",
+      "ja": "泗川市",
+      "zh": "泗川市",
+      "vi": "Sacheon-si",
+      "id": "Sacheon-si"
     },
     "gimhae-si": {
-      "ko": "gimhae-si",
-      "en": "Gimhae Si",
-      "ja": "Gimhae Si",
-      "zh": "Gimhae Si",
-      "vi": "Gimhae Si",
-      "id": "Gimhae Si"
+      "ko": "金海市",
+      "en": "Gimhae-si",
+      "ja": "金海市",
+      "zh": "金海市",
+      "vi": "Gimhae-si",
+      "id": "Gimhae-si"
     },
     "yangsan-si": {
-      "ko": "yangsan-si",
-      "en": "Yangsan Si",
-      "ja": "Yangsan Si",
-      "zh": "Yangsan Si",
-      "vi": "Yangsan Si",
-      "id": "Yangsan Si"
+      "ko": "梁山市",
+      "en": "Yangsan-si",
+      "ja": "梁山市",
+      "zh": "梁山市",
+      "vi": "Yangsan-si",
+      "id": "Yangsan-si"
     },
     "miryang-si": {
-      "ko": "miryang-si",
-      "en": "Miryang Si",
-      "ja": "Miryang Si",
-      "zh": "Miryang Si",
-      "vi": "Miryang Si",
-      "id": "Miryang Si"
+      "ko": "密陽市",
+      "en": "Miryang-si",
+      "ja": "密陽市",
+      "zh": "密阳市",
+      "vi": "Miryang-si",
+      "id": "Miryang-si"
     },
     "palyong": {
-      "ko": "palyong",
-      "en": "Palyong",
-      "ja": "Palyong",
-      "zh": "Palyong",
-      "vi": "Palyong",
-      "id": "Palyong"
+      "ko": "八龍洞",
+      "en": "Palyong-dong",
+      "ja": "八龍洞",
+      "zh": "八龙洞",
+      "vi": "Palyong-dong",
+      "id": "Palyong-dong"
     },
     "jinju-si": {
-      "ko": "jinju-si",
-      "en": "Jinju Si",
-      "ja": "Jinju Si",
-      "zh": "Jinju Si",
-      "vi": "Jinju Si",
-      "id": "Jinju Si"
+      "ko": "晋州市",
+      "en": "Jinju-si",
+      "ja": "晋州市",
+      "zh": "晋州市",
+      "vi": "Jinju-si",
+      "id": "Jinju-si"
     },
     "hadong-eup": {
-      "ko": "hadong-eup",
-      "en": "Hadong Eup",
-      "ja": "Hadong Eup",
-      "zh": "Hadong Eup",
-      "vi": "Hadong Eup",
-      "id": "Hadong Eup"
+      "ko": "河東郡",
+      "en": "Hadong-eup",
+      "ja": "河東郡",
+      "zh": "河东邑",
+      "vi": "Hadong-eup",
+      "id": "Hadong-eup"
     },
     "haegeum": {
-      "ko": "haegeum",
-      "en": "Haegeum",
-      "ja": "Haegeum",
-      "zh": "Haegeum",
-      "vi": "Haegeum",
-      "id": "Haegeum"
+      "ko": "海琴面",
+      "en": "Haegeum-myeon",
+      "ja": "海琴面",
+      "zh": "海琴面",
+      "vi": "Haegeum-myeon",
+      "id": "Haegeum-myeon"
     },
     "haman-eup": {
-      "ko": "haman-eup",
-      "en": "Haman Eup",
-      "ja": "Haman Eup",
-      "zh": "Haman Eup",
-      "vi": "Haman Eup",
-      "id": "Haman Eup"
+      "ko": "咸安郡",
+      "en": "Haman-eup",
+      "ja": "咸安郡",
+      "zh": "咸安邑",
+      "vi": "Haman-eup",
+      "id": "Haman-eup"
     }
   }
 }

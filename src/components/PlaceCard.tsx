@@ -53,7 +53,7 @@ export function PlaceCard({ place }: PlaceCardProps) {
             <span aria-hidden className="text-4xl opacity-60">
               {place.localGem ? "📍" : "🏯"}
             </span>
-            <span className="text-xs tracking-widest uppercase">Photo</span>
+            <span className="text-xs tracking-widest uppercase">{t.photoPlaceholder}</span>
           </div>
         )}
         <div className="absolute left-3 top-3 rounded-full bg-white/90 px-2.5 py-1 text-xs font-semibold text-[var(--color-accent)] shadow-sm">

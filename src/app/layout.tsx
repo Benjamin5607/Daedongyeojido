@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Noto_Sans, Noto_Serif } from "next/font/google";
+import { DocumentLangSync } from "@/components/DocumentLangSync";
 import { LanguageProvider } from "@/context/LanguageContext";
 import "./globals.css";
 
@@ -29,7 +30,10 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${notoSans.variable} ${notoSerif.variable} h-full`}>
       <body className="min-h-full antialiased">
-        <LanguageProvider>{children}</LanguageProvider>
+        <LanguageProvider>
+          <DocumentLangSync />
+          {children}
+        </LanguageProvider>
       </body>
     </html>
   );

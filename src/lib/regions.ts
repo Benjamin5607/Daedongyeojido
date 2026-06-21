@@ -23,7 +23,9 @@ export function getRegionLabel(
   locale: Locale | "ko"
 ): string {
   if (!code) return "";
-  return labels[kind][code]?.[locale] ?? labels[kind][code]?.ko ?? code;
+  const entry = labels[kind][code];
+  if (!entry) return code;
+  return entry[locale] ?? entry.en ?? entry.ko ?? code;
 }
 
 export function formatPlaceRegion(region: PlaceRegion, locale: Locale): string {
@@ -107,25 +109,19 @@ function placeSearchText(place: Place, locale: Locale): string {
   const description = place.description[locale] ?? place.description.en ?? "";
   const regionText = place.region ? formatPlaceRegion(place.region, locale) : "";
 
+  const allLocales: (Locale | "ko")[] = [locale, "en", "ja", "zh", "vi", "id", "ko"];
   const regionTokens = place.region
     ? [
         place.region.province,
         place.region.city,
         place.region.district,
-        getRegionLabel("provinces", place.region.province, locale),
-        getRegionLabel("provinces", place.region.province, "ko"),
-        place.region.city
-          ? getRegionLabel("cities", place.region.city, locale)
-          : "",
-        place.region.city
-          ? getRegionLabel("cities", place.region.city, "ko")
-          : "",
-        place.region.district
-          ? getRegionLabel("districts", place.region.district, locale)
-          : "",
-        place.region.district
-          ? getRegionLabel("districts", place.region.district, "ko")
-          : "",
+        ...allLocales.flatMap((loc) => [
+          getRegionLabel("provinces", place.region.province, loc),
+          place.region.city ? getRegionLabel("cities", place.region.city, loc) : "",
+          place.region.district
+            ? getRegionLabel("districts", place.region.district, loc)
+            : "",
+        ]),
       ]
     : [];
 

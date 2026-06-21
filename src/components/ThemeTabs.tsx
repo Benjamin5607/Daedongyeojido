@@ -33,7 +33,7 @@ export function ThemeTabs({ activeTheme, onThemeChange }: ThemeTabsProps) {
 
       <div className="mb-6">
         <h2 className="font-serif text-2xl font-semibold text-[var(--color-ink)] sm:text-3xl">
-          Explore Korea
+          {t.exploreHeading}
         </h2>
         <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--color-muted)] sm:text-base">
           {t.themeDescriptions[activeTheme]}
@@ -42,7 +42,7 @@ export function ThemeTabs({ activeTheme, onThemeChange }: ThemeTabsProps) {
 
       <div
         role="tablist"
-        aria-label="Travel themes"
+        aria-label={t.themeTablistAria}
         className="flex flex-wrap gap-2"
       >
         {THEMES.map((theme) => {

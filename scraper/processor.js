@@ -11,6 +11,11 @@ Analyze the crawled Korean place data and return ONLY a valid JSON array.
 Each item must follow this exact shape:
 {
   "theme": "k-food|hallyu|k-beauty|k-culture|urban-nature",
+  "region": {
+    "province": "seoul|busan|jeju|gyeonggi|gangwon|gyeongbuk|jeonbuk|...",
+    "city": "optional city code e.g. suwon, jeonju, andong",
+    "district": "optional district code e.g. yongsan, jongno, haeundae"
+  },
   "name": "Korean place name",
   "address": "Korean address",
   "rating": 4.5,
@@ -23,6 +28,7 @@ Each item must follow this exact shape:
   }
 }
 Rules:
+- Infer region codes from the Korean address (province/city/district).
 - Translate descriptions into English, Japanese, Chinese, Vietnamese, and Indonesian.
 - Keep name and address concise in Korean unless a localized form is clearly better.
 - Do not use markdown fences or commentary.

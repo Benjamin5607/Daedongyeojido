@@ -1,6 +1,40 @@
 [
   {
     "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "district": "jongno"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gwangjang Market",
+      "ja": "広蔵市場",
+      "zh": "广藏市场",
+      "vi": "Chợ Gwangjang",
+      "id": "Pasar Gwangjang"
+    },
+    "address": {
+      "en": "88 Changgyeonggung-ro, Jongno-gu, Seoul",
+      "ja": "ソウル特別市 鍾路区 昌慶宮路 88",
+      "zh": "首尔钟路区昌庆宫路88",
+      "vi": "88 Changgyeonggung-ro, Jongno-gu, Seoul",
+      "id": "88 Changgyeonggung-ro, Jongno-gu, Seoul"
+    },
+    "description": {
+      "en": "Seoul oldest permanent market famous for bindaetteok and mayak gimbap.",
+      "ja": "ビンデトクとマヤクキンパで有名なソウル最古の常設市場。",
+      "zh": "首尔最古老的常设市场，以绿豆煎饼和迷你紫菜卷闻名。",
+      "vi": "Chợ thường trực lâu đời nhất Seoul nổi tiếng với bánh đậu xanh và kimbap mini.",
+      "id": "Pasar permanen tertua Seoul terkenal dengan bindaetteok dan mayak gimbap."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "district": "yongsan"
+    },
+    "rating": 4.6,
     "name": {
       "en": "Maple Tree House Itaewon",
       "ja": "メイプルツリーハウス 梨泰院",
@@ -15,17 +49,79 @@
       "vi": "49 Itaewon-ro 27-gil, Yongsan-gu, Seoul",
       "id": "49 Itaewon-ro 27-gil, Yongsan-gu, Seoul"
     },
-    "rating": 4.6,
     "description": {
-      "en": "A beloved BBQ spot where premium hanwoo meets a lively Itaewon atmosphere. Tender cuts, fast service, and a queue that proves locals keep coming back.",
-      "ja": "上質な韓牛と活気ある梨泰院の雰囲気が出会う人気焼肉店。柔らかい肉質と手早いサービスで、地元客も絶えず並ぶ名店。",
-      "zh": "优质韩牛与梨泰院热闹氛围相遇的人气烤肉店，肉质软嫩、服务迅速，本地食客络绎不绝。",
-      "vi": "Quán nướng nổi tiếng với thịt hanwoo cao cấp và không khí sôi động ở Itaewon. Thịt mềm, phục vụ nhanh, luôn có hàng chờ của dân địa phương.",
-      "id": "Spot BBQ populer dengan hanwoo premium dan suasana Itaewon yang hidup. Daging lembut, layanan cepat, dan antrean panjang dari pengunjung lokal."
+      "en": "Premium hanwoo BBQ spot with lively Itaewon atmosphere.",
+      "ja": "上質な韓牛と活気ある梨泰院の雰囲気が出会う人気焼肉店。",
+      "zh": "优质韩牛与梨泰院热闹氛围相遇的人气烤肉店。",
+      "vi": "Quán nướng hanwoo cao cấp với không khí sôi động ở Itaewon.",
+      "id": "Spot BBQ hanwoo premium dengan suasana Itaewon yang hidup."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "district": "mapo"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Tongin Market",
+      "ja": "通仁市場",
+      "zh": "通仁市场",
+      "vi": "Chợ Tongin",
+      "id": "Pasar Tongin"
+    },
+    "address": {
+      "en": "18 Tongin-dong, Jongno-gu, Seoul",
+      "ja": "ソウル特別市 鍾路区 通仁洞 18",
+      "zh": "首尔钟路区通仁洞18",
+      "vi": "18 Tongin-dong, Jongno-gu, Seoul",
+      "id": "18 Tongin-dong, Jongno-gu, Seoul"
+    },
+    "description": {
+      "en": "Heritage market where you swap coins for lunch boxes of home-style Korean dishes.",
+      "ja": "コインで弁当を選ぶレトロな市場。家庭料理が並ぶ。",
+      "zh": "用硬币换便当的复古市场，汇集各式家常韩餐。",
+      "vi": "Chợ cổ điển đổi xu lấy hộp cơm món ăn gia đình Hàn Quốc.",
+      "id": "Pasar heritage tempat menukar koin untuk kotak makanan khas rumahan Korea."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "district": "jung-seoul"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Myeongdong Kyoja",
+      "ja": "明洞餃子",
+      "zh": "明洞饺子",
+      "vi": "Myeongdong Kyoja",
+      "id": "Myeongdong Kyoja"
+    },
+    "address": {
+      "en": "29 Myeongdong 10-gil, Jung-gu, Seoul",
+      "ja": "ソウル特別市 中区 明洞10ギル 29",
+      "zh": "首尔中区明洞10街29",
+      "vi": "29 Myeongdong 10-gil, Jung-gu, Seoul",
+      "id": "29 Myeongdong 10-gil, Jung-gu, Seoul"
+    },
+    "description": {
+      "en": "Iconic kalguksu and mandu restaurant drawing long queues in Myeongdong.",
+      "ja": "明洞で行列ができるカルグクスとmanduの名店。",
+      "zh": "明洞排队名店，以刀切面与 dumpling 闻名。",
+      "vi": "Nhà hàng kalguksu và mandu nổi tiếng luôn xếp hàng dài ở Myeongdong.",
+      "id": "Restoran kalguksu dan mandu ikonik dengan antrean panjang di Myeongdong."
     }
   },
   {
     "theme": "hallyu",
+    "region": {
+      "province": "seoul",
+      "district": "yongsan"
+    },
+    "rating": 4.4,
     "name": {
       "en": "HYBE Insight",
       "ja": "HYBE INSIGHT",
@@ -40,17 +136,340 @@
       "vi": "42 Hangang-daero, Yongsan-gu, Seoul",
       "id": "42 Hangang-daero, Yongsan-gu, Seoul"
     },
-    "rating": 4.4,
     "description": {
-      "en": "An immersive exhibition space celebrating HYBE artists and the global K-pop ecosystem. Interactive zones, archival moments, and fan-favorite photo spots.",
-      "ja": "HYBEアーティストと世界のK-POPエコシステムを体感できる展示空間。インタラクティブゾーンとファン必見のフォトスポットが充実。",
-      "zh": "沉浸式展览空间，呈现 HYBE 艺人与全球 K-pop 生态，互动区与粉丝打卡点丰富。",
-      "vi": "Không gian triển lãm tương tác về nghệ sĩ HYBE và hệ sinh thái K-pop toàn cầu, với nhiều góc chụp ảnh cho fan.",
-      "id": "Ruang pameran imersif tentang artis HYBE dan ekosistem K-pop global, dengan zona interaktif dan spot foto favorit penggemar."
+      "en": "Immersive exhibition celebrating HYBE artists and the global K-pop ecosystem.",
+      "ja": "HYBEアーティストとK-POPエコシステムを体感できる展示空間。",
+      "zh": "沉浸式展览呈现 HYBE 艺人与全球 K-pop 生态。",
+      "vi": "Triển lãm tương tác về nghệ sĩ HYBE và hệ sinh thái K-pop toàn cầu.",
+      "id": "Pameran imersif tentang artis HYBE dan ekosistem K-pop global."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul",
+      "district": "gangnam"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "SMTOWN COEX Artium",
+      "ja": "SMTOWN COEX Artium",
+      "zh": "SMTOWN COEX Artium",
+      "vi": "SMTOWN COEX Artium",
+      "id": "SMTOWN COEX Artium"
+    },
+    "address": {
+      "en": "513 Yeongdong-daero, Gangnam-gu, Seoul",
+      "ja": "ソウル特別市 江南区 永東大路 513",
+      "zh": "首尔江南区永东大路513",
+      "vi": "513 Yeongdong-daero, Gangnam-gu, Seoul",
+      "id": "513 Yeongdong-daero, Gangnam-gu, Seoul"
+    },
+    "description": {
+      "en": "SM Entertainment flagship with hologram shows and rotating K-pop exhibitions.",
+      "ja": "ホログラムショーと企画展が楽しめるSMのフラッグシップ施設。",
+      "zh": "SM 娱乐旗舰综合体，全息演出与轮换 K-pop 展览。",
+      "vi": "Complex flagship SM với show hologram và triển lãm K-pop luân phiên.",
+      "id": "Flagship SM dengan pertunjukan hologram dan pameran K-pop bergilir."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul",
+      "district": "gangnam"
+    },
+    "rating": 4.2,
+    "name": {
+      "en": "K-Star Road",
+      "ja": "K-STAR ROAD",
+      "zh": "K-STAR ROAD",
+      "vi": "K-Star Road",
+      "id": "K-Star Road"
+    },
+    "address": {
+      "en": "407 Apgujeong-ro, Gangnam-gu, Seoul",
+      "ja": "ソウル特別市 江南区 狎鴎亭路 407",
+      "zh": "首尔江南区狎鸥亭路407",
+      "vi": "407 Apgujeong-ro, Gangnam-gu, Seoul",
+      "id": "407 Apgujeong-ro, Gangnam-gu, Seoul"
+    },
+    "description": {
+      "en": "Gangnam street lined with artist bear statues and entertainment agency landmarks.",
+      "ja": "アーティストベア像が並ぶ江南のK-POP聖地。",
+      "zh": "江南 K-pop 圣地，艺人熊雕像与娱乐公司地标林立。",
+      "vi": "Phố Gangnam với tượng gấu nghệ sĩ và landmark các công ty giải trí.",
+      "id": "Jalan Gangnam dengan patung beruang artis dan landmark agensi hiburan."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul",
+      "district": "mapo"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Hongdae Playground",
+      "ja": "弘大プレイグラウンド",
+      "zh": "弘大 Playground",
+      "vi": "Hongdae Playground",
+      "id": "Hongdae Playground"
+    },
+    "address": {
+      "en": "Hongik University area, Mapo-gu, Seoul",
+      "ja": "ソウル特別市 麻浦区 弘大エリア",
+      "zh": "首尔麻浦区弘大一带",
+      "vi": "Khu Hongdae, Mapo-gu, Seoul",
+      "id": "Area Hongdae, Mapo-gu, Seoul"
+    },
+    "description": {
+      "en": "Indie music hub and busking capital where K-pop idols often debut nearby.",
+      "ja": "インディーズ音楽とストリートパフォーマンスの聖地。",
+      "zh": "独立音乐与街头表演圣地，许多偶像在此附近出道。",
+      "vi": "Trung tâm nhạc indie và biểu diễn đường phố, nơi nhiều idol debut.",
+      "id": "Pusat musik indie dan busking tempat banyak idol debut di sekitarnya."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "district": "jung-seoul"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Sulwhasoo Flagship Store",
+      "ja": "雪花秀フラッグシップストア",
+      "zh": "雪花秀旗舰店",
+      "vi": "Cửa hàng flagship Sulwhasoo",
+      "id": "Toko Flagship Sulwhasoo"
+    },
+    "address": {
+      "en": "18 Dosan-daero 45-gil, Jung-gu, Seoul",
+      "ja": "ソウル特別市 中区 島山大路45ギル 18",
+      "zh": "首尔中区岛山大路45街18",
+      "vi": "18 Dosan-daero 45-gil, Jung-gu, Seoul",
+      "id": "18 Dosan-daero 45-gil, Jung-gu, Seoul"
+    },
+    "description": {
+      "en": "Hanok-inspired beauty sanctuary offering ginseng skincare rituals.",
+      "ja": "韓屋モチーフのビューティーサンクチュアリ。人参スキンケア儀式が体験できる。",
+      "zh": "韩屋风格美容空间，提供人参护肤仪式。",
+      "vi": "Không gian làm đẹp phong cách hanok với nghi thức chăm sóc da nhân sâm.",
+      "id": "Sanctuary kecantikan bergaya hanok dengan ritual perawatan ginseng."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "district": "jung-seoul"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Olive Young Myeongdong Town",
+      "ja": "オリーブヤング 明洞タウン",
+      "zh": "Olive Young 明洞 Town",
+      "vi": "Olive Young Myeongdong Town",
+      "id": "Olive Young Myeongdong Town"
+    },
+    "address": {
+      "en": "52 Myeongdong-gil, Jung-gu, Seoul",
+      "ja": "ソウル特別市 中区 明洞ギル 52",
+      "zh": "首尔中区明洞街52",
+      "vi": "52 Myeongdong-gil, Jung-gu, Seoul",
+      "id": "52 Myeongdong-gil, Jung-gu, Seoul"
+    },
+    "description": {
+      "en": "Korea largest beauty retail flagship with trending skincare and makeup.",
+      "ja": "最新スキンケア・メイクが揃う韓国最大級のビューティー旗艦店。",
+      "zh": "韩国最大美妆零售旗舰店，汇集热门护肤与彩妆。",
+      "vi": "Cửa hàng mỹ phẩm lớn nhất Hàn Quốc với skincare và makeup thịnh hành.",
+      "id": "Flagship retail kecantikan terbesar Korea dengan skincare dan makeup tren."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "district": "gangnam"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "AHC Spa Gangnam",
+      "ja": "AHCスパ 江南",
+      "zh": "AHC Spa 江南",
+      "vi": "AHC Spa Gangnam",
+      "id": "AHC Spa Gangnam"
+    },
+    "address": {
+      "en": "Teheran-ro, Gangnam-gu, Seoul",
+      "ja": "ソウル特別市 江南区 テヘラン路",
+      "zh": "首尔江南区德黑兰路",
+      "vi": "Teheran-ro, Gangnam-gu, Seoul",
+      "id": "Teheran-ro, Gangnam-gu, Seoul"
+    },
+    "description": {
+      "en": "Clinical spa brand experience with peptide facials and skin diagnostics.",
+      "ja": "ペプチドフェイシャルと肌診断が受けられるクリニカルスパ。",
+      "zh": "临床 spa 品牌体验，提供肽类护理与皮肤检测。",
+      "vi": "Spa thương hiệu lâm sàng với facial peptide và chẩn đoán da.",
+      "id": "Spa klinis dengan facial peptide dan diagnostik kulit."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "district": "mapo"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Innisfree Flagship Hongdae",
+      "ja": "イニスフリー 弘大旗艦店",
+      "zh": "Innisfree 弘大旗舰店",
+      "vi": "Innisfree Flagship Hongdae",
+      "id": "Innisfree Flagship Hongdae"
+    },
+    "address": {
+      "en": "Hongdae shopping street, Mapo-gu, Seoul",
+      "ja": "ソウル特別市 麻浦区 弘大商店街",
+      "zh": "首尔麻浦区弘大商业街",
+      "vi": "Phố mua sắm Hongdae, Mapo-gu, Seoul",
+      "id": "Jalan belanja Hongdae, Mapo-gu, Seoul"
+    },
+    "description": {
+      "en": "Jeju-inspired natural cosmetics flagship with DIY mask bar.",
+      "ja": "済州モチーフの自然派コスメ旗艦店。DIYマスクバーあり。",
+      "zh": "济州灵感天然化妆品旗舰店，设有 DIY 面膜吧。",
+      "vi": "Flagship mỹ phẩm thiên nhiên lấy cảm hứng Jeju với quầy mặt nạ DIY.",
+      "id": "Flagship kosmetik alami inspirasi Jeju dengan bar masker DIY."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "district": "jongno"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Gyeongbokgung Palace",
+      "ja": "景福宮",
+      "zh": "景福宫",
+      "vi": "Cung Gyeongbokgung",
+      "id": "Istana Gyeongbokgung"
+    },
+    "address": {
+      "en": "161 Sajik-ro, Jongno-gu, Seoul",
+      "ja": "ソウル特別市 鍾路区 社稷路 161",
+      "zh": "首尔钟路区社稷路161",
+      "vi": "161 Sajik-ro, Jongno-gu, Seoul",
+      "id": "161 Sajik-ro, Jongno-gu, Seoul"
+    },
+    "description": {
+      "en": "Grand Joseon palace with changing-of-guard ceremonies and hanbok walks.",
+      "ja": "守門将交代式と韓服散策が人気の朝鮮王朝の正宮。",
+      "zh": "朝鲜王朝正宫，守门将换岗仪式与韩服漫步是经典体验。",
+      "vi": "Cung điện Joseon với lễ đổi gác và đi dạo chụp ảnh hanbok.",
+      "id": "Istana Joseon dengan upacara ganti penjaga dan jalan-jalan hanbok."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "district": "jongno"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Bukchon Hanok Village",
+      "ja": "北村韓屋村",
+      "zh": "北村韩屋村",
+      "vi": "Làng Hanok Bukchon",
+      "id": "Desa Hanok Bukchon"
+    },
+    "address": {
+      "en": "Gyedong-gil, Jongno-gu, Seoul",
+      "ja": "ソウル特別市 鍾路区 桂洞ギル",
+      "zh": "首尔钟路区桂洞街",
+      "vi": "Gyedong-gil, Jongno-gu, Seoul",
+      "id": "Gyedong-gil, Jongno-gu, Seoul"
+    },
+    "description": {
+      "en": "Hillside maze of 600-year-old hanok homes, tea houses, and craft workshops.",
+      "ja": "600年の韓屋が残る坂の上の迷路。茶屋と工房が並ぶ。",
+      "zh": "六百年韩屋迷宫，茶屋与手工艺坊林立。",
+      "vi": "Mê cung hanok 600 năm tuổi với quán trà và xưởng thủ công.",
+      "id": "Labirin hanok berusia 600 tahun dengan teh house dan workshop."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "district": "yongsan"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "National Museum of Korea",
+      "ja": "国立中央博物館",
+      "zh": "国立中央博物馆",
+      "vi": "Bảo tàng Quốc gia Hàn Quốc",
+      "id": "Museum Nasional Korea"
+    },
+    "address": {
+      "en": "137 Seobinggo-ro, Yongsan-gu, Seoul",
+      "ja": "ソウル特別市 龍山区 西氷庫路 137",
+      "zh": "首尔龙山区西冰库路137",
+      "vi": "137 Seobinggo-ro, Yongsan-gu, Seoul",
+      "id": "137 Seobinggo-ro, Yongsan-gu, Seoul"
+    },
+    "description": {
+      "en": "Premier museum spanning prehistoric artifacts to contemporary Korean art.",
+      "ja": "先史時代から現代美術まで韓国文化を一望できる最大級の博物館。",
+      "zh": "涵盖史前文物至当代韩国艺术的一流博物馆。",
+      "vi": "Bảo tàng hàng đầu từ hiện vật tiền sử đến nghệ thuật Hàn Quốc đương đại.",
+      "id": "Museum utama dari artefak prasejarah hingga seni Korea kontemporer."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "district": "jongno"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Changdeokgung Palace",
+      "ja": "昌徳宮",
+      "zh": "昌德宫",
+      "vi": "Cung Changdeokgung",
+      "id": "Istana Changdeokgung"
+    },
+    "address": {
+      "en": "99 Yulgok-ro, Jongno-gu, Seoul",
+      "ja": "ソウル特別市 鍾路区 栗谷路 99",
+      "zh": "首尔钟路区栗谷路99",
+      "vi": "99 Yulgok-ro, Jongno-gu, Seoul",
+      "id": "99 Yulgok-ro, Jongno-gu, Seoul"
+    },
+    "description": {
+      "en": "UNESCO palace famed for its Secret Garden and refined royal architecture.",
+      "ja": "秘苑で知られるUNESCO登録の宮殿。優美な王室建築が残る。",
+      "zh": "以秘苑闻名的 UNESCO 宫殿，保留精美王室建筑。",
+      "vi": "Cung UNESCO nổi tiếng với Vườn Bí mật và kiến trúc hoàng gia tinh xảo.",
+      "id": "Istana UNESCO terkenal dengan Secret Garden dan arsitektur kerajaan."
     }
   },
   {
     "theme": "urban-nature",
+    "region": {
+      "province": "seoul",
+      "district": "jung-seoul"
+    },
+    "rating": 4.7,
     "name": {
       "en": "Cheonggyecheon Stream",
       "ja": "清渓川",
@@ -65,13 +484,3600 @@
       "vi": "Cheonggyecheon-ro, Jung-gu, Seoul",
       "id": "Cheonggyecheon-ro, Jung-gu, Seoul"
     },
-    "rating": 4.7,
     "description": {
-      "en": "A restored urban stream threading through downtown Seoul. Evening walks along lantern-lit paths offer a calm contrast to the surrounding skyscrapers.",
-      "ja": "都心を流れる再生都市型河川。灯りに照らされた遊歩道の夜散歩は、高層ビル街との対比が美しい。",
-      "zh": "贯穿首尔市中心的复原城市溪流，灯笼点缀的步道夜景与周边摩天楼形成宁静对比。",
-      "vi": "Dòng suối đô thị được phục hồi xuyên qua trung tâm Seoul. Đi bộ buổi tối dọc lối đi thắp đèn mang lại sự tĩnh lặng giữa các tòa nhà chọc trời.",
-      "id": "Aliran urban yang direvitalisasi melintasi pusat Seoul. Jalan malam di jalur berlampu memberi kontras tenang dengan gedung pencakar langit."
+      "en": "Restored urban stream threading through downtown with lantern-lit evening walks.",
+      "ja": "都心を流れる再生都市型河川。灯りに照らされた夜散歩が人気。",
+      "zh": "贯穿市中心的复原城市溪流，灯笼点缀的步道夜景迷人。",
+      "vi": "Dòng suối đô thị được phục hồi xuyên qua trung tâm với lối đi thắp đèn.",
+      "id": "Aliran urban yang direvitalisasi melintasi pusat kota dengan jalur berlampu."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "seoul",
+      "district": "jung-seoul"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Namsan Park",
+      "ja": "南山公園",
+      "zh": "南山公园",
+      "vi": "Công viên Namsan",
+      "id": "Taman Namsan"
+    },
+    "address": {
+      "en": "231 Samil-daero, Jung-gu, Seoul",
+      "ja": "ソウル特別市 中区 三一路 231",
+      "zh": "首尔中区三路231",
+      "vi": "231 Samil-daero, Jung-gu, Seoul",
+      "id": "231 Samil-daero, Jung-gu, Seoul"
+    },
+    "description": {
+      "en": "Forested hill park crowned by N Seoul Tower with pine trails and city panoramas.",
+      "ja": "Nソウルタワーがある緑の丘。松の遊歩道と街のパノラマ。",
+      "zh": "N 首尔塔所在的绿丘公园，松木步道与城市全景。",
+      "vi": "Công viên đồi rừng với tháp N Seoul, lối thông và toàn cảnh thành phố.",
+      "id": "Taman bukit berhutan dengan N Seoul Tower, jalur pinus, dan panorama kota."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "seoul",
+      "district": "yeongdeungpo"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Hangang Park Yeouido",
+      "ja": "漢江公園 汝矣島",
+      "zh": "汉江公园 汝矣岛",
+      "vi": "Công viên Hangang Yeouido",
+      "id": "Taman Hangang Yeouido"
+    },
+    "address": {
+      "en": "Yeouido Hangang Park, Yeongdeungpo-gu, Seoul",
+      "ja": "ソウル特別市 永登浦区 汝矣島漢江公園",
+      "zh": "首尔永登浦区汝矣岛汉江公园",
+      "vi": "Công viên Hangang Yeouido, Yeongdeungpo-gu, Seoul",
+      "id": "Taman Hangang Yeouido, Yeongdeungpo-gu, Seoul"
+    },
+    "description": {
+      "en": "Riverside park famous for cherry blossoms, picnics, and night views of the Han River.",
+      "ja": "桜とピクニック、漢江の夜景で人気のリバーサイド公園。",
+      "zh": "以樱花、野餐与汉江夜景闻名的江畔公园。",
+      "vi": "Công viên ven sông nổi tiếng với hoa anh đào, picnic và view sông Hàn.",
+      "id": "Taman tepi sungai terkenal dengan sakura, piknik, dan pemandangan malam Sungai Han."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "seoul",
+      "district": "seodaemun"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Bukhansan National Park",
+      "ja": "北漢山国立公園",
+      "zh": "北汉山国立公园",
+      "vi": "Vườn quốc gia Bukhansan",
+      "id": "Taman Nasional Bukhansan"
+    },
+    "address": {
+      "en": "Bukhansan-ro, Seodaemun-gu, Seoul",
+      "ja": "ソウル特別市 西大門区 北漢山路",
+      "zh": "首尔西大门区北汉山路",
+      "vi": "Bukhansan-ro, Seodaemun-gu, Seoul",
+      "id": "Bukhansan-ro, Seodaemun-gu, Seoul"
+    },
+    "description": {
+      "en": "Granite peaks and temple trails minutes from downtown — Seoul favorite day hike.",
+      "ja": "都心からすぐの花崗岩の峰と寺社トレイル。ソウル人気の日帰りハイキング。",
+      "zh": "距市中心仅数分钟的花岗岩山峰与寺庙步道，首尔人气一日徒步。",
+      "vi": "Đỉnh đá granite và đường chùa gần trung tâm — bài hike một ngày yêu thích ở Seoul.",
+      "id": "Puncak granit dan jalur kuil dekat pusat kota — hiking sehari favorit Seoul."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan",
+      "district": "jung-busan"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jagalchi Fish Market",
+      "ja": "チャガルチ市場",
+      "zh": "札嘎其市场",
+      "vi": "Chợ cá Jagalchi",
+      "id": "Pasar Ikan Jagalchi"
+    },
+    "address": {
+      "en": "52 Jagalchihaean-ro, Jung-gu, Busan",
+      "ja": "釜山広域市 中区 札嘎其海岸路 52",
+      "zh": "釜山中区札嘎其海岸路52",
+      "vi": "52 Jagalchihaean-ro, Jung-gu, Busan",
+      "id": "52 Jagalchihaean-ro, Jung-gu, Busan"
+    },
+    "description": {
+      "en": "Korea largest seafood market — pick fresh catch upstairs and have it cooked downstairs.",
+      "ja": "楼上で選んだ魚介を楼下で調理してもらえる韓国最大の海鮮市場。",
+      "zh": "韩国最大海鲜市场，楼上选海鲜、楼下即做即食。",
+      "vi": "Chợ hải sản lớn nhất Hàn Quốc — chọn hải sản tươi ở tầng trên và chế biến ngay bên dưới.",
+      "id": "Pasar seafood terbesar Korea — pilih ikan segar di lantai atas dan masak di bawah."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan",
+      "district": "jung-busan"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "BIFF Square",
+      "ja": "BIFF広場",
+      "zh": "BIFF广场",
+      "vi": "Quảng trường BIFF",
+      "id": "Alun-alun BIFF"
+    },
+    "address": {
+      "en": "40 BIFF-gil, Jung-gu, Busan",
+      "ja": "釜山広域市 中区 BIFFギル 40",
+      "zh": "釜山中区BIFF街40",
+      "vi": "40 BIFF-gil, Jung-gu, Busan",
+      "id": "40 BIFF-gil, Jung-gu, Busan"
+    },
+    "description": {
+      "en": "Cinematic street food hub near the Busan International Film Festival zone.",
+      "ja": "釜山国際映画祭エリア近くの屋台グルメストリート。",
+      "zh": "釜山国际电影节区域附近的街头美食中心。",
+      "vi": "Trung tâm ẩm thực đường phố gần khu Liên hoan phim Busan.",
+      "id": "Pusat street food dekat zona Festival Film Busan."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan",
+      "district": "jung-busan"
+    },
+    "rating": 4.2,
+    "name": {
+      "en": "Gukje Market",
+      "ja": "国際市場",
+      "zh": "国际市场",
+      "vi": "Chợ Gukje",
+      "id": "Pasar Gukje"
+    },
+    "address": {
+      "en": "38 Gukje Market-ro, Jung-gu, Busan",
+      "ja": "釜山広域市 中区 国際市場路 38",
+      "zh": "釜山中区国际市场路38",
+      "vi": "38 Gukje Market-ro, Jung-gu, Busan",
+      "id": "38 Gukje Market-ro, Jung-gu, Busan"
+    },
+    "description": {
+      "en": "Historic market maze selling hotteok, ssiat hotteok, and Busan street snacks.",
+      "ja": "ホットクと釜山の屋台スナックが並ぶ歴史ある市場。",
+      "zh": "售卖糖饼与釜山小吃的历史市场迷宫。",
+      "vi": "Chợ lịch sử bán hotteok và đồ ăn vặt đường phố Busan.",
+      "id": "Pasar bersejarah dengan hotteok dan camilan jalanan Busan."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan",
+      "district": "suyeong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Millak Waterfront Cafe Street",
+      "ja": "ミルク水辺カフェ通り",
+      "zh": "Millak 水边咖啡街",
+      "vi": "Phố cafe ven biển Millak",
+      "id": "Jalan Kafe Tepi Laut Millak"
+    },
+    "address": {
+      "en": "Millak-dong, Suyeong-gu, Busan",
+      "ja": "釜山広域市 水営区 ミルク洞",
+      "zh": "釜山水营区Millak洞",
+      "vi": "Millak-dong, Suyeong-gu, Busan",
+      "id": "Millak-dong, Suyeong-gu, Busan"
+    },
+    "description": {
+      "en": "Colorful container cafes along the Suyeong River with sunset views.",
+      "ja": "水営川沿いのコンテナカフェ。夕日の絶景が人気。",
+      "zh": "绥营江沿岸的彩色集装箱咖啡馆，日落景色迷人。",
+      "vi": "Quán cafe container dọc sông Suyeong với view hoàng hôn.",
+      "id": "Kafe kontainer di sepanjang Sungai Suyeong dengan pemandangan matahari terbenam."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "busan",
+      "district": "haeundae"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Busan Cinema Center",
+      "ja": "釜山シネマセンター",
+      "zh": "釜山电影中心",
+      "vi": "Trung tâm Điện ảnh Busan",
+      "id": "Busan Cinema Center"
+    },
+    "address": {
+      "en": "1467 U-dong, Haeundae-gu, Busan",
+      "ja": "釜山広域市 海雲台区",
+      "zh": "釜山海云台区",
+      "vi": "1467 U-dong, Haeundae-gu, Busan",
+      "id": "1467 U-dong, Haeundae-gu, Busan"
+    },
+    "description": {
+      "en": "Futuristic BIFF venue with LED roof — heart of Busan film culture.",
+      "ja": "LED屋根が特徴的なBIFF会場。釜山映画文化の中心。",
+      "zh": "LED 屋顶的未来感 BIFF 场馆，釜山电影文化核心。",
+      "vi": "Địa điểm BIFF với mái LED — trung tâm văn hóa điện ảnh Busan.",
+      "id": "Venue BIFF futuristik dengan atap LED — jantung budaya film Busan."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "busan",
+      "district": "haeundae"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Haeundae Blueline Park Beach Train",
+      "ja": "海雲台ブルーラインパーク",
+      "zh": "海云台 Blueline 公园",
+      "vi": "Haeundae Blueline Park",
+      "id": "Haeundae Blueline Park"
+    },
+    "address": {
+      "en": "Haeundae Beach, Busan",
+      "ja": "釜山広域市 海雲台区 海雲台海水浴場",
+      "zh": "釜山海云台区海云台海水浴场",
+      "vi": "Bãi biển Haeundae, Busan",
+      "id": "Pantai Haeundae, Busan"
+    },
+    "description": {
+      "en": "Scenic coastal train featured in many K-dramas along Haeundae Beach.",
+      "ja": "ドラマロケ地として有名な海沿いの観光列車。",
+      "zh": "多部韩剧取景的海滨观光列车。",
+      "vi": "Tàu du lịch ven biển xuất hiện trong nhiều K-drama dọc bãi Haeundae.",
+      "id": "Kereta wisata pesisir yang muncul di banyak K-drama di Pantai Haeundae."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "busan",
+      "district": "saha"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Gamcheon Culture Village",
+      "ja": "甘川文化村",
+      "zh": "甘川文化村",
+      "vi": "Làng văn hóa Gamcheon",
+      "id": "Desa Budaya Gamcheon"
+    },
+    "address": {
+      "en": "203 Gamnae 2-ro, Saha-gu, Busan",
+      "ja": "釜山広域市 沙下区 甘川2路 203",
+      "zh": "釜山沙下区甘川2路203",
+      "vi": "203 Gamnae 2-ro, Saha-gu, Busan",
+      "id": "203 Gamnae 2-ro, Saha-gu, Busan"
+    },
+    "description": {
+      "en": "Pastel hillside village and frequent K-drama filming location.",
+      "ja": "パステルカラーの坂道 village。ドラマロケ地として人気。",
+      "zh": "粉彩山坡村落，常见韩剧取景地。",
+      "vi": "Ngôi làng sườn đồi pastel và địa điểm quay phim K-drama phổ biến.",
+      "id": "Desa perbukitan pastel dan lokasi syuting K-drama yang populer."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "busan",
+      "district": "jung-busan"
+    },
+    "rating": 4.2,
+    "name": {
+      "en": "40 Steps Culture Street",
+      "ja": "40段文化通り",
+      "zh": "40台阶文化街",
+      "vi": "Phố văn hóa 40 bậc thang",
+      "id": "Jalan Budaya 40 Tangga"
+    },
+    "address": {
+      "en": "40 Steps area, Jung-gu, Busan",
+      "ja": "釜山広域市 中区 40段文化通り",
+      "zh": "釜山中区40台阶文化街",
+      "vi": "Khu 40 bậc thang, Jung-gu, Busan",
+      "id": "Area 40 Tangga, Jung-gu, Busan"
+    },
+    "description": {
+      "en": "Nostalgic alley evoking 1950s Busan, featured in films and period dramas.",
+      "ja": "1950年代の釜山を思わせる路地。映画・時代劇の舞台。",
+      "zh": "唤起1950年代釜山记忆的巷弄，常见于电影与时代剧。",
+      "vi": "Ngõ hoài cổ gợi nhớ Busan thập niên 1950, xuất hiện trong phim và drama cổ trang.",
+      "id": "Gang nostalgia Busan era 1950-an, sering muncul di film dan drama period."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "busan",
+      "district": "haeundae"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Spa Land Centum City",
+      "ja": "スパランド センタムシティ",
+      "zh": "Spa Land Centum City",
+      "vi": "Spa Land Centum City",
+      "id": "Spa Land Centum City"
+    },
+    "address": {
+      "en": "35 Centumnam-daero, Haeundae-gu, Busan",
+      "ja": "釜山広域市 海雲台区 センタム南大路 35",
+      "zh": "釜山海云台区Centum南大路35",
+      "vi": "35 Centumnam-daero, Haeundae-gu, Busan",
+      "id": "35 Centumnam-daero, Haeundae-gu, Busan"
+    },
+    "description": {
+      "en": "Premium jjimjilbang spa inside the worlds largest department store complex.",
+      "ja": "世界最大デパート内のプレミアムスパ。サウナと浴場が充実。",
+      "zh": "全球最大百货公司内的 premium 韩式汗蒸 spa。",
+      "vi": "Spa jjimjilbang cao cấp trong cửa hàng bách hóa lớn nhất thế giới.",
+      "id": "Spa jjimjilbang premium di department store terbesar dunia."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "busan",
+      "district": "haeundae"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Shinsegae Centum City Beauty Floor",
+      "ja": "新世界センタムシティ ビューティーフロア",
+      "zh": "新世界 Centum 美妆层",
+      "vi": "Tầng mỹ phẩm Shinsegae Centum",
+      "id": "Lantai Kecantikan Shinsegae Centum"
+    },
+    "address": {
+      "en": "Shinsegae Centum City, Haeundae-gu, Busan",
+      "ja": "釜山広域市 海雲台区 新世界センタムシティ",
+      "zh": "釜山海云台区新世界Centum City",
+      "vi": "Shinsegae Centum City, Haeundae-gu, Busan",
+      "id": "Shinsegae Centum City, Haeundae-gu, Busan"
+    },
+    "description": {
+      "en": "Luxury beauty hall gathering global and Korean premium skincare brands.",
+      "ja": "国内外プレミアムスキンケアブランドが集うラグジュアリービューティーホール。",
+      "zh": "汇聚全球与韩国高端护肤品牌的美妆殿堂。",
+      "vi": "Sảnh mỹ phẩm cao cấp tập hợp thương hiệu skincare premium toàn cầu và Hàn Quốc.",
+      "id": "Hall kecantikan mewah dengan merek skincare premium global dan Korea."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "busan",
+      "district": "jung-busan"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Olive Young Nampo",
+      "ja": "オリーブヤング 南浦",
+      "zh": "Olive Young 南浦",
+      "vi": "Olive Young Nampo",
+      "id": "Olive Young Nampo"
+    },
+    "address": {
+      "en": "Nampo-dong, Jung-gu, Busan",
+      "ja": "釜山広域市 中区 南浦洞",
+      "zh": "釜山中区南浦洞",
+      "vi": "Nampo-dong, Jung-gu, Busan",
+      "id": "Nampo-dong, Jung-gu, Busan"
+    },
+    "description": {
+      "en": "Downtown beauty megastore steps from BIFF Square and Gukje Market.",
+      "ja": "BIFF広場近くの大型ビューティーストア。",
+      "zh": "距 BIFF 广场与国际市场几步之遥的美妆大店。",
+      "vi": "Cửa hàng mỹ phẩm lớn ngay gần Quảng trường BIFF và Chợ Gukje.",
+      "id": "Megastore kecantikan dekat Alun-alun BIFF dan Pasar Gukje."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "busan",
+      "district": "haeundae"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "ClubD Oasis Spa Haeundae",
+      "ja": "クラブD オアシススパ 海雲台",
+      "zh": "ClubD Oasis Spa 海云台",
+      "vi": "ClubD Oasis Spa Haeundae",
+      "id": "ClubD Oasis Spa Haeundae"
+    },
+    "address": {
+      "en": "Haeundae-ro, Haeundae-gu, Busan",
+      "ja": "釜山広域市 海雲台区 海雲台路",
+      "zh": "釜山海云台区海云台路",
+      "vi": "Haeundae-ro, Haeundae-gu, Busan",
+      "id": "Haeundae-ro, Haeundae-gu, Busan"
+    },
+    "description": {
+      "en": "Modern urban spa with hydrotherapy pools and seaside recovery programs.",
+      "ja": "ハイドロセラピーと海辺リカバリープログラムが人気の都市型スパ。",
+      "zh": "设有水疗池与滨海恢复项目的现代都市 spa。",
+      "vi": "Spa đô thị hiện đại với bể thủy liệu pháp và chương trình phục hồi ven biển.",
+      "id": "Spa urban modern dengan kolam hidroterapi dan program recovery tepi laut."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "busan",
+      "district": "geumjeong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Beomeosa Temple",
+      "ja": "梵魚寺",
+      "zh": "梵鱼寺",
+      "vi": "Chùa Beomeosa",
+      "id": "Kuil Beomeosa"
+    },
+    "address": {
+      "en": "546 Cheongnyong-dong, Geumjeong-gu, Busan",
+      "ja": "釜山広域市 金井区 青龍洞 546",
+      "zh": "釜山金井区青龙洞546",
+      "vi": "546 Cheongnyong-dong, Geumjeong-gu, Busan",
+      "id": "546 Cheongnyong-dong, Geumjeong-gu, Busan"
+    },
+    "description": {
+      "en": "1,300-year-old mountain temple with pine forests and temple-stay programs.",
+      "ja": "1300年の歴史を持つ山寺。 pine 林とテンプルステイが人気。",
+      "zh": "1300年历史的山寺，松林与寺庙寄宿体验受欢迎。",
+      "vi": "Chùa núi 1300 năm tuổi với rừng thông và chương trình ở chùa.",
+      "id": "Kuil gunung berusia 1300 tahun dengan hutan pinus dan program temple-stay."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "busan",
+      "district": "gijang"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Haedong Yonggungsa Temple",
+      "ja": "海東龍宮寺",
+      "zh": "海东龙宫寺",
+      "vi": "Chùa Haedong Yonggungsa",
+      "id": "Kuil Haedong Yonggungsa"
+    },
+    "address": {
+      "en": "86 Yonggung-gil, Gijang-eup, Busan",
+      "ja": "釜山広域市 機張郡 龍宮ギル 86",
+      "zh": "釜山机张郡龙宫街86",
+      "vi": "86 Yonggung-gil, Gijang-eup, Busan",
+      "id": "86 Yonggung-gil, Gijang-eup, Busan"
+    },
+    "description": {
+      "en": "Rare seaside Buddhist temple with ocean views and sunrise lanterns.",
+      "ja": "海沿いの仏教寺院。海の絶景と日の出が人気。",
+      "zh": "罕见的海边佛教寺庙，海景与日出令人难忘。",
+      "vi": "Chùa Phật giáo hiếm hoi bên biển với view biển và bình minh.",
+      "id": "Kuil Buddhis langka di tepi laut dengan pemandangan laut dan matahari terbit."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "busan",
+      "district": "saha"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gamcheon Culture Village Museum Alley",
+      "ja": "甘川文化村ミュージアム通り",
+      "zh": "甘川文化村博物馆巷",
+      "vi": "Hẻm bảo tàng Gamcheon",
+      "id": "Gang Museum Gamcheon"
+    },
+    "address": {
+      "en": "Gamcheon-dong, Saha-gu, Busan",
+      "ja": "釜山広域市 沙下区 甘川洞",
+      "zh": "釜山沙下区甘川洞",
+      "vi": "Gamcheon-dong, Saha-gu, Busan",
+      "id": "Gamcheon-dong, Saha-gu, Busan"
+    },
+    "description": {
+      "en": "Art alleys and mini museums celebrating Busan port culture and community art.",
+      "ja": "釜山港文化とコミュニティアートを紹介する路地美術館。",
+      "zh": "展示釜山港口文化与社区艺术的小巷美术馆。",
+      "vi": "Hẻm nghệ thuật và bảo tàng mini về văn hóa cảng Busan.",
+      "id": "Gang seni dan museum mini tentang budaya pelabuhan Busan."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "busan",
+      "district": "yeongdo"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Busan Modern History Museum",
+      "ja": "釜山近代歴史館",
+      "zh": "釜山近代历史馆",
+      "vi": "Bảo tàng Lịch sử Hiện đại Busan",
+      "id": "Museum Sejarah Modern Busan"
+    },
+    "address": {
+      "en": "104 Sinseon-ro, Yeongdo-gu, Busan",
+      "ja": "釜山広域市 影島区 新仙路 104",
+      "zh": "釜山影岛区新仙路104",
+      "vi": "104 Sinseon-ro, Yeongdo-gu, Busan",
+      "id": "104 Sinseon-ro, Yeongdo-gu, Busan"
+    },
+    "description": {
+      "en": "Museum tracing Busan opening port history and modern Korean urban growth.",
+      "ja": "開港と近代化の歴史を辿る博物館。",
+      "zh": "追溯釜山开港与韩国近代城市发展的博物馆。",
+      "vi": "Bảo tàng về lịch sử mở cảng Busan và đô thị hóa Hàn Quốc.",
+      "id": "Museum tentang sejarah pelabuhan terbuka Busan dan urbanisasi Korea."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "busan",
+      "district": "haeundae"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Haeundae Beach",
+      "ja": "海雲台海水浴場",
+      "zh": "海云台海水浴场",
+      "vi": "Bãi biển Haeundae",
+      "id": "Pantai Haeundae"
+    },
+    "address": {
+      "en": "264 Haeundaehaebyeon-ro, Haeundae-gu, Busan",
+      "ja": "釜山広域市 海雲台区 海雲台海辺路 264",
+      "zh": "釜山海云台区海云台海边路264",
+      "vi": "264 Haeundaehaebyeon-ro, Haeundae-gu, Busan",
+      "id": "264 Haeundaehaebyeon-ro, Haeundae-gu, Busan"
+    },
+    "description": {
+      "en": "Korea most famous urban beach with summer festivals and skyline views.",
+      "ja": "韓国を代表する都市型ビーチ。夏祭りとスカイラインが魅力。",
+      "zh": "韩国最具代表性的城市海滩，夏季节庆与天际线迷人。",
+      "vi": "Bãi biển đô thị nổi tiếng nhất Hàn Quốc với lễ hội mùa hè và skyline.",
+      "id": "Pantai urban paling terkenal Korea dengan festival musim panas dan skyline."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "busan",
+      "district": "yeongdo"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Taejongdae Resort Park",
+      "ja": "太宗台",
+      "zh": "太宗台",
+      "vi": "Công viên Taejongdae",
+      "id": "Taman Taejongdae"
+    },
+    "address": {
+      "en": "24 Jeonmang-ro, Yeongdo-gu, Busan",
+      "ja": "釜山広域市 影島区 展望路 24",
+      "zh": "釜山影岛区展望路24",
+      "vi": "24 Jeonmang-ro, Yeongdo-gu, Busan",
+      "id": "24 Jeonmang-ro, Yeongdo-gu, Busan"
+    },
+    "description": {
+      "en": "Cliffside coastal park with Danubi train rides and dramatic ocean vistas.",
+      "ja": "断崖の海岸公園。ダヌビ列車と壮大な海の景色。",
+      "zh": "悬崖海滨公园，丹ubi 列车与壮阔海景。",
+      "vi": "Công viên ven biển vách đá với tàu Danubi và cảnh biển hùng vĩ.",
+      "id": "Taman pesisir tebing dengan kereta Danubi dan pemandangan laut dramatis."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "busan",
+      "district": "haeundae"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Dongbaekseom Island",
+      "ja": "冬柏島",
+      "zh": "冬柏岛",
+      "vi": "Đảo Dongbaekseom",
+      "id": "Pulau Dongbaekseom"
+    },
+    "address": {
+      "en": "Dongbaek-ro, Haeundae-gu, Busan",
+      "ja": "釜山広域市 海雲台区 冬柏路",
+      "zh": "釜山海云台区冬柏路",
+      "vi": "Dongbaek-ro, Haeundae-gu, Busan",
+      "id": "Dongbaek-ro, Haeundae-gu, Busan"
+    },
+    "description": {
+      "en": "Small forested island trail linking Haeundae Beach to APEC Naru Park.",
+      "ja": "海雲台ビーチとAPECナル公園を結ぶ森の遊歩道。",
+      "zh": "连接海云台海滩与 APEC 纳鲁公园的小岛森林步道。",
+      "vi": "Đảo nhỏ rừng cây nối bãi Haeundae với Công viên APEC Naru.",
+      "id": "Pulau kecil berhutan menghubungkan Pantai Haeundae ke Taman APEC Naru."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "busan",
+      "district": "nam-busan"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Igidae Coastal Walk",
+      "ja": "イギデ海岸散策路",
+      "zh": "二妓台海岸散步路",
+      "vi": "Lối đi bộ ven biển Igidae",
+      "id": "Jalan Pesisir Igidae"
+    },
+    "address": {
+      "en": "Igidae, Nam-gu, Busan",
+      "ja": "釜山広域市 南区 二妓台",
+      "zh": "釜山南区二妓台",
+      "vi": "Igidae, Nam-gu, Busan",
+      "id": "Igidae, Nam-gu, Busan"
+    },
+    "description": {
+      "en": "Rugged cliffside trail with suspension bridge views over the East Sea.",
+      "ja": "吊り橋と東海を望む断崖の海岸トレイル。",
+      "zh": "悬崖步道与吊桥，俯瞰东海景色。",
+      "vi": "Đường ven biển vách đá với cầu treo nhìn ra biển Đông.",
+      "id": "Jalur tebing dengan jembatan gantung dan pemandangan Laut Timur."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Dongmun Market",
+      "ja": "東門市場",
+      "zh": "东门市场",
+      "vi": "Chợ Dongmun",
+      "id": "Pasar Dongmun"
+    },
+    "address": {
+      "en": "20 Gwandeok-ro, Jeju-si",
+      "ja": "済州市 官徳路 20",
+      "zh": "济州市观德路20",
+      "vi": "20 Gwandeok-ro, Jeju-si",
+      "id": "20 Gwandeok-ro, Jeju-si"
+    },
+    "description": {
+      "en": "Jeju largest traditional market with hallabong, seafood, and black pork snacks.",
+      "ja": "ハラボンと海鮮、黒豚が並ぶ済州最大の伝統市場。",
+      "zh": "济州最大传统市场，柑橘、海鲜与黑猪肉小吃齐全。",
+      "vi": "Chợ truyền thống lớn nhất Jeju với hallabong, hải sản và thịt heo đen.",
+      "id": "Pasar tradisional terbesar Jeju dengan hallabong, seafood, dan daging babi hitam."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Black Pork Street",
+      "ja": "黒豚通り",
+      "zh": "黑猪街",
+      "vi": "Phố thịt heo đen",
+      "id": "Jalan Daging Babi Hitam"
+    },
+    "address": {
+      "en": "Geonip-dong, Jeju-si",
+      "ja": "済州市 健入洞",
+      "zh": "济州市健入洞",
+      "vi": "Geonip-dong, Jeju-si",
+      "id": "Geonip-dong, Jeju-si"
+    },
+    "description": {
+      "en": "Famous alley grilling Jeju heritage black pork over charcoal.",
+      "ja": "済州固有の黒豚を炭火で焼く名店が並ぶ通り。",
+      "zh": "以炭火烤制济州黑猪闻名的美食街。",
+      "vi": "Phố nướng thịt heo đen đặc sản Jeju trên than hồng.",
+      "id": "Jalan terkenal memanggang daging babi hitam Jeju di arang."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeju",
+      "city": "seogwipo-si"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Seogwipo Maeil Olle Market",
+      "ja": "西帰浦毎日オルレ市場",
+      "zh": "西归浦每日偶来市场",
+      "vi": "Chợ Maeil Olle Seogwipo",
+      "id": "Pasar Maeil Olle Seogwipo"
+    },
+    "address": {
+      "en": "Seogwipo-si, Jeju",
+      "ja": "西帰浦市",
+      "zh": "西归浦市",
+      "vi": "Seogwipo-si, Jeju",
+      "id": "Seogwipo-si, Jeju"
+    },
+    "description": {
+      "en": "Local market serving abalone porridge, tangerine treats, and island street food.",
+      "ja": "アワビ粥とみかんスイーツ、島の屋台料理が楽しめる市場。",
+      "zh": "供应鲍鱼粥、柑橘甜点与岛上街头小吃的本地市场。",
+      "vi": "Chợ địa phương với cháo bào ngư, quà quýt và ẩm thực đường phố đảo.",
+      "id": "Pasar lokal dengan bubur abalon, camilan jeruk, dan street food pulau."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si",
+      "district": "aewol"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Aewol Handam Coastal Cafe Street",
+      "ja": "涯月ハンダム海岸カフェ通り",
+      "zh": "涯月翰林海岸咖啡街",
+      "vi": "Phố cafe ven biển Aewol Handam",
+      "id": "Jalan Kafe Pesisir Aewol Handam"
+    },
+    "address": {
+      "en": "Aewol-eup, Jeju-si",
+      "ja": "済州市 涯月邑",
+      "zh": "济州市涯月邑",
+      "vi": "Aewol-eup, Jeju-si",
+      "id": "Aewol-eup, Jeju-si"
+    },
+    "description": {
+      "en": "Cliffside cafes overlooking basalt coast — Jeju cafe culture at its best.",
+      "ja": "玄武岩海岸を望む崖上カフェ。済州カフェ文化の代表。",
+      "zh": "俯瞰玄武岩海岸的悬崖咖啡馆，济州咖啡文化代表。",
+      "vi": "Quán cafe trên vách đá nhìn ra bờ bazan — văn hóa cafe Jeju đỉnh cao.",
+      "id": "Kafe tebing dengan pemandangan pantai basalt — kultur kafe Jeju terbaik."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Camellia Hill",
+      "ja": "カメリアヒル",
+      "zh": "Camellia Hill",
+      "vi": "Camellia Hill",
+      "id": "Camellia Hill"
+    },
+    "address": {
+      "en": "166 Byeongak-ro, Jeju-si",
+      "ja": "済州市 並岳路 166",
+      "zh": "济州市并岳路166",
+      "vi": "166 Byeongak-ro, Jeju-si",
+      "id": "166 Byeongak-ro, Jeju-si"
+    },
+    "description": {
+      "en": "Flower garden and frequent K-drama filming site with camellia blooms year-round.",
+      "ja": "年間を通じてツバキが咲く花園。ドラマロケ地として人気。",
+      "zh": "全年山茶花盛开的花园，常见韩剧取景地。",
+      "vi": "Vườn hoa và địa điểm quay K-drama với hoa camellia quanh năm.",
+      "id": "Taman bunga dan lokasi syuting K-drama dengan camellia sepanjang tahun."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si",
+      "district": "aewol"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Aewol Rainbow Coastal Road",
+      "ja": "涯月レインボー海岸道路",
+      "zh": "涯月彩虹海岸路",
+      "vi": "Đường ven biển Rainbow Aewol",
+      "id": "Jalan Pesisir Rainbow Aewol"
+    },
+    "address": {
+      "en": "Aewol-eup, Jeju-si",
+      "ja": "済州市 涯月邑",
+      "zh": "济州市涯月邑",
+      "vi": "Aewol-eup, Jeju-si",
+      "id": "Aewol-eup, Jeju-si"
+    },
+    "description": {
+      "en": "Colorful coastal drive featured in travel variety shows and music videos.",
+      "ja": "バラエティ番組やMVで登場するカラフルな海岸ドライブ。",
+      "zh": "旅行综艺与 MV 常出现的彩色海岸公路。",
+      "vi": "Cung đường ven biển đầy màu sắc xuất hiện trong variety show và MV.",
+      "id": "Jalan pesisir penuh warna yang muncul di variety show dan MV."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Spirited Garden",
+      "ja": "スピリテッドガーデン",
+      "zh": "Spirited Garden",
+      "vi": "Spirited Garden",
+      "id": "Spirited Garden"
+    },
+    "address": {
+      "en": "645 Seogwang-ro, Jeju-si",
+      "ja": "済州市 西广路 645",
+      "zh": "济州市西广路645",
+      "vi": "645 Seogwang-ro, Jeju-si",
+      "id": "645 Seogwang-ro, Jeju-si"
+    },
+    "description": {
+      "en": "Bonsai sculpture garden popularized by Korean travel TV programs.",
+      "ja": "韓国旅行番組で有名になった盆栽庭園。",
+      "zh": "因韩国旅行节目而闻名的盆景雕塑花园。",
+      "vi": "Vườn bonsai nổi tiếng qua các chương trình du lịch Hàn Quốc.",
+      "id": "Taman bonsai populer dari program wisata Korea."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeju",
+      "city": "seogwipo-si",
+      "district": "seongsan"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Seopjikoji",
+      "ja": "涉地可支",
+      "zh": "涉地可支",
+      "vi": "Seopjikoji",
+      "id": "Seopjikoji"
+    },
+    "address": {
+      "en": "Seopjikoji, Seogwipo-si",
+      "ja": "西帰浦市 涉地可支",
+      "zh": "西归浦市涉地可支",
+      "vi": "Seopjikoji, Seogwipo-si",
+      "id": "Seopjikoji, Seogwipo-si"
+    },
+    "description": {
+      "en": "Coastal hill and lighthouse backdrop in All In and many K-dramas.",
+      "ja": "ドラマ「All In」などのロケ地。灯台と海岸の絶景。",
+      "zh": "《All In》等韩剧取景地，灯塔与海岸绝景。",
+      "vi": "Đồi ven biển và ngọn hải đăng trong All In và nhiều K-drama.",
+      "id": "Bukit pesisir dan mercusuar latar All In dan banyak K-drama."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Innisfree Jeju House",
+      "ja": "イニスフリー 済州ハウス",
+      "zh": "Innisfree 济州 House",
+      "vi": "Innisfree Jeju House",
+      "id": "Innisfree Jeju House"
+    },
+    "address": {
+      "en": "1235 Seogwang-ro, Jeju-si",
+      "ja": "済州市 西广路 1235",
+      "zh": "济州市西广路1235",
+      "vi": "1235 Seogwang-ro, Jeju-si",
+      "id": "1235 Seogwang-ro, Jeju-si"
+    },
+    "description": {
+      "en": "Green tea and volcanic clay beauty experience at Innisfree flagship on Jeju.",
+      "ja": "済州の緑茶と火山クレイを使ったイニスフリー体験施設。",
+      "zh": "济州绿茶与火山泥美容体验的 Innisfree 旗舰空间。",
+      "vi": "Trải nghiệm làm đẹp trà xanh và đất sét núi lửa tại Innisfree Jeju.",
+      "id": "Pengalaman kecantikan teh hijau dan tanah liat vulkanik di Innisfree Jeju."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Osulloc Tea Museum",
+      "ja": "オソルロック茶博物館",
+      "zh": "Osulloc 茶博物馆",
+      "vi": "Bảo tàng Trà Osulloc",
+      "id": "Museum Teh Osulloc"
+    },
+    "address": {
+      "en": "Andeok-myeon, Jeju-si",
+      "ja": "済州市 安德面",
+      "zh": "济州市安德面",
+      "vi": "Andeok-myeon, Jeju-si",
+      "id": "Andeok-myeon, Jeju-si"
+    },
+    "description": {
+      "en": "Green tea wellness destination with skincare cafes and rolling tea fields.",
+      "ja": "茶畑とスキンケアカフェが楽しめるウェルネススポット。",
+      "zh": "茶园与护肤咖啡馆一体的 wellness 目的地。",
+      "vi": "Điểm wellness với đồng trà và quán cafe chăm sóc da.",
+      "id": "Destinasi wellness dengan kebun teh dan kafe skincare."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeju",
+      "city": "seogwipo-si"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Sanbangsan Carbonated Hot Spring",
+      "ja": "山房山 炭酸泉",
+      "zh": "山房山 碳酸温泉",
+      "vi": "Suối nước nóng Sanbangsan",
+      "id": "Pemandian Air Panas Sanbangsan"
+    },
+    "address": {
+      "en": "Sanbangsan-ro, Seogwipo-si",
+      "ja": "西帰浦市 山房山路",
+      "zh": "西归浦市山房山路",
+      "vi": "Sanbangsan-ro, Seogwipo-si",
+      "id": "Sanbangsan-ro, Seogwipo-si"
+    },
+    "description": {
+      "en": "Natural carbonated spa at the foot of Sanbangsan with skin-soothing waters.",
+      "ja": "山房山麓の天然炭酸泉。美肌の湯として人気。",
+      "zh": "山房山麓天然碳酸温泉，以美肤水质闻名。",
+      "vi": "Suối nước nóng carbonated tự nhiên dưới chân núi Sanbangsan.",
+      "id": "Pemandian air panas karbonat alami di kaki Sanbangsan."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Camellia Hill Spa Garden",
+      "ja": "カメリアヒル スパガーデン",
+      "zh": "Camellia Hill Spa Garden",
+      "vi": "Camellia Hill Spa Garden",
+      "id": "Camellia Hill Spa Garden"
+    },
+    "address": {
+      "en": "166 Byeongak-ro, Jeju-si",
+      "ja": "済州市 並岳路 166",
+      "zh": "济州市并岳路166",
+      "vi": "166 Byeongak-ro, Jeju-si",
+      "id": "166 Byeongak-ro, Jeju-si"
+    },
+    "description": {
+      "en": "Garden spa blending camellia oils, island herbs, and aromatherapy treatments.",
+      "ja": "ツバキオイルと島のハーブを使うアロマトリートメント。",
+      "zh": "山茶花精油与岛上草药芳疗护理的花园 spa。",
+      "vi": "Spa vườn với tinh dầu camellia, thảo mộc đảo và liệu pháp hương.",
+      "id": "Spa taman dengan minyak camellia, herbal pulau, dan aromaterapi."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeju",
+      "city": "seogwipo-si",
+      "district": "pyoseon"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Jeju Folk Village",
+      "ja": "済州民俗村",
+      "zh": "济州民俗村",
+      "vi": "Làng dân gian Jeju",
+      "id": "Desa Rakyat Jeju"
+    },
+    "address": {
+      "en": "Pyoseon-ri, Seogwipo-si",
+      "ja": "西帰浦市 表善里",
+      "zh": "西归浦市表善里",
+      "vi": "Pyoseon-ri, Seogwipo-si",
+      "id": "Pyoseon-ri, Seogwipo-si"
+    },
+    "description": {
+      "en": "Open-air museum preserving Jeju thatched homes, haenyeo culture, and folk rituals.",
+      "ja": "済州の茅葺き家と海女文化を再現する野外博物館。",
+      "zh": "再现济州茅草屋与海女文化的露天博物馆。",
+      "vi": "Bảo tàng ngoài trời bảo tồn nhà tranh Jeju và văn hóa haenyeo.",
+      "id": "Museum terbuka melestarikan rumah Jeju dan budaya haenyeo."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Haenyeo Museum",
+      "ja": "海女博物館",
+      "zh": "海女博物馆",
+      "vi": "Bảo tàng Haenyeo",
+      "id": "Museum Haenyeo"
+    },
+    "address": {
+      "en": "Haenyeo-ro, Jeju-si",
+      "ja": "済州市 海女路",
+      "zh": "济州市海女路",
+      "vi": "Haenyeo-ro, Jeju-si",
+      "id": "Haenyeo-ro, Jeju-si"
+    },
+    "description": {
+      "en": "Museum honoring Jeju diving women and UNESCO intangible heritage traditions.",
+      "ja": "済州の海女とUNESCO無形文化遺産を紹介する博物館。",
+      "zh": "介绍济州海女与 UNESCO 非物质文化遗产的博物馆。",
+      "vi": "Bảo tàng vinh danh nữ thợ lặn Jeju và di sản văn hóa phi vật thể UNESCO.",
+      "id": "Museum menghormati penyelam wanita Jeju dan warisan budaya UNESCO."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeju",
+      "city": "seogwipo-si",
+      "district": "seongsan"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Seongsan Ilchulbong",
+      "ja": "城山日出峰",
+      "zh": "城山日出峰",
+      "vi": "Seongsan Ilchulbong",
+      "id": "Seongsan Ilchulbong"
+    },
+    "address": {
+      "en": "Seongsan-ri, Seogwipo-si",
+      "ja": "西帰浦市 城山邑",
+      "zh": "西归浦市城山邑",
+      "vi": "Seongsan-ri, Seogwipo-si",
+      "id": "Seongsan-ri, Seogwipo-si"
+    },
+    "description": {
+      "en": "UNESCO tuff cone crater famous for sunrise hikes and dramatic coastal cliffs.",
+      "ja": "UNESCOに登録されたトゥフコーン。日の出ハイキングで有名。",
+      "zh": "UNESCO 凝灰岩锥，以日出徒步与壮阔海岸悬崖闻名。",
+      "vi": "Hố núi lửa tuff UNESCO nổi tiếng với leo núi ngắm bình minh.",
+      "id": "Kawah tuff UNESCO terkenal dengan hiking matahari terbit."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Yongduam Rock",
+      "ja": "龍頭岩",
+      "zh": "龙头岩",
+      "vi": "Đá Yongduam",
+      "id": "Batu Yongduam"
+    },
+    "address": {
+      "en": "Yongdam-ro, Jeju-si",
+      "ja": "済州市 龍潭路",
+      "zh": "济州市龙潭路",
+      "vi": "Yongdam-ro, Jeju-si",
+      "id": "Yongdam-ro, Jeju-si"
+    },
+    "description": {
+      "en": "Dragon-head lava rock legend site on Jeju north coast.",
+      "ja": "済州北岸の龍頭形溶岩。伝説のスポット。",
+      "zh": "济州北岸龙头形熔岩，传说打卡地。",
+      "vi": "Đá dung nham hình đầu rồng trên bờ bắc Jeju.",
+      "id": "Batu lava berbentuk kepala naga di pantai utara Jeju."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Hallasan National Park",
+      "ja": "漢拏山国立公園",
+      "zh": "汉拿山国立公园",
+      "vi": "Vườn quốc gia Hallasan",
+      "id": "Taman Nasional Hallasan"
+    },
+    "address": {
+      "en": "Hallasan-ro, Jeju-si",
+      "ja": "済州市 漢拏山",
+      "zh": "济州市汉拿山",
+      "vi": "Hallasan-ro, Jeju-si",
+      "id": "Hallasan-ro, Jeju-si"
+    },
+    "description": {
+      "en": "Jeju volcanic peak and UNESCO natural heritage with crater lake summit trails.",
+      "ja": "クレーター湖と登頂トレイルが魅力のUNESCO自然遺産。",
+      "zh": "火山峰与 crater 湖登顶步道，UNESCO 自然遗产。",
+      "vi": "Đỉnh núi lửa Jeju và di sản thiên nhiên UNESCO với đường leo đỉnh.",
+      "id": "Puncak vulkanik Jeju dan warisan alam UNESCO dengan jalur pendakian."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeju",
+      "city": "jeju-si",
+      "district": "gujwa"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Manjanggul Cave",
+      "ja": "万丈窟",
+      "zh": "万丈窟",
+      "vi": "Hang Manjanggul",
+      "id": "Gua Manjanggul"
+    },
+    "address": {
+      "en": "Gujwa-eup, Jeju-si",
+      "ja": "済州市 旧左邑",
+      "zh": "济州市旧左邑",
+      "vi": "Gujwa-eup, Jeju-si",
+      "id": "Gujwa-eup, Jeju-si"
+    },
+    "description": {
+      "en": "One of the worlds longest lava tubes with surreal underground formations.",
+      "ja": "世界有数の長さを誇る溶岩洞窟。幻想的な地下景观。",
+      "zh": "世界最长熔岩洞之一，地下景观奇幻。",
+      "vi": "Một trong những hang dung nham dài nhất thế giới với cảnh quan dưới lòng đất.",
+      "id": "Saluran lava terpanjang di dunia dengan formasi bawah tanah surreal."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeju",
+      "city": "seogwipo-si"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Cheonjiyeon Waterfall",
+      "ja": "天地淵滝",
+      "zh": "天地渊瀑布",
+      "vi": "Thác Cheonjiyeon",
+      "id": "Air Terjun Cheonjiyeon"
+    },
+    "address": {
+      "en": "Cheonji-dong, Seogwipo-si",
+      "ja": "西帰浦市 天地洞",
+      "zh": "西归浦市天地洞",
+      "vi": "Cheonji-dong, Seogwipo-si",
+      "id": "Cheonji-dong, Seogwipo-si"
+    },
+    "description": {
+      "en": "Night-lit waterfall gorge surrounded by subtropical forest walks.",
+      "ja": "夜間ライトアップされる滝。亜熱帯の森の遊歩道。",
+      "zh": "夜间灯光瀑布，亚热带森林步道环绕。",
+      "vi": "Thác được chiếu sáng ban đêm giữa rừng cận nhiệt đới.",
+      "id": "Air terjun diterangi malam hari di tengah hutan subtropis."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeju",
+      "city": "seogwipo-si"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Seogwipo Olle Trail Section",
+      "ja": "西帰浦オルレコース",
+      "zh": "西归浦 Olle 步道",
+      "vi": "Đoạn Olle Seogwipo",
+      "id": "Jalur Olle Seogwipo"
+    },
+    "address": {
+      "en": "Seogwipo Olle, Seogwipo-si",
+      "ja": "西帰浦市 オルレコース",
+      "zh": "西归浦市 Olle 步道",
+      "vi": "Seogwipo Olle, Seogwipo-si",
+      "id": "Seogwipo Olle, Seogwipo-si"
+    },
+    "description": {
+      "en": "Scenic coastal walking route through Olle village gates and oreum hills.",
+      "ja": "オルレ門とオルムを巡る海岸ウォーキングコース。",
+      "zh": "穿越 Olle 门与 oreum 小丘的滨海步行路线。",
+      "vi": "Tuyến đi bộ ven biển qua cổng Olle và đồi oreum.",
+      "id": "Rute jalan pesisir melalui gerbang Olle dan bukit oreum."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "district": "palddal"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Suwon Galbi Street",
+      "ja": "水原カルビ通り",
+      "zh": "水原排骨街",
+      "vi": "Phố galbi Suwon",
+      "id": "Jalan Galbi Suwon"
+    },
+    "address": {
+      "en": "Paldal-gu, Suwon",
+      "ja": "水原市 八達区",
+      "zh": "水原市八达区",
+      "vi": "Paldal-gu, Suwon",
+      "id": "Paldal-gu, Suwon"
+    },
+    "description": {
+      "en": "Famous alley serving charcoal-grilled galbi near Hwaseong Fortress.",
+      "ja": "華城近くの炭火カルビ名店が並ぶ通り。",
+      "zh": "华城附近以炭火烤排骨闻名的美食街。",
+      "vi": "Phố galbi nướng than gần Pháo đài Hwaseong.",
+      "id": "Jalan galbi panggang arang dekat Benteng Hwaseong."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Paju Jangdan Soybean Village",
+      "ja": "坡州長湍大豆村",
+      "zh": "坡州长湍大豆村",
+      "vi": "Làng đậu nành Jangdan Paju",
+      "id": "Desa Kedelai Jangdan Paju"
+    },
+    "address": {
+      "en": "Jangdan-myeon, Paju",
+      "ja": "坡州市 長湍面",
+      "zh": "坡州市长湍面",
+      "vi": "Jangdan-myeon, Paju",
+      "id": "Jangdan-myeon, Paju"
+    },
+    "description": {
+      "en": "Region famed for premium soybeans used in tofu and traditional Korean meals.",
+      "ja": "豆腐と韓国料理に使われる高級大豆の産地。",
+      "zh": "以制作豆腐与传统韩餐的上等大豆闻名。",
+      "vi": "Vùng nổi tiếng với đậu nành cao cấp dùng làm đậu phụ và món Hàn.",
+      "id": "Wilayah terkenal dengan kedelai premium untuk tofu dan masakan Korea."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gapyeong"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Gapyeong Dakgalbi Street",
+      "ja": "加平タッカルビ通り",
+      "zh": "加平辣炒鸡街",
+      "vi": "Phố dakgalbi Gapyeong",
+      "id": "Jalan Dakgalbi Gapyeong"
+    },
+    "address": {
+      "en": "Gapyeong-eup, Gapyeong",
+      "ja": "加平郡 加平邑",
+      "zh": "加平郡加平邑",
+      "vi": "Gapyeong-eup, Gapyeong",
+      "id": "Gapyeong-eup, Gapyeong"
+    },
+    "description": {
+      "en": "Birthplace region of spicy stir-fried chicken beloved across Korea.",
+      "ja": "韓国全土で愛される激辛炒め鶏の名所エリア。",
+      "zh": "韩国人气辣炒鸡的发源地区域。",
+      "vi": "Vùng quê hương của gà xào cay được yêu thích khắp Hàn Quốc.",
+      "id": "Wilayah asal ayam tumis pedas populer di seluruh Korea."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeonggi",
+      "city": "icheon"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Icheon Rice Cultural Center",
+      "ja": "利川米文化館",
+      "zh": "利川米文化馆",
+      "vi": "Trung tâm Văn hóa Gạo Icheon",
+      "id": "Pusat Budaya Beras Icheon"
+    },
+    "address": {
+      "en": "Icheon-si, Gyeonggi",
+      "ja": "利川市",
+      "zh": "利川市",
+      "vi": "Icheon-si, Gyeonggi",
+      "id": "Icheon-si, Gyeonggi"
+    },
+    "description": {
+      "en": "Experience premium Icheon rice tastings and farm-to-table Korean cuisine.",
+      "ja": "高級利川米の試食と農場直送韓国料理が楽しめる。",
+      "zh": "体验利川优质大米试吃与农场直供韩餐。",
+      "vi": "Trải nghiệm nếm gạo Icheon cao cấp và ẩm thực Hàn farm-to-table.",
+      "id": "Cicipi beras Icheon premium dan masakan Korea farm-to-table."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yongin"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Korean Folk Village",
+      "ja": "韓国民俗村",
+      "zh": "韩国民俗村",
+      "vi": "Làng Dân gian Hàn Quốc",
+      "id": "Desa Rakyat Korea"
+    },
+    "address": {
+      "en": "90 Minsokchon-ro, Yongin",
+      "ja": "龍仁市 民俗村路 90",
+      "zh": "龙仁市民俗村路90",
+      "vi": "90 Minsokchon-ro, Yongin",
+      "id": "90 Minsokchon-ro, Yongin"
+    },
+    "description": {
+      "en": "Living museum and frequent period-drama filming site with traditional performances.",
+      "ja": "時代劇ロケ地としても有名な伝統文化テーマパーク。",
+      "zh": "活态博物馆与常见时代剧取景地，有传统表演。",
+      "vi": "Bảo tàng sống và địa điểm quay phim cổ trang với biểu diễn truyền thống.",
+      "id": "Museum hidup dan lokasi syuting drama period dengan pertunjukan tradisional."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yongin"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Everland Theme Park",
+      "ja": "エバーランド",
+      "zh": "爱宝乐园",
+      "vi": "Công viên Everland",
+      "id": "Taman Everland"
+    },
+    "address": {
+      "en": "199 Everland-ro, Yongin",
+      "ja": "龍仁市 エバーランド路 199",
+      "zh": "龙仁市爱宝乐园路199",
+      "vi": "199 Everland-ro, Yongin",
+      "id": "199 Everland-ro, Yongin"
+    },
+    "description": {
+      "en": "Korea largest theme park hosting K-pop concerts and seasonal festivals.",
+      "ja": "K-POPコンサートや季節イベントが開催される最大級テーマパーク。",
+      "zh": "韩国最大主题公园，举办 K-pop 演唱会与季节节庆。",
+      "vi": "Công viên chủ đề lớn nhất Hàn Quốc với concert K-pop và lễ hội theo mùa.",
+      "id": "Taman tema terbesar Korea dengan konser K-pop dan festival musiman."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Heyri Art Valley",
+      "ja": "ヘイリ芸術村",
+      "zh": "Heyri 艺术村",
+      "vi": "Thung lũng nghệ thuật Heyri",
+      "id": "Lembah Seni Heyri"
+    },
+    "address": {
+      "en": "Heyri-ro, Paju",
+      "ja": "坡州市 ヘイリ路",
+      "zh": "坡州市 Heyri 路",
+      "vi": "Heyri-ro, Paju",
+      "id": "Heyri-ro, Paju"
+    },
+    "description": {
+      "en": "Artist village featured in design shows and indie film productions.",
+      "ja": "デザイン番組やインディーズ映画の舞台。",
+      "zh": "设计节目与独立电影制作常出现的艺术村。",
+      "vi": "Làng nghệ sĩ xuất hiện trong show thiết kế và phim indie.",
+      "id": "Desa seniman yang muncul di show desain dan produksi film indie."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gapyeong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Petite France",
+      "ja": "プチフランス",
+      "zh": "小法国",
+      "vi": "Petite France",
+      "id": "Petite France"
+    },
+    "address": {
+      "en": "1063 Hoban-ro, Gapyeong",
+      "ja": "加平郡 虎班路 1063",
+      "zh": "加平郡虎班路1063",
+      "vi": "1063 Hoban-ro, Gapyeong",
+      "id": "1063 Hoban-ro, Gapyeong"
+    },
+    "description": {
+      "en": "French-themed village famous from Running Man and romantic K-dramas.",
+      "ja": "ランニングマンやロマンスドラマで有名なフランス風村。",
+      "zh": "因 Running Man 与浪漫韩剧闻名的小法国主题村。",
+      "vi": "Làng phong cách Pháp nổi tiếng từ Running Man và K-drama lãng mạn.",
+      "id": "Desa bertema Prancis terkenal dari Running Man dan K-drama romantis."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yongin"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Amore Pacific Beauty Park",
+      "ja": "アモーレパシフィック ビューティーパーク",
+      "zh": "爱茉莉太平洋 Beauty Park",
+      "vi": "Amore Pacific Beauty Park",
+      "id": "Amore Pacific Beauty Park"
+    },
+    "address": {
+      "en": "Yongin-si, Gyeonggi",
+      "ja": "龍仁市",
+      "zh": "龙仁市",
+      "vi": "Yongin-si, Gyeonggi",
+      "id": "Yongin-si, Gyeonggi"
+    },
+    "description": {
+      "en": "Corporate beauty campus showcasing K-beauty R&D and skincare innovation.",
+      "ja": "K-ビューティーの研究開発とイノベーションを紹介する施設。",
+      "zh": "展示 K-beauty 研发与护肤创新的企业美容园区。",
+      "vi": "Khu làm đẹp doanh nghiệp giới thiệu R&D K-beauty và đổi mới skincare.",
+      "id": "Kampus kecantikan korporat tentang R&D K-beauty dan inovasi skincare."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "district": "palddal"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Olive Young Suwon Station",
+      "ja": "オリーブヤング 水原駅",
+      "zh": "Olive Young 水原站",
+      "vi": "Olive Young Ga Suwon",
+      "id": "Olive Young Stasiun Suwon"
+    },
+    "address": {
+      "en": "Paldal-gu, Suwon",
+      "ja": "水原市 八達区",
+      "zh": "水原市八达区",
+      "vi": "Paldal-gu, Suwon",
+      "id": "Paldal-gu, Suwon"
+    },
+    "description": {
+      "en": "Major beauty retailer near Suwon Station with latest Korean cosmetics trends.",
+      "ja": "水原駅近くの最新韓国コスメが揃う大型店。",
+      "zh": "水原站附近汇集最新韩国化妆品潮流的大型门店。",
+      "vi": "Cửa hàng mỹ phẩm lớn gần ga Suwon với xu hướng mỹ phẩm Hàn mới nhất.",
+      "id": "Retailer kecantikan besar dekat Stasiun Suwon dengan tren kosmetik Korea terbaru."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeonggi",
+      "city": "icheon"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Icheon Ceramics Spa Experience",
+      "ja": "利川陶芸スパ体験",
+      "zh": "利川陶瓷 Spa 体验",
+      "vi": "Trải nghiệm Spa Gốm Icheon",
+      "id": "Pengalaman Spa Keramik Icheon"
+    },
+    "address": {
+      "en": "Icheon-si, Gyeonggi",
+      "ja": "利川市",
+      "zh": "利川市",
+      "vi": "Icheon-si, Gyeonggi",
+      "id": "Icheon-si, Gyeonggi"
+    },
+    "description": {
+      "en": "Mineral-rich ceramic clay facial treatments in Koreas ceramics capital.",
+      "ja": "韓国陶磁器の都で楽しむミネラル豊富な陶土フェイシャル。",
+      "zh": "在韩国陶瓷之都体验富含矿物质的陶土面部护理。",
+      "vi": "Liệu pháp mặt đất sét gốm giàu khoáng chất tại thủ đô gốm sứ Hàn Quốc.",
+      "id": "Perawatan wajah tanah liat keramik kaya mineral di ibukota keramik Korea."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Paju Outlet Beauty District",
+      "ja": "坡州アウトレット ビューティーエリア",
+      "zh": "坡州奥特莱斯美妆区",
+      "vi": "Khu mỹ phẩm Outlet Paju",
+      "id": "Distrik Kecantikan Outlet Paju"
+    },
+    "address": {
+      "en": "Paju-si, Gyeonggi",
+      "ja": "坡州市",
+      "zh": "坡州市",
+      "vi": "Paju-si, Gyeonggi",
+      "id": "Paju-si, Gyeonggi"
+    },
+    "description": {
+      "en": "Outlet zone with discounted premium skincare and global beauty brands.",
+      "ja": "プレミアムスキンケアが割引で買えるアウトレットゾーン。",
+      "zh": "以折扣价购买高端护肤与全球美妆品牌的奥特莱斯区。",
+      "vi": "Khu outlet với skincare cao cấp và thương hiệu mỹ phẩm toàn cầu giảm giá.",
+      "id": "Zona outlet dengan skincare premium dan merek kecantikan global diskon."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeonggi",
+      "city": "suwon",
+      "district": "palddal"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Suwon Hwaseong Fortress",
+      "ja": "水原華城",
+      "zh": "水原华城",
+      "vi": "Pháo đài Hwaseong Suwon",
+      "id": "Benteng Hwaseong Suwon"
+    },
+    "address": {
+      "en": "910 Jeongjo-ro, Paldal-gu, Suwon",
+      "ja": "水原市 八達区 正祖路 910",
+      "zh": "水原市八达区正祖路910",
+      "vi": "910 Jeongjo-ro, Paldal-gu, Suwon",
+      "id": "910 Jeongjo-ro, Paldal-gu, Suwon"
+    },
+    "description": {
+      "en": "18th-century UNESCO fortress with lantern festivals and archery experiences.",
+      "ja": "灯篭祭と弓射体験が人気の18世紀UNESCO城郭。",
+      "zh": "十八世纪 UNESCO 城墙，灯笼节与射箭体验受欢迎。",
+      "vi": "Thành lũy UNESCO thế kỷ 18 với lễ hội đèn lồng và bắn cung.",
+      "id": "Benteng UNESCO abad ke-18 dengan festival lentera dan panahan."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yongin"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Yongin Korean Folk Village Performances",
+      "ja": "龍仁民俗村 公演",
+      "zh": "龙仁民俗村 演出",
+      "vi": "Biểu diễn Làng Dân gian Yongin",
+      "id": "Pertunjukan Desa Rakyat Yongin"
+    },
+    "address": {
+      "en": "90 Minsokchon-ro, Yongin",
+      "ja": "龍仁市 民俗村路 90",
+      "zh": "龙仁市民俗村路90",
+      "vi": "90 Minsokchon-ro, Yongin",
+      "id": "90 Minsokchon-ro, Yongin"
+    },
+    "description": {
+      "en": "Traditional wedding, farmer dance, and craft demos in a Joseon-era village setting.",
+      "ja": "朝鮮時代の村で伝統婚礼と農楽を体験。",
+      "zh": "在朝鲜时代村落体验传统婚礼与农乐表演。",
+      "vi": "Đám cưới truyền thống, múa nông乐 và demo thủ công trong làng thời Joseon.",
+      "id": "Pernikahan tradisional, tarian petani, dan demo kerajinan di desa era Joseon."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeonggi",
+      "city": "icheon"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Icheon Ceramics Village",
+      "ja": "利川陶磁器村",
+      "zh": "利川陶瓷村",
+      "vi": "Làng Gốm Icheon",
+      "id": "Desa Keramik Icheon"
+    },
+    "address": {
+      "en": "Sindun-myeon, Icheon",
+      "ja": "利川市 新墩面",
+      "zh": "利川市新墩面",
+      "vi": "Sindun-myeon, Icheon",
+      "id": "Sindun-myeon, Icheon"
+    },
+    "description": {
+      "en": "Centuries-old ceramics heritage with kiln tours and hands-on pottery workshops.",
+      "ja": "窯見学と陶芸体験ができる千年の陶磁器の里。",
+      "zh": "千年陶瓷传统，可参观窑炉并体验陶艺。",
+      "vi": "Di sản gốm sứ hàng thế kỷ với tham quan lò và workshop đọc nặn gốm.",
+      "id": "Warisan keramik berabad-abad dengan tur kiln dan workshop pottery."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeonggi",
+      "city": "paju",
+      "district": "imjingak"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Imjingak Peace Park",
+      "ja": "臨津閣平和公園",
+      "zh": "临津阁和平公园",
+      "vi": "Công viên Hòa bình Imjingak",
+      "id": "Taman Perdamaian Imjingak"
+    },
+    "address": {
+      "en": "Imjingak-ro, Paju",
+      "ja": "坡州市 臨津閣路",
+      "zh": "坡州市临津阁路",
+      "vi": "Imjingak-ro, Paju",
+      "id": "Imjingak-ro, Paju"
+    },
+    "description": {
+      "en": "DMZ-adjacent cultural site with peace monuments and unification exhibitions.",
+      "ja": "DMZ近くの平和記念と統展示が見られる文化施設。",
+      "zh": "毗邻 DMZ 的和平纪念碑与统一主题展览文化场所。",
+      "vi": "Di tích văn hóa gần DMZ với tượng đài hòa bình và triển lãm thống nhất.",
+      "id": "Situs budaya dekat DMZ dengan monumen perdamaian dan pameran reunifikasi."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gapyeong"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Nami Island",
+      "ja": "ナミ島",
+      "zh": "南怡岛",
+      "vi": "Đảo Nami",
+      "id": "Pulau Nami"
+    },
+    "address": {
+      "en": "1 Namisum-gil, Gapyeong",
+      "ja": "加平郡 ナミ島路 1",
+      "zh": "加平郡南怡岛路1",
+      "vi": "1 Namisum-gil, Gapyeong",
+      "id": "1 Namisum-gil, Gapyeong"
+    },
+    "description": {
+      "en": "Tree-lined island park famous from Winter Sonata with seasonal gardens.",
+      "ja": "冬ソナタで有名な並木道の島。季節の花園が美しい。",
+      "zh": "因《冬季恋歌》闻名的林荫岛，季节花园迷人。",
+      "vi": "Đảo cây xanh nổi tiếng từ Winter Sonata với vườn theo mùa.",
+      "id": "Pulau berbarisan pohon terkenal dari Winter Sonata dengan taman musiman."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gapyeong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Garden of Morning Calm",
+      "ja": "晨静樹木園",
+      "zh": "晨静树木园",
+      "vi": "Vườn Morning Calm",
+      "id": "Garden of Morning Calm"
+    },
+    "address": {
+      "en": "432 Sumogwon-ro, Gapyeong",
+      "ja": "加平郡 スモクォン路 432",
+      "zh": "加平郡 Sumogwon 路432",
+      "vi": "432 Sumogwon-ro, Gapyeong",
+      "id": "432 Sumogwon-ro, Gapyeong"
+    },
+    "description": {
+      "en": "Expansive botanical garden with themed valleys, light festivals, and pine forests.",
+      "ja": "テーマ別の谷とライトフェス、松林が広がる植物園。",
+      "zh": "主题山谷、灯光节与松林延展的大型植物园。",
+      "vi": "Vườn bách thảo rộng lớn với thung lũng theo chủ đề, lễ hội ánh sáng và rừng thông.",
+      "id": "Kebun raya luas dengan lembah tematik, festival cahaya, dan hutan pinus."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gapyeong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Cheongpyeong Lake",
+      "ja": "清平湖",
+      "zh": "清平湖",
+      "vi": "Hồ Cheongpyeong",
+      "id": "Danau Cheongpyeong"
+    },
+    "address": {
+      "en": "Cheongpyeong-myeon, Gapyeong",
+      "ja": "加平郡 清平面",
+      "zh": "加平郡清平面",
+      "vi": "Cheongpyeong-myeon, Gapyeong",
+      "id": "Cheongpyeong-myeon, Gapyeong"
+    },
+    "description": {
+      "en": "Reservoir lake surrounded by hills — boating, cycling, and autumn foliage views.",
+      "ja": "ボートとサイクリング、紅葉が楽しめる丘陵の湖。",
+      "zh": "丘陵环绕的水库湖泊，可划船、骑行与赏秋。",
+      "vi": "Hồ chứa giữa đồi — chèo thuyền, đạp xe và ngắm lá thu.",
+      "id": "Danau waduk dikelilingi perbukitan — berperahu, bersepeda, dan dedaunan musim gugur."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yongin"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Everland Rose Garden",
+      "ja": "エバーランド ローズガーデン",
+      "zh": "爱宝乐园玫瑰园",
+      "vi": "Vườn hồng Everland",
+      "id": "Taman Mawar Everland"
+    },
+    "address": {
+      "en": "199 Everland-ro, Yongin",
+      "ja": "龍仁市 エバーランド路 199",
+      "zh": "龙仁市爱宝乐园路199",
+      "vi": "199 Everland-ro, Yongin",
+      "id": "199 Everland-ro, Yongin"
+    },
+    "description": {
+      "en": "Seasonal rose displays and landscaped gardens within Everland theme park.",
+      "ja": "エバーランド内の季節のバラ園。整備されたガーデンが魅力。",
+      "zh": "爱宝乐园内季节性玫瑰展与精心设计的园林。",
+      "vi": "Triển lãm hoa hồng theo mùa và vườn cảnh quan trong Everland.",
+      "id": "Pameran mawar musiman dan taman lansekap di Everland."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gangneung Chodang Soondubu Village",
+      "ja": "江陵草堂純豆腐村",
+      "zh": "江陵草堂纯豆腐村",
+      "vi": "Làng soondubu Chodang Gangneung",
+      "id": "Desa Soondubu Chodang Gangneung"
+    },
+    "address": {
+      "en": "Chodang-dong, Gangneung",
+      "ja": "江陵市 草堂洞",
+      "zh": "江陵市草堂洞",
+      "vi": "Chodang-dong, Gangneung",
+      "id": "Chodang-dong, Gangneung"
+    },
+    "description": {
+      "en": "Birthplace of chodang soondubu — silky soft tofu stew by the East Sea.",
+      "ja": "東海のほとりで味わう江陵発祥の滑らかな純豆腐。",
+      "zh": "东海畔品尝江陵发源的滑嫩纯豆腐锅。",
+      "vi": "Quê hương chodang soondubu — canh đậu phụ mềm mịn bên biển Đông.",
+      "id": "Kampung halaman chodang soondubu — stew tahu lembut di Laut Timur."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gangwon",
+      "city": "chuncheon"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Chuncheon Dakgalbi Street",
+      "ja": "春川タッカルビ通り",
+      "zh": "春川辣炒鸡街",
+      "vi": "Phố dakgalbi Chuncheon",
+      "id": "Jalan Dakgalbi Chuncheon"
+    },
+    "address": {
+      "en": "Myeongdong-gil, Chuncheon",
+      "ja": "春川市 明洞街",
+      "zh": "春川市明洞街",
+      "vi": "Myeongdong-gil, Chuncheon",
+      "id": "Myeongdong-gil, Chuncheon"
+    },
+    "description": {
+      "en": "Original dakgalbi alley where spicy chicken is stir-fried at your table.",
+      "ja": "発祥地でテーブル上で炒める激辛タッカルビ。",
+      "zh": "发源地现炒辣炒鸡的经典美食街。",
+      "vi": "Phố dakgalbi gốc — gà xào cay ngay trên bàn ăn.",
+      "id": "Jalan dakgalbi asli dengan ayam tumis pedas di meja Anda."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gangwon",
+      "city": "sokcho"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Sokcho Abai Sundubu Village",
+      "ja": "束草 アバイ純豆腐村",
+      "zh": "束草 Abai 纯豆腐村",
+      "vi": "Làng sundubu Abai Sokcho",
+      "id": "Desa Sundubu Abai Sokcho"
+    },
+    "address": {
+      "en": "Abai Village, Sokcho",
+      "ja": "束草市 アバイ村",
+      "zh": "束草市 Abai 村",
+      "vi": "Abai Village, Sokcho",
+      "id": "Abai Village, Sokcho"
+    },
+    "description": {
+      "en": "North Korean refugee village famous for Abai sundubu and squid sundae.",
+      "ja": "北から移住した住民の純豆腐とイカソンデが名物。",
+      "zh": "北迁居民制作的纯豆腐与鱿鱼血肠是名物。",
+      "vi": "Làng tị nạn nổi tiếng với sundubu Abai và sundae mực.",
+      "id": "Desa pengungsi terkenal dengan sundubu Abai dan sundae cumi."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gangwon",
+      "city": "pyeongchang"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Pyeongchang Hanwoo Market",
+      "ja": "平昌韓牛市場",
+      "zh": "平昌韩牛市集",
+      "vi": "Chợ hanwoo Pyeongchang",
+      "id": "Pasar Hanwoo Pyeongchang"
+    },
+    "address": {
+      "en": "Pyeongchang-eup, Pyeongchang",
+      "ja": "平昌郡 平昌邑",
+      "zh": "平昌郡平昌邑",
+      "vi": "Pyeongchang-eup, Pyeongchang",
+      "id": "Pyeongchang-eup, Pyeongchang"
+    },
+    "description": {
+      "en": "Mountain-region hanwoo market serving premium beef after Olympic tourism boom.",
+      "ja": "オリンピック後に人気の山地韓牛グルメ。",
+      "zh": "奥运旅游热潮后人气上升的山地韩牛美食。",
+      "vi": "Chợ hanwoo vùng núi phục vụ thịt bò cao cấp sau làn sóng du lịch Olympic.",
+      "id": "Pasar hanwoo pegunungan dengan daging sapi premium pasca-Olimpiade."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "BTS Bus Stop Maengbang Beach",
+      "ja": "BTSバス停 馬房浦",
+      "zh": "BTS 公交站 马房浦",
+      "vi": "Trạm xe buýt BTS Maengbang",
+      "id": "Halte Bus BTS Maengbang"
+    },
+    "address": {
+      "en": "Maengbang Beach, Gangneung",
+      "ja": "江陵市 馬房浦海水浴場",
+      "zh": "江陵市马房浦海水浴场",
+      "vi": "Maengbang Beach, Gangneung",
+      "id": "Maengbang Beach, Gangneung"
+    },
+    "description": {
+      "en": "Iconic Spring Day bus stop pilgrimage spot for ARMY with ocean views.",
+      "ja": "BTS「Spring Day」ジャケット撮影地。ARMYの聖地。",
+      "zh": "BTS《Spring Day》封面拍摄地，ARMY 巡礼热门 spot。",
+      "vi": "Trạm xe buýt biểu tượng Spring Day — điểm hành hương của ARMY bên biển.",
+      "id": "Halte bus ikonik Spring Day — spot ziarah ARMY dengan pemandangan laut."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Jumunjin Beach Breakwater",
+      "ja": "注文津防波堤",
+      "zh": "注文津防波堤",
+      "vi": "Đê chắn sóng Jumunjin",
+      "id": "Pemecah Gelombang Jumunjin"
+    },
+    "address": {
+      "en": "Jumunjin, Gangneung",
+      "ja": "江陵市 注文津",
+      "zh": "江陵市注文津",
+      "vi": "Jumunjin, Gangneung",
+      "id": "Jumunjin, Gangneung"
+    },
+    "description": {
+      "en": "Goblin filming location — dramatic breakwater scenes with East Sea waves.",
+      "ja": "ドラマ「トッケビ」ロケ地。東海の波と防波堤。",
+      "zh": "《鬼怪》取景地，东海波浪与防波堤的戏剧性场景。",
+      "vi": "Địa điểm quay Goblin — cảnh đê chắn sóng với sóng biển Đông.",
+      "id": "Lokasi syuting Goblin — adegan pemecah gelombang dengan ombak Laut Timur."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Anmok Coffee Street",
+      "ja": "安木コーヒー通り",
+      "zh": "安木咖啡街",
+      "vi": "Phố cafe Anmok",
+      "id": "Jalan Kafe Anmok"
+    },
+    "address": {
+      "en": "Anmok-dong, Gangneung",
+      "ja": "江陵市 安木洞",
+      "zh": "江陵市安木洞",
+      "vi": "Anmok-dong, Gangneung",
+      "id": "Anmok-dong, Gangneung"
+    },
+    "description": {
+      "en": "Beachfront cafe row featured in Goblin and travel variety shows.",
+      "ja": "「トッケビ」や旅行番組で登場する海辺のカフェ通り。",
+      "zh": "《鬼怪》与旅行综艺常出现的海滨咖啡街。",
+      "vi": "Dãy cafe ven biển xuất hiện trong Goblin và variety show du lịch.",
+      "id": "Barisan kafe tepi pantai di Goblin dan variety show wisata."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gangwon",
+      "city": "pyeongchang"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Alpensia Resort",
+      "ja": "アルペンシアリゾート",
+      "zh": "Alpensia 度假村",
+      "vi": "Alpensia Resort",
+      "id": "Alpensia Resort"
+    },
+    "address": {
+      "en": "325 Solbong-ro, Pyeongchang",
+      "ja": "平昌郡 ソルボン路 325",
+      "zh": "平昌郡 Solbong 路325",
+      "vi": "325 Solbong-ro, Pyeongchang",
+      "id": "325 Solbong-ro, Pyeongchang"
+    },
+    "description": {
+      "en": "2018 Winter Olympics venue and K-drama winter resort backdrop.",
+      "ja": "平昌五輪会場。ドラマの冬リゾートロケ地。",
+      "zh": "2018 冬奥会场馆与韩剧冬季度假村取景地。",
+      "vi": "Địa điểm Olympic Mùa đông 2018 và bối cảnh resort mùa đông K-drama.",
+      "id": "Venue Olimpiade Musim Dingin 2018 dan latar resort musim dingin K-drama."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gangwon",
+      "city": "pyeongchang"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "O2 Resort Spa Pyeongchang",
+      "ja": "O2リゾートスパ 平昌",
+      "zh": "O2 Resort Spa 平昌",
+      "vi": "O2 Resort Spa Pyeongchang",
+      "id": "O2 Resort Spa Pyeongchang"
+    },
+    "address": {
+      "en": "O2 Valley, Pyeongchang",
+      "ja": "平昌郡 O2バレー",
+      "zh": "平昌郡 O2 Valley",
+      "vi": "O2 Valley, Pyeongchang",
+      "id": "O2 Valley, Pyeongchang"
+    },
+    "description": {
+      "en": "Alpine spa with oxygen therapy pools and post-ski recovery treatments.",
+      "ja": "酸素セラピーとスキー後リカバリーが人気のアルパインスパ。",
+      "zh": "高山 spa，氧气疗法池与滑雪后恢复护理受欢迎。",
+      "vi": "Spa alpine với bể liệu pháp oxy và phục hồi sau trượt tuyết.",
+      "id": "Spa alpine dengan kolam terapi oksigen dan recovery pasca-ski."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Anmok Spa Street",
+      "ja": "安木スパ通り",
+      "zh": "安木 Spa 街",
+      "vi": "Phố spa Anmok",
+      "id": "Jalan Spa Anmok"
+    },
+    "address": {
+      "en": "Anmok-dong, Gangneung",
+      "ja": "江陵市 安木洞",
+      "zh": "江陵市安木洞",
+      "vi": "Anmok-dong, Gangneung",
+      "id": "Anmok-dong, Gangneung"
+    },
+    "description": {
+      "en": "Coastal wellness strip offering seaside facials and mineral foot baths.",
+      "ja": "海辺のフェイシャルとミネラル足湯が楽しめるウェルネス通り。",
+      "zh": "海滨 wellness 街，提供海边面部护理与矿物足浴。",
+      "vi": "Phố wellness ven biển với facial và ngâm chân khoáng chất.",
+      "id": "Jalan wellness pesisir dengan facial dan foot bath mineral."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gangwon",
+      "city": "chuncheon"
+    },
+    "rating": 4.2,
+    "name": {
+      "en": "Chuncheon Beauty Street",
+      "ja": "春川ビューティー通り",
+      "zh": "春川美妆街",
+      "vi": "Phố mỹ phẩm Chuncheon",
+      "id": "Jalan Kecantikan Chuncheon"
+    },
+    "address": {
+      "en": "Jungang-ro, Chuncheon",
+      "ja": "春川市 中央路",
+      "zh": "春川市中央路",
+      "vi": "Jungang-ro, Chuncheon",
+      "id": "Jungang-ro, Chuncheon"
+    },
+    "description": {
+      "en": "Downtown beauty shops serving locals and Sokcho-Seoraksan tourists.",
+      "ja": "_localsとソクチョ観光客に人気の美容商店街。",
+      "zh": "服务本地与束草/雪岳山游客的美妆商业街。",
+      "vi": "Phố mỹ phẩm phục vụ dân địa phương và khách du lịch Sokcho-Seoraksan.",
+      "id": "Jalan kecantikan untuk warga lokal dan turis Sokcho-Seoraksan."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gangwon",
+      "city": "sokcho"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Seoraksan Hot Springs Spa",
+      "ja": "雪岳山 温泉スパ",
+      "zh": "雪岳山 温泉 Spa",
+      "vi": "Spa suối nóng Seoraksan",
+      "id": "Spa Pemandian Seoraksan"
+    },
+    "address": {
+      "en": "Seoraksan-ro, Sokcho",
+      "ja": "束草市 雪岳山路",
+      "zh": "束草市雪岳山路",
+      "vi": "Seoraksan-ro, Sokcho",
+      "id": "Seoraksan-ro, Sokcho"
+    },
+    "description": {
+      "en": "Mountain hot-spring spa easing sore muscles after Seoraksan hiking.",
+      "ja": "雪岳山ハイキング後の疲れを癒す山間温泉スパ。",
+      "zh": "雪岳山徒步后放松肌肉的山区温泉 spa。",
+      "vi": "Spa suối nóng núi giúp thư giãn sau leo núi Seoraksan.",
+      "id": "Spa pemandian air panas gunung setelah hiking Seoraksan."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Ojukheon House",
+      "ja": "オジュクheon",
+      "zh": "乌竹轩",
+      "vi": "Nhà Ojukheon",
+      "id": "Rumah Ojukheon"
+    },
+    "address": {
+      "en": "24 Yulgok-ro, Gangneung",
+      "ja": "江陵市 栗谷路 24",
+      "zh": "江陵市栗谷路24",
+      "vi": "24 Yulgok-ro, Gangneung",
+      "id": "24 Yulgok-ro, Gangneung"
+    },
+    "description": {
+      "en": "Birthplace of scholar Yulgok Yi I and poet Shin Saimdang — Joseon heritage home.",
+      "ja": "栗谷李珥と申師任堂ゆかりの朝鮮時代の邸宅。",
+      "zh": "栗谷李珥与申师任堂相关的朝鲜时代宅邸。",
+      "vi": "Nơi sinh của học giả Yulgok Yi I và nhà thơ Shin Saimdang — di sản Joseon.",
+      "id": "Tempat lahir sarjana Yulgok Yi I dan penyair Shin Saimdang — rumah warisan Joseon."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Seongyojang House",
+      "ja": "船橋庄",
+      "zh": "船桥庄",
+      "vi": "Nhà Seongyojang",
+      "id": "Rumah Seongyojang"
+    },
+    "address": {
+      "en": "Gangneung-si, Gangwon",
+      "ja": "江陵市",
+      "zh": "江陵市",
+      "vi": "Gangneung-si, Gangwon",
+      "id": "Gangneung-si, Gangwon"
+    },
+    "description": {
+      "en": "Well-preserved yangban estate showcasing traditional Gangwon aristocratic life.",
+      "ja": "江陵の両班文化を示す保存状態の良い邸宅。",
+      "zh": "保存完好的两班宅邸，展示江原 aristocratic 生活。",
+      "vi": "Dinh thự yangban được bảo tồn tốt thể hiện đời sống quý tộc Gangwon.",
+      "id": "Estates yangban terpelihara menampilkan kehidupan aristokrat Gangwon."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gangwon",
+      "city": "chuncheon"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Chuncheon Puppet Theater",
+      "ja": "春川人形劇場",
+      "zh": "春川木偶剧场",
+      "vi": "Nhà hát múa rối Chuncheon",
+      "id": "Teater Boneka Chuncheon"
+    },
+    "address": {
+      "en": "Jungang-ro, Chuncheon",
+      "ja": "春川市 中央路",
+      "zh": "春川市中央路",
+      "vi": "Jungang-ro, Chuncheon",
+      "id": "Jungang-ro, Chuncheon"
+    },
+    "description": {
+      "en": "Renowned puppet theater and cultural hub on Chuncheon lakeside.",
+      "ja": "春川湖畔の人形劇場。地域文化の拠点。",
+      "zh": "春川湖畔著名木偶剧场与区域文化中心。",
+      "vi": "Nhà hát múa rối nổi tiếng bên hồ Chuncheon.",
+      "id": "Teater boneka terkenal di tepi danau Chuncheon."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gangwon",
+      "city": "yangyang"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Naksansa Temple",
+      "ja": "洛山寺",
+      "zh": "洛山寺",
+      "vi": "Chùa Naksansa",
+      "id": "Kuil Naksansa"
+    },
+    "address": {
+      "en": "100 Naksansa-ro, Yangyang",
+      "ja": "襄陽郡 洛山寺路 100",
+      "zh": "襄阳郡洛山寺路100",
+      "vi": "100 Naksansa-ro, Yangyang",
+      "id": "100 Naksansa-ro, Yangyang"
+    },
+    "description": {
+      "en": "1,300-year-old seaside temple with Uisang legend and coastal pine trails.",
+      "ja": "海辺の古刹。義湘伝説と松の遊歩道。",
+      "zh": "1300年海边古刹，义湘传说与松木步道。",
+      "vi": "Chùa cổ bên biển 1300 năm với truyền thuyết Uisang và lối thông qua thông.",
+      "id": "Kuil kuno tepi laut 1300 tahun dengan legenda Uisang dan jalur pinus."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gangwon",
+      "city": "sokcho"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Seoraksan National Park",
+      "ja": "雪岳山国立公園",
+      "zh": "雪岳山国立公园",
+      "vi": "Vườn quốc gia Seoraksan",
+      "id": "Taman Nasional Seoraksan"
+    },
+    "address": {
+      "en": "Seoraksan-ro, Sokcho",
+      "ja": "束草市 雪岳山路",
+      "zh": "束草市雪岳山路",
+      "vi": "Seoraksan-ro, Sokcho",
+      "id": "Seoraksan-ro, Sokcho"
+    },
+    "description": {
+      "en": "Granite peaks, autumn foliage, and cable car views — Korea premier mountain park.",
+      "ja": "花崗岩の峰と紅葉、ロープウェイが魅力の代表的山岳公園。",
+      "zh": "花岗岩山峰、秋叶与缆车景观 — 韩国代表性山岳公园。",
+      "vi": "Đỉnh đá granite, lá thu và cáp treo — công viên núi hàng đầu Hàn Quốc.",
+      "id": "Puncak granit, dedaunan musim gugur, dan gondola — taman gunung utama Korea."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gangwon",
+      "city": "pyeongchang"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Odaesan National Park",
+      "ja": "五台山国立公園",
+      "zh": "五台山国立公园",
+      "vi": "Vườn quốc gia Odaesan",
+      "id": "Taman Nasional Odaesan"
+    },
+    "address": {
+      "en": "Jinbu-myeon, Pyeongchang",
+      "ja": "平昌郡 珍富面",
+      "zh": "平昌郡珍富面",
+      "vi": "Jinbu-myeon, Pyeongchang",
+      "id": "Jinbu-myeon, Pyeongchang"
+    },
+    "description": {
+      "en": "Sacred mountain park with Woljeongsa Temple and winter snowscape trails.",
+      "ja": "月精寺と冬の雪景色が美しい霊山国立公園。",
+      "zh": "月精寺与冬季雪景步道，神圣山岳国立公园。",
+      "vi": "Công viên núi thiêng với chùa Woljeongsa và đường mòn phong cảnh tuyết mùa đông.",
+      "id": "Taman gunung suci dengan Kuil Woljeongsa dan jalur pemandangan salju musim dingin."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gyeongpo Beach",
+      "ja": "鏡浦海水浴場",
+      "zh": "镜浦海水浴场",
+      "vi": "Bãi biển Gyeongpo",
+      "id": "Pantai Gyeongpo"
+    },
+    "address": {
+      "en": "Gyeongpo-ro, Gangneung",
+      "ja": "江陵市 鏡浦路",
+      "zh": "江陵市镜浦路",
+      "vi": "Gyeongpo-ro, Gangneung",
+      "id": "Gyeongpo-ro, Gangneung"
+    },
+    "description": {
+      "en": "Wide sandy beach beside Gyeongpo Lake with pine-lined coastal walks.",
+      "ja": "鏡浦湖に面した広い砂浜。松並木の海岸散歩。",
+      "zh": "镜浦湖旁的宽阔沙滩，松木海岸步道。",
+      "vi": "Bãi cát rộng bên hồ Gyeongpo với lối đi ven biển rừng thông.",
+      "id": "Pantai pasir luas di samping Danau Gyeongpo dengan jalur pesisir pinus."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gangwon",
+      "city": "pyeongchang"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Daegwallyeong Sheep Farm",
+      "ja": "大関嶺羊牧場",
+      "zh": "大关岭羊牧场",
+      "vi": "Trang trại cừu Daegwallyeong",
+      "id": "Peternakan Domba Daegwallyeong"
+    },
+    "address": {
+      "en": "Daegwallyeong-myeon, Pyeongchang",
+      "ja": "平昌郡 大関嶺面",
+      "zh": "平昌郡大关岭面",
+      "vi": "Daegwallyeong-myeon, Pyeongchang",
+      "id": "Daegwallyeong-myeon, Pyeongchang"
+    },
+    "description": {
+      "en": "Rolling alpine meadow with grazing sheep and panoramic mountain views.",
+      "ja": "羊が放牧される高原牧場。山のパノラマが広がる。",
+      "zh": "绵羊放牧的高原牧场，山景全景开阔。",
+      "vi": "Đồng cỏ alpine với cừu gặm cỏ và toàn cảnh núi non.",
+      "id": "Padang rumput alpine dengan domba merumput dan pemandangan gunung panoramik."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "andong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Andong Jjimdak Alley",
+      "ja": "安東チムダク通り",
+      "zh": "安东炖鸡街",
+      "vi": "Phố jjimdak Andong",
+      "id": "Jalan Jjimdak Andong"
+    },
+    "address": {
+      "en": "Andong Old Market, Andong",
+      "ja": "安東市 旧市場",
+      "zh": "安东市旧市场",
+      "vi": "Andong Old Market, Andong",
+      "id": "Andong Old Market, Andong"
+    },
+    "description": {
+      "en": "Home of Andong jjimdak — soy-braised chicken with glass noodles and vegetables.",
+      "ja": "安東発祥の soy 煮込み鶏と春雨の名物料理。",
+      "zh": "安东炖鸡发源地，酱油炖鸡配粉丝与蔬菜。",
+      "vi": "Quê hương Andong jjimdak — gà hầm xì dầu với miến và rau.",
+      "id": "Kampung halaman Andong jjimdak — ayam rebus kecap dengan soun dan sayur."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Gyeongju Hwangnam Bread Street",
+      "ja": "慶州黄南パン通り",
+      "zh": "庆州黄南面包街",
+      "vi": "Phố bánh Hwangnam Gyeongju",
+      "id": "Jalan Roti Hwangnam Gyeongju"
+    },
+    "address": {
+      "en": "Hwangnam-dong, Gyeongju",
+      "ja": "慶州市 黄南洞",
+      "zh": "庆州市黄南洞",
+      "vi": "Hwangnam-dong, Gyeongju",
+      "id": "Hwangnam-dong, Gyeongju"
+    },
+    "description": {
+      "en": "Famous red-bean pastry Gyeongju bread sold warm from traditional bakeries.",
+      "ja": "あんこ入り慶州パンが並ぶ伝統的なベーカリー通り。",
+      "zh": "红豆庆州面包从传统面包店热腾腾出售。",
+      "vi": "Bánh Gyeongju nhân đậu đỏ bán nóng từ tiệm bánh truyền thống.",
+      "id": "Roti Gyeongju isi kacang merah dijual hangat dari bakery tradisional."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "pohang"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Jukdo Market Pohang",
+      "ja": "竹島市場",
+      "zh": "竹岛市场",
+      "vi": "Chợ Jukdo Pohang",
+      "id": "Pasar Jukdo Pohang"
+    },
+    "address": {
+      "en": "Jukdo-dong, Pohang",
+      "ja": "浦項市 竹島洞",
+      "zh": "浦项市竹岛洞",
+      "vi": "Jukdo-dong, Pohang",
+      "id": "Jukdo-dong, Pohang"
+    },
+    "description": {
+      "en": "East Sea port market with fresh mulhoe, crab, and grilled seafood stalls.",
+      "ja": "東海の港市場。ムルフェとカニ、焼き魚介が並ぶ。",
+      "zh": "东海港口市场，生拌海鲜、螃蟹与烤海鲜摊位。",
+      "vi": "Chợ cảng biển Đông với mulhoe, cua và hải sản nướng tươi.",
+      "id": "Pasar pelabuhan Laut Timur dengan mulhoe, kepiting, dan seafood panggang."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Gyeongju Traditional Liquor Street",
+      "ja": "慶州伝統酒通り",
+      "zh": "庆州传统酒街",
+      "vi": "Phố rượu truyền thống Gyeongju",
+      "id": "Jalan Minuman Tradisional Gyeongju"
+    },
+    "address": {
+      "en": "Gyeongju-si, Gyeongbuk",
+      "ja": "慶州市",
+      "zh": "庆州市",
+      "vi": "Gyeongju-si, Gyeongbuk",
+      "id": "Gyeongju-si, Gyeongbuk"
+    },
+    "description": {
+      "en": "Sample Silla-era rice wines and herbal makgeolli in historic Gyeongju alleys.",
+      "ja": "新羅時代の伝統酒とマッコリを味わえる路地。",
+      "zh": "在新罗时代庆州巷弄品尝传统米酒与药草马格利。",
+      "vi": "Thưởng thức rượu gạo thời Silla và makgeolli thảo mộc ở hẻm Gyeongju.",
+      "id": "Cicipi arak beras era Silla dan makgeolli herbal di gang Gyeongju."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "andong",
+      "district": "hahoe"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Andong Hahoe Mask Festival Site",
+      "ja": "河回マスク祭会場",
+      "zh": "河回面具节会场",
+      "vi": "Sân lễ hội mặt nạ Hahoe",
+      "id": "Lokasi Festival Topeng Hahoe"
+    },
+    "address": {
+      "en": "Hahoe Folk Village, Andong",
+      "ja": "安東市 河回民俗村",
+      "zh": "安东市河回民俗村",
+      "vi": "Hahoe Folk Village, Andong",
+      "id": "Hahoe Folk Village, Andong"
+    },
+    "description": {
+      "en": "Annual mask dance festival preserving UNESCO-listed folk performance traditions.",
+      "ja": "UNESCO無形遺産の仮面踊り祭りの会場。",
+      "zh": "保存 UNESCO 民间表演传统的年度面具舞节会场。",
+      "vi": "Địa điểm lễ hội múa mặt nạ hàng năm bảo tồn di sản dân gian UNESCO.",
+      "id": "Lokasi festival tarian topeng tahunan melestarikan tradisi pertunjukan rakyat UNESCO."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Bulguksa Drama Filming Grounds",
+      "ja": "仏国寺 ドラマロケ地",
+      "zh": "佛国寺 韩剧取景地",
+      "vi": "Khu quay phim Bulguksa",
+      "id": "Lokasi Syuting Bulguksa"
+    },
+    "address": {
+      "en": "Bulguksa-ro, Gyeongju",
+      "ja": "慶州市 仏国寺路",
+      "zh": "庆州市佛国寺路",
+      "vi": "Bulguksa-ro, Gyeongju",
+      "id": "Bulguksa-ro, Gyeongju"
+    },
+    "description": {
+      "en": "Historic temple backdrop featured in period K-dramas about Silla kingdom.",
+      "ja": "新羅時代を描く時代劇のロケ地として知られる古刹。",
+      "zh": "作为描绘新罗时代时代剧取景地而闻名的古刹。",
+      "vi": "Bối cảnh chùa cổ xuất hiện trong K-drama cổ trang về vương quốc Silla.",
+      "id": "Latar kuil bersejarah dalam K-drama period tentang kerajaan Silla."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Queen Seondeok Filming Village",
+      "ja": "善徳女王ロケ村",
+      "zh": "善德女王取景村",
+      "vi": "Làng quay phim Queen Seondeok",
+      "id": "Desa Syuting Queen Seondeok"
+    },
+    "address": {
+      "en": "Gyeongju-si, Gyeongbuk",
+      "ja": "慶州市",
+      "zh": "庆州市",
+      "vi": "Gyeongju-si, Gyeongbuk",
+      "id": "Gyeongju-si, Gyeongbuk"
+    },
+    "description": {
+      "en": "Gyeongju sites connected to Queen Seondeok drama and Silla royal history tours.",
+      "ja": "善徳女王ドラマと新羅王宮史跡ツアーの拠点。",
+      "zh": "与《善德女王》及新罗王宫史迹 tour 相关的庆州景点。",
+      "vi": "Điểm Gyeongju liên quan drama Queen Seondeok và tour lịch sử hoàng gia Silla.",
+      "id": "Situs Gyeongju terkait drama Queen Seondeok dan tur sejarah kerajaan Silla."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "andong"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Andong International Maskdance Festival",
+      "ja": "安東国際マスクダンスフェスティバル",
+      "zh": "安东国际面具舞节",
+      "vi": "Lễ hội múa mặt nạ quốc tế Andong",
+      "id": "Festival Tarian Topeng Internasional Andong"
+    },
+    "address": {
+      "en": "Andong-si, Gyeongbuk",
+      "ja": "安東市",
+      "zh": "安东市",
+      "vi": "Andong-si, Gyeongbuk",
+      "id": "Andong-si, Gyeongbuk"
+    },
+    "description": {
+      "en": "Global folk performance festival drawing artists and K-culture tourists to Andong.",
+      "ja": "世界の民俗芸能が集うKカルチャー観光イベント。",
+      "zh": "汇聚全球民间表演的艺术与 K-culture 旅游盛会。",
+      "vi": "Lễ hội biểu diễn dân gian toàn cầu thu hút nghệ sĩ và du khách K-culture đến Andong.",
+      "id": "Festival pertunjukan rakyat global menarik artis dan turis K-culture ke Andong."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Gyeongju Spa Hilton",
+      "ja": "慶州ヒルトンスパ",
+      "zh": "庆州希尔顿 Spa",
+      "vi": "Spa Hilton Gyeongju",
+      "id": "Spa Hilton Gyeongju"
+    },
+    "address": {
+      "en": "644 Sinpyeong-dong, Gyeongju",
+      "ja": "慶州市 新坪洞",
+      "zh": "庆州市新坪洞",
+      "vi": "644 Sinpyeong-dong, Gyeongju",
+      "id": "644 Sinpyeong-dong, Gyeongju"
+    },
+    "description": {
+      "en": "Luxury hotel spa blending Silla herbal traditions with modern skincare.",
+      "ja": "新羅のハーブ伝統と現代スキンケアを融合したラグジュアリースパ。",
+      "zh": "融合新罗草药传统与现代护肤的 luxury spa。",
+      "vi": "Spa khách sạn cao cấp kết hợp truyền thống thảo dược Silla và skincare hiện đại.",
+      "id": "Spa hotel mewah menggabungkan tradisi herbal Silla dan skincare modern."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "andong"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Andong Hanji Beauty Workshop",
+      "ja": "安東韓紙ビューティー工房",
+      "zh": "安东韩纸美容工坊",
+      "vi": "Xưởng làm đẹp giấy Hanji Andong",
+      "id": "Workshop Kecantikan Hanji Andong"
+    },
+    "address": {
+      "en": "Andong Hanji Theme Park, Andong",
+      "ja": "安東市 韓紙テーマパーク",
+      "zh": "安东市韩纸主题公园",
+      "vi": "Andong Hanji Theme Park, Andong",
+      "id": "Andong Hanji Theme Park, Andong"
+    },
+    "description": {
+      "en": "Handmade hanji sheet masks and paper-craft beauty souvenirs from Andong artisans.",
+      "ja": "安東の職人による韓紙シートマスクと工芸品。",
+      "zh": "安东匠人制作的韩纸面膜与纸艺美容纪念品。",
+      "vi": "Mặt nạ giấy hanji thủ công và quà lưu niệm làm đẹp từ nghệ nhân Andong.",
+      "id": "Sheet mask hanji buatan tangan dan souvenir kecantikan dari pengrajin Andong."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "pohang"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Pohang Spa Valley",
+      "ja": "浦項スパバレー",
+      "zh": "浦项 Spa Valley",
+      "vi": "Pohang Spa Valley",
+      "id": "Pohang Spa Valley"
+    },
+    "address": {
+      "en": "Pohang-si, Gyeongbuk",
+      "ja": "浦項市",
+      "zh": "浦项市",
+      "vi": "Pohang-si, Gyeongbuk",
+      "id": "Pohang-si, Gyeongbuk"
+    },
+    "description": {
+      "en": "Coastal spa complex with seawater pools and post-steel-city wellness retreats.",
+      "ja": "海水プールとウェルネスリトリートが人気の海岸スパ。",
+      "zh": "海水池与 wellness 静修受欢迎的海滨 spa 综合体。",
+      "vi": "Complex spa ven biển với bể nước biển và retreat wellness.",
+      "id": "Kompleks spa pesisir dengan kolam air laut dan retreat wellness."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gyeongju Oriental Medicine Beauty",
+      "ja": "慶州韓方ビューティー",
+      "zh": "庆州韩方美容",
+      "vi": "Làm đẹp y học cổ truyền Gyeongju",
+      "id": "Kecantikan Pengobatan Oriental Gyeongju"
+    },
+    "address": {
+      "en": "Gyeongju-si, Gyeongbuk",
+      "ja": "慶州市",
+      "zh": "庆州市",
+      "vi": "Gyeongju-si, Gyeongbuk",
+      "id": "Gyeongju-si, Gyeongbuk"
+    },
+    "description": {
+      "en": "Hanbang herbal facials and acupuncture wellness rooted in Silla medical history.",
+      "ja": "新羅の医学史に根ざした韓方フェイシャルと鍼 wellness。",
+      "zh": "根植新罗医学史的韩方草药面部护理与针灸 wellness。",
+      "vi": "Facial thảo dược Hanbang và wellness châm cứu từ lịch sử y học Silla.",
+      "id": "Facial herbal Hanbang dan wellness akupunktur dari sejarah medis Silla."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "andong",
+      "district": "hahoe"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Andong Hahoe Folk Village",
+      "ja": "河回民俗村",
+      "zh": "安东河回民俗村",
+      "vi": "Làng dân gian Hahoe Andong",
+      "id": "Desa Rakyat Hahoe Andong"
+    },
+    "address": {
+      "en": "1867 Jongga-gil, Pungcheon-myeon, Andong",
+      "ja": "安東市 豊川面 宗家ギル 1867",
+      "zh": "安东市丰川面宗家街1867",
+      "vi": "1867 Jongga-gil, Pungcheon-myeon, Andong",
+      "id": "1867 Jongga-gil, Pungcheon-myeon, Andong"
+    },
+    "description": {
+      "en": "UNESCO riverside village preserving yangban clan traditions and mask dances.",
+      "ja": "UNESCOに登録された川沿いの両班村落。仮面踊りが残る。",
+      "zh": "联合国教科文组织列入的河畔两班村落，保留面具舞。",
+      "vi": "Làng ven sông UNESCO bảo tồn truyền thống yangban và múa mặt nạ.",
+      "id": "Desa tepi sungai UNESCO melestarikan tradisi yangban dan tarian topeng."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Bulguksa Temple",
+      "ja": "仏国寺",
+      "zh": "佛国寺",
+      "vi": "Chùa Bulguksa",
+      "id": "Kuil Bulguksa"
+    },
+    "address": {
+      "en": "385 Bulguksa-ro, Gyeongju",
+      "ja": "慶州市 仏国寺路 385",
+      "zh": "庆州市佛国寺路385",
+      "vi": "385 Bulguksa-ro, Gyeongju",
+      "id": "385 Bulguksa-ro, Gyeongju"
+    },
+    "description": {
+      "en": "UNESCO Silla-era temple masterpiece with stone pagodas and lotus ponds.",
+      "ja": "石塔と蓮池が美しいUNESCO新羅時代の寺院。",
+      "zh": "石塔与莲池优美的 UNESCO 新罗时代寺庙杰作。",
+      "vi": "Kiệt tác chùa thời Silla UNESCO với tháp đá và ao sen.",
+      "id": "Obra maestra kuil era Silla UNESCO dengan pagoda batu dan kolam teratai."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Seokguram Grotto",
+      "ja": "石窟庵",
+      "zh": "石窟庵",
+      "vi": "Hang Seokguram",
+      "id": "Gua Seokguram"
+    },
+    "address": {
+      "en": "874-1 Bulguksa-ro, Gyeongju",
+      "ja": "慶州市 仏国寺路 874-1",
+      "zh": "庆州市佛国寺路874-1",
+      "vi": "874-1 Bulguksa-ro, Gyeongju",
+      "id": "874-1 Bulguksa-ro, Gyeongju"
+    },
+    "description": {
+      "en": "UNESCO stone grotto housing a serene granite Buddha overlooking the East Sea.",
+      "ja": "東海を望む花崗岩の仏像があるUNESCO石窟。",
+      "zh": "俯瞰东海的花岗岩佛像 UNESCO 石窟。",
+      "vi": "Hang đá UNESCO chứa tượng Phật granite thanh tịnh nhìn ra biển Đông.",
+      "id": "Grotte batu UNESCO dengan Buddha granit tenang menghadap Laut Timur."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju",
+      "district": "yangdong"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Yangdong Folk Village",
+      "ja": "良洞民俗村",
+      "zh": "良洞民俗村",
+      "vi": "Làng dân gian Yangdong",
+      "id": "Desa Rakyat Yangdong"
+    },
+    "address": {
+      "en": "Yangdong-myeon, Gyeongju",
+      "ja": "慶州市 陽東面",
+      "zh": "庆州市阳东面",
+      "vi": "Yangdong-myeon, Gyeongju",
+      "id": "Yangdong-myeon, Gyeongju"
+    },
+    "description": {
+      "en": "UNESCO clan village showcasing Joseon yangban architecture amid forested hills.",
+      "ja": "UNESCOに登録された両班クラン村落。森に囲まれた韓屋が残る。",
+      "zh": "联合国教科文组织列入的两班氏族村落，韩屋掩映于山林。",
+      "vi": "Làng dòng họ UNESCO thể hiện kiến trúc yangban Joseon giữa đồi rừng.",
+      "id": "Desa klan UNESCO dengan arsitektur yangban Joseon di perbukitan berhutan."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju",
+      "district": "wolseong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Bomun Lake Resort",
+      "ja": "普門湖リゾート",
+      "zh": "普门湖度假村",
+      "vi": "Khu nghỉ dưỡng hồ Bomun",
+      "id": "Resort Danau Bomun"
+    },
+    "address": {
+      "en": "544 Bomun-ro, Gyeongju",
+      "ja": "慶州市 普門路 544",
+      "zh": "庆州市普门路544",
+      "vi": "544 Bomun-ro, Gyeongju",
+      "id": "544 Bomun-ro, Gyeongju"
+    },
+    "description": {
+      "en": "Serene lake district with cherry blossoms, paddle boats, and Silla heritage views.",
+      "ja": "桜とボート、新羅遺跡が見える静かな湖。",
+      "zh": "樱花、游船与新罗遗迹视野的静谧湖泊。",
+      "vi": "Hồ yên bình với hoa anh đào, thuyền pedalo và view di sản Silla.",
+      "id": "Danau tenang dengan sakura, perahu pedalo, dan pemandangan warisan Silla."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Cheomseongdae Observatory",
+      "ja": "瞻星台",
+      "zh": "瞻星台",
+      "vi": "Đài thiên văn Cheomseongdae",
+      "id": "Observatorium Cheomseongdae"
+    },
+    "address": {
+      "en": "839-1 Inwang-dong, Gyeongju",
+      "ja": "慶州市 仁旺洞",
+      "zh": "庆州市仁旺洞",
+      "vi": "839-1 Inwang-dong, Gyeongju",
+      "id": "839-1 Inwang-dong, Gyeongju"
+    },
+    "description": {
+      "en": "Oldest surviving observatory in East Asia set in Gyeongju historic park.",
+      "ja": "東アジア最古の天文台。慶州史跡公園に立つ。",
+      "zh": "东亚现存最古老的天文台，位于庆州史迹公园。",
+      "vi": "Đài thiên văn cổ nhất còn tồn tại ở Đông Á trong công viên lịch sử Gyeongju.",
+      "id": "Observatorium tertua di Asia Timur di taman bersejarah Gyeongju."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "pohang"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Homigot Sunrise Square",
+      "ja": "호미곶 日の出広場",
+      "zh": "虎尾岬 日出广场",
+      "vi": "Quảng trường bình minh Homigot",
+      "id": "Alun-alun Matahari Terbit Homigot"
+    },
+    "address": {
+      "en": "Homigot, Pohang",
+      "ja": "浦項市 虎尾岬",
+      "zh": "浦项市虎尾岬",
+      "vi": "Homigot, Pohang",
+      "id": "Homigot, Pohang"
+    },
+    "description": {
+      "en": "Easternmost point of Korea famous for New Year sunrise festivals over the sea.",
+      "ja": "韓国最東端。元旦の日の出祭りで有名。",
+      "zh": "韩国最东端，以元旦海上日出节闻名。",
+      "vi": "Điểm cực đông Hàn Quốc nổi tiếng với lễ hội bình minh đầu năm trên biển.",
+      "id": "Titik terjauh timur Korea terkenal dengan festival matahari terbit Tahun Baru di laut."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "cheongsong"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Juwangsan National Park",
+      "ja": "周王山国立公園",
+      "zh": "周王山国立公园",
+      "vi": "Vườn quốc gia Juwangsan",
+      "id": "Taman Nasional Juwangsan"
+    },
+    "address": {
+      "en": "Juwangsan-ro, Cheongsong",
+      "ja": "青松郡 周王山路",
+      "zh": "青松郡周王山路",
+      "vi": "Juwangsan-ro, Cheongsong",
+      "id": "Juwangsan-ro, Cheongsong"
+    },
+    "description": {
+      "en": "Dramatic cliff valleys and autumn maples in a compact granite national park.",
+      "ja": "花崗岩の断崖渓谷と紅葉が美しい国立公園。",
+      "zh": "花岗岩断崖峡谷与红叶优美的小型国立公园。",
+      "vi": "Thung lũng vách đá kịch tính và maple mùa thu trong công viên quốc gia granit.",
+      "id": "Lembah tebing dramatis dan maple musim gugur di taman nasional granit kompak."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "wansan"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Jeonju Bibimbap Street",
+      "ja": "全州ビビンバ通り",
+      "zh": "全州拌饭街",
+      "vi": "Phố Bibimbap Jeonju",
+      "id": "Jalan Bibimbap Jeonju"
+    },
+    "address": {
+      "en": "Gyeonggijeon-gil, Wansan-gu, Jeonju",
+      "ja": "全州市 完山区 慶基殿ギル",
+      "zh": "全州市完山区庆基殿街",
+      "vi": "Gyeonggijeon-gil, Wansan-gu, Jeonju",
+      "id": "Gyeonggijeon-gil, Wansan-gu, Jeonju"
+    },
+    "description": {
+      "en": "Birthplace of bibimbap — heritage restaurants serving colorful bowls with many side dishes.",
+      "ja": "ビビンバ発祥の地。十数品のおかずが彩る伝統レストラン。",
+      "zh": "拌饭发源地，传统餐厅以十余种小菜装碗。",
+      "vi": "Quê hương bibimbap — nhà hàng truyền thống phục vụ tô cơm đầy màu sắc.",
+      "id": "Kampung halaman bibimbap — restoran heritage dengan mangkuk penuh warna."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "gyodong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Jeonju Nambu Market",
+      "ja": "全州南部市場",
+      "zh": "全州南部市场",
+      "vi": "Chợ Nambu Jeonju",
+      "id": "Pasar Nambu Jeonju"
+    },
+    "address": {
+      "en": "Nambu Market, Jeonju",
+      "ja": "全州市 南部市場",
+      "zh": "全州市南部市场",
+      "vi": "Nambu Market, Jeonju",
+      "id": "Nambu Market, Jeonju"
+    },
+    "description": {
+      "en": "Traditional market famous for kongnamul gukbap, hotteok, and night street food.",
+      "ja": "kongnamul gukbapとホットクで有名な伝統市場。",
+      "zh": "以豆芽汤饭与糖饼闻名的传统市场。",
+      "vi": "Chợ truyền thống nổi tiếng với kongnamul gukbap, hotteok và street food đêm.",
+      "id": "Pasar tradisional terkenal dengan kongnamul gukbap, hotteok, dan street food malam."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jeonju Kongnamul Gukbap Alley",
+      "ja": "全州コングナムルクッパ通り",
+      "zh": "全州豆芽汤饭街",
+      "vi": "Phố kongnamul gukbap Jeonju",
+      "id": "Jalan Kongnamul Gukbap Jeonju"
+    },
+    "address": {
+      "en": "Jeonju-si, Jeonbuk",
+      "ja": "全州市",
+      "zh": "全州市",
+      "vi": "Jeonju-si, Jeonbuk",
+      "id": "Jeonju-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Alley dedicated to Jeonju signature bean-sprout soup with rice.",
+      "ja": "全州名物のもやしスープご飯が味わえる通り。",
+      "zh": "品尝全州名物豆芽汤饭的美食街。",
+      "vi": "Phố chuyên canh giá đậu đặc sản Jeonju với cơm.",
+      "id": "Jalan khusus sup kecambah khas Jeonju dengan nasi."
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Jeonju Makgeolli Town",
+      "ja": "全州マッコリタウン",
+      "zh": "全州马格利 Town",
+      "vi": "Jeonju Makgeolli Town",
+      "id": "Jeonju Makgeolli Town"
+    },
+    "address": {
+      "en": "Hanok Village area, Jeonju",
+      "ja": "全州市 韓屋村エリア",
+      "zh": "全州市韩屋村一带",
+      "vi": "Khu Hanok Village, Jeonju",
+      "id": "Area Hanok Village, Jeonju"
+    },
+    "description": {
+      "en": "Sample craft makgeolli paired with Jeonju banchan in hanok courtyards.",
+      "ja": "韓屋の中庭でクラフトマッコリと全州のおかずを楽しむ。",
+      "zh": "在韩屋庭院品尝 craft 马格利与全州小菜。",
+      "vi": "Thưởng thức makgeolli craft cùng banchan Jeonju trong sân hanok.",
+      "id": "Cicipi makgeolli craft dengan banchan Jeonju di halaman hanok."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jeonju Film Commission Street",
+      "ja": "全州映画通り",
+      "zh": "全州电影街",
+      "vi": "Phố phim Jeonju",
+      "id": "Jalan Film Jeonju"
+    },
+    "address": {
+      "en": "Film Street, Jeonju",
+      "ja": "全州市 映画通り",
+      "zh": "全州市电影街",
+      "vi": "Film Street, Jeonju",
+      "id": "Film Street, Jeonju"
+    },
+    "description": {
+      "en": "Cinema district tied to Jeonju International Film Festival and indie K-film culture.",
+      "ja": "全州国際映画祭とインディーズ映画の拠点。",
+      "zh": "全州国际电影节与独立电影文化据点。",
+      "vi": "Khu rạp chiếu gắn với Liên hoan phim Quốc tế Jeonju và văn hóa phim indie Hàn.",
+      "id": "Distrik bioskop terkait Festival Film Internasional Jeonju dan budaya film indie Korea."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gyeonggijeon Shrine Drama Site",
+      "ja": "慶基殿 ドラマロケ地",
+      "zh": "庆基殿 韩剧取景地",
+      "vi": "Địa điểm quay phim Gyeonggijeon",
+      "id": "Lokasi Syuting Gyeonggijeon"
+    },
+    "address": {
+      "en": "Gyeonggijeon-gil, Jeonju",
+      "ja": "全州市 慶基殿ギル",
+      "zh": "全州市庆基殿街",
+      "vi": "Gyeonggijeon-gil, Jeonju",
+      "id": "Gyeonggijeon-gil, Jeonju"
+    },
+    "description": {
+      "en": "Portrait hall featured in historical K-dramas about Joseon royalty.",
+      "ja": "朝鮮王室を描く時代劇のロケ地。",
+      "zh": "描绘朝鲜王室的时代剧取景地。",
+      "vi": "Sảnh chân dung xuất hiện trong K-drama lịch sử về hoàng tộc Joseon.",
+      "id": "Aula potret dalam K-drama sejarah tentang kerajaan Joseon."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "gyodong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Jeonju Hanok Village Drama Alley",
+      "ja": "全州韓屋村 ドラマ路地",
+      "zh": "全州韩屋村 韩剧巷",
+      "vi": "Hẻm drama Hanok Jeonju",
+      "id": "Gang Drama Hanok Jeonju"
+    },
+    "address": {
+      "en": "Gyodong Hanok Village, Jeonju",
+      "ja": "全州市 校洞韓屋村",
+      "zh": "全州市校洞韩屋村",
+      "vi": "Gyodong Hanok Village, Jeonju",
+      "id": "Gyodong Hanok Village, Jeonju"
+    },
+    "description": {
+      "en": "Scenic hanok alleys frequently used as period drama backdrops.",
+      "ja": "時代劇の背景としてよく使われる韓屋の路地。",
+      "zh": "常见作时代剧背景的风景韩屋巷弄。",
+      "vi": "Hẻm hanok thường được dùng làm bối cảnh phim cổ trang.",
+      "id": "Gang hanok yang sering dipakai latar drama period."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jaman Mural Village",
+      "ja": "ジャマン壁画村",
+      "zh": "Jaman 壁画村",
+      "vi": "Làng bích họa Jaman",
+      "id": "Desa Mural Jaman"
+    },
+    "address": {
+      "en": "Jaman-dong, Jeonju",
+      "ja": "全州市 ジャマン洞",
+      "zh": "全州市 Jaman 洞",
+      "vi": "Jaman-dong, Jeonju",
+      "id": "Jaman-dong, Jeonju"
+    },
+    "description": {
+      "en": "Colorful hillside mural village popular in travel variety shows.",
+      "ja": "旅行バラエティで人気のカラフル壁画村。",
+      "zh": "旅行综艺人气彩色壁画村。",
+      "vi": "Làng bích họa sườn đồi đầy màu sắc phổ biến trong variety show du lịch.",
+      "id": "Desa mural berwarna di perbukitan populer di variety show wisata."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jeonju Oriental Medicine Museum",
+      "ja": "全州韓方博物館",
+      "zh": "全州韩方博物馆",
+      "vi": "Bảo tàng Y học Cổ truyền Jeonju",
+      "id": "Museum Pengobatan Oriental Jeonju"
+    },
+    "address": {
+      "en": "Jeonju-si, Jeonbuk",
+      "ja": "全州市",
+      "zh": "全州市",
+      "vi": "Jeonju-si, Jeonbuk",
+      "id": "Jeonju-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Hanbang heritage museum with herbal beauty exhibits and wellness education.",
+      "ja": "韓方の美容展示とウェルネス教育ができる博物館。",
+      "zh": "韩方传统博物馆，有草药美容展与 wellness 教育。",
+      "vi": "Bảo tàng di sản Hanbang với triển lãm làm đẹp thảo dược và giáo dục wellness.",
+      "id": "Museum warisan Hanbang dengan pameran kecantikan herbal dan edukasi wellness."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Jeonju Hanji Cosmetic Workshop",
+      "ja": "全州韓紙コスメ工房",
+      "zh": "全州韩纸化妆品工坊",
+      "vi": "Xưởng mỹ phẩm giấy Hanji Jeonju",
+      "id": "Workshop Kosmetik Hanji Jeonju"
+    },
+    "address": {
+      "en": "Hanok Village, Jeonju",
+      "ja": "全州市 韓屋村",
+      "zh": "全州市韩屋村",
+      "vi": "Hanok Village, Jeonju",
+      "id": "Hanok Village, Jeonju"
+    },
+    "description": {
+      "en": "Craft hanji sheet masks and eco-friendly paper packaging beauty products.",
+      "ja": "韓紙シートマスクとエコ包装のコスメを体験。",
+      "zh": "体验韩纸面膜与环保纸包装美妆产品。",
+      "vi": "Mặt nạ giấy hanji thủ công và mỹ phẩm bao bì giấy thân thiện môi trường.",
+      "id": "Sheet mask hanji buatan tangan dan kosmetik kemasan kertas ramah lingkungan."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "deokjin"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Deokjin Park Spa District",
+      "ja": "徳津公園スパエリア",
+      "zh": "德津公园 Spa 区",
+      "vi": "Khu spa Công viên Deokjin",
+      "id": "Distrik Spa Taman Deokjin"
+    },
+    "address": {
+      "en": "Deokjin-gu, Jeonju",
+      "ja": "全州市 徳津区",
+      "zh": "全州市德津区",
+      "vi": "Deokjin-gu, Jeonju",
+      "id": "Deokjin-gu, Jeonju"
+    },
+    "description": {
+      "en": "Urban wellness zone near Deokjin Park with jjimjilbang and skincare cafes.",
+      "ja": "徳津公園近くのスキンケアカフェとジムジルバン。",
+      "zh": "德津公园附近的护肤咖啡馆与韩式汗蒸区。",
+      "vi": "Khu wellness đô thị gần Công viên Deokjin với jjimjilbang và cafe skincare.",
+      "id": "Zona wellness urban dekat Taman Deokjin dengan jjimjilbang dan kafe skincare."
+    }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Olive Young Jeonju",
+      "ja": "オリーブヤング 全州",
+      "zh": "Olive Young 全州",
+      "vi": "Olive Young Jeonju",
+      "id": "Olive Young Jeonju"
+    },
+    "address": {
+      "en": "Jeonju-si, Jeonbuk",
+      "ja": "全州市",
+      "zh": "全州市",
+      "vi": "Jeonju-si, Jeonbuk",
+      "id": "Jeonju-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Regional beauty flagship stocking Jeonju-local hanbang and trending K-beauty.",
+      "ja": "全州の韓方コスメと最新K-ビューティーが揃う店。",
+      "zh": "汇集全州本地韩方美妆与热门 K-beauty 的区域旗舰店。",
+      "vi": "Cửa hàng flagship khu vực với mỹ phẩm Hanbang địa phương Jeonju và K-beauty thịnh hành.",
+      "id": "Flagship regional dengan kosmetik Hanbang lokal Jeonju dan K-beauty tren."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "gyodong"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Jeonju Hanok Village",
+      "ja": "全州韓屋村",
+      "zh": "全州韩屋村",
+      "vi": "Làng Hanok Jeonju",
+      "id": "Desa Hanok Jeonju"
+    },
+    "address": {
+      "en": "99 Girin-daero, Wansan-gu, Jeonju",
+      "ja": "全州市 完山区 麒麟大路 99",
+      "zh": "全州市完山区麒麟大路99",
+      "vi": "99 Girin-daero, Wansan-gu, Jeonju",
+      "id": "99 Girin-daero, Wansan-gu, Jeonju"
+    },
+    "description": {
+      "en": "700 traditional hanok homes with guesthouses, craft shops, and heritage cuisine.",
+      "ja": "700軒の韓屋が残る伝統文化村。",
+      "zh": "700 栋传统韩屋，民宿、工艺店与传统美食。",
+      "vi": "700 ngôi nhà hanok truyền thống với homestay, cửa hàng thủ công và ẩm thực di sản.",
+      "id": "700 rumah hanok tradisional dengan guesthouse, toko kerajinan, dan masakan heritage."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Gyeonggijeon Shrine",
+      "ja": "慶基殿",
+      "zh": "庆基殿",
+      "vi": "Đền thờ Gyeonggijeon",
+      "id": "Kuil Gyeonggijeon"
+    },
+    "address": {
+      "en": "Gyeonggijeon-gil, Jeonju",
+      "ja": "全州市 慶基殿ギル",
+      "zh": "全州市庆基殿街",
+      "vi": "Gyeonggijeon-gil, Jeonju",
+      "id": "Gyeonggijeon-gil, Jeonju"
+    },
+    "description": {
+      "en": "Joseon royal portrait enshrinement hall anchoring Jeonju historic center.",
+      "ja": "全州の歴史的中心にある朝鮮王室肖像を祀る殿堂。",
+      "zh": "全州历史中心供奉朝鲜王室肖像的殿堂。",
+      "vi": "Điện thờ chân dung hoàng tộc Joseon ở trung tâm lịch sử Jeonju.",
+      "id": "Aula penghormatan potret kerajaan Joseon di pusat sejarah Jeonju."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jeonju Traditional Wine Museum",
+      "ja": "全州伝統酒博物館",
+      "zh": "全州传统酒博物馆",
+      "vi": "Bảo tàng Rượu Truyền thống Jeonju",
+      "id": "Museum Minuman Tradisional Jeonju"
+    },
+    "address": {
+      "en": "Jeonju-si, Jeonbuk",
+      "ja": "全州市",
+      "zh": "全州市",
+      "vi": "Jeonju-si, Jeonbuk",
+      "id": "Jeonju-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Museum exploring Jeonju makgeolli heritage and fermentation craft traditions.",
+      "ja": "全州マッコリの歴史と発酵文化を紹介する博物館。",
+      "zh": "介绍全州马格利历史与发酵文化的博物馆。",
+      "vi": "Bảo tàng về di sản makgeolli Jeonju và truyền thống lên men.",
+      "id": "Museum tentang warisan makgeolli Jeonju dan tradisi fermentasi."
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Jeonju Sago Archives",
+      "ja": "全州史庫",
+      "zh": "全州史库",
+      "vi": "Lưu trữ Sago Jeonju",
+      "id": "Arsip Sago Jeonju"
+    },
+    "address": {
+      "en": "Jeonju-si, Jeonbuk",
+      "ja": "全州市",
+      "zh": "全州市",
+      "vi": "Jeonju-si, Jeonbuk",
+      "id": "Jeonju-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Historical archives preserving Joseon dynasty records in Jeonju heritage quarter.",
+      "ja": "朝鮮時代の記録を保存する全州の史庫。",
+      "zh": "保存朝鲜时代记录的全州史库。",
+      "vi": "Lưu trữ lịch sử bảo tồn hồ sơ triều Joseon ở khu di sản Jeonju.",
+      "id": "Arsip sejarah melestarikan catatan dinasti Joseon di kawasan heritage Jeonju."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "deokjin"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Deokjin Park",
+      "ja": "徳津公園",
+      "zh": "德津公园",
+      "vi": "Công viên Deokjin",
+      "id": "Taman Deokjin"
+    },
+    "address": {
+      "en": "Deokjin-gu, Jeonju",
+      "ja": "全州市 徳津区",
+      "zh": "全州市德津区",
+      "vi": "Deokjin-gu, Jeonju",
+      "id": "Deokjin-gu, Jeonju"
+    },
+    "description": {
+      "en": "Urban lake park with lotus ponds, walking paths, and seasonal festivals.",
+      "ja": "蓮池と遊歩道、季節の祭りが楽しめる都市公園。",
+      "zh": "莲花池、步道与季节节庆的都市公园。",
+      "vi": "Công viên hồ đô thị với ao sen, lối đi bộ và lễ hội theo mùa.",
+      "id": "Taman danau urban dengan kolam teratai, jalur jalan kaki, dan festival musiman."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jinan"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Maisan Provincial Park",
+      "ja": "マイサン道立公園",
+      "zh": "马耳山道立公园",
+      "vi": "Công viên Maisan",
+      "id": "Taman Maisan"
+    },
+    "address": {
+      "en": "Jinan-gun, Jeonbuk",
+      "ja": "鎮安郡",
+      "zh": "镇安郡",
+      "vi": "Jinan-gun, Jeonbuk",
+      "id": "Jinan-gun, Jeonbuk"
+    },
+    "description": {
+      "en": "Twin-peaked mountain with stone pagoda trails and dramatic horseshoe ridge views.",
+      "ja": "双の峰と石塔トレイル、馬蹄形の稜線が美しい山。",
+      "zh": "双峰、石塔步道与马蹄形山脊景观。",
+      "vi": "Núi đôi với đường tháp đá và cảnh sống ngựa hùng vĩ.",
+      "id": "Gunung kembar dengan jalur pagoda batu dan pemandangan punggung bukit tapal kuda."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "wansan"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Wansan Park",
+      "ja": "完山公園",
+      "zh": "完山公园",
+      "vi": "Công viên Wansan",
+      "id": "Taman Wansan"
+    },
+    "address": {
+      "en": "Wansan-gu, Jeonju",
+      "ja": "全州市 完山区",
+      "zh": "全州市完山区",
+      "vi": "Wansan-gu, Jeonju",
+      "id": "Wansan-gu, Jeonju"
+    },
+    "description": {
+      "en": "Hilltop city park overlooking Jeonju with cherry blossoms and exercise trails.",
+      "ja": "全州を見渡す丘の上の公園。桜と遊歩道。",
+      "zh": "俯瞰全州的山丘城市公园，樱花与步道。",
+      "vi": "Công viên đồi nhìn Jeonju với hoa anh đào và đường tập thể dục.",
+      "id": "Taman bukit dengan pemandangan Jeonju, sakura, dan jalur olahraga."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonbuk",
+      "city": "muju"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Muju Gucheondong Valley",
+      "ja": "茂朱九千洞渓谷",
+      "zh": "茂朱九千洞溪谷",
+      "vi": "Thung lũng Gucheondong Muju",
+      "id": "Lembah Gucheondong Muju"
+    },
+    "address": {
+      "en": "Gucheondong, Muju",
+      "ja": "茂朱郡 九千洞",
+      "zh": "茂朱郡九千洞",
+      "vi": "Gucheondong, Muju",
+      "id": "Gucheondong, Muju"
+    },
+    "description": {
+      "en": "Crystal-clear stream valley with suspension bridges and summer forest bathing.",
+      "ja": "透明な渓流と吊り橋。夏の森林浴スポット。",
+      "zh": "清澈溪流与吊桥，夏季森林浴胜地。",
+      "vi": "Thung lũng suối trong vắt với cầu treo và tắm rừng mùa hè.",
+      "id": "Lembah aliran jernih dengan jembatan gantung dan forest bathing musim panas."
     }
   }
 ]

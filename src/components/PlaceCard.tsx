@@ -6,6 +6,7 @@ import {
   buildNaverMapSearchUrl,
 } from "@/lib/mapLinks";
 import { resolveLocalizedField } from "@/lib/i18n";
+import { formatPlaceRegion } from "@/lib/regions";
 import { useLanguage } from "@/context/LanguageContext";
 import type { Place } from "@/types";
 
@@ -20,6 +21,9 @@ export function PlaceCard({ place }: PlaceCardProps) {
   const address = resolveLocalizedField(place.address, locale);
   const description =
     place.description[locale] ?? place.description.en ?? "";
+  const regionLabel = place.region
+    ? formatPlaceRegion(place.region, locale)
+    : "";
 
   const mapQuery = buildMapQuery(name, address);
   const googleMapsUrl = buildGoogleMapsUrl(mapQuery);
@@ -46,6 +50,11 @@ export function PlaceCard({ place }: PlaceCardProps) {
         <div className="absolute left-3 top-3 rounded-full bg-white/90 px-2.5 py-1 text-xs font-semibold text-[var(--color-accent)] shadow-sm">
           ★ {place.rating.toFixed(1)}
         </div>
+        {regionLabel && (
+          <div className="absolute right-3 top-3 max-w-[60%] rounded-full bg-[var(--color-ink)]/75 px-2.5 py-1 text-[10px] font-medium text-white shadow-sm backdrop-blur-sm">
+            {regionLabel}
+          </div>
+        )}
       </div>
 
       <div className="space-y-3 p-5">

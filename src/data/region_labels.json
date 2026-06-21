@@ -1,0 +1,432 @@
+{
+  "provinces": {
+    "seoul": {
+      "ko": "서울특별시",
+      "en": "Seoul",
+      "ja": "ソウル特別市",
+      "zh": "首尔特别市",
+      "vi": "Seoul",
+      "id": "Seoul"
+    },
+    "busan": {
+      "ko": "부산광역시",
+      "en": "Busan",
+      "ja": "釜山広域市",
+      "zh": "釜山广域市",
+      "vi": "Busan",
+      "id": "Busan"
+    },
+    "jeju": {
+      "ko": "제주특별자치도",
+      "en": "Jeju",
+      "ja": "済州特別自治道",
+      "zh": "济州特别自治道",
+      "vi": "Jeju",
+      "id": "Jeju"
+    },
+    "gyeonggi": {
+      "ko": "경기도",
+      "en": "Gyeonggi",
+      "ja": "京畿道",
+      "zh": "京畿道",
+      "vi": "Gyeonggi",
+      "id": "Gyeonggi"
+    },
+    "gangwon": {
+      "ko": "강원특별자치도",
+      "en": "Gangwon",
+      "ja": "江原特別自治道",
+      "zh": "江原特别自治道",
+      "vi": "Gangwon",
+      "id": "Gangwon"
+    },
+    "gyeongbuk": {
+      "ko": "경상북도",
+      "en": "North Gyeongsang",
+      "ja": "慶尚北道",
+      "zh": "庆尚北道",
+      "vi": "Bắc Gyeongsang",
+      "id": "Gyeongsang Utara"
+    },
+    "jeonbuk": {
+      "ko": "전북특별자치도",
+      "en": "North Jeolla",
+      "ja": "全北特別自治道",
+      "zh": "全北特别自治道",
+      "vi": "Bắc Jeolla",
+      "id": "Jeolla Utara"
+    }
+  },
+  "cities": {
+    "suwon": {
+      "ko": "수원시",
+      "en": "Suwon",
+      "ja": "水原市",
+      "zh": "水原市",
+      "vi": "Suwon",
+      "id": "Suwon"
+    },
+    "jeju-si": {
+      "ko": "제주시",
+      "en": "Jeju City",
+      "ja": "済州市",
+      "zh": "济州市",
+      "vi": "Thành phố Jeju",
+      "id": "Kota Jeju"
+    },
+    "andong": {
+      "ko": "안동시",
+      "en": "Andong",
+      "ja": "安東市",
+      "zh": "安东市",
+      "vi": "Andong",
+      "id": "Andong"
+    },
+    "jeonju": {
+      "ko": "전주시",
+      "en": "Jeonju",
+      "ja": "全州市",
+      "zh": "全州市",
+      "vi": "Jeonju",
+      "id": "Jeonju"
+    },
+    "gangneung": {
+      "ko": "강릉시",
+      "en": "Gangneung",
+      "ja": "江陵市",
+      "zh": "江陵市",
+      "vi": "Gangneung",
+      "id": "Gangneung"
+    },
+    "gyeongju": {
+      "ko": "경주시",
+      "en": "Gyeongju",
+      "ja": "慶州市",
+      "zh": "庆州市",
+      "vi": "Gyeongju",
+      "id": "Gyeongju"
+    },
+    "seogwipo-si": {
+      "ko": "서귀포시",
+      "en": "Seogwipo",
+      "ja": "西帰浦市",
+      "zh": "西归浦市",
+      "vi": "Seogwipo",
+      "id": "Seogwipo"
+    },
+    "paju": {
+      "ko": "파주시",
+      "en": "Paju",
+      "ja": "坡州市",
+      "zh": "坡州市",
+      "vi": "Paju",
+      "id": "Paju"
+    },
+    "gapyeong": {
+      "ko": "가평군",
+      "en": "Gapyeong",
+      "ja": "加平郡",
+      "zh": "加平郡",
+      "vi": "Gapyeong",
+      "id": "Gapyeong"
+    },
+    "icheon": {
+      "ko": "이천시",
+      "en": "Icheon",
+      "ja": "利川市",
+      "zh": "利川市",
+      "vi": "Icheon",
+      "id": "Icheon"
+    },
+    "yongin": {
+      "ko": "용인시",
+      "en": "Yongin",
+      "ja": "龍仁市",
+      "zh": "龙仁市",
+      "vi": "Yongin",
+      "id": "Yongin"
+    },
+    "chuncheon": {
+      "ko": "춘천시",
+      "en": "Chuncheon",
+      "ja": "春川市",
+      "zh": "春川市",
+      "vi": "Chuncheon",
+      "id": "Chuncheon"
+    },
+    "sokcho": {
+      "ko": "속초시",
+      "en": "Sokcho",
+      "ja": "束草市",
+      "zh": "束草市",
+      "vi": "Sokcho",
+      "id": "Sokcho"
+    },
+    "pyeongchang": {
+      "ko": "평창군",
+      "en": "Pyeongchang",
+      "ja": "平昌郡",
+      "zh": "平昌郡",
+      "vi": "Pyeongchang",
+      "id": "Pyeongchang"
+    },
+    "yangyang": {
+      "ko": "양양군",
+      "en": "Yangyang",
+      "ja": "襄陽郡",
+      "zh": "襄阳郡",
+      "vi": "Yangyang",
+      "id": "Yangyang"
+    },
+    "pohang": {
+      "ko": "포항시",
+      "en": "Pohang",
+      "ja": "浦項市",
+      "zh": "浦项市",
+      "vi": "Pohang",
+      "id": "Pohang"
+    },
+    "cheongsong": {
+      "ko": "청송군",
+      "en": "Cheongsong",
+      "ja": "青松郡",
+      "zh": "青松郡",
+      "vi": "Cheongsong",
+      "id": "Cheongsong"
+    },
+    "jinan": {
+      "ko": "진안군",
+      "en": "Jinan",
+      "ja": "鎮安郡",
+      "zh": "镇安郡",
+      "vi": "Jinan",
+      "id": "Jinan"
+    },
+    "muju": {
+      "ko": "무주군",
+      "en": "Muju",
+      "ja": "茂朱郡",
+      "zh": "茂朱郡",
+      "vi": "Muju",
+      "id": "Muju"
+    }
+  },
+  "districts": {
+    "yongsan": {
+      "ko": "용산구",
+      "en": "Yongsan-gu",
+      "ja": "龍山区",
+      "zh": "龙山区",
+      "vi": "Yongsan-gu",
+      "id": "Yongsan-gu"
+    },
+    "jongno": {
+      "ko": "종로구",
+      "en": "Jongno-gu",
+      "ja": "鍾路区",
+      "zh": "钟路区",
+      "vi": "Jongno-gu",
+      "id": "Jongno-gu"
+    },
+    "gangnam": {
+      "ko": "강남구",
+      "en": "Gangnam-gu",
+      "ja": "江南区",
+      "zh": "江南区",
+      "vi": "Gangnam-gu",
+      "id": "Gangnam-gu"
+    },
+    "jung-seoul": {
+      "ko": "중구",
+      "en": "Jung-gu",
+      "ja": "中区",
+      "zh": "中区",
+      "vi": "Jung-gu",
+      "id": "Jung-gu"
+    },
+    "mapo": {
+      "ko": "마포구",
+      "en": "Mapo-gu",
+      "ja": "麻浦区",
+      "zh": "麻浦区",
+      "vi": "Mapo-gu",
+      "id": "Mapo-gu"
+    },
+    "haeundae": {
+      "ko": "해운대구",
+      "en": "Haeundae-gu",
+      "ja": "海雲台区",
+      "zh": "海云台区",
+      "vi": "Haeundae-gu",
+      "id": "Haeundae-gu"
+    },
+    "jung-busan": {
+      "ko": "중구",
+      "en": "Jung-gu",
+      "ja": "中区",
+      "zh": "中区",
+      "vi": "Jung-gu",
+      "id": "Jung-gu"
+    },
+    "palddal": {
+      "ko": "팔달구",
+      "en": "Paldal-gu",
+      "ja": "八達区",
+      "zh": "八达区",
+      "vi": "Paldal-gu",
+      "id": "Paldal-gu"
+    },
+    "aewol": {
+      "ko": "애월읍",
+      "en": "Aewol-eup",
+      "ja": "涯月邑",
+      "zh": "涯月邑",
+      "vi": "Aewol-eup",
+      "id": "Aewol-eup"
+    },
+    "hahoe": {
+      "ko": "풍천면",
+      "en": "Pungcheon-myeon",
+      "ja": "豊川面",
+      "zh": "丰川面",
+      "vi": "Pungcheon-myeon",
+      "id": "Pungcheon-myeon"
+    },
+    "wolseong": {
+      "ko": "월성동",
+      "en": "Wolseong-dong",
+      "ja": "月城洞",
+      "zh": "月城洞",
+      "vi": "Wolseong-dong",
+      "id": "Wolseong-dong"
+    },
+    "wansan": {
+      "ko": "완산구",
+      "en": "Wansan-gu",
+      "ja": "完山区",
+      "zh": "完山区",
+      "vi": "Wansan-gu",
+      "id": "Wansan-gu"
+    },
+    "gyodong": {
+      "ko": "교동",
+      "en": "Gyodong",
+      "ja": "校洞",
+      "zh": "校洞",
+      "vi": "Gyodong",
+      "id": "Gyodong"
+    },
+    "yeongdeungpo": {
+      "ko": "영등포구",
+      "en": "Yeongdeungpo-gu",
+      "ja": "永登浦区",
+      "zh": "永登浦区",
+      "vi": "Yeongdeungpo-gu",
+      "id": "Yeongdeungpo-gu"
+    },
+    "seodaemun": {
+      "ko": "서대문구",
+      "en": "Seodaemun-gu",
+      "ja": "西大門区",
+      "zh": "西大门区",
+      "vi": "Seodaemun-gu",
+      "id": "Seodaemun-gu"
+    },
+    "suyeong": {
+      "ko": "수영구",
+      "en": "Suyeong-gu",
+      "ja": "水営区",
+      "zh": "水营区",
+      "vi": "Suyeong-gu",
+      "id": "Suyeong-gu"
+    },
+    "saha": {
+      "ko": "사하구",
+      "en": "Saha-gu",
+      "ja": "沙下区",
+      "zh": "沙下区",
+      "vi": "Saha-gu",
+      "id": "Saha-gu"
+    },
+    "geumjeong": {
+      "ko": "금정구",
+      "en": "Geumjeong-gu",
+      "ja": "金井区",
+      "zh": "金井区",
+      "vi": "Geumjeong-gu",
+      "id": "Geumjeong-gu"
+    },
+    "gijang": {
+      "ko": "기장군",
+      "en": "Gijang-gun",
+      "ja": "機張郡",
+      "zh": "机张郡",
+      "vi": "Gijang-gun",
+      "id": "Gijang-gun"
+    },
+    "yeongdo": {
+      "ko": "영도구",
+      "en": "Yeongdo-gu",
+      "ja": "影島区",
+      "zh": "影岛区",
+      "vi": "Yeongdo-gu",
+      "id": "Yeongdo-gu"
+    },
+    "nam-busan": {
+      "ko": "남구",
+      "en": "Nam-gu",
+      "ja": "南区",
+      "zh": "南区",
+      "vi": "Nam-gu",
+      "id": "Nam-gu"
+    },
+    "seongsan": {
+      "ko": "성산읍",
+      "en": "Seongsan-eup",
+      "ja": "城山邑",
+      "zh": "城山邑",
+      "vi": "Seongsan-eup",
+      "id": "Seongsan-eup"
+    },
+    "pyoseon": {
+      "ko": "표선면",
+      "en": "Pyoseon-myeon",
+      "ja": "表善面",
+      "zh": "表善面",
+      "vi": "Pyoseon-myeon",
+      "id": "Pyoseon-myeon"
+    },
+    "gujwa": {
+      "ko": "구좌읍",
+      "en": "Gujwa-eup",
+      "ja": "旧左邑",
+      "zh": "旧左邑",
+      "vi": "Gujwa-eup",
+      "id": "Gujwa-eup"
+    },
+    "imjingak": {
+      "ko": "임진각",
+      "en": "Imjingak",
+      "ja": "臨津閣",
+      "zh": "临津阁",
+      "vi": "Imjingak",
+      "id": "Imjingak"
+    },
+    "yangdong": {
+      "ko": "양동면",
+      "en": "Yangdong-myeon",
+      "ja": "陽東面",
+      "zh": "阳东面",
+      "vi": "Yangdong-myeon",
+      "id": "Yangdong-myeon"
+    },
+    "deokjin": {
+      "ko": "덕진구",
+      "en": "Deokjin-gu",
+      "ja": "德津区",
+      "zh": "德津区",
+      "vi": "Deokjin-gu",
+      "id": "Deokjin-gu"
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "cities": {
+    "seogwipo-si": {
+      "ko": "서귀포시",
+      "en": "Seogwipo",
+      "ja": "西帰浦市",
+      "zh": "西归浦市",
+      "vi": "Seogwipo",
+      "id": "Seogwipo"
+    },
+    "paju": {
+      "ko": "파주시",
+      "en": "Paju",
+      "ja": "坡州市",
+      "zh": "坡州市",
+      "vi": "Paju",
+      "id": "Paju"
+    },
+    "gapyeong": {
+      "ko": "가평군",
+      "en": "Gapyeong",
+      "ja": "加平郡",
+      "zh": "加平郡",
+      "vi": "Gapyeong",
+      "id": "Gapyeong"
+    },
+    "icheon": {
+      "ko": "이천시",
+      "en": "Icheon",
+      "ja": "利川市",
+      "zh": "利川市",
+      "vi": "Icheon",
+      "id": "Icheon"
+    },
+    "yongin": {
+      "ko": "용인시",
+      "en": "Yongin",
+      "ja": "龍仁市",
+      "zh": "龙仁市",
+      "vi": "Yongin",
+      "id": "Yongin"
+    },
+    "chuncheon": {
+      "ko": "춘천시",
+      "en": "Chuncheon",
+      "ja": "春川市",
+      "zh": "春川市",
+      "vi": "Chuncheon",
+      "id": "Chuncheon"
+    },
+    "sokcho": {
+      "ko": "속초시",
+      "en": "Sokcho",
+      "ja": "束草市",
+      "zh": "束草市",
+      "vi": "Sokcho",
+      "id": "Sokcho"
+    },
+    "pyeongchang": {
+      "ko": "평창군",
+      "en": "Pyeongchang",
+      "ja": "平昌郡",
+      "zh": "平昌郡",
+      "vi": "Pyeongchang",
+      "id": "Pyeongchang"
+    },
+    "yangyang": {
+      "ko": "양양군",
+      "en": "Yangyang",
+      "ja": "襄陽郡",
+      "zh": "襄阳郡",
+      "vi": "Yangyang",
+      "id": "Yangyang"
+    },
+    "pohang": {
+      "ko": "포항시",
+      "en": "Pohang",
+      "ja": "浦項市",
+      "zh": "浦项市",
+      "vi": "Pohang",
+      "id": "Pohang"
+    },
+    "cheongsong": {
+      "ko": "청송군",
+      "en": "Cheongsong",
+      "ja": "青松郡",
+      "zh": "青松郡",
+      "vi": "Cheongsong",
+      "id": "Cheongsong"
+    },
+    "jinan": {
+      "ko": "진안군",
+      "en": "Jinan",
+      "ja": "鎮安郡",
+      "zh": "镇安郡",
+      "vi": "Jinan",
+      "id": "Jinan"
+    },
+    "muju": {
+      "ko": "무주군",
+      "en": "Muju",
+      "ja": "茂朱郡",
+      "zh": "茂朱郡",
+      "vi": "Muju",
+      "id": "Muju"
+    }
+  },
+  "districts": {
+    "yeongdeungpo": {
+      "ko": "영등포구",
+      "en": "Yeongdeungpo-gu",
+      "ja": "永登浦区",
+      "zh": "永登浦区",
+      "vi": "Yeongdeungpo-gu",
+      "id": "Yeongdeungpo-gu"
+    },
+    "seodaemun": {
+      "ko": "서대문구",
+      "en": "Seodaemun-gu",
+      "ja": "西大門区",
+      "zh": "西大门区",
+      "vi": "Seodaemun-gu",
+      "id": "Seodaemun-gu"
+    },
+    "suyeong": {
+      "ko": "수영구",
+      "en": "Suyeong-gu",
+      "ja": "水営区",
+      "zh": "水营区",
+      "vi": "Suyeong-gu",
+      "id": "Suyeong-gu"
+    },
+    "saha": {
+      "ko": "사하구",
+      "en": "Saha-gu",
+      "ja": "沙下区",
+      "zh": "沙下区",
+      "vi": "Saha-gu",
+      "id": "Saha-gu"
+    },
+    "geumjeong": {
+      "ko": "금정구",
+      "en": "Geumjeong-gu",
+      "ja": "金井区",
+      "zh": "金井区",
+      "vi": "Geumjeong-gu",
+      "id": "Geumjeong-gu"
+    },
+    "gijang": {
+      "ko": "기장군",
+      "en": "Gijang-gun",
+      "ja": "機張郡",
+      "zh": "机张郡",
+      "vi": "Gijang-gun",
+      "id": "Gijang-gun"
+    },
+    "yeongdo": {
+      "ko": "영도구",
+      "en": "Yeongdo-gu",
+      "ja": "影島区",
+      "zh": "影岛区",
+      "vi": "Yeongdo-gu",
+      "id": "Yeongdo-gu"
+    },
+    "nam-busan": {
+      "ko": "남구",
+      "en": "Nam-gu",
+      "ja": "南区",
+      "zh": "南区",
+      "vi": "Nam-gu",
+      "id": "Nam-gu"
+    },
+    "seongsan": {
+      "ko": "성산읍",
+      "en": "Seongsan-eup",
+      "ja": "城山邑",
+      "zh": "城山邑",
+      "vi": "Seongsan-eup",
+      "id": "Seongsan-eup"
+    },
+    "pyoseon": {
+      "ko": "표선면",
+      "en": "Pyoseon-myeon",
+      "ja": "表善面",
+      "zh": "表善面",
+      "vi": "Pyoseon-myeon",
+      "id": "Pyoseon-myeon"
+    },
+    "gujwa": {
+      "ko": "구좌읍",
+      "en": "Gujwa-eup",
+      "ja": "旧左邑",
+      "zh": "旧左邑",
+      "vi": "Gujwa-eup",
+      "id": "Gujwa-eup"
+    },
+    "imjingak": {
+      "ko": "임진각",
+      "en": "Imjingak",
+      "ja": "臨津閣",
+      "zh": "临津阁",
+      "vi": "Imjingak",
+      "id": "Imjingak"
+    },
+    "yangdong": {
+      "ko": "양동면",
+      "en": "Yangdong-myeon",
+      "ja": "陽東面",
+      "zh": "阳东面",
+      "vi": "Yangdong-myeon",
+      "id": "Yangdong-myeon"
+    },
+    "deokjin": {
+      "ko": "덕진구",
+      "en": "Deokjin-gu",
+      "ja": "德津区",
+      "zh": "德津区",
+      "vi": "Deokjin-gu",
+      "id": "Deokjin-gu"
+    }
+  }
+}

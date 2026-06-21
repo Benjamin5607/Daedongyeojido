@@ -3,15 +3,31 @@
 import { useState } from "react";
 import { Navbar } from "@/components/Navbar";
 import { PlaceList } from "@/components/PlaceList";
+import { RegionFilter } from "@/components/RegionFilter";
 import { ThemeTabs } from "@/components/ThemeTabs";
 import { useLanguage } from "@/context/LanguageContext";
 import placesData from "@/data/crawled_places.json";
+import type { RegionFilterState } from "@/lib/regions";
 import type { Place, ThemeId } from "@/types";
+
+const initialRegionFilter: RegionFilterState = {
+  province: undefined,
+  city: undefined,
+  district: undefined,
+  query: "",
+};
 
 export function HomePage() {
   const { t } = useLanguage();
   const [activeTheme, setActiveTheme] = useState<ThemeId>("k-food");
+  const [regionFilter, setRegionFilter] =
+    useState<RegionFilterState>(initialRegionFilter);
   const places = placesData as Place[];
+
+  const handleThemeChange = (theme: ThemeId) => {
+    setActiveTheme(theme);
+    setRegionFilter(initialRegionFilter);
+  };
 
   return (
     <div className="min-h-screen">
@@ -40,8 +56,17 @@ export function HomePage() {
           </h1>
         </div>
 
-        <ThemeTabs activeTheme={activeTheme} onThemeChange={setActiveTheme} />
-        <PlaceList places={places} activeTheme={activeTheme} />
+        <ThemeTabs activeTheme={activeTheme} onThemeChange={handleThemeChange} />
+        <RegionFilter
+          places={places}
+          filter={regionFilter}
+          onFilterChange={setRegionFilter}
+        />
+        <PlaceList
+          places={places}
+          activeTheme={activeTheme}
+          regionFilter={regionFilter}
+        />
       </main>
 
       <footer className="border-t border-[var(--color-border)] bg-[var(--color-surface)] py-6 text-center text-xs text-[var(--color-muted)]">

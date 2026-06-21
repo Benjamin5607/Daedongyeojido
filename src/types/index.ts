@@ -9,12 +9,20 @@ export type ThemeId =
 
 export type LocalizedText = Record<Locale, string>;
 
+/** Administrative region codes mapped in src/data/region_labels.json */
+export interface PlaceRegion {
+  province: string;
+  city?: string;
+  district?: string;
+}
+
 export interface Place {
   theme: ThemeId;
   name: string | LocalizedText;
   address: string | LocalizedText;
   rating: number;
   description: LocalizedText;
+  region: PlaceRegion;
   imageUrl?: string;
 }
 

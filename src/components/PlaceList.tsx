@@ -2,17 +2,29 @@
 
 import { PlaceCard } from "@/components/PlaceCard";
 import { useLanguage } from "@/context/LanguageContext";
+import { filterPlaces, type RegionFilterState } from "@/lib/regions";
 import type { Place, ThemeId } from "@/types";
 
 interface PlaceListProps {
   places: Place[];
   activeTheme: ThemeId;
+  regionFilter: RegionFilterState;
 }
 
-export function PlaceList({ places, activeTheme }: PlaceListProps) {
-  const { t } = useLanguage();
+export function PlaceList({
+  places,
+  activeTheme,
+  regionFilter,
+}: PlaceListProps) {
+  const { locale, t } = useLanguage();
 
-  const filtered = places.filter((place) => place.theme === activeTheme);
+  const filtered = filterPlaces(places, activeTheme, regionFilter, locale);
+  const hasActiveFilters = Boolean(
+    regionFilter.province ||
+      regionFilter.city ||
+      regionFilter.district ||
+      regionFilter.query
+  );
 
   return (
     <section className="mt-10">
@@ -32,7 +44,7 @@ export function PlaceList({ places, activeTheme }: PlaceListProps) {
 
       {filtered.length === 0 ? (
         <div className="rounded-2xl border border-dashed border-[var(--color-border)] bg-white/60 px-6 py-16 text-center text-[var(--color-muted)]">
-          {t.noPlaces}
+          {hasActiveFilters ? t.noPlacesFiltered : t.noPlaces}
         </div>
       ) : (
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "crawl": "node scraper/crawler.js",
-    "scrape": "node scraper/processor.js"
+    "scrape": "node scraper/processor.js",
+    "seed": "node scripts/build-seed-data.mjs"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

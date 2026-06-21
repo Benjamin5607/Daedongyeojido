@@ -3,7 +3,7 @@
 import {
   buildGoogleMapsUrl,
   buildMapQuery,
-  buildNaverMapSearchUrl,
+  buildNaverMapUrlForPlace,
 } from "@/lib/mapLinks";
 import { resolveLocalizedField } from "@/lib/i18n";
 import { formatPlaceRegion } from "@/lib/regions";
@@ -27,10 +27,7 @@ export function PlaceCard({ place }: PlaceCardProps) {
 
   const mapQuery = buildMapQuery(name, address);
   const googleMapsUrl = buildGoogleMapsUrl(mapQuery);
-  const naverSearchQuery = place.localGem
-    ? `${name} ${address.split(",")[0]?.trim() ?? ""}`.trim()
-    : name;
-  const naverMapUrl = buildNaverMapSearchUrl(naverSearchQuery);
+  const naverMapUrl = buildNaverMapUrlForPlace(place);
 
   return (
     <article

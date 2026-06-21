@@ -7,7 +7,10 @@ export type ThemeId =
   | "k-culture"
   | "urban-nature";
 
-export type LocalizedText = Record<Locale, string>;
+export type LocalizedText = Record<Locale, string> & {
+  /** Korean name for Naver Map search */
+  ko?: string;
+};
 
 /** Administrative region codes mapped in src/data/region_labels.json */
 export interface PlaceRegion {

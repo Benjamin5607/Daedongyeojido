@@ -880,7 +880,7 @@
       "ko": "龍山区",
       "en": "Yongsan-gu",
       "ja": "龍山区",
-      "zh": "梨泰院路27街49",
+      "zh": "首尔龙山区",
       "vi": "Yongsan-gu",
       "id": "Yongsan-gu"
     },
@@ -888,7 +888,7 @@
       "ko": "鍾路区",
       "en": "Jongno-gu",
       "ja": "鍾路区",
-      "zh": "昌庆宫路88",
+      "zh": "首尔钟路区",
       "vi": "Jongno-gu",
       "id": "Jongno-gu"
     },
@@ -896,7 +896,7 @@
       "ko": "江南区",
       "en": "Gangnam-gu",
       "ja": "江南区",
-      "zh": "永东大路513",
+      "zh": "首尔江南区",
       "vi": "Gangnam-gu",
       "id": "Gangnam-gu"
     },
@@ -904,7 +904,7 @@
       "ko": "中区",
       "en": "Jung-gu",
       "ja": "中区",
-      "zh": "明洞10街29",
+      "zh": "首尔中区",
       "vi": "Jung-gu",
       "id": "Jung-gu"
     },
@@ -912,7 +912,7 @@
       "ko": "鍾路区",
       "en": "18 Tongin-dong",
       "ja": "鍾路区",
-      "zh": "通仁洞18",
+      "zh": "首尔钟路区",
       "vi": "18 Tongin-dong",
       "id": "18 Tongin-dong"
     },
@@ -928,7 +928,7 @@
       "ko": "中区",
       "en": "Jung-gu",
       "ja": "中区",
-      "zh": "札嘎其海岸路52",
+      "zh": "釜山中区",
       "vi": "Jung-gu",
       "id": "Jung-gu"
     },
@@ -936,7 +936,7 @@
       "ko": "八達区",
       "en": "Paldal-gu",
       "ja": "八達区",
-      "zh": "八达区",
+      "zh": "水原市八达区",
       "vi": "Paldal-gu",
       "id": "Paldal-gu"
     },
@@ -960,7 +960,7 @@
       "ko": "544",
       "en": "544 Bomun-ro",
       "ja": "544",
-      "zh": "普门路544",
+      "zh": "544",
       "vi": "544 Bomun-ro",
       "id": "544 Bomun-ro"
     },
@@ -968,7 +968,7 @@
       "ko": "完山区",
       "en": "Gyeonggijeon-gil",
       "ja": "完山区",
-      "zh": "完山区庆基殿街",
+      "zh": "全州市完山区",
       "vi": "Gyeonggijeon-gil",
       "id": "Gyeonggijeon-gil"
     },
@@ -984,7 +984,7 @@
       "ko": "永登浦区",
       "en": "Yeongdeungpo-gu",
       "ja": "永登浦区",
-      "zh": "汝矣岛汉江公园",
+      "zh": "首尔永登浦区",
       "vi": "Yeongdeungpo-gu",
       "id": "Yeongdeungpo-gu"
     },
@@ -992,7 +992,7 @@
       "ko": "西大門区",
       "en": "Seodaemun-gu",
       "ja": "西大門区",
-      "zh": "北汉山路",
+      "zh": "首尔西大门区",
       "vi": "Seodaemun-gu",
       "id": "Seodaemun-gu"
     },
@@ -1000,7 +1000,7 @@
       "ko": "水営区",
       "en": "Millak-dong",
       "ja": "水営区",
-      "zh": "Millak洞",
+      "zh": "釜山水营区",
       "vi": "Millak-dong",
       "id": "Millak-dong"
     },
@@ -1008,7 +1008,7 @@
       "ko": "沙下区",
       "en": "Saha-gu",
       "ja": "沙下区",
-      "zh": "甘川2路203",
+      "zh": "釜山沙下区",
       "vi": "Saha-gu",
       "id": "Saha-gu"
     },
@@ -1016,7 +1016,7 @@
       "ko": "金井区",
       "en": "546 Cheongnyong-dong",
       "ja": "金井区",
-      "zh": "青龙洞546",
+      "zh": "釜山金井区",
       "vi": "546 Cheongnyong-dong",
       "id": "546 Cheongnyong-dong"
     },
@@ -1024,7 +1024,7 @@
       "ko": "機張郡",
       "en": "Gijang-eup",
       "ja": "機張郡",
-      "zh": "龙宫街86",
+      "zh": "機張郡",
       "vi": "Gijang-eup",
       "id": "Gijang-eup"
     },
@@ -1032,7 +1032,7 @@
       "ko": "影島区",
       "en": "Yeongdo-gu",
       "ja": "影島区",
-      "zh": "新仙路104",
+      "zh": "釜山影岛区",
       "vi": "Yeongdo-gu",
       "id": "Yeongdo-gu"
     },
@@ -1040,7 +1040,7 @@
       "ko": "南区",
       "en": "Nam-gu",
       "ja": "南区",
-      "zh": "二妓台",
+      "zh": "釜山南区",
       "vi": "Nam-gu",
       "id": "Nam-gu"
     },
@@ -1072,7 +1072,7 @@
       "ko": "臨津閣路",
       "en": "Imjingak-ro",
       "ja": "臨津閣路",
-      "zh": "临津阁路",
+      "zh": "臨津閣路",
       "vi": "Imjingak-ro",
       "id": "Imjingak-ro"
     },
@@ -1088,7 +1088,7 @@
       "ko": "徳津区",
       "en": "Deokjin-gu",
       "ja": "徳津区",
-      "zh": "德津区",
+      "zh": "全州市德津区",
       "vi": "Deokjin-gu",
       "id": "Deokjin-gu"
     },
@@ -1096,7 +1096,7 @@
       "ko": "檀園区",
       "en": "Wongok-dong",
       "ja": "檀園区",
-      "zh": "檀园区旺谷洞",
+      "zh": "安山市檀园区",
       "vi": "Wongok-dong",
       "id": "Wongok-dong"
     },
@@ -1160,7 +1160,7 @@
       "ko": "驪州市",
       "en": "Yeoju-si",
       "ja": "驪州市",
-      "zh": "骊州市",
+      "zh": "驪州市",
       "vi": "Yeoju-si",
       "id": "Yeoju-si"
     },
@@ -1384,7 +1384,7 @@
       "ko": "上党区",
       "en": "Sangdang-gu",
       "ja": "上党区",
-      "zh": "上党区",
+      "zh": "清州市上党区",
       "vi": "Sangdang-gu",
       "id": "Sangdang-gu"
     },
@@ -1504,7 +1504,7 @@
       "ko": "西北区",
       "en": "Dujeong-dong",
       "ja": "西北区",
-      "zh": "西北区斗井洞",
+      "zh": "天安市西北区",
       "vi": "Dujeong-dong",
       "id": "Dujeong-dong"
     },
@@ -1552,7 +1552,7 @@
       "ko": "論山市",
       "en": "Nonsan-si",
       "ja": "論山市",
-      "zh": "论山市",
+      "zh": "論山市",
       "vi": "Nonsan-si",
       "id": "Nonsan-si"
     },
@@ -1568,7 +1568,7 @@
       "ko": "西北区",
       "en": "Seongjeong-dong",
       "ja": "西北区",
-      "zh": "西北区城政洞",
+      "zh": "天安市西北区",
       "vi": "Seongjeong-dong",
       "id": "Seongjeong-dong"
     },
@@ -1648,7 +1648,7 @@
       "ko": "完山区",
       "en": "Seohak-dong",
       "ja": "完山区",
-      "zh": "完山区西学洞",
+      "zh": "全州市完山区",
       "vi": "Seohak-dong",
       "id": "Seohak-dong"
     },
@@ -1672,7 +1672,7 @@
       "ko": "完山区",
       "en": "Pungnam-dong",
       "ja": "完山区",
-      "zh": "完山区丰南洞",
+      "zh": "全州市完山区",
       "vi": "Pungnam-dong",
       "id": "Pungnam-dong"
     },
@@ -1696,7 +1696,7 @@
       "ko": "鎮安郡",
       "en": "Jinan-gun",
       "ja": "鎮安郡",
-      "zh": "镇安郡",
+      "zh": "鎮安郡",
       "vi": "Jinan-gun",
       "id": "Jinan-gun"
     },
@@ -1736,7 +1736,7 @@
       "ko": "順天市",
       "en": "Suncheon-si",
       "ja": "順天市",
-      "zh": "顺天市",
+      "zh": "順天市",
       "vi": "Suncheon-si",
       "id": "Suncheon-si"
     },
@@ -1760,7 +1760,7 @@
       "ko": "羅州市",
       "en": "Naju-si",
       "ja": "羅州市",
-      "zh": "罗州市",
+      "zh": "羅州市",
       "vi": "Naju-si",
       "id": "Naju-si"
     },
@@ -1816,7 +1816,7 @@
       "ko": "光陽市",
       "en": "Gwangyang-si",
       "ja": "光陽市",
-      "zh": "光阳市",
+      "zh": "光陽市",
       "vi": "Gwangyang-si",
       "id": "Gwangyang-si"
     },
@@ -1848,7 +1848,7 @@
       "ko": "聞慶市",
       "en": "Mungyeong-si",
       "ja": "聞慶市",
-      "zh": "闻庆市",
+      "zh": "聞慶市",
       "vi": "Mungyeong-si",
       "id": "Mungyeong-si"
     },
@@ -1904,7 +1904,7 @@
       "ko": "尙州市",
       "en": "Sangju-si",
       "ja": "尙州市",
-      "zh": "尚州市",
+      "zh": "尙州市",
       "vi": "Sangju-si",
       "id": "Sangju-si"
     },
@@ -1976,7 +1976,7 @@
       "ko": "密陽市",
       "en": "Miryang-si",
       "ja": "密陽市",
-      "zh": "密阳市",
+      "zh": "密陽市",
       "vi": "Miryang-si",
       "id": "Miryang-si"
     },

@@ -74,11 +74,17 @@ function zhCityLabel(zh) {
   return splitZhParts(zh)[0] ?? zh;
 }
 
-function zhDistrictLabel(zh) {
+function zhDistrictLabel(zh, jaFallback) {
+  const guMatch = zh.match(/([\u4e00-\u9fff]{1,8}区)/);
+  if (guMatch) return guMatch[1];
   const parts = splitZhParts(zh);
-  if (parts.length > 1) return parts[parts.length - 1];
-  const match = zh.match(/([\u4e00-\u9fff]+(?:洞|邑|面|里|区))$/);
-  return match ? match[1] : zh;
+  if (parts.length > 1) {
+    const last = parts[parts.length - 1];
+    if (!/[路街\d]/.test(last)) return last;
+  }
+  const match = zh.match(/([\u4e00-\u9fff]+(?:洞|邑|面|里))$/);
+  if (match) return match[1];
+  return jaFallback || zh;
 }
 
 function pickJaDistrict(parts) {
@@ -142,7 +148,7 @@ function inferDistrictLabel(places, code) {
     ko: ja,
     en,
     ja,
-    zh: zhDistrictLabel(sample.address.zh),
+    zh: zhDistrictLabel(sample.address.zh, ja),
     vi: en,
     id: en,
   });

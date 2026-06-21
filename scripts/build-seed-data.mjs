@@ -1,10 +1,13 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { GEOJE_PLACES } from "./geoje-places.mjs";
 import { syncRegionLabels } from "./sync-region-labels.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = path.join(__dirname, "../src/data/crawled_places.json");
+const NAVER_KO_PATH = path.join(__dirname, "../src/data/naver_search_ko.json");
+const GEOJE_TOTAL = 100;
 
 const THEMES = ["k-food", "hallyu", "k-beauty", "k-culture", "urban-nature"];
 const TOURIST_PROVINCES = ["seoul", "busan", "jeju", "gyeonggi", "gangwon", "gyeongbuk", "jeonbuk"];
@@ -13,6 +16,11 @@ const EIGHT_DO = ["gyeonggi", "gangwon", "chungbuk", "chungnam", "jeonbuk", "jeo
 /** @param {Record<string, string>} en, ja, zh, vi, id */
 function loc(en, ja, zh, vi, id) {
   return { en, ja, zh, vi, id };
+}
+
+/** @param {string} [ko] */
+function locWithKo(en, ja, zh, vi, id, ko) {
+  return ko ? { en, ja, zh, vi, id, ko } : { en, ja, zh, vi, id };
 }
 
 /**
@@ -24,6 +32,8 @@ function buildPlace({ theme, region, rating, name, address, description, localGe
 
 function fromRaw(row, localGem = false) {
   const subCode = row.length > 19 ? row[19] : undefined;
+  const nKo = row.length > 20 ? row[20] : undefined;
+  const addressKo = row.length > 21 ? row[21] : undefined;
   const [
     theme,
     province,
@@ -56,10 +66,33 @@ function fromRaw(row, localGem = false) {
     theme,
     region,
     rating,
-    name: loc(nEn, nJa, nZh, nVi, nId),
-    address: loc(aEn, aJa, aZh, aVi, aId),
+    name: locWithKo(nEn, nJa, nZh, nVi, nId, nKo),
+    address: locWithKo(aEn, aJa, aZh, aVi, aId, addressKo),
     description: loc(dEn, dJa, dZh, dVi, dId),
     localGem,
+  });
+}
+
+/** @param {import("./geoje-places.mjs").GEOJE_PLACES[number]} p */
+function fromGeoje(p) {
+  const adminMatch = p.addressKo.match(/거제시\s+(\S+)/);
+  const adminKo = adminMatch ? adminMatch[1] : "";
+
+  return buildPlace({
+    theme: p.theme,
+    region: { province: "gyeongnam", city: "geoje", district: p.district },
+    rating: p.rating,
+    name: locWithKo(p.en, p.ja, p.zh, p.vi, p.id, p.ko),
+    address: locWithKo(
+      p.addressEn,
+      `巨濟市 ${adminKo}`,
+      p.addressKo.replace(/^경상남도\s+/, "").replace("거제시", "巨济市"),
+      p.addressEn,
+      p.addressEn,
+      p.addressKo
+    ),
+    description: p.description,
+    localGem: false,
   });
 }
 
@@ -94,6 +127,7 @@ const localRaw = LOCAL_PARTS.flatMap(loadPart);
 const places = [
   ...touristRaw.map((row) => fromRaw(row, false)),
   ...localRaw.map((row) => fromRaw(row, true)),
+  ...GEOJE_PLACES.map(fromGeoje),
 ];
 
 function countByProvince(list) {
@@ -117,14 +151,16 @@ function countThemesByProvince(list, provinceFilter) {
 }
 
 function countLocalByProvince(list, province) {
-  return list.filter((p) => p.localGem && p.region.province === province).length;
+  return list.filter(
+    (p) => p.localGem && p.region.province === province && p.region.city !== "geoje"
+  ).length;
 }
 
 function countLocalThemes(list, province) {
   /** @type {Record<string, number>} */
   const out = {};
   for (const p of list) {
-    if (!p.localGem || p.region.province !== province) continue;
+    if (!p.localGem || p.region.province !== province || p.region.city === "geoje") continue;
     out[p.theme] = (out[p.theme] ?? 0) + 1;
   }
   return out;
@@ -133,6 +169,14 @@ function countLocalThemes(list, province) {
 syncRegionLabels(places);
 fs.writeFileSync(OUT_PATH, `${JSON.stringify(places, null, 2)}\n`);
 
+const naverKo = JSON.parse(fs.readFileSync(NAVER_KO_PATH, "utf8"));
+for (const p of places) {
+  if (typeof p.name === "object" && p.name.ko) {
+    naverKo[p.name.en] = p.name.ko;
+  }
+}
+fs.writeFileSync(NAVER_KO_PATH, `${JSON.stringify(naverKo, null, 2)}\n`);
+
 const total = places.length;
 const localTotal = places.filter((p) => p.localGem).length;
 const byProvince = countByProvince(places);
@@ -140,9 +184,23 @@ const byProvince = countByProvince(places);
 console.log(`Wrote ${total} places (${localTotal} Naver local gems) to ${OUT_PATH}`);
 console.log("Count by province:", byProvince);
 
-if (total !== 300) {
-  console.error(`ERROR: expected 300 places, got ${total}`);
+const expectedTotal = 300 + GEOJE_TOTAL;
+if (total !== expectedTotal) {
+  console.error(`ERROR: expected ${expectedTotal} places, got ${total}`);
   process.exit(1);
+}
+
+const geojePlaces = places.filter((p) => p.region.city === "geoje");
+if (geojePlaces.length !== GEOJE_TOTAL) {
+  console.error(`ERROR: expected ${GEOJE_TOTAL} Geoje places, got ${geojePlaces.length}`);
+  process.exit(1);
+}
+for (const theme of THEMES) {
+  const geojeThemeCount = geojePlaces.filter((p) => p.theme === theme).length;
+  if (geojeThemeCount !== 20) {
+    console.error(`ERROR: Geoje/${theme} has ${geojeThemeCount}, expected 20`);
+    process.exit(1);
+  }
 }
 
 if (localTotal !== 160) {

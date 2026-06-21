@@ -820,11 +820,11 @@
     },
     "geoje": {
       "ko": "거제시",
-      "en": "Geoje",
+      "en": "Gyeongnam",
       "ja": "巨濟市",
-      "zh": "巨济市古县",
-      "vi": "Geoje",
-      "id": "Geoje"
+      "zh": "巨济市",
+      "vi": "Gyeongnam",
+      "id": "Gyeongnam"
     },
     "sacheon": {
       "ko": "사천시",
@@ -1941,12 +1941,12 @@
       "id": "Bongpyeong-dong"
     },
     "gohyeon": {
-      "ko": "古縣洞",
-      "en": "Gohyeon-dong",
-      "ja": "古縣洞",
-      "zh": "古县洞",
-      "vi": "Gohyeon-dong",
-      "id": "Gohyeon-dong"
+      "ko": "고현동",
+      "en": "68 Gyeryong-ro",
+      "ja": "계룡로",
+      "zh": "계룡로",
+      "vi": "68 Gyeryong-ro",
+      "id": "68 Gyeryong-ro"
     },
     "sacheon-si": {
       "ko": "泗川市",
@@ -2019,6 +2019,110 @@
       "zh": "咸安邑",
       "vi": "Haman-eup",
       "id": "Haman-eup"
+    },
+    "밀양돼지국밥": {
+      "ko": "密陽市",
+      "en": "Miryang-si",
+      "ja": "密陽市",
+      "zh": "密陽市",
+      "vi": "Miryang-si",
+      "id": "Miryang-si"
+    },
+    "진주성": {
+      "ko": "晋州市",
+      "en": "Jinju-si",
+      "ja": "晋州市",
+      "zh": "晋州市",
+      "vi": "Jinju-si",
+      "id": "Jinju-si"
+    },
+    "통도사": {
+      "ko": "梁山市",
+      "en": "Yangsan-si",
+      "ja": "梁山市",
+      "zh": "梁山市",
+      "vi": "Yangsan-si",
+      "id": "Yangsan-si"
+    },
+    "dongbu": {
+      "ko": "동부면",
+      "en": "8 Hakdong 4-gil",
+      "ja": "동부면",
+      "zh": "동부면",
+      "vi": "8 Hakdong 4-gil",
+      "id": "8 Hakdong 4-gil"
+    },
+    "okpo": {
+      "ko": "옥포동",
+      "en": "215 Okpo-ro",
+      "ja": "옥포로",
+      "zh": "옥포로",
+      "vi": "215 Okpo-ro",
+      "id": "215 Okpo-ro"
+    },
+    "jangseungpo": {
+      "ko": "장승포동",
+      "en": "505-1 Jangseungpo-dong",
+      "ja": "장승포동",
+      "zh": "장승포동",
+      "vi": "505-1 Jangseungpo-dong",
+      "id": "505-1 Jangseungpo-dong"
+    },
+    "jangmok": {
+      "ko": "장목면",
+      "en": "256-1 Oepo-ri",
+      "ja": "장목면",
+      "zh": "장목면",
+      "vi": "256-1 Oepo-ri",
+      "id": "256-1 Oepo-ri"
+    },
+    "ilwon": {
+      "ko": "일운면",
+      "en": "17 Oedo-gil",
+      "ja": "일운면",
+      "zh": "일운면",
+      "vi": "17 Oedo-gil",
+      "id": "17 Oedo-gil"
+    },
+    "nambugmyeon": {
+      "ko": "남부면",
+      "en": "14 Dojangpo-gil",
+      "ja": "남부면",
+      "zh": "남부면",
+      "vi": "14 Dojangpo-gil",
+      "id": "14 Dojangpo-gil"
+    },
+    "sapyeong": {
+      "ko": "사등면",
+      "en": "Gwangri",
+      "ja": "사등면",
+      "zh": "광리",
+      "vi": "Gwangri",
+      "id": "Gwangri"
+    },
+    "hacheong": {
+      "ko": "하청면",
+      "en": "Chilcheon-ri",
+      "ja": "하청면",
+      "zh": "칠천리",
+      "vi": "Chilcheon-ri",
+      "id": "Chilcheon-ri"
+    },
+    "yeoncho": {
+      "ko": "연초면",
+      "en": "1-1 Yeoncho-ri",
+      "ja": "연초면",
+      "zh": "연초면",
+      "vi": "1-1 Yeoncho-ri",
+      "id": "1-1 Yeoncho-ri"
+    },
+    "gujora": {
+      "ko": "구조라동",
+      "en": "48 Gujora-ro",
+      "ja": "일운면",
+      "zh": "일운면",
+      "vi": "48 Gujora-ro",
+      "id": "48 Gujora-ro"
     }
   }
 }

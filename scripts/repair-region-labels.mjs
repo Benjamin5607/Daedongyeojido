@@ -48,6 +48,20 @@ const CITY_KO = {
   cheongsong: "청송군", jinan: "진안군", muju: "무주군",
 };
 
+const GEOJE_DISTRICT_KO = {
+  dongbu: "동부면",
+  gohyeon: "고현동",
+  gujora: "구조라동",
+  hacheong: "하청면",
+  ilwon: "일운면",
+  jangmok: "장목면",
+  jangseungpo: "장승포동",
+  nambugmyeon: "남부면",
+  okpo: "옥포동",
+  sapyeong: "사등면",
+  yeoncho: "연초면",
+};
+
 function isGoodLabel(label) {
   if (!label) return false;
   return label.ja !== label.en && label.ja !== label.ko && label.en !== label.ko;
@@ -143,9 +157,11 @@ function inferDistrictLabel(places, code) {
 
   const en = pickEnDistrict(enParts, metro) || code;
   const ja = pickJaDistrict(jaParts) || en;
+  const koOverride =
+    sample.region.city === "geoje" ? GEOJE_DISTRICT_KO[code] : undefined;
 
   return ml({
-    ko: ja,
+    ko: koOverride ?? ja,
     en,
     ja,
     zh: zhDistrictLabel(sample.address.zh, ja),

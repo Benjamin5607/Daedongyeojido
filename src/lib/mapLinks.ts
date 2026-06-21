@@ -17,7 +17,11 @@ export function buildMapQuery(name: string, address: string): string {
 /** Always search Naver Map with Korean (Hangul) place name + address. */
 export function buildNaverMapSearchQuery(place: Place): string {
   const nameKo = resolveKoreanField(place.name);
-  const addressKo = buildKoreanAddress(place.region);
+  const addressField = place.address;
+  const addressKo =
+    typeof addressField === "object" && addressField.ko
+      ? addressField.ko
+      : buildKoreanAddress(place.region);
   return [nameKo, addressKo].filter(Boolean).join(" ").trim();
 }
 

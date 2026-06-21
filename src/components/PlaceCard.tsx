@@ -5,7 +5,7 @@ import {
   buildMapQuery,
   buildNaverMapUrlForPlace,
 } from "@/lib/mapLinks";
-import { resolveLocalizedField } from "@/lib/i18n";
+import { resolveLocalizedField, resolveKoreanField } from "@/lib/i18n";
 import { formatPlaceRegion } from "@/lib/regions";
 import { useLanguage } from "@/context/LanguageContext";
 import type { Place } from "@/types";
@@ -17,7 +17,8 @@ interface PlaceCardProps {
 export function PlaceCard({ place }: PlaceCardProps) {
   const { locale, t } = useLanguage();
 
-  const name = resolveLocalizedField(place.name, locale);
+  const nameKo = resolveKoreanField(place.name);
+  const localizedName = resolveLocalizedField(place.name, locale);
   const address = resolveLocalizedField(place.address, locale);
   const description =
     place.description[locale] ?? place.description.en ?? "";
@@ -25,7 +26,7 @@ export function PlaceCard({ place }: PlaceCardProps) {
     ? formatPlaceRegion(place.region, locale)
     : "";
 
-  const mapQuery = buildMapQuery(name, address);
+  const mapQuery = buildMapQuery(nameKo, address);
   const googleMapsUrl = buildGoogleMapsUrl(mapQuery);
   const naverMapUrl = buildNaverMapUrlForPlace(place);
 
@@ -42,7 +43,7 @@ export function PlaceCard({ place }: PlaceCardProps) {
           // eslint-disable-next-line @next/next/no-img-element
           <img
             src={place.imageUrl}
-            alt={name}
+            alt={nameKo}
             className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
           />
         ) : (
@@ -73,8 +74,11 @@ export function PlaceCard({ place }: PlaceCardProps) {
       <div className="space-y-3 p-5">
         <div>
           <h3 className="font-serif text-lg font-semibold text-[var(--color-ink)]">
-            {name}
+            {nameKo}
           </h3>
+          {localizedName !== nameKo && (
+            <p className="mt-0.5 text-xs text-[var(--color-muted)]">{localizedName}</p>
+          )}
           <p className="mt-1 text-sm text-[var(--color-muted)]">{address}</p>
           {place.localGem && (
             <p className="mt-1.5 text-xs text-[#03C75A]">{t.naverLocalHint}</p>

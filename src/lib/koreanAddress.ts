@@ -31,10 +31,25 @@ const BUSAN_GU_KO: Record<string, string> = {
   "nam-busan": "남구",
 };
 
+const GEOJE_DISTRICT_KO: Record<string, string> = {
+  dongbu: "동부면",
+  gohyeon: "고현동",
+  gujora: "구조라동",
+  hacheong: "하청면",
+  ilwon: "일운면",
+  jangmok: "장목면",
+  jangseungpo: "장승포동",
+  nambugmyeon: "남부면",
+  okpo: "옥포동",
+  sapyeong: "사등면",
+  yeoncho: "연초면",
+};
+
 /** Hangul district names for metro areas; falls back to region label ko field. */
-function districtKo(province: string, code: string): string {
+function districtKo(province: string, code: string, city?: string): string {
   if (province === "seoul") return SEOUL_GU_KO[code] ?? labels.districts[code]?.ko ?? code;
   if (province === "busan") return BUSAN_GU_KO[code] ?? labels.districts[code]?.ko ?? code;
+  if (city === "geoje") return GEOJE_DISTRICT_KO[code] ?? labels.districts[code]?.ko ?? code;
   return labels.districts[code]?.ko ?? code;
 }
 
@@ -51,7 +66,7 @@ export function buildKoreanAddress(region: PlaceRegion): string {
   }
 
   if (region.district) {
-    parts.push(districtKo(region.province, region.district));
+    parts.push(districtKo(region.province, region.district, region.city));
   }
 
   return parts.join(" ");

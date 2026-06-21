@@ -1,0 +1,77 @@
+[
+  {
+    "theme": "k-food",
+    "name": {
+      "en": "Maple Tree House Itaewon",
+      "ja": "メイプルツリーハウス 梨泰院",
+      "zh": "Maple Tree House 梨泰院店",
+      "vi": "Maple Tree House Itaewon",
+      "id": "Maple Tree House Itaewon"
+    },
+    "address": {
+      "en": "49 Itaewon-ro 27-gil, Yongsan-gu, Seoul",
+      "ja": "ソウル特別市 龍山区 梨泰院路27ギル 49",
+      "zh": "首尔龙山区梨泰院路27街49",
+      "vi": "49 Itaewon-ro 27-gil, Yongsan-gu, Seoul",
+      "id": "49 Itaewon-ro 27-gil, Yongsan-gu, Seoul"
+    },
+    "rating": 4.6,
+    "description": {
+      "en": "A beloved BBQ spot where premium hanwoo meets a lively Itaewon atmosphere. Tender cuts, fast service, and a queue that proves locals keep coming back.",
+      "ja": "上質な韓牛と活気ある梨泰院の雰囲気が出会う人気焼肉店。柔らかい肉質と手早いサービスで、地元客も絶えず並ぶ名店。",
+      "zh": "优质韩牛与梨泰院热闹氛围相遇的人气烤肉店，肉质软嫩、服务迅速，本地食客络绎不绝。",
+      "vi": "Quán nướng nổi tiếng với thịt hanwoo cao cấp và không khí sôi động ở Itaewon. Thịt mềm, phục vụ nhanh, luôn có hàng chờ của dân địa phương.",
+      "id": "Spot BBQ populer dengan hanwoo premium dan suasana Itaewon yang hidup. Daging lembut, layanan cepat, dan antrean panjang dari pengunjung lokal."
+    }
+  },
+  {
+    "theme": "hallyu",
+    "name": {
+      "en": "HYBE Insight",
+      "ja": "HYBE INSIGHT",
+      "zh": "HYBE INSIGHT",
+      "vi": "HYBE Insight",
+      "id": "HYBE Insight"
+    },
+    "address": {
+      "en": "42 Hangang-daero, Yongsan-gu, Seoul",
+      "ja": "ソウル特別市 龍山区 漢江大路 42",
+      "zh": "首尔龙山区汉江大路42",
+      "vi": "42 Hangang-daero, Yongsan-gu, Seoul",
+      "id": "42 Hangang-daero, Yongsan-gu, Seoul"
+    },
+    "rating": 4.4,
+    "description": {
+      "en": "An immersive exhibition space celebrating HYBE artists and the global K-pop ecosystem. Interactive zones, archival moments, and fan-favorite photo spots.",
+      "ja": "HYBEアーティストと世界のK-POPエコシステムを体感できる展示空間。インタラクティブゾーンとファン必見のフォトスポットが充実。",
+      "zh": "沉浸式展览空间，呈现 HYBE 艺人与全球 K-pop 生态，互动区与粉丝打卡点丰富。",
+      "vi": "Không gian triển lãm tương tác về nghệ sĩ HYBE và hệ sinh thái K-pop toàn cầu, với nhiều góc chụp ảnh cho fan.",
+      "id": "Ruang pameran imersif tentang artis HYBE dan ekosistem K-pop global, dengan zona interaktif dan spot foto favorit penggemar."
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "name": {
+      "en": "Cheonggyecheon Stream",
+      "ja": "清渓川",
+      "zh": "清溪川",
+      "vi": "Suối Cheonggyecheon",
+      "id": "Aliran Cheonggyecheon"
+    },
+    "address": {
+      "en": "Cheonggyecheon-ro, Jung-gu, Seoul",
+      "ja": "ソウル特別市 中区 清渓川路",
+      "zh": "首尔中区清溪川路",
+      "vi": "Cheonggyecheon-ro, Jung-gu, Seoul",
+      "id": "Cheonggyecheon-ro, Jung-gu, Seoul"
+    },
+    "rating": 4.7,
+    "description": {
+      "en": "A restored urban stream threading through downtown Seoul. Evening walks along lantern-lit paths offer a calm contrast to the surrounding skyscrapers.",
+      "ja": "都心を流れる再生都市型河川。灯りに照らされた遊歩道の夜散歩は、高層ビル街との対比が美しい。",
+      "zh": "贯穿首尔市中心的复原城市溪流，灯笼点缀的步道夜景与周边摩天楼形成宁静对比。",
+      "vi": "Dòng suối đô thị được phục hồi xuyên qua trung tâm Seoul. Đi bộ buổi tối dọc lối đi thắp đèn mang lại sự tĩnh lặng giữa các tòa nhà chọc trời.",
+      "id": "Aliran urban yang direvitalisasi melintasi pusat Seoul. Jalan malam di jalur berlampu memberi kontras tenang dengan gedung pencakar langit."
+    }
+  }
+]

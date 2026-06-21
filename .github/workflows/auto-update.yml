@@ -1,0 +1,48 @@
+name: Auto-update curated places
+
+on:
+  schedule:
+    # Every Sunday at 02:00 UTC (KST 11:00; adjust if needed)
+    - cron: "0 2 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Run scraper processor
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scraper/processor.js
+
+      - name: Commit and push if data changed
+        run: |
+          if git diff --quiet -- src/data/crawled_places.json; then
+            echo "No changes detected in crawled_places.json"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/crawled_places.json
+          git commit -m "Auto-update curated places"
+          git push

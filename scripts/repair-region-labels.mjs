@@ -121,6 +121,38 @@ function pickEnDistrict(parts, metro) {
   return parts[0] ?? "";
 }
 
+const PROVINCE_EN_TOKENS =
+  /^(gyeonggi|gangwon|gyeongbuk|gyeongnam|jeonbuk|jeonnam|chungbuk|chungnam|north chungcheong|south chungcheong|north gyeongsang|south gyeongsang|north jeolla|south jeolla|jeju|seoul|busan)$/i;
+
+function formatEnCityToken(part) {
+  const base = part.replace(/-(si|gun)$/i, "").replace(/-/g, " ").trim();
+  if (!base) return part;
+  return base.replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
+/** Pick a city token from a comma-separated English address (not the province tail). */
+function pickEnCity(parts) {
+  const admin = parts.find((part) => /-(si|gun)$/i.test(part));
+  if (admin) return formatEnCityToken(admin);
+
+  for (let i = parts.length - 1; i >= 0; i -= 1) {
+    const part = parts[i]?.trim();
+    if (!part || PROVINCE_EN_TOKENS.test(part)) continue;
+    if (/-(gu|dong|eup|myeon|ro|gil|\d)/i.test(part)) continue;
+    return formatEnCityToken(part);
+  }
+
+  return formatEnCityToken(parts[0] ?? "");
+}
+
+function codeToEnCity(code) {
+  const stripped = code.replace(/-(si|gun|governorate)$/, "").replace(/-gangwon$/, "");
+  return stripped
+    .split("-")
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
 /**
  * @param {object[]} places
  * @param {string} code
@@ -130,15 +162,16 @@ function inferCityLabel(places, code) {
   if (!sample) return null;
 
   const jaParts = splitJaParts(sample.address.ja);
-  const enTail = splitEnParts(sample.address.en).pop() ?? code;
+  const enParts = splitEnParts(sample.address.en);
+  const enCity = pickEnCity(enParts) || codeToEnCity(code);
 
   return ml({
     ko: CITY_KO[code] ?? jaParts[0] ?? code,
-    en: enTail,
-    ja: jaParts[0] ?? enTail,
+    en: enCity,
+    ja: jaParts[0] ?? enCity,
     zh: zhCityLabel(sample.address.zh),
-    vi: enTail,
-    id: enTail,
+    vi: enCity,
+    id: enCity,
   });
 }
 

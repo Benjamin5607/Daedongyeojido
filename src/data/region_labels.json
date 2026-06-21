@@ -100,11 +100,11 @@
     },
     "jeju-si": {
       "ko": "제주시",
-      "en": "Jeju-si",
+      "en": "Jeju",
       "ja": "済州市",
       "zh": "济州市",
-      "vi": "Jeju-si",
-      "id": "Jeju-si"
+      "vi": "Jeju",
+      "id": "Jeju"
     },
     "andong": {
       "ko": "안동시",
@@ -140,11 +140,11 @@
     },
     "seogwipo-si": {
       "ko": "서귀포시",
-      "en": "Jeju",
+      "en": "Seogwipo",
       "ja": "西帰浦市",
       "zh": "西归浦市",
-      "vi": "Jeju",
-      "id": "Jeju"
+      "vi": "Seogwipo",
+      "id": "Seogwipo"
     },
     "paju": {
       "ko": "파주시",
@@ -164,11 +164,11 @@
     },
     "icheon": {
       "ko": "이천시",
-      "en": "Gyeonggi",
+      "en": "Icheon",
       "ja": "利川市",
       "zh": "利川市",
-      "vi": "Gyeonggi",
-      "id": "Gyeonggi"
+      "vi": "Icheon",
+      "id": "Icheon"
     },
     "yongin": {
       "ko": "용인시",
@@ -228,11 +228,11 @@
     },
     "jinan": {
       "ko": "진안군",
-      "en": "Jeonbuk",
+      "en": "Jinan",
       "ja": "鎮安郡",
       "zh": "镇安郡",
-      "vi": "Jeonbuk",
-      "id": "Jeonbuk"
+      "vi": "Jinan",
+      "id": "Jinan"
     },
     "muju": {
       "ko": "무주군",
@@ -308,11 +308,11 @@
     },
     "yeoju": {
       "ko": "여주시",
-      "en": "Gyeonggi",
+      "en": "Yeoju",
       "ja": "驪州市",
       "zh": "骊州市",
-      "vi": "Gyeonggi",
-      "id": "Gyeonggi"
+      "vi": "Yeoju",
+      "id": "Yeoju"
     },
     "pocheon": {
       "ko": "포천시",
@@ -460,11 +460,11 @@
     },
     "jecheon": {
       "ko": "제천시",
-      "en": "Chungbuk",
+      "en": "Jecheon",
       "ja": "堤川市",
       "zh": "堤川市",
-      "vi": "Chungbuk",
-      "id": "Chungbuk"
+      "vi": "Jecheon",
+      "id": "Jecheon"
     },
     "danyang": {
       "ko": "단양군",
@@ -532,11 +532,11 @@
     },
     "seosan": {
       "ko": "서산시",
-      "en": "Chungnam",
+      "en": "Seosan",
       "ja": "瑞山市",
       "zh": "瑞山市",
-      "vi": "Chungnam",
-      "id": "Chungnam"
+      "vi": "Seosan",
+      "id": "Seosan"
     },
     "gongju": {
       "ko": "공주시",
@@ -564,11 +564,11 @@
     },
     "nonsan": {
       "ko": "논산시",
-      "en": "Chungnam",
+      "en": "Nonsan",
       "ja": "論山市",
       "zh": "论山市",
-      "vi": "Chungnam",
-      "id": "Chungnam"
+      "vi": "Nonsan",
+      "id": "Nonsan"
     },
     "taean": {
       "ko": "태안군",
@@ -612,27 +612,27 @@
     },
     "jeongeup": {
       "ko": "정읍시",
-      "en": "Jeonbuk",
+      "en": "Jeongeup",
       "ja": "井邑市",
       "zh": "井邑市",
-      "vi": "Jeonbuk",
-      "id": "Jeonbuk"
+      "vi": "Jeongeup",
+      "id": "Jeongeup"
     },
     "namwon": {
       "ko": "남원시",
-      "en": "Jeonbuk",
+      "en": "Namwon",
       "ja": "南原市",
       "zh": "南原市",
-      "vi": "Jeonbuk",
-      "id": "Jeonbuk"
+      "vi": "Namwon",
+      "id": "Namwon"
     },
     "buan": {
       "ko": "부안군",
-      "en": "Jeonbuk",
+      "en": "Buan",
       "ja": "扶安郡",
       "zh": "扶安郡",
-      "vi": "Jeonbuk",
-      "id": "Jeonbuk"
+      "vi": "Buan",
+      "id": "Buan"
     },
     "sunchang": {
       "ko": "순창군",
@@ -644,11 +644,11 @@
     },
     "gimje": {
       "ko": "김제시",
-      "en": "Jeonbuk",
+      "en": "Gimje",
       "ja": "金堤市",
       "zh": "金堤市",
-      "vi": "Jeonbuk",
-      "id": "Jeonbuk"
+      "vi": "Gimje",
+      "id": "Gimje"
     },
     "imsil": {
       "ko": "임실군",
@@ -676,11 +676,11 @@
     },
     "suncheon": {
       "ko": "순천시",
-      "en": "Jeonnam",
+      "en": "Suncheon",
       "ja": "順天市",
       "zh": "顺天市",
-      "vi": "Jeonnam",
-      "id": "Jeonnam"
+      "vi": "Suncheon",
+      "id": "Suncheon"
     },
     "damyang": {
       "ko": "담양군",
@@ -700,11 +700,11 @@
     },
     "naju": {
       "ko": "나주시",
-      "en": "Jeonnam",
+      "en": "Naju",
       "ja": "羅州市",
       "zh": "罗州市",
-      "vi": "Jeonnam",
-      "id": "Jeonnam"
+      "vi": "Naju",
+      "id": "Naju"
     },
     "haenam": {
       "ko": "해남군",
@@ -764,11 +764,11 @@
     },
     "mungyeong": {
       "ko": "문경시",
-      "en": "Gyeongbuk",
+      "en": "Mungyeong",
       "ja": "聞慶市",
       "zh": "闻庆市",
-      "vi": "Gyeongbuk",
-      "id": "Gyeongbuk"
+      "vi": "Mungyeong",
+      "id": "Mungyeong"
     },
     "uljin": {
       "ko": "울진군",
@@ -780,11 +780,11 @@
     },
     "sangju": {
       "ko": "상주시",
-      "en": "Gyeongbuk",
+      "en": "Sangju",
       "ja": "尙州市",
       "zh": "尚州市",
-      "vi": "Gyeongbuk",
-      "id": "Gyeongbuk"
+      "vi": "Sangju",
+      "id": "Sangju"
     },
     "goryeong": {
       "ko": "고령군",
@@ -820,43 +820,43 @@
     },
     "geoje": {
       "ko": "거제시",
-      "en": "Gyeongnam",
+      "en": "Geoje",
       "ja": "巨濟市",
       "zh": "巨济市",
-      "vi": "Gyeongnam",
-      "id": "Gyeongnam"
+      "vi": "Geoje",
+      "id": "Geoje"
     },
     "sacheon": {
       "ko": "사천시",
-      "en": "Gyeongnam",
+      "en": "Sacheon",
       "ja": "泗川市",
       "zh": "泗川市",
-      "vi": "Gyeongnam",
-      "id": "Gyeongnam"
+      "vi": "Sacheon",
+      "id": "Sacheon"
     },
     "gimhae": {
       "ko": "김해시",
-      "en": "Gyeongnam",
+      "en": "Gimhae",
       "ja": "金海市",
       "zh": "金海市",
-      "vi": "Gyeongnam",
-      "id": "Gyeongnam"
+      "vi": "Gimhae",
+      "id": "Gimhae"
     },
     "yangsan": {
       "ko": "양산시",
-      "en": "Gyeongnam",
+      "en": "Yangsan",
       "ja": "梁山市",
       "zh": "梁山市",
-      "vi": "Gyeongnam",
-      "id": "Gyeongnam"
+      "vi": "Yangsan",
+      "id": "Yangsan"
     },
     "miryang": {
       "ko": "밀양시",
-      "en": "Gyeongnam",
+      "en": "Miryang",
       "ja": "密陽市",
       "zh": "密阳市",
-      "vi": "Gyeongnam",
-      "id": "Gyeongnam"
+      "vi": "Miryang",
+      "id": "Miryang"
     },
     "hadong": {
       "ko": "하동군",

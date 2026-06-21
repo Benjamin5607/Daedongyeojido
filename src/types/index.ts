@@ -23,6 +23,8 @@ export interface Place {
   rating: number;
   description: LocalizedText;
   region: PlaceRegion;
+  /** Naver Map/blog discovery spot — rarely listed on Google Maps */
+  localGem?: boolean;
   imageUrl?: string;
 }
 

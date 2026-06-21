@@ -55,6 +55,38 @@
       "zh": "全北特别自治道",
       "vi": "Bắc Jeolla",
       "id": "Jeolla Utara"
+    },
+    "chungbuk": {
+      "ko": "충청북도",
+      "en": "North Chungcheong",
+      "ja": "忠清北道",
+      "zh": "忠清北道",
+      "vi": "Bắc Chungcheong",
+      "id": "Chungcheong Utara"
+    },
+    "chungnam": {
+      "ko": "충청남도",
+      "en": "South Chungcheong",
+      "ja": "忠清南道",
+      "zh": "忠清南道",
+      "vi": "Nam Chungcheong",
+      "id": "Chungcheong Selatan"
+    },
+    "jeonnam": {
+      "ko": "전라남도",
+      "en": "South Jeolla",
+      "ja": "全羅南道",
+      "zh": "全罗南道",
+      "vi": "Nam Jeolla",
+      "id": "Jeolla Selatan"
+    },
+    "gyeongnam": {
+      "ko": "경상남도",
+      "en": "South Gyeongsang",
+      "ja": "慶尚南道",
+      "zh": "庆尚南道",
+      "vi": "Nam Gyeongsang",
+      "id": "Gyeongsang Selatan"
     }
   },
   "cities": {
@@ -209,6 +241,638 @@
       "zh": "茂朱郡",
       "vi": "Muju",
       "id": "Muju"
+    },
+    "ansan": {
+      "ko": "안산시",
+      "en": "안산",
+      "ja": "안산",
+      "zh": "안산",
+      "vi": "안산",
+      "id": "안산"
+    },
+    "siheung": {
+      "ko": "시흥시",
+      "en": "시흥",
+      "ja": "시흥",
+      "zh": "시흥",
+      "vi": "시흥",
+      "id": "시흥"
+    },
+    "namyangju": {
+      "ko": "남양주시",
+      "en": "남양주",
+      "ja": "남양주",
+      "zh": "남양주",
+      "vi": "남양주",
+      "id": "남양주"
+    },
+    "gunpo": {
+      "ko": "군포시",
+      "en": "군포",
+      "ja": "군포",
+      "zh": "군포",
+      "vi": "군포",
+      "id": "군포"
+    },
+    "hwaseong": {
+      "ko": "화성시",
+      "en": "화성",
+      "ja": "화성",
+      "zh": "화성",
+      "vi": "화성",
+      "id": "화성"
+    },
+    "goyang": {
+      "ko": "고양시",
+      "en": "고양",
+      "ja": "고양",
+      "zh": "고양",
+      "vi": "고양",
+      "id": "고양"
+    },
+    "uijeongbu": {
+      "ko": "의정부시",
+      "en": "의정부",
+      "ja": "의정부",
+      "zh": "의정부",
+      "vi": "의정부",
+      "id": "의정부"
+    },
+    "yangpyeong": {
+      "ko": "양평군",
+      "en": "양평",
+      "ja": "양평",
+      "zh": "양평",
+      "vi": "양평",
+      "id": "양평"
+    },
+    "yeoju": {
+      "ko": "여주시",
+      "en": "여주",
+      "ja": "여주",
+      "zh": "여주",
+      "vi": "여주",
+      "id": "여주"
+    },
+    "pocheon": {
+      "ko": "포천시",
+      "en": "포천",
+      "ja": "포천",
+      "zh": "포천",
+      "vi": "포천",
+      "id": "포천"
+    },
+    "bucheon": {
+      "ko": "부천시",
+      "en": "부천",
+      "ja": "부천",
+      "zh": "부천",
+      "vi": "부천",
+      "id": "부천"
+    },
+    "gwangmyeong": {
+      "ko": "광명시",
+      "en": "광명",
+      "ja": "광명",
+      "zh": "광명",
+      "vi": "광명",
+      "id": "광명"
+    },
+    "yangju": {
+      "ko": "양주시",
+      "en": "양주",
+      "ja": "양주",
+      "zh": "양주",
+      "vi": "양주",
+      "id": "양주"
+    },
+    "dongducheon": {
+      "ko": "동두천시",
+      "en": "동두천",
+      "ja": "동두천",
+      "zh": "동두천",
+      "vi": "동두천",
+      "id": "동두천"
+    },
+    "uiwang": {
+      "ko": "의왕시",
+      "en": "의왕",
+      "ja": "의왕",
+      "zh": "의왕",
+      "vi": "의왕",
+      "id": "의왕"
+    },
+    "gimpo": {
+      "ko": "김포시",
+      "en": "김포",
+      "ja": "김포",
+      "zh": "김포",
+      "vi": "김포",
+      "id": "김포"
+    },
+    "yeoncheon": {
+      "ko": "연천군",
+      "en": "연천",
+      "ja": "연천",
+      "zh": "연천",
+      "vi": "연천",
+      "id": "연천"
+    },
+    "guri": {
+      "ko": "구리시",
+      "en": "구리",
+      "ja": "구리",
+      "zh": "구리",
+      "vi": "구리",
+      "id": "구리"
+    },
+    "wonju": {
+      "ko": "원주시",
+      "en": "원주",
+      "ja": "원주",
+      "zh": "원주",
+      "vi": "원주",
+      "id": "원주"
+    },
+    "hongcheon": {
+      "ko": "홍천군",
+      "en": "홍천",
+      "ja": "홍천",
+      "zh": "홍천",
+      "vi": "홍천",
+      "id": "홍천"
+    },
+    "taebaek": {
+      "ko": "태백시",
+      "en": "태백",
+      "ja": "태백",
+      "zh": "태백",
+      "vi": "태백",
+      "id": "태백"
+    },
+    "yeongwol": {
+      "ko": "영월군",
+      "en": "영월",
+      "ja": "영월",
+      "zh": "영월",
+      "vi": "영월",
+      "id": "영월"
+    },
+    "jeongseon": {
+      "ko": "정선군",
+      "en": "정선",
+      "ja": "정선",
+      "zh": "정선",
+      "vi": "정선",
+      "id": "정선"
+    },
+    "inje": {
+      "ko": "인제군",
+      "en": "인제",
+      "ja": "인제",
+      "zh": "인제",
+      "vi": "인제",
+      "id": "인제"
+    },
+    "goseong-gangwon": {
+      "ko": "고성군",
+      "en": "고성",
+      "ja": "고성",
+      "zh": "고성",
+      "vi": "고성",
+      "id": "고성"
+    },
+    "cheongju": {
+      "ko": "청주시",
+      "en": "청주",
+      "ja": "청주",
+      "zh": "청주",
+      "vi": "청주",
+      "id": "청주"
+    },
+    "chungju": {
+      "ko": "충주시",
+      "en": "충주",
+      "ja": "충주",
+      "zh": "충주",
+      "vi": "충주",
+      "id": "충주"
+    },
+    "jecheon": {
+      "ko": "제천시",
+      "en": "제천",
+      "ja": "제천",
+      "zh": "제천",
+      "vi": "제천",
+      "id": "제천"
+    },
+    "danyang": {
+      "ko": "단양군",
+      "en": "단양",
+      "ja": "단양",
+      "zh": "단양",
+      "vi": "단양",
+      "id": "단양"
+    },
+    "boeun": {
+      "ko": "보은군",
+      "en": "보은",
+      "ja": "보은",
+      "zh": "보은",
+      "vi": "보은",
+      "id": "보은"
+    },
+    "goesan": {
+      "ko": "괴산군",
+      "en": "괴산",
+      "ja": "괴산",
+      "zh": "괴산",
+      "vi": "괴산",
+      "id": "괴산"
+    },
+    "jeungpyeong": {
+      "ko": "증평군",
+      "en": "증평",
+      "ja": "증평",
+      "zh": "증평",
+      "vi": "증평",
+      "id": "증평"
+    },
+    "okcheon": {
+      "ko": "옥천군",
+      "en": "옥천",
+      "ja": "옥천",
+      "zh": "옥천",
+      "vi": "옥천",
+      "id": "옥천"
+    },
+    "eumseong": {
+      "ko": "음성군",
+      "en": "음성",
+      "ja": "음성",
+      "zh": "음성",
+      "vi": "음성",
+      "id": "음성"
+    },
+    "cheonan": {
+      "ko": "천안시",
+      "en": "천안",
+      "ja": "천안",
+      "zh": "천안",
+      "vi": "천안",
+      "id": "천안"
+    },
+    "asan": {
+      "ko": "아산시",
+      "en": "아산",
+      "ja": "아산",
+      "zh": "아산",
+      "vi": "아산",
+      "id": "아산"
+    },
+    "seosan": {
+      "ko": "서산시",
+      "en": "서산",
+      "ja": "서산",
+      "zh": "서산",
+      "vi": "서산",
+      "id": "서산"
+    },
+    "gongju": {
+      "ko": "공주시",
+      "en": "공주",
+      "ja": "공주",
+      "zh": "공주",
+      "vi": "공주",
+      "id": "공주"
+    },
+    "dangjin": {
+      "ko": "당진시",
+      "en": "당진",
+      "ja": "당진",
+      "zh": "당진",
+      "vi": "당진",
+      "id": "당진"
+    },
+    "buyeo": {
+      "ko": "부여군",
+      "en": "부여",
+      "ja": "부여",
+      "zh": "부여",
+      "vi": "부여",
+      "id": "부여"
+    },
+    "nonsan": {
+      "ko": "논산시",
+      "en": "논산",
+      "ja": "논산",
+      "zh": "논산",
+      "vi": "논산",
+      "id": "논산"
+    },
+    "taean": {
+      "ko": "태안군",
+      "en": "태안",
+      "ja": "태안",
+      "zh": "태안",
+      "vi": "태안",
+      "id": "태안"
+    },
+    "geumsan": {
+      "ko": "금산군",
+      "en": "금산",
+      "ja": "금산",
+      "zh": "금산",
+      "vi": "금산",
+      "id": "금산"
+    },
+    "seocheon": {
+      "ko": "서천군",
+      "en": "서천",
+      "ja": "서천",
+      "zh": "서천",
+      "vi": "서천",
+      "id": "서천"
+    },
+    "gunsan": {
+      "ko": "군산시",
+      "en": "군산",
+      "ja": "군산",
+      "zh": "군산",
+      "vi": "군산",
+      "id": "군산"
+    },
+    "iksan": {
+      "ko": "익산시",
+      "en": "익산",
+      "ja": "익산",
+      "zh": "익산",
+      "vi": "익산",
+      "id": "익산"
+    },
+    "jeongeup": {
+      "ko": "정읍시",
+      "en": "정읍",
+      "ja": "정읍",
+      "zh": "정읍",
+      "vi": "정읍",
+      "id": "정읍"
+    },
+    "namwon": {
+      "ko": "남원시",
+      "en": "남원",
+      "ja": "남원",
+      "zh": "남원",
+      "vi": "남원",
+      "id": "남원"
+    },
+    "buan": {
+      "ko": "부안군",
+      "en": "부안",
+      "ja": "부안",
+      "zh": "부안",
+      "vi": "부안",
+      "id": "부안"
+    },
+    "sunchang": {
+      "ko": "순창군",
+      "en": "순창",
+      "ja": "순창",
+      "zh": "순창",
+      "vi": "순창",
+      "id": "순창"
+    },
+    "gimje": {
+      "ko": "김제시",
+      "en": "김제",
+      "ja": "김제",
+      "zh": "김제",
+      "vi": "김제",
+      "id": "김제"
+    },
+    "imsil": {
+      "ko": "임실군",
+      "en": "임실",
+      "ja": "임실",
+      "zh": "임실",
+      "vi": "임실",
+      "id": "임실"
+    },
+    "yeosu": {
+      "ko": "여수시",
+      "en": "여수",
+      "ja": "여수",
+      "zh": "여수",
+      "vi": "여수",
+      "id": "여수"
+    },
+    "mokpo": {
+      "ko": "목포시",
+      "en": "목포",
+      "ja": "목포",
+      "zh": "목포",
+      "vi": "목포",
+      "id": "목포"
+    },
+    "suncheon": {
+      "ko": "순천시",
+      "en": "순천",
+      "ja": "순천",
+      "zh": "순천",
+      "vi": "순천",
+      "id": "순천"
+    },
+    "damyang": {
+      "ko": "담양군",
+      "en": "담양",
+      "ja": "담양",
+      "zh": "담양",
+      "vi": "담양",
+      "id": "담양"
+    },
+    "gwangyang": {
+      "ko": "광양시",
+      "en": "광양",
+      "ja": "광양",
+      "zh": "광양",
+      "vi": "광양",
+      "id": "광양"
+    },
+    "naju": {
+      "ko": "나주시",
+      "en": "나주",
+      "ja": "나주",
+      "zh": "나주",
+      "vi": "나주",
+      "id": "나주"
+    },
+    "haenam": {
+      "ko": "해남군",
+      "en": "해남",
+      "ja": "해남",
+      "zh": "해남",
+      "vi": "해남",
+      "id": "해남"
+    },
+    "jindo": {
+      "ko": "진도군",
+      "en": "진도",
+      "ja": "진도",
+      "zh": "진도",
+      "vi": "진도",
+      "id": "진도"
+    },
+    "goheung": {
+      "ko": "고흥군",
+      "en": "고흥",
+      "ja": "고흥",
+      "zh": "고흥",
+      "vi": "고흥",
+      "id": "고흥"
+    },
+    "wando": {
+      "ko": "완도군",
+      "en": "완도",
+      "ja": "완도",
+      "zh": "완도",
+      "vi": "완도",
+      "id": "완도"
+    },
+    "gumi": {
+      "ko": "구미시",
+      "en": "구미",
+      "ja": "구미",
+      "zh": "구미",
+      "vi": "구미",
+      "id": "구미"
+    },
+    "gyeongsan": {
+      "ko": "경산시",
+      "en": "경산",
+      "ja": "경산",
+      "zh": "경산",
+      "vi": "경산",
+      "id": "경산"
+    },
+    "yeongju": {
+      "ko": "영주시",
+      "en": "영주",
+      "ja": "영주",
+      "zh": "영주",
+      "vi": "영주",
+      "id": "영주"
+    },
+    "mungyeong": {
+      "ko": "문경시",
+      "en": "문경",
+      "ja": "문경",
+      "zh": "문경",
+      "vi": "문경",
+      "id": "문경"
+    },
+    "uljin": {
+      "ko": "울진군",
+      "en": "울진",
+      "ja": "울진",
+      "zh": "울진",
+      "vi": "울진",
+      "id": "울진"
+    },
+    "sangju": {
+      "ko": "상주시",
+      "en": "상주",
+      "ja": "상주",
+      "zh": "상주",
+      "vi": "상주",
+      "id": "상주"
+    },
+    "goryeong": {
+      "ko": "고령군",
+      "en": "고령",
+      "ja": "고령",
+      "zh": "고령",
+      "vi": "고령",
+      "id": "고령"
+    },
+    "changwon": {
+      "ko": "창원시",
+      "en": "창원",
+      "ja": "창원",
+      "zh": "창원",
+      "vi": "창원",
+      "id": "창원"
+    },
+    "jinju": {
+      "ko": "진주시",
+      "en": "진주",
+      "ja": "진주",
+      "zh": "진주",
+      "vi": "진주",
+      "id": "진주"
+    },
+    "tongyeong": {
+      "ko": "통영시",
+      "en": "통영",
+      "ja": "통영",
+      "zh": "통영",
+      "vi": "통영",
+      "id": "통영"
+    },
+    "geoje": {
+      "ko": "거제시",
+      "en": "거제",
+      "ja": "거제",
+      "zh": "거제",
+      "vi": "거제",
+      "id": "거제"
+    },
+    "sacheon": {
+      "ko": "사천시",
+      "en": "사천",
+      "ja": "사천",
+      "zh": "사천",
+      "vi": "사천",
+      "id": "사천"
+    },
+    "gimhae": {
+      "ko": "김해시",
+      "en": "김해",
+      "ja": "김해",
+      "zh": "김해",
+      "vi": "김해",
+      "id": "김해"
+    },
+    "yangsan": {
+      "ko": "양산시",
+      "en": "양산",
+      "ja": "양산",
+      "zh": "양산",
+      "vi": "양산",
+      "id": "양산"
+    },
+    "miryang": {
+      "ko": "밀양시",
+      "en": "밀양",
+      "ja": "밀양",
+      "zh": "밀양",
+      "vi": "밀양",
+      "id": "밀양"
+    },
+    "hadong": {
+      "ko": "하동군",
+      "en": "하동",
+      "ja": "하동",
+      "zh": "하동",
+      "vi": "하동",
+      "id": "하동"
+    },
+    "haman": {
+      "ko": "함안군",
+      "en": "함안",
+      "ja": "함안",
+      "zh": "함안",
+      "vi": "함안",
+      "id": "함안"
     }
   },
   "districts": {
@@ -427,6 +1091,934 @@
       "zh": "德津区",
       "vi": "Deokjin-gu",
       "id": "Deokjin-gu"
+    },
+    "wongok": {
+      "ko": "wongok",
+      "en": "Wongok",
+      "ja": "Wongok",
+      "zh": "Wongok",
+      "vi": "Wongok",
+      "id": "Wongok"
+    },
+    "oido": {
+      "ko": "oido",
+      "en": "Oido",
+      "ja": "Oido",
+      "zh": "Oido",
+      "vi": "Oido",
+      "id": "Oido"
+    },
+    "byeollae": {
+      "ko": "byeollae",
+      "en": "Byeollae",
+      "ja": "Byeollae",
+      "zh": "Byeollae",
+      "vi": "Byeollae",
+      "id": "Byeollae"
+    },
+    "daeyami": {
+      "ko": "daeyami",
+      "en": "Daeyami",
+      "ja": "Daeyami",
+      "zh": "Daeyami",
+      "vi": "Daeyami",
+      "id": "Daeyami"
+    },
+    "bongdam": {
+      "ko": "bongdam",
+      "en": "Bongdam",
+      "ja": "Bongdam",
+      "zh": "Bongdam",
+      "vi": "Bongdam",
+      "id": "Bongdam"
+    },
+    "ilsan": {
+      "ko": "ilsan",
+      "en": "Ilsan",
+      "ja": "Ilsan",
+      "zh": "Ilsan",
+      "vi": "Ilsan",
+      "id": "Ilsan"
+    },
+    "uijeongbu-dong": {
+      "ko": "uijeongbu-dong",
+      "en": "Uijeongbu Dong",
+      "ja": "Uijeongbu Dong",
+      "zh": "Uijeongbu Dong",
+      "vi": "Uijeongbu Dong",
+      "id": "Uijeongbu Dong"
+    },
+    "yangpyeong-eup": {
+      "ko": "yangpyeong-eup",
+      "en": "Yangpyeong Eup",
+      "ja": "Yangpyeong Eup",
+      "zh": "Yangpyeong Eup",
+      "vi": "Yangpyeong Eup",
+      "id": "Yangpyeong Eup"
+    },
+    "yeoju-si": {
+      "ko": "yeoju-si",
+      "en": "Yeoju Si",
+      "ja": "Yeoju Si",
+      "zh": "Yeoju Si",
+      "vi": "Yeoju Si",
+      "id": "Yeoju Si"
+    },
+    "soheul": {
+      "ko": "soheul",
+      "en": "Soheul",
+      "ja": "Soheul",
+      "zh": "Soheul",
+      "vi": "Soheul",
+      "id": "Soheul"
+    },
+    "jung-dong": {
+      "ko": "jung-dong",
+      "en": "Jung Dong",
+      "ja": "Jung Dong",
+      "zh": "Jung Dong",
+      "vi": "Jung Dong",
+      "id": "Jung Dong"
+    },
+    "gwangmyeong-dong": {
+      "ko": "gwangmyeong-dong",
+      "en": "Gwangmyeong Dong",
+      "ja": "Gwangmyeong Dong",
+      "zh": "Gwangmyeong Dong",
+      "vi": "Gwangmyeong Dong",
+      "id": "Gwangmyeong Dong"
+    },
+    "nogok": {
+      "ko": "nogok",
+      "en": "Nogok",
+      "ja": "Nogok",
+      "zh": "Nogok",
+      "vi": "Nogok",
+      "id": "Nogok"
+    },
+    "jiha": {
+      "ko": "jiha",
+      "en": "Jiha",
+      "ja": "Jiha",
+      "zh": "Jiha",
+      "vi": "Jiha",
+      "id": "Jiha"
+    },
+    "burim": {
+      "ko": "burim",
+      "en": "Burim",
+      "ja": "Burim",
+      "zh": "Burim",
+      "vi": "Burim",
+      "id": "Burim"
+    },
+    "tongjin": {
+      "ko": "tongjin",
+      "en": "Tongjin",
+      "ja": "Tongjin",
+      "zh": "Tongjin",
+      "vi": "Tongjin",
+      "id": "Tongjin"
+    },
+    "songsan": {
+      "ko": "songsan",
+      "en": "Songsan",
+      "ja": "Songsan",
+      "zh": "Songsan",
+      "vi": "Songsan",
+      "id": "Songsan"
+    },
+    "yeoncheon-eup": {
+      "ko": "yeoncheon-eup",
+      "en": "Yeoncheon Eup",
+      "ja": "Yeoncheon Eup",
+      "zh": "Yeoncheon Eup",
+      "vi": "Yeoncheon Eup",
+      "id": "Yeoncheon Eup"
+    },
+    "guri-dong": {
+      "ko": "guri-dong",
+      "en": "Guri Dong",
+      "ja": "Guri Dong",
+      "zh": "Guri Dong",
+      "vi": "Guri Dong",
+      "id": "Guri Dong"
+    },
+    "seolseong": {
+      "ko": "seolseong",
+      "en": "Seolseong",
+      "ja": "Seolseong",
+      "zh": "Seolseong",
+      "vi": "Seolseong",
+      "id": "Seolseong"
+    },
+    "musil": {
+      "ko": "musil",
+      "en": "Musil",
+      "ja": "Musil",
+      "zh": "Musil",
+      "vi": "Musil",
+      "id": "Musil"
+    },
+    "hongcheon-eup": {
+      "ko": "hongcheon-eup",
+      "en": "Hongcheon Eup",
+      "ja": "Hongcheon Eup",
+      "zh": "Hongcheon Eup",
+      "vi": "Hongcheon Eup",
+      "id": "Hongcheon Eup"
+    },
+    "cheoram": {
+      "ko": "cheoram",
+      "en": "Cheoram",
+      "ja": "Cheoram",
+      "zh": "Cheoram",
+      "vi": "Cheoram",
+      "id": "Cheoram"
+    },
+    "yeongwol-eup": {
+      "ko": "yeongwol-eup",
+      "en": "Yeongwol Eup",
+      "ja": "Yeongwol Eup",
+      "zh": "Yeongwol Eup",
+      "vi": "Yeongwol Eup",
+      "id": "Yeongwol Eup"
+    },
+    "jeongseon-eup": {
+      "ko": "jeongseon-eup",
+      "en": "Jeongseon Eup",
+      "ja": "Jeongseon Eup",
+      "zh": "Jeongseon Eup",
+      "vi": "Jeongseon Eup",
+      "id": "Jeongseon Eup"
+    },
+    "inje-eup": {
+      "ko": "inje-eup",
+      "en": "Inje Eup",
+      "ja": "Inje Eup",
+      "zh": "Inje Eup",
+      "vi": "Inje Eup",
+      "id": "Inje Eup"
+    },
+    "goseong-eup": {
+      "ko": "goseong-eup",
+      "en": "Goseong Eup",
+      "ja": "Goseong Eup",
+      "zh": "Goseong Eup",
+      "vi": "Goseong Eup",
+      "id": "Goseong Eup"
+    },
+    "dongmyeong": {
+      "ko": "dongmyeong",
+      "en": "Dongmyeong",
+      "ja": "Dongmyeong",
+      "zh": "Dongmyeong",
+      "vi": "Dongmyeong",
+      "id": "Dongmyeong"
+    },
+    "mitan": {
+      "ko": "mitan",
+      "en": "Mitan",
+      "ja": "Mitan",
+      "zh": "Mitan",
+      "vi": "Mitan",
+      "id": "Mitan"
+    },
+    "gyeongpo": {
+      "ko": "gyeongpo",
+      "en": "Gyeongpo",
+      "ja": "Gyeongpo",
+      "zh": "Gyeongpo",
+      "vi": "Gyeongpo",
+      "id": "Gyeongpo"
+    },
+    "sokcho-dongmyeong": {
+      "ko": "sokcho-dongmyeong",
+      "en": "Sokcho Dongmyeong",
+      "ja": "Sokcho Dongmyeong",
+      "zh": "Sokcho Dongmyeong",
+      "vi": "Sokcho Dongmyeong",
+      "id": "Sokcho Dongmyeong"
+    },
+    "yangyang-eup": {
+      "ko": "yangyang-eup",
+      "en": "Yangyang Eup",
+      "ja": "Yangyang Eup",
+      "zh": "Yangyang Eup",
+      "vi": "Yangyang Eup",
+      "id": "Yangyang Eup"
+    },
+    "panbu": {
+      "ko": "panbu",
+      "en": "Panbu",
+      "ja": "Panbu",
+      "zh": "Panbu",
+      "vi": "Panbu",
+      "id": "Panbu"
+    },
+    "namcheon": {
+      "ko": "namcheon",
+      "en": "Namcheon",
+      "ja": "Namcheon",
+      "zh": "Namcheon",
+      "vi": "Namcheon",
+      "id": "Namcheon"
+    },
+    "buk-myeon": {
+      "ko": "buk-myeon",
+      "en": "Buk Myeon",
+      "ja": "Buk Myeon",
+      "zh": "Buk Myeon",
+      "vi": "Buk Myeon",
+      "id": "Buk Myeon"
+    },
+    "geonbuk": {
+      "ko": "geonbuk",
+      "en": "Geonbuk",
+      "ja": "Geonbuk",
+      "zh": "Geonbuk",
+      "vi": "Geonbuk",
+      "id": "Geonbuk"
+    },
+    "sangdang": {
+      "ko": "sangdang",
+      "en": "Sangdang",
+      "ja": "Sangdang",
+      "zh": "Sangdang",
+      "vi": "Sangdang",
+      "id": "Sangdang"
+    },
+    "yongtan": {
+      "ko": "yongtan",
+      "en": "Yongtan",
+      "ja": "Yongtan",
+      "zh": "Yongtan",
+      "vi": "Yongtan",
+      "id": "Yongtan"
+    },
+    "jecheon-si": {
+      "ko": "jecheon-si",
+      "en": "Jecheon Si",
+      "ja": "Jecheon Si",
+      "zh": "Jecheon Si",
+      "vi": "Jecheon Si",
+      "id": "Jecheon Si"
+    },
+    "danyang-eup": {
+      "ko": "danyang-eup",
+      "en": "Danyang Eup",
+      "ja": "Danyang Eup",
+      "zh": "Danyang Eup",
+      "vi": "Danyang Eup",
+      "id": "Danyang Eup"
+    },
+    "boeun-eup": {
+      "ko": "boeun-eup",
+      "en": "Boeun Eup",
+      "ja": "Boeun Eup",
+      "zh": "Boeun Eup",
+      "vi": "Boeun Eup",
+      "id": "Boeun Eup"
+    },
+    "goesan-eup": {
+      "ko": "goesan-eup",
+      "en": "Goesan Eup",
+      "ja": "Goesan Eup",
+      "zh": "Goesan Eup",
+      "vi": "Goesan Eup",
+      "id": "Goesan Eup"
+    },
+    "jeungpyeong-eup": {
+      "ko": "jeungpyeong-eup",
+      "en": "Jeungpyeong Eup",
+      "ja": "Jeungpyeong Eup",
+      "zh": "Jeungpyeong Eup",
+      "vi": "Jeungpyeong Eup",
+      "id": "Jeungpyeong Eup"
+    },
+    "okcheon-eup": {
+      "ko": "okcheon-eup",
+      "en": "Okcheon Eup",
+      "ja": "Okcheon Eup",
+      "zh": "Okcheon Eup",
+      "vi": "Okcheon Eup",
+      "id": "Okcheon Eup"
+    },
+    "osong": {
+      "ko": "osong",
+      "en": "Osong",
+      "ja": "Osong",
+      "zh": "Osong",
+      "vi": "Osong",
+      "id": "Osong"
+    },
+    "eumseong-eup": {
+      "ko": "eumseong-eup",
+      "en": "Eumseong Eup",
+      "ja": "Eumseong Eup",
+      "zh": "Eumseong Eup",
+      "vi": "Eumseong Eup",
+      "id": "Eumseong Eup"
+    },
+    "ungok": {
+      "ko": "ungok",
+      "en": "Ungok",
+      "ja": "Ungok",
+      "zh": "Ungok",
+      "vi": "Ungok",
+      "id": "Ungok"
+    },
+    "naeseong": {
+      "ko": "naeseong",
+      "en": "Naeseong",
+      "ja": "Naeseong",
+      "zh": "Naeseong",
+      "vi": "Naeseong",
+      "id": "Naeseong"
+    },
+    "chilbo": {
+      "ko": "chilbo",
+      "en": "Chilbo",
+      "ja": "Chilbo",
+      "zh": "Chilbo",
+      "vi": "Chilbo",
+      "id": "Chilbo"
+    },
+    "munui": {
+      "ko": "munui",
+      "en": "Munui",
+      "ja": "Munui",
+      "zh": "Munui",
+      "vi": "Munui",
+      "id": "Munui"
+    },
+    "bongbang": {
+      "ko": "bongbang",
+      "en": "Bongbang",
+      "ja": "Bongbang",
+      "zh": "Bongbang",
+      "vi": "Bongbang",
+      "id": "Bongbang"
+    },
+    "dujeong": {
+      "ko": "dujeong",
+      "en": "Dujeong",
+      "ja": "Dujeong",
+      "zh": "Dujeong",
+      "vi": "Dujeong",
+      "id": "Dujeong"
+    },
+    "onyang": {
+      "ko": "onyang",
+      "en": "Onyang",
+      "ja": "Onyang",
+      "zh": "Onyang",
+      "vi": "Onyang",
+      "id": "Onyang"
+    },
+    "seosan-si": {
+      "ko": "seosan-si",
+      "en": "Seosan Si",
+      "ja": "Seosan Si",
+      "zh": "Seosan Si",
+      "vi": "Seosan Si",
+      "id": "Seosan Si"
+    },
+    "ungjin": {
+      "ko": "ungjin",
+      "en": "Ungjin",
+      "ja": "Ungjin",
+      "zh": "Ungjin",
+      "vi": "Ungjin",
+      "id": "Ungjin"
+    },
+    "sinjang": {
+      "ko": "sinjang",
+      "en": "Sinjang",
+      "ja": "Sinjang",
+      "zh": "Sinjang",
+      "vi": "Sinjang",
+      "id": "Sinjang"
+    },
+    "gungnam": {
+      "ko": "gungnam",
+      "en": "Gungnam",
+      "ja": "Gungnam",
+      "zh": "Gungnam",
+      "vi": "Gungnam",
+      "id": "Gungnam"
+    },
+    "nonsan-si": {
+      "ko": "nonsan-si",
+      "en": "Nonsan Si",
+      "ja": "Nonsan Si",
+      "zh": "Nonsan Si",
+      "vi": "Nonsan Si",
+      "id": "Nonsan Si"
+    },
+    "mallipo": {
+      "ko": "mallipo",
+      "en": "Mallipo",
+      "ja": "Mallipo",
+      "zh": "Mallipo",
+      "vi": "Mallipo",
+      "id": "Mallipo"
+    },
+    "seongjeong": {
+      "ko": "seongjeong",
+      "en": "Seongjeong",
+      "ja": "Seongjeong",
+      "zh": "Seongjeong",
+      "vi": "Seongjeong",
+      "id": "Seongjeong"
+    },
+    "geumsan-eup": {
+      "ko": "geumsan-eup",
+      "en": "Geumsan Eup",
+      "ja": "Geumsan Eup",
+      "zh": "Geumsan Eup",
+      "vi": "Geumsan Eup",
+      "id": "Geumsan Eup"
+    },
+    "seocheon-eup": {
+      "ko": "seocheon-eup",
+      "en": "Seocheon Eup",
+      "ja": "Seocheon Eup",
+      "zh": "Seocheon Eup",
+      "vi": "Seocheon Eup",
+      "id": "Seocheon Eup"
+    },
+    "dongnam": {
+      "ko": "dongnam",
+      "en": "Dongnam",
+      "ja": "Dongnam",
+      "zh": "Dongnam",
+      "vi": "Dongnam",
+      "id": "Dongnam"
+    },
+    "songak": {
+      "ko": "songak",
+      "en": "Songak",
+      "ja": "Songak",
+      "zh": "Songak",
+      "vi": "Songak",
+      "id": "Songak"
+    },
+    "palbong": {
+      "ko": "palbong",
+      "en": "Palbong",
+      "ja": "Palbong",
+      "zh": "Palbong",
+      "vi": "Palbong",
+      "id": "Palbong"
+    },
+    "haemang": {
+      "ko": "haemang",
+      "en": "Haemang",
+      "ja": "Haemang",
+      "zh": "Haemang",
+      "vi": "Haemang",
+      "id": "Haemang"
+    },
+    "wanggung": {
+      "ko": "wanggung",
+      "en": "Wanggung",
+      "ja": "Wanggung",
+      "zh": "Wanggung",
+      "vi": "Wanggung",
+      "id": "Wanggung"
+    },
+    "jeongeup-si": {
+      "ko": "jeongeup-si",
+      "en": "Jeongeup Si",
+      "ja": "Jeongeup Si",
+      "zh": "Jeongeup Si",
+      "vi": "Jeongeup Si",
+      "id": "Jeongeup Si"
+    },
+    "namwon-si": {
+      "ko": "namwon-si",
+      "en": "Namwon Si",
+      "ja": "Namwon Si",
+      "zh": "Namwon Si",
+      "vi": "Namwon Si",
+      "id": "Namwon Si"
+    },
+    "seohak": {
+      "ko": "seohak",
+      "en": "Seohak",
+      "ja": "Seohak",
+      "zh": "Seohak",
+      "vi": "Seohak",
+      "id": "Seohak"
+    },
+    "buan-gun": {
+      "ko": "buan-gun",
+      "en": "Buan Gun",
+      "ja": "Buan Gun",
+      "zh": "Buan Gun",
+      "vi": "Buan Gun",
+      "id": "Buan Gun"
+    },
+    "sunchang-eup": {
+      "ko": "sunchang-eup",
+      "en": "Sunchang Eup",
+      "ja": "Sunchang Eup",
+      "zh": "Sunchang Eup",
+      "vi": "Sunchang Eup",
+      "id": "Sunchang Eup"
+    },
+    "pungnam": {
+      "ko": "pungnam",
+      "en": "Pungnam",
+      "ja": "Pungnam",
+      "zh": "Pungnam",
+      "vi": "Pungnam",
+      "id": "Pungnam"
+    },
+    "gimje-si": {
+      "ko": "gimje-si",
+      "en": "Gimje Si",
+      "ja": "Gimje Si",
+      "zh": "Gimje Si",
+      "vi": "Gimje Si",
+      "id": "Gimje Si"
+    },
+    "imsil-eup": {
+      "ko": "imsil-eup",
+      "en": "Imsil Eup",
+      "ja": "Imsil Eup",
+      "zh": "Imsil Eup",
+      "vi": "Imsil Eup",
+      "id": "Imsil Eup"
+    },
+    "jinan-gun": {
+      "ko": "jinan-gun",
+      "en": "Jinan Gun",
+      "ja": "Jinan Gun",
+      "zh": "Jinan Gun",
+      "vi": "Jinan Gun",
+      "id": "Jinan Gun"
+    },
+    "muju-gun": {
+      "ko": "muju-gun",
+      "en": "Muju Gun",
+      "ja": "Muju Gun",
+      "zh": "Muju Gun",
+      "vi": "Muju Gun",
+      "id": "Muju Gun"
+    },
+    "okgu": {
+      "ko": "okgu",
+      "en": "Okgu",
+      "ja": "Okgu",
+      "zh": "Okgu",
+      "vi": "Okgu",
+      "id": "Okgu"
+    },
+    "dolsan": {
+      "ko": "dolsan",
+      "en": "Dolsan",
+      "ja": "Dolsan",
+      "zh": "Dolsan",
+      "vi": "Dolsan",
+      "id": "Dolsan"
+    },
+    "yudal": {
+      "ko": "yudal",
+      "en": "Yudal",
+      "ja": "Yudal",
+      "zh": "Yudal",
+      "vi": "Yudal",
+      "id": "Yudal"
+    },
+    "suncheon-si": {
+      "ko": "suncheon-si",
+      "en": "Suncheon Si",
+      "ja": "Suncheon Si",
+      "zh": "Suncheon Si",
+      "vi": "Suncheon Si",
+      "id": "Suncheon Si"
+    },
+    "damyang-eup": {
+      "ko": "damyang-eup",
+      "en": "Damyang Eup",
+      "ja": "Damyang Eup",
+      "zh": "Damyang Eup",
+      "vi": "Damyang Eup",
+      "id": "Damyang Eup"
+    },
+    "daap": {
+      "ko": "daap",
+      "en": "Daap",
+      "ja": "Daap",
+      "zh": "Daap",
+      "vi": "Daap",
+      "id": "Daap"
+    },
+    "naju-si": {
+      "ko": "naju-si",
+      "en": "Naju Si",
+      "ja": "Naju Si",
+      "zh": "Naju Si",
+      "vi": "Naju Si",
+      "id": "Naju Si"
+    },
+    "songji": {
+      "ko": "songji",
+      "en": "Songji",
+      "ja": "Songji",
+      "zh": "Songji",
+      "vi": "Songji",
+      "id": "Songji"
+    },
+    "uisin": {
+      "ko": "uisin",
+      "en": "Uisin",
+      "ja": "Uisin",
+      "zh": "Uisin",
+      "vi": "Uisin",
+      "id": "Uisin"
+    },
+    "jungang": {
+      "ko": "jungang",
+      "en": "Jungang",
+      "ja": "Jungang",
+      "zh": "Jungang",
+      "vi": "Jungang",
+      "id": "Jungang"
+    },
+    "samhak": {
+      "ko": "samhak",
+      "en": "Samhak",
+      "ja": "Samhak",
+      "zh": "Samhak",
+      "vi": "Samhak",
+      "id": "Samhak"
+    },
+    "goheung-eup": {
+      "ko": "goheung-eup",
+      "en": "Goheung Eup",
+      "ja": "Goheung Eup",
+      "zh": "Goheung Eup",
+      "vi": "Goheung Eup",
+      "id": "Goheung Eup"
+    },
+    "wando-eup": {
+      "ko": "wando-eup",
+      "en": "Wando Eup",
+      "ja": "Wando Eup",
+      "zh": "Wando Eup",
+      "vi": "Wando Eup",
+      "id": "Wando Eup"
+    },
+    "gwangyang-si": {
+      "ko": "gwangyang-si",
+      "en": "Gwangyang Si",
+      "ja": "Gwangyang Si",
+      "zh": "Gwangyang Si",
+      "vi": "Gwangyang Si",
+      "id": "Gwangyang Si"
+    },
+    "gwonseon": {
+      "ko": "gwonseon",
+      "en": "Gwonseon",
+      "ja": "Gwonseon",
+      "zh": "Gwonseon",
+      "vi": "Gwonseon",
+      "id": "Gwonseon"
+    },
+    "jinryang": {
+      "ko": "jinryang",
+      "en": "Jinryang",
+      "ja": "Jinryang",
+      "zh": "Jinryang",
+      "vi": "Jinryang",
+      "id": "Jinryang"
+    },
+    "punggi": {
+      "ko": "punggi",
+      "en": "Punggi",
+      "ja": "Punggi",
+      "zh": "Punggi",
+      "vi": "Punggi",
+      "id": "Punggi"
+    },
+    "mungyeong-si": {
+      "ko": "mungyeong-si",
+      "en": "Mungyeong Si",
+      "ja": "Mungyeong Si",
+      "zh": "Mungyeong Si",
+      "vi": "Mungyeong Si",
+      "id": "Mungyeong Si"
+    },
+    "bomun": {
+      "ko": "bomun",
+      "en": "Bomun",
+      "ja": "Bomun",
+      "zh": "Bomun",
+      "vi": "Bomun",
+      "id": "Bomun"
+    },
+    "daejam": {
+      "ko": "daejam",
+      "en": "Daejam",
+      "ja": "Daejam",
+      "zh": "Daejam",
+      "vi": "Daejam",
+      "id": "Daejam"
+    },
+    "uljin-eup": {
+      "ko": "uljin-eup",
+      "en": "Uljin Eup",
+      "ja": "Uljin Eup",
+      "zh": "Uljin Eup",
+      "vi": "Uljin Eup",
+      "id": "Uljin Eup"
+    },
+    "hwango": {
+      "ko": "hwango",
+      "en": "Hwango",
+      "ja": "Hwango",
+      "zh": "Hwango",
+      "vi": "Hwango",
+      "id": "Hwango"
+    },
+    "daebo": {
+      "ko": "daebo",
+      "en": "Daebo",
+      "ja": "Daebo",
+      "zh": "Daebo",
+      "vi": "Daebo",
+      "id": "Daebo"
+    },
+    "cheongsong-eup": {
+      "ko": "cheongsong-eup",
+      "en": "Cheongsong Eup",
+      "ja": "Cheongsong Eup",
+      "zh": "Cheongsong Eup",
+      "vi": "Cheongsong Eup",
+      "id": "Cheongsong Eup"
+    },
+    "sangju-si": {
+      "ko": "sangju-si",
+      "en": "Sangju Si",
+      "ja": "Sangju Si",
+      "zh": "Sangju Si",
+      "vi": "Sangju Si",
+      "id": "Sangju Si"
+    },
+    "daegaya": {
+      "ko": "daegaya",
+      "en": "Daegaya",
+      "ja": "Daegaya",
+      "zh": "Daegaya",
+      "vi": "Daegaya",
+      "id": "Daegaya"
+    },
+    "ungdong": {
+      "ko": "ungdong",
+      "en": "Ungdong",
+      "ja": "Ungdong",
+      "zh": "Ungdong",
+      "vi": "Ungdong",
+      "id": "Ungdong"
+    },
+    "geumseong": {
+      "ko": "geumseong",
+      "en": "Geumseong",
+      "ja": "Geumseong",
+      "zh": "Geumseong",
+      "vi": "Geumseong",
+      "id": "Geumseong"
+    },
+    "bongpyeong": {
+      "ko": "bongpyeong",
+      "en": "Bongpyeong",
+      "ja": "Bongpyeong",
+      "zh": "Bongpyeong",
+      "vi": "Bongpyeong",
+      "id": "Bongpyeong"
+    },
+    "gohyeon": {
+      "ko": "gohyeon",
+      "en": "Gohyeon",
+      "ja": "Gohyeon",
+      "zh": "Gohyeon",
+      "vi": "Gohyeon",
+      "id": "Gohyeon"
+    },
+    "sacheon-si": {
+      "ko": "sacheon-si",
+      "en": "Sacheon Si",
+      "ja": "Sacheon Si",
+      "zh": "Sacheon Si",
+      "vi": "Sacheon Si",
+      "id": "Sacheon Si"
+    },
+    "gimhae-si": {
+      "ko": "gimhae-si",
+      "en": "Gimhae Si",
+      "ja": "Gimhae Si",
+      "zh": "Gimhae Si",
+      "vi": "Gimhae Si",
+      "id": "Gimhae Si"
+    },
+    "yangsan-si": {
+      "ko": "yangsan-si",
+      "en": "Yangsan Si",
+      "ja": "Yangsan Si",
+      "zh": "Yangsan Si",
+      "vi": "Yangsan Si",
+      "id": "Yangsan Si"
+    },
+    "miryang-si": {
+      "ko": "miryang-si",
+      "en": "Miryang Si",
+      "ja": "Miryang Si",
+      "zh": "Miryang Si",
+      "vi": "Miryang Si",
+      "id": "Miryang Si"
+    },
+    "palyong": {
+      "ko": "palyong",
+      "en": "Palyong",
+      "ja": "Palyong",
+      "zh": "Palyong",
+      "vi": "Palyong",
+      "id": "Palyong"
+    },
+    "jinju-si": {
+      "ko": "jinju-si",
+      "en": "Jinju Si",
+      "ja": "Jinju Si",
+      "zh": "Jinju Si",
+      "vi": "Jinju Si",
+      "id": "Jinju Si"
+    },
+    "hadong-eup": {
+      "ko": "hadong-eup",
+      "en": "Hadong Eup",
+      "ja": "Hadong Eup",
+      "zh": "Hadong Eup",
+      "vi": "Hadong Eup",
+      "id": "Hadong Eup"
+    },
+    "haegeum": {
+      "ko": "haegeum",
+      "en": "Haegeum",
+      "ja": "Haegeum",
+      "zh": "Haegeum",
+      "vi": "Haegeum",
+      "id": "Haegeum"
+    },
+    "haman-eup": {
+      "ko": "haman-eup",
+      "en": "Haman Eup",
+      "ja": "Haman Eup",
+      "zh": "Haman Eup",
+      "vi": "Haman Eup",
+      "id": "Haman Eup"
     }
   }
 }

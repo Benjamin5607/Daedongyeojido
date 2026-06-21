@@ -4079,5 +4079,4965 @@
       "vi": "Thung lũng suối trong vắt với cầu treo và tắm rừng mùa hè.",
       "id": "Lembah aliran jernih dengan jembatan gantung dan forest bathing musim panas."
     }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeonggi",
+      "city": "ansan",
+      "district": "wongok"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Wongok Halmae Jjambbong Alley",
+      "ja": "ワンゴクハルメチャンポン横丁",
+      "zh": "旺谷奶奶海鲜面巷",
+      "vi": "Hẻm mì jjambbong Halmae Wongok",
+      "id": "Gang Jjambbong Halmae Wongok"
+    },
+    "address": {
+      "en": "Wongok-dong, Danwon-gu, Ansan",
+      "ja": "安山市 檀園区 旺谷洞",
+      "zh": "安山市檀园区旺谷洞",
+      "vi": "Wongok-dong, Danwon-gu, Ansan",
+      "id": "Wongok-dong, Danwon-gu, Ansan"
+    },
+    "description": {
+      "en": "Back-alley jjambbong shops locals queue for after work — find them via Naver Map blog reviews, rarely on Google Maps.",
+      "ja": "仕事帰りに地元民が並ぶ裏路地チャンポン店。ネイバーマップのブログ口コミで探すのが定番で、Googleマップにはほぼ載らない。",
+      "zh": "下班后本地人排队的海鲜面后巷小店，多在 Naver 地图博客点评里才能找到，Google 地图很少收录。",
+      "vi": "Quán mì jjambbong trong hẻm ngõ mà dân địa phương xếp hàng sau giờ làm — tìm qua blog Naver Map, hiếm có trên Google Maps.",
+      "id": "Warung jjambbong gang sempit yang diantre warga setelah kerja — biasanya ditemukan lewat ulasan blog Naver Map, jarang di Google Maps."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeonggi",
+      "city": "siheung",
+      "district": "oido"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Oido Dawn Fish Market Alley",
+      "ja": "オイド早朝魚市場路地",
+      "zh": "乌耳岛清晨鱼市巷",
+      "vi": "Hẻm chợ cá bình minh Oido",
+      "id": "Gang Pasar Ikan Fajar Oido"
+    },
+    "address": {
+      "en": "Oido-dong, Siheung",
+      "ja": "始興市 烏耳島洞",
+      "zh": "始兴市乌耳岛洞",
+      "vi": "Oido-dong, Siheung",
+      "id": "Oido-dong, Siheung"
+    },
+    "description": {
+      "en": "Tiny raw-fish counters and gukbap stalls that open before sunrise — a Naver Map neighborhood secret, not a Google tourist pin.",
+      "ja": "日の出前に開く刺身カウンターと국밥屋。ネイバーマップの地元穴場で、Googleの観光ピンにはならない。",
+      "zh": "日出前开张的刺身摊和汤饭店，Naver 地图上的邻里秘境，不是 Google 旅游地标。",
+      "vi": "Quầy sashimi và quán gukbap mở trước bình minh — bí mật khu phố trên Naver Map, không phải điểm du lịch Google.",
+      "id": "Kios sashimi dan warung gukbap buka sebelum matahari terbit — rahasia warga di Naver Map, bukan pin wisata Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeonggi",
+      "city": "namyangju",
+      "district": "byeollae"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Byeollae Dolsot Bibimbap House",
+      "ja": "別内石鍋ビビンバ家",
+      "zh": "别内石锅拌饭家",
+      "vi": "Quán bibimbap nồi đá Byeollae",
+      "id": "Rumah Bibimbap Dolsot Byeollae"
+    },
+    "address": {
+      "en": "Byeollae-dong, Namyangju",
+      "ja": "南楊州市 別内洞",
+      "zh": "南杨州市别内洞",
+      "vi": "Byeollae-dong, Namyangju",
+      "id": "Byeollae-dong, Namyangju"
+    },
+    "description": {
+      "en": "Family-run dolsot bibimbap spot known only through Naver blog roundups of new-town hidden eats.",
+      "ja": "新都市の隠れグルメとしてネイバーブログまとめでだけ知られる家族経営の石鍋ビビンバ店。",
+      "zh": "只在 Naver 博客「新城隐藏美食」合集里被提及的家庭石锅拌饭店。",
+      "vi": "Quán bibimbap dolsot gia đình chỉ được biết qua bài tổng hợp ẩm thực ẩn trên blog Naver.",
+      "id": "Warung bibimbap dolsot keluarga yang hanya dikenal lewat ringkasan kuliner tersembunyi blog Naver."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gunpo",
+      "district": "daeyami"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Daeyami Gukbap Morning Alley",
+      "ja": "大野味肉汁飯朝の路地",
+      "zh": "大野味肉汁饭晨巷",
+      "vi": "Hẻm gukbap sáng Daeyami",
+      "id": "Gang Gukbap Pagi Daeyami"
+    },
+    "address": {
+      "en": "Daeyami-dong, Gunpo",
+      "ja": "軍浦市 大野味洞",
+      "zh": "军浦市大野味洞",
+      "vi": "Daeyami-dong, Gunpo",
+      "id": "Daeyami-dong, Gunpo"
+    },
+    "description": {
+      "en": "Pork-bone gukbap shops serving office workers at 7 a.m. — pinned by locals on Naver Map, absent from Google.",
+      "ja": "朝7時に会社員を迎える豚骨국밥店。地元民がネイバーマップに登録するが、Googleには載らない。",
+      "zh": "早上七点招待上班族的猪骨汤饭店，本地人标在 Naver 地图上，Google 上没有。",
+      "vi": "Quán gukbap xương heo phục vụ dân văn phòng lúc 7 giờ sáng — ghim bởi dân địa phương trên Naver Map, không có trên Google.",
+      "id": "Warung gukbap tulang babi untuk pekerja kantor jam 7 pagi — ditandai warga di Naver Map, tidak ada di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeonggi",
+      "city": "hwaseong",
+      "district": "bongdam"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Dongtan Indie Film Cafe Row",
+      "ja": "東灘インディー映画カフェ通り",
+      "zh": "东滩独立电影咖啡馆街",
+      "vi": "Dãy cafe phim indie Dongtan",
+      "id": "Deretan Kafe Film Indie Dongtan"
+    },
+    "address": {
+      "en": "Bongdam-eup, Hwaseong",
+      "ja": "華城市 峰潭邑",
+      "zh": "华城市峰潭邑",
+      "vi": "Bongdam-eup, Hwaseong",
+      "id": "Bongdam-eup, Hwaseong"
+    },
+    "description": {
+      "en": "Low-key cafes where web-drama crews scout locations — discoverable on Naver Place reviews, rarely indexed on Google Maps.",
+      "ja": "ウェブドラマロケ地として使われるカフェ群。ネイバープレイスの口コミで見つかり、Googleマップにはほとんど登録されない。",
+      "zh": "网络剧剧组常踩点的低调咖啡馆，多在 Naver Place 点评里发现，Google 地图很少收录。",
+      "vi": "Các quán cafe kín đáo mà đoàn web-drama hay khảo sát — tìm qua đánh giá Naver Place, hiếm có trên Google Maps.",
+      "id": "Kafe sunyi yang sering disurvei kru web-drama — ditemukan lewat ulasan Naver Place, jarang terindeks di Google Maps."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeonggi",
+      "city": "goyang",
+      "district": "ilsan"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Ilsan Webtoon Alley Studios",
+      "ja": "一山ウェブトゥーン路地スタジオ",
+      "zh": "一山网漫巷工作室",
+      "vi": "Xưởng webtoon hẻm Ilsan",
+      "id": "Studio Webtoon Gang Ilsan"
+    },
+    "address": {
+      "en": "Ilsan-dong, Goyang",
+      "ja": "高陽市 一山洞",
+      "zh": "高阳市一山洞",
+      "vi": "Ilsan-dong, Goyang",
+      "id": "Ilsan-dong, Goyang"
+    },
+    "description": {
+      "en": "Basement studios where rookie webtoon artists debut — shared on Naver blogs, not Google tourist guides.",
+      "ja": "新人ウェブトゥーン作家がデビューする地下スタジオ。ネイバーブログで共有され、Googleの観光ガイドには載らない。",
+      "zh": "新人网漫作者在地下室工作室出道的地方，在 Naver 博客流传，不在 Google 旅游指南里。",
+      "vi": "Studio tầng hầm nơi họa sĩ webtoon tân binh ra mắt — chia sẻ trên blog Naver, không có trong hướng dẫn du lịch Google.",
+      "id": "Studio basement tempat artis webtoon pemula debut — dibagikan di blog Naver, bukan panduan wisata Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeonggi",
+      "city": "uijeongbu",
+      "district": "uijeongbu-dong"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Uijeongbu Budaejjigae Backlot Lane",
+      "ja": "議政府ブデチゲ裏ロケ路地",
+      "zh": "议政府部队锅取景后巷",
+      "vi": "Ngõ quay phim budaejjigae Uijeongbu",
+      "id": "Gang Lokasi Syuting Budaejjigae Uijeongbu"
+    },
+    "address": {
+      "en": "Uijeongbu-dong, Uijeongbu",
+      "ja": "議政府市 議政府洞",
+      "zh": "议政府市议政府洞",
+      "vi": "Uijeongbu-dong, Uijeongbu",
+      "id": "Uijeongbu-dong, Uijeongbu"
+    },
+    "description": {
+      "en": "Alley eateries featured in regional variety shows — locals bookmark them on Naver Map, Google barely lists them.",
+      "ja": "地方バラエティで紹介された路地食堂。地元民はネイバーマップに保存するが、Googleにはほとんど載らない。",
+      "zh": "地方综艺介绍过的巷内食堂，本地人收藏在 Naver 地图，Google 几乎搜不到。",
+      "vi": "Quán ăn trong hẻm từng lên show variety địa phương — dân địa phương lưu trên Naver Map, Google hầu như không có.",
+      "id": "Warung gang yang pernah masuk variety show lokal — warga simpan di Naver Map, Google hampir tidak mencantumkan."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yangpyeong",
+      "district": "yangpyeong-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Yangpyeong Riverside Drama Photo Spot",
+      "ja": "楊平川辺ドラマ撮影スポット",
+      "zh": "杨平江畔剧集取景点",
+      "vi": "Điểm chụp phim bên sông Yangpyeong",
+      "id": "Spot Foto Drama Tepi Sungai Yangpyeong"
+    },
+    "address": {
+      "en": "Yangpyeong-eup, Yangpyeong",
+      "ja": "楊平郡 楊平邑",
+      "zh": "杨平郡杨平邑",
+      "vi": "Yangpyeong-eup, Yangpyeong",
+      "id": "Yangpyeong-eup, Yangpyeong"
+    },
+    "description": {
+      "en": "Quiet riverside bend used in cable dramas — coordinates spread through Naver blog posts, not Google sightseeing lists.",
+      "ja": "ケーブルドラマのロケ地になった静かな川辺。座標はネイバーブログで広がり、Googleの観光リストにはない。",
+      "zh": "有线电视剧集取景的安静河湾，坐标在 Naver 博客流传，不在 Google 观光清单上。",
+      "vi": "Khúc sông yên tĩnh dùng quay phim cáp — tọa độ lan qua blog Naver, không có trong danh sách tham quan Google.",
+      "id": "Tikungan sungai tenang lokasi syuting drama kabel — koordinat menyebar lewat blog Naver, bukan daftar wisata Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yeoju",
+      "district": "yeoju-si"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Yeoju Ceramic Clay Facial Salon",
+      "ja": "驪州陶土フェイシャルサロン",
+      "zh": "骊州陶土面部护理沙龙",
+      "vi": "Salon facial đất sét Yeoju",
+      "id": "Salon Facial Tanah Liat Yeoju"
+    },
+    "address": {
+      "en": "Yeoju-si, Gyeonggi",
+      "ja": "驪州市",
+      "zh": "骊州市",
+      "vi": "Yeoju-si, Gyeonggi",
+      "id": "Yeoju-si, Gyeonggi"
+    },
+    "description": {
+      "en": "Neighborhood salon using local ceramic clay masks — booked through Naver reservations, rarely appears on Google.",
+      "ja": "地元の陶土パックを使う近所サロン。ネイバー予約が主流で、Googleにはほとんど出てこない。",
+      "zh": "使用当地陶土面膜的社区沙龙，主要通过 Naver 预约，Google 上几乎找不到。",
+      "vi": "Salon khu phố dùng mặt nạ đất sét địa phương — đặt qua Naver, hiếm khi xuất hiện trên Google.",
+      "id": "Salon lingkungan dengan masker tanah liat lokal — dipesan lewat Naver, jarang muncul di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeonggi",
+      "city": "pocheon",
+      "district": "soheul"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Pocheon Herb Valley Skin Lab",
+      "ja": "抱川ハーブバレー肌ラボ",
+      "zh": "抱川香草谷护肤实验室",
+      "vi": "Phòng lab da thung lũng thảo mộc Pocheon",
+      "id": "Lab Kulit Lembah Herbal Pocheon"
+    },
+    "address": {
+      "en": "Soheul-myeon, Pocheon",
+      "ja": "抱川市 蘇一面",
+      "zh": "抱川市苏一面",
+      "vi": "Soheul-myeon, Pocheon",
+      "id": "Soheul-myeon, Pocheon"
+    },
+    "description": {
+      "en": "Small-batch herbal skincare at a countryside cabin — Naver bloggers review it; Google Maps has no English listing.",
+      "ja": "田舎の小屋で作る少量生産ハーブスキンケア。ネイバーブロガーが紹介するが、Googleマップに英語表記はない。",
+      "zh": "乡间小屋里小批量制作的草本护肤，Naver 博主会写测评，Google 地图没有英文条目。",
+      "vi": "Skincare thảo mộc sản xuất nhỏ tại cabin nông thôn — blogger Naver review; Google Maps không có mục tiếng Anh.",
+      "id": "Skincare herbal produksi kecil di kabin pedesaan — dibahas blogger Naver; Google Maps tanpa daftar bahasa Inggris."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeonggi",
+      "city": "bucheon",
+      "district": "jung-dong"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Bucheon Jungdong Cosmetics Workshop",
+      "ja": "富川中洞コスメ工房",
+      "zh": "富川中洞化妆品工坊",
+      "vi": "Xưởng mỹ phẩm Jungdong Bucheon",
+      "id": "Workshop Kosmetik Jungdong Bucheon"
+    },
+    "address": {
+      "en": "Jung-dong, Bucheon",
+      "ja": "富川市 中洞",
+      "zh": "富川市中洞",
+      "vi": "Jung-dong, Bucheon",
+      "id": "Jung-dong, Bucheon"
+    },
+    "description": {
+      "en": "Hand-poured lip balms and sheet masks in a residential strip mall — locals find it on Naver Map tags, not Google.",
+      "ja": "住宅街の商店街で手作りリップとシートマスクを販売。ネイバーマップのタグで見つかり、Googleでは見つからない。",
+      "zh": "住宅区商业街手制润唇膏和面膜，靠 Naver 地图标签找到，Google 搜不到。",
+      "vi": "Son dưỡng môi và mặt nạ thủ công trong trung tâm thương mại khu dân cư — tìm qua tag Naver Map, không qua Google.",
+      "id": "Lip balm dan sheet mask buatan tangan di strip mall perumahan — ditemukan lewat tag Naver Map, bukan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gwangmyeong",
+      "district": "gwangmyeong-dong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Gwangmyeong Cave District Spa Facial Bar",
+      "ja": "光明洞窟街スパフェイシャルバー",
+      "zh": "光明洞窟街 Spa 面部吧",
+      "vi": "Quầy facial spa khu hang động Gwangmyeong",
+      "id": "Bar Facial Spa Distrik Gua Gwangmyeong"
+    },
+    "address": {
+      "en": "Gwangmyeong-dong, Gwangmyeong",
+      "ja": "光明市 光明洞",
+      "zh": "光明市光明洞",
+      "vi": "Gwangmyeong-dong, Gwangmyeong",
+      "id": "Gwangmyeong-dong, Gwangmyeong"
+    },
+    "description": {
+      "en": "Underground spa bars near the old mine tunnels — appointment-only via Naver, invisible to Google tourists.",
+      "ja": "旧坑道近くの地下スパバー。ネイバー予約のみで、Googleの観光客には見えない。",
+      "zh": "旧矿道附近的地下 Spa 吧，仅 Naver 预约，Google 游客看不见。",
+      "vi": "Quầy spa ngầm gần hầm mỏ cũ — chỉ đặt qua Naver, vô hình với du khách Google.",
+      "id": "Bar spa bawah tanah dekat terowongan tambang lama — hanya reservasi Naver, tak terlihat turis Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yangju",
+      "district": "nogok"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Nogok Hanok Craft Workshop",
+      "ja": "ノゴク韓屋工芸工房",
+      "zh": "鲁谷韩屋工艺工坊",
+      "vi": "Xưởng thủ công hanok Nogok",
+      "id": "Workshop Kerajinan Hanok Nogok"
+    },
+    "address": {
+      "en": "Nogok-myeon, Yangju",
+      "ja": "楊州市 魯谷面",
+      "zh": "杨州市鲁谷面",
+      "vi": "Nogok-myeon, Yangju",
+      "id": "Nogok-myeon, Yangju"
+    },
+    "description": {
+      "en": "Village workshop teaching straw crafts and indigo dyeing — listed on Naver local culture blogs, not Google heritage sites.",
+      "ja": "わら細工と藍染を教える村の工房。ネイバーの地域文化ブログに載るが、Googleの文化遺産リストにはない。",
+      "zh": "教授草编与靛蓝染的村落工坊，出现在 Naver 地方文化博客，不在 Google 文化遗产列表。",
+      "vi": "Xưởng làng dạy mây tre và nhuộm chàm — có trên blog văn hóa địa phương Naver, không phải di sản Google.",
+      "id": "Workshop desa mengajar anyaman jerami dan pewarnaan indigo — ada di blog budaya lokal Naver, bukan situs warisan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeonggi",
+      "city": "dongducheon",
+      "district": "jiha"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Jiha Underground Market Culture Walk",
+      "ja": "地下市場文化ウォーク",
+      "zh": "地下市场文化漫步",
+      "vi": "Đi bộ văn hóa chợ ngầm Jiha",
+      "id": "Jalan Budaya Pasar Bawah Tanah Jiha"
+    },
+    "address": {
+      "en": "Jiha-dong, Dongducheon",
+      "ja": "東豆川市 地下洞",
+      "zh": "东豆川市地下洞",
+      "vi": "Jiha-dong, Dongducheon",
+      "id": "Jiha-dong, Dongducheon"
+    },
+    "description": {
+      "en": "Cold-war era underground arcade with vintage shops — mapped by Naver locals, omitted from Google travel guides.",
+      "ja": "冷戦期の地下商店街と古物店。ネイバー地図ユーザーが登録するが、Google旅行ガイドには載らない。",
+      "zh": "冷战时期地下商业街与旧物店，Naver 地图用户标注，Google 旅行指南没有收录。",
+      "vi": "Khu thương mại ngầm thời Chiến tranh Lạnh với cửa hàng đồ cổ — người địa phương gắn trên Naver, bỏ qua trên Google.",
+      "id": "Arkade bawah tanah era Perang Dingin dengan toko vintage — dipetakan pengguna Naver, tidak ada di panduan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeonggi",
+      "city": "uiwang",
+      "district": "burim"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Uiwang Rail Village Handicraft Fair",
+      "ja": "議旺鉄道村手工芸市",
+      "zh": "义旺铁道村手工艺市集",
+      "vi": "Hội chợ thủ công làng đường sắt Uiwang",
+      "id": "Pasar Kerajinan Desa Rel Uiwang"
+    },
+    "address": {
+      "en": "Burim-dong, Uiwang",
+      "ja": "議旺市 富林洞",
+      "zh": "义旺市富林洞",
+      "vi": "Burim-dong, Uiwang",
+      "id": "Burim-dong, Uiwang"
+    },
+    "description": {
+      "en": "Monthly flea market beside retired rail cars — event dates circulate on Naver cafés, never on Google Events.",
+      "ja": "廃車両横の月例フリマ。日程はネイバーカフェで回り、Googleイベントには出ない。",
+      "zh": "退役车厢旁的月度跳蚤市场，日期在 Naver 咖啡馆流传，不在 Google 活动里。",
+      "vi": "Chợ đồ cũ hàng tháng cạnh toa tàu nghỉ hưu — ngày diễn ra lan trên cafe Naver, không có trên Google Events.",
+      "id": "Pasar k flea bulanan di samping gerbong pensiun — tanggal beredar di kafe Naver, tidak pernah di Google Events."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeonggi",
+      "city": "gimpo",
+      "district": "tongjin"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Aegibong Folk Drum Circle Yard",
+      "ja": "愛妓峰農楽サークル庭",
+      "zh": "爱妓峰农乐圈子庭院",
+      "vi": "Sân tròn trống dân gian Aegibong",
+      "id": "Halaman Lingkaran Drum Rakyat Aegibong"
+    },
+    "address": {
+      "en": "Tongjin-dong, Gimpo",
+      "ja": "金浦市 通津洞",
+      "zh": "金浦市通津洞",
+      "vi": "Tongjin-dong, Gimpo",
+      "id": "Tongjin-dong, Gimpo"
+    },
+    "description": {
+      "en": "Community samulnori practice yard open on weekends — directions shared in Naver neighborhood groups, not Google.",
+      "ja": "週末開放のサムルノリ練習場。ネイバー近所グループで場所が共有され、Googleには載らない。",
+      "zh": "周末开放的农乐练习场，地址在 Naver 邻里群分享，Google 上没有。",
+      "vi": "Sân luyện samulnori cộng đồng mở cuối tuần — chỉ đường chia sẻ trong nhóm khu phố Naver, không trên Google.",
+      "id": "Halaman latihan samulnori komunitas buka akhir pekan — arah dibagikan di grup tetangga Naver, bukan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeonggi",
+      "city": "hwaseong",
+      "district": "songsan"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Songsan Neighborhood Green Trail",
+      "ja": "松山近所グリーントレイル",
+      "zh": "松山社区绿道",
+      "vi": "Đường mòn xanh khu phố Songsan",
+      "id": "Jalur Hijau Lingkungan Songsan"
+    },
+    "address": {
+      "en": "Songsan-dong, Hwaseong",
+      "ja": "華城市 松山洞",
+      "zh": "华城市松山洞",
+      "vi": "Songsan-dong, Hwaseong",
+      "id": "Songsan-dong, Hwaseong"
+    },
+    "description": {
+      "en": "Ridge path between apartment blocks with wildflower slopes — pinned on Naver hiking blogs, absent from Google trails.",
+      "ja": "マンション間を抜ける野花の尾根道。ネイバー登山ブログにピンされるが、Googleのトレイルにはない。",
+      "zh": "穿越公寓楼间的野花山脊步道，Naver 登山博客有标记，Google 步道没有。",
+      "vi": "Đường đồi hoa dại giữa các chung cư — ghim trên blog leo núi Naver, không có trên đường mòn Google.",
+      "id": "Jalur punggung bunga liar di antara apartemen — disematkan di blog hiking Naver, tidak ada di jalur Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeonggi",
+      "city": "yeoncheon",
+      "district": "yeoncheon-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Hantan River Hidden Riverside Trail",
+      "ja": "漢灘江隠れ川辺トレイル",
+      "zh": "汉滩江隐秘江畔步道",
+      "vi": "Đường ven sông ẩn Hantan",
+      "id": "Jalur Tepi Sungai Tersembunyi Hantan"
+    },
+    "address": {
+      "en": "Yeoncheon-eup, Yeoncheon",
+      "ja": "漣川郡 漣川邑",
+      "zh": "涟川郡涟川邑",
+      "vi": "Yeoncheon-eup, Yeoncheon",
+      "id": "Yeoncheon-eup, Yeoncheon"
+    },
+    "description": {
+      "en": "Unmarked riverside walk past reeds and herons — coordinates from Naver outdoor blogs, not Google Parks.",
+      "ja": "葦とサギがいる無標識の川辺散歩道。座標はネイバーアウトドアブログから、Google公園にはない。",
+      "zh": "芦苇与苍鹭相伴的无标识江畔步道，坐标来自 Naver 户外博客，不在 Google 公园。",
+      "vi": "Đường dạo ven sông không biển báo qua lau sậy và diệc — tọa độ từ blog ngoài trời Naver, không phải công viên Google.",
+      "id": "Jalan tepi sungai tanpa rambu melewati alang-alang dan bangau — koordinat dari blog outdoor Naver, bukan taman Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeonggi",
+      "city": "guri",
+      "district": "guri-dong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Achasan Ridge Neighborhood Path",
+      "ja": "峨嵯山尾根近所道",
+      "zh": "峨嵯山山脊社区步道",
+      "vi": "Đường đồi Achasan khu dân cư",
+      "id": "Jalur Lingkungan Punggung Achasan"
+    },
+    "address": {
+      "en": "Guri-dong, Guri",
+      "ja": "九里市 九里洞",
+      "zh": "九里市九里洞",
+      "vi": "Guri-dong, Guri",
+      "id": "Guri-dong, Guri"
+    },
+    "description": {
+      "en": "Short forest loop that apartment residents jog at dawn — shared on Naver Map reviews, rarely on Google hiking apps.",
+      "ja": "マンション住民が早朝ジョギングする短い森ループ。ネイバーマップ口コミで共有、Google登山アプリには少ない。",
+      "zh": "公寓居民清晨慢跑的短森林环线，在 Naver 地图点评分享，Google 登山应用很少收录。",
+      "vi": "Vòng rừng ngắn cư dân chạy bộ lúc bình minh — chia sẻ trên đánh giá Naver Map, hiếm trên app leo núi Google.",
+      "id": "Loop hutan pendek untuk joging warga apartemen saat fajar — dibagikan di ulasan Naver Map, jarang di app hiking Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeonggi",
+      "city": "icheon",
+      "district": "seolseong"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Seolseong Reservoir Morning Walk",
+      "ja": "設城貯水池朝の散歩道",
+      "zh": "设城水库晨间步道",
+      "vi": "Đường đi sáng hồ chứa Seolseong",
+      "id": "Jalan Pagi Waduk Seolseong"
+    },
+    "address": {
+      "en": "Seolseong-dong, Icheon",
+      "ja": "利川市 設城洞",
+      "zh": "利川市设城洞",
+      "vi": "Seolseong-dong, Icheon",
+      "id": "Seolseong-dong, Icheon"
+    },
+    "description": {
+      "en": "Misty reservoir loop beloved by rice-farm neighbors — photographed on Naver blogs, not Google scenic spots.",
+      "ja": "田舎の近所に愛される霧の貯水池一周道。ネイバーブログで撮影されるが、Googleの絶景スポットではない。",
+      "zh": "稻田邻里喜爱的雾晨水库环线，在 Naver 博客被拍照分享，不是 Google 风景名胜。",
+      "vi": "Vòng hồ chứa sương mù được hàng xóm nông dân yêu thích — chụp trên blog Naver, không phải điểm cảnh Google.",
+      "id": "Loop waduk berkabut yang disukai tetangga petani — difoto di blog Naver, bukan spot pemandangan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gangwon",
+      "city": "wonju",
+      "district": "musil"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Musil Sundae Alley",
+      "ja": "武石スンデ横丁",
+      "zh": "武石血肠巷",
+      "vi": "Hẻm sundae Musil",
+      "id": "Gang Sundae Musil"
+    },
+    "address": {
+      "en": "Musil-dong, Wonju",
+      "ja": "原州市 武石洞",
+      "zh": "原州市武石洞",
+      "vi": "Musil-dong, Wonju",
+      "id": "Musil-dong, Wonju"
+    },
+    "description": {
+      "en": "Steam-filled sundae stalls beside a middle school — locals rate them on Naver Map, not Google restaurant guides.",
+      "ja": "中学校横の湯気立つスンデ屋台。地元評価はネイバーマップで、Googleのレストランガイドにはない。",
+      "zh": "中学旁热气腾腾的血肠摊，本地评价在 Naver 地图，不在 Google 餐厅指南。",
+      "vi": "Quầy sundae bốc hơi cạnh trường cấp hai — người địa phương đánh giá trên Naver Map, không phải hướng dẫn nhà hàng Google.",
+      "id": "Kios sundae beruap di samping SMP — dinilai warga di Naver Map, bukan panduan restoran Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gangwon",
+      "city": "hongcheon",
+      "district": "hongcheon-eup"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Hongcheon Deodeok Root Stew House",
+      "ja": "洪川トウキ鍋家",
+      "zh": "洪川土当归锅家",
+      "vi": "Quán lẩu củ deodeok Hongcheon",
+      "id": "Rumah Rebus Akar Deodeok Hongcheon"
+    },
+    "address": {
+      "en": "Hongcheon-eup, Hongcheon",
+      "ja": "洪川郡 洪川邑",
+      "zh": "洪川郡洪川邑",
+      "vi": "Hongcheon-eup, Hongcheon",
+      "id": "Hongcheon-eup, Hongcheon"
+    },
+    "description": {
+      "en": "Mountain-root stew spot truckers stop at — coordinates float on Naver food blogs, invisible on Google.",
+      "ja": "トラック運転手が立ち寄る山の根菜鍋店。座標はネイバーグルメブログに浮かび、Googleでは見えない。",
+      "zh": "卡车司机停靠的山野菜根锅店，坐标在 Naver 美食博客流传，Google 上看不见。",
+      "vi": "Quán lẩu rễ núi tài xế xe tải ghé — tọa độ lan trên blog ẩm thực Naver, vô hình trên Google.",
+      "id": "Warung rebus akar gunung yang disinggahi sopir truk — koordinat mengambang di blog makanan Naver, tak terlihat di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gangwon",
+      "city": "taebaek",
+      "district": "cheoram"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Taebaek Coal Miner Gukbap Shop",
+      "ja": "太白炭鉱夫肉汁飯店",
+      "zh": "太白煤矿工人汤饭店",
+      "vi": "Quán gukbap thợ mỏ Taebaek",
+      "id": "Warung Gukbap Penambang Taebaek"
+    },
+    "address": {
+      "en": "Cheoram-dong, Taebaek",
+      "ja": "太白市 鉄岩洞",
+      "zh": "太白市铁岩洞",
+      "vi": "Cheoram-dong, Taebaek",
+      "id": "Cheoram-dong, Taebaek"
+    },
+    "description": {
+      "en": "Hearty gukbap served since the mining days — preserved on Naver local history posts, not Google heritage pins.",
+      "ja": "炭鉱時代から続く心温まる국밥。ネイバー地域史記事に残るが、Googleの遺産ピンではない。",
+      "zh": "煤矿时代延续至今的暖心汤饭，保存在 Naver 地方史帖，不是 Google 遗产标记。",
+      "vi": "Gukbap đậm đà từ thời khai thác mỏ — lưu trên bài lịch sử địa phương Naver, không phải ghim di sản Google.",
+      "id": "Gukbap mengenyangkan sejak era tambang — terdokumentasi di posting sejarah lokal Naver, bukan pin warisan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gangwon",
+      "city": "yeongwol",
+      "district": "yeongwol-eup"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Yeongwol Buckwheat Makguksu Corner",
+      "ja": "寧越そば切り麺角",
+      "zh": "宁越荞麦切面角",
+      "vi": "Góc makguksu kiều mạch Yeongwol",
+      "id": "Sudut Makguksu Sobyeok Yeongwol"
+    },
+    "address": {
+      "en": "Yeongwol-eup, Yeongwol",
+      "ja": "寧越郡 寧越邑",
+      "zh": "宁越郡宁越邑",
+      "vi": "Yeongwol-eup, Yeongwol",
+      "id": "Yeongwol-eup, Yeongwol"
+    },
+    "description": {
+      "en": "Hand-cut buckwheat noodles in a garage-turned-kitchen — Naver reviewers swear by it; Google has no menu.",
+      "ja": "ガレージを改造した手打ちそば切り店。ネイバー評論家が絶賛するが、Googleにメニューはない。",
+      "zh": "车库改成的手切荞麦面店，Naver 评论者极力推荐，Google 没有菜单。",
+      "vi": "Mì makguksu cắt tay trong nhà bếp cải tạo từ garage — reviewer Naver khen nức nở; Google không có thực đơn.",
+      "id": "Makguksu potong tangan di dapur bekas garasi — reviewer Naver sangat merekomendasikan; Google tanpa menu."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gangwon",
+      "city": "jeongseon",
+      "district": "jeongseon-eup"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Jeongseon Arirang Folk Stage Backyard",
+      "ja": "旌善アリラン民俗舞台裏庭",
+      "zh": "旌善阿里郎民俗舞台后院",
+      "vi": "Sân sau sân khấu dân gian Arirang Jeongseon",
+      "id": "Halaman Belakang Panggung Rakyat Arirang Jeongseon"
+    },
+    "address": {
+      "en": "Jeongseon-eup, Jeongseon",
+      "ja": "旌善郡 旌善邑",
+      "zh": "旌善郡旌善邑",
+      "vi": "Jeongseon-eup, Jeongseon",
+      "id": "Jeongseon-eup, Jeongseon"
+    },
+    "description": {
+      "en": "Intimate folk performances filmed for regional TV — schedules posted on Naver cafés, not Google events.",
+      "ja": "地方テレビ収録の小さな民俗公演。日程はネイバーカフェに掲示、Googleイベントにはない。",
+      "zh": "地方电视台录制的小型民俗演出，日程发在 Naver 咖啡馆，不在 Google 活动里。",
+      "vi": "Biểu diễn dân gian thu nhỏ quay cho TV địa phương — lịch đăng trên cafe Naver, không phải sự kiện Google.",
+      "id": "Pertunjukan rakyat intim direkam TV regional — jadwal diposting di kafe Naver, bukan acara Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gangwon",
+      "city": "inje",
+      "district": "inje-eup"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Inje Birch Forest Drama Clearing",
+      "ja": "麟蹄白樺林ドラマロケ地",
+      "zh": "麟蹄白桦林剧集取景地",
+      "vi": "Khu rừng bạch dương quay phim Inje",
+      "id": "Area Syuting Drama Hutan Birch Inje"
+    },
+    "address": {
+      "en": "Inje-eup, Inje",
+      "ja": "麟蹄郡 麟蹄邑",
+      "zh": "麟蹄郡麟蹄邑",
+      "vi": "Inje-eup, Inje",
+      "id": "Inje-eup, Inje"
+    },
+    "description": {
+      "en": "White-birch glade used in healing dramas — location tips spread via Naver blogs, not Google filming maps.",
+      "ja": "ヒーリングドラマのロケ地になった白樺の空き地。場所の情報はネイバーブログ経由で、Googleロケ地マップにはない。",
+      "zh": "疗愈剧取景的白桦林空地，位置信息经 Naver 博客传播，不在 Google 取景地图。",
+      "vi": "Khoảng trống bạch dương trong phim healing — mẹo địa điểm lan qua blog Naver, không có trên bản đồ quay phim Google.",
+      "id": "Padang birch putih lokasi drama healing — tips lokasi menyebar lewat blog Naver, bukan peta syuting Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gangwon",
+      "city": "goseong-gangwon",
+      "district": "goseong-eup"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Goseong DMZ View Indie Film Deck",
+      "ja": "高城DMZ展望インディー映画デッキ",
+      "zh": "高城 DMZ 展望独立电影露台",
+      "vi": "Sàn phim indie ngắm DMZ Goseong",
+      "id": "Dek Film Indie Pemandangan DMZ Goseong"
+    },
+    "address": {
+      "en": "Goseong-eup, Goseong",
+      "ja": "高城郡 高城邑",
+      "zh": "高城郡高城邑",
+      "vi": "Goseong-eup, Goseong",
+      "id": "Goseong-eup, Goseong"
+    },
+    "description": {
+      "en": "Rooftop deck indie directors scout for shorts — bookmarked on Naver Map, absent from Google attractions.",
+      "ja": "短編映画監督がロケハンする屋上デッキ。ネイバーマップに保存されるが、Googleの名所にはない。",
+      "zh": "短片导演踩点的屋顶露台，收藏在 Naver 地图，不在 Google 景点里。",
+      "vi": "Sàn thượng đạo diễn indie khảo sát cho phim ngắn — lưu trên Naver Map, không có trong điểm tham quan Google.",
+      "id": "Dek atap yang disurvei sutradara indie untuk film pendek — ditandai di Naver Map, tidak ada di atraksi Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gangwon",
+      "city": "chuncheon",
+      "district": "dongmyeong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Uiamho Lakeside Web Drama Pier",
+      "ja": "義岩湖湖畔ウェブドラマ桟橋",
+      "zh": "义岩湖湖畔网络剧码头",
+      "vi": "Bến web-drama bên hồ Uiamho",
+      "id": "Dermaga Web-Drama Tepi Danau Uiamho"
+    },
+    "address": {
+      "en": "Dongmyeong-dong, Chuncheon",
+      "ja": "春川市 東明洞",
+      "zh": "春川市东明洞",
+      "vi": "Dongmyeong-dong, Chuncheon",
+      "id": "Dongmyeong-dong, Chuncheon"
+    },
+    "description": {
+      "en": "Wooden pier where romance webisodes shoot at golden hour — tagged on Naver photo blogs, not Google landmarks.",
+      "ja": "ロマンスウェブドラマが黄金時間に撮影する木製桟橋。ネイバー写真ブログのタグ付きで、Googleランドマークではない。",
+      "zh": "浪漫网络剧黄金时刻取景的木制码头，Naver 摄影博客有标签，不是 Google 地标。",
+      "vi": "Bến gỗ quay web-drama lãng mạn lúc hoàng hôn — gắn thẻ trên blog ảnh Naver, không phải địa danh Google.",
+      "id": "Dermaga kayu syuting web-drama romantis saat golden hour — ditag di blog foto Naver, bukan landmark Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gangwon",
+      "city": "pyeongchang",
+      "district": "mitan"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Pyeongchang Pine Forest Sauna Facial",
+      "ja": "平昌松林サウナフェイシャル",
+      "zh": "平昌松林桑拿面部护理",
+      "vi": "Facial sauna rừng thông Pyeongchang",
+      "id": "Facial Sauna Hutan Pinus Pyeongchang"
+    },
+    "address": {
+      "en": "Mitan-myeon, Pyeongchang",
+      "ja": "平昌郡 美灘面",
+      "zh": "平昌郡美滩面",
+      "vi": "Mitan-myeon, Pyeongchang",
+      "id": "Mitan-myeon, Pyeongchang"
+    },
+    "description": {
+      "en": "Jjimjilbang facial using pine-needle steam — reservations via Naver Talk, rarely listed on Google.",
+      "ja": "松の葉スチームを使うジムジルバンフェイシャル。ネイバートーク予約が中心で、Googleにはほとんど載らない。",
+      "zh": "松针蒸汽汗蒸面部护理，主要通过 Naver Talk 预约，Google 很少收录。",
+      "vi": "Facial jjimjilbang hơi lá thông — đặt qua Naver Talk, hiếm khi có trên Google.",
+      "id": "Facial jjimjilbang uap jarum pinus — reservasi lewat Naver Talk, jarang terdaftar di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gangwon",
+      "city": "gangneung",
+      "district": "gyeongpo"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Gyeongpo Herb Foot Bath Salon",
+      "ja": "鏡浦ハーブ足湯サロン",
+      "zh": "镜浦香草足浴沙龙",
+      "vi": "Salon ngâm chân thảo mộc Gyeongpo",
+      "id": "Salon Rendam Kaki Herbal Gyeongpo"
+    },
+    "address": {
+      "en": "Gyeongpo-dong, Gangneung",
+      "ja": "江陵市 鏡浦洞",
+      "zh": "江陵市镜浦洞",
+      "vi": "Gyeongpo-dong, Gangneung",
+      "id": "Gyeongpo-dong, Gangneung"
+    },
+    "description": {
+      "en": "Alley salon blending coastal herbs into foot soaks — reviewed on Naver Place, not Google spa directories.",
+      "ja": "海岸のハーブを足湯に使う路地サロン。ネイバープレイスで口コミがあり、Googleのスパ名鑑にはない。",
+      "zh": "把海岸香草融入足浴的后巷沙龙，在 Naver Place 有评价，不在 Google Spa 目录。",
+      "vi": "Salon hẻm pha thảo mộc ven biển vào ngâm chân — review trên Naver Place, không có trong danh bạ spa Google.",
+      "id": "Salon gang yang memadukan herbal pesisir ke rendam kaki — diulas di Naver Place, bukan direktori spa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gangwon",
+      "city": "sokcho",
+      "district": "sokcho-dongmyeong"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Sokcho Fish Market Seaweed Mask Bar",
+      "ja": "束草魚市場海藻マスクバー",
+      "zh": "束草鱼市场海藻面膜吧",
+      "vi": "Quầy mặt nạ rong biển chợ cá Sokcho",
+      "id": "Bar Masker Rumput Laut Pasar Ikan Sokcho"
+    },
+    "address": {
+      "en": "Dongmyeong-dong, Sokcho",
+      "ja": "束草市 東明洞",
+      "zh": "束草市东明洞",
+      "vi": "Dongmyeong-dong, Sokcho",
+      "id": "Dongmyeong-dong, Sokcho"
+    },
+    "description": {
+      "en": "Fresh seaweed sheet masks mixed at the market back door — Naver beauty bloggers feature it; Google ignores it.",
+      "ja": "市場裏口で作る生海藻シートマスク。ネイバービューティーブロガーが紹介するが、Googleは無視する。",
+      "zh": "市场后门现调新鲜海藻面膜，Naver 美妆博主推荐，Google 忽略。",
+      "vi": "Mặt nạ rong biển tươi pha ở cửa sau chợ — blogger làm đẹp Naver giới thiệu; Google bỏ qua.",
+      "id": "Sheet mask rumput laut segar dicampur di pintu belakang pasar — blogger kecantikan Naver menampilkan; Google mengabaikan."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gangwon",
+      "city": "yangyang",
+      "district": "yangyang-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Yangyang Surf Zinc Sun Stick Workshop",
+      "ja": "襄陽サーフ用亜鉛日焼け止め工房",
+      "zh": "襄阳冲浪用氧化锌防晒棒工坊",
+      "vi": "Xưởng kem chống nắng kẽm cho lướt sóng Yangyang",
+      "id": "Workshop Stik Tabir Surya Seng Surf Yangyang"
+    },
+    "address": {
+      "en": "Yangyang-eup, Yangyang",
+      "ja": "襄陽郡 襄陽邑",
+      "zh": "襄阳郡襄阳邑",
+      "vi": "Yangyang-eup, Yangyang",
+      "id": "Yangyang-eup, Yangyang"
+    },
+    "description": {
+      "en": "Surfer-made reef-safe sun sticks sold from a beach shack — Naver surfers recommend; no Google storefront.",
+      "ja": "サーファーが作るリーフセーフ日焼け止めをビーチ小屋で販売。ネイバーサーファーが推すが、Google店舗はない。",
+      "zh": "冲浪者制作的珊瑚友好防晒棒，在海滨小屋出售，Naver 冲浪者推荐，Google 无店面。",
+      "vi": "Kem chống nắng an toàn san hô do surfer làm bán từ lều biển — surfer Naver giới thiệu; không có cửa hàng Google.",
+      "id": "Stik tabir surya ramah karang buatan surfer dijual dari gubuk pantai — disarankan surfer Naver; tanpa toko Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gangwon",
+      "city": "wonju",
+      "district": "panbu"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Wonju Hanji Village Paper Workshop",
+      "ja": "原州韓紙村紙工房",
+      "zh": "原州韩纸村造纸工坊",
+      "vi": "Xưởng giấy hanji làng Wonju",
+      "id": "Workshop Kertas Desa Hanji Wonju"
+    },
+    "address": {
+      "en": "Panbu-myeon, Wonju",
+      "ja": "原州市 板阜面",
+      "zh": "原州市板阜面",
+      "vi": "Panbu-myeon, Wonju",
+      "id": "Panbu-myeon, Wonju"
+    },
+    "description": {
+      "en": "Hands-on hanji papermaking in a converted barn — class slots announced on Naver blogs, not Google arts listings.",
+      "ja": "納屋を改造した韓紙体験工房。受講枠はネイバーブログで告知、Googleの文化リストにはない。",
+      "zh": "谷仓改造的韩纸体验工坊，名额在 Naver 博客公布，不在 Google 艺术列表。",
+      "vi": "Làm giấy hanji thực hành trong chuồng cải tạo — lịch học thông báo trên blog Naver, không có trên danh sách nghệ thuật Google.",
+      "id": "Membuat hanji hands-on di lumbung cải tạo — slot kelas diumumkan di blog Naver, bukan daftar seni Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gangwon",
+      "city": "hongcheon",
+      "district": "namcheon"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Hongcheon River Rock Carving Yard",
+      "ja": "洪川川辺岩石彫刻庭",
+      "zh": "洪川河畔岩石雕刻院",
+      "vi": "Sân điêu khắc đá ven sông Hongcheon",
+      "id": "Halaman Ukir Batu Tepi Sungai Hongcheon"
+    },
+    "address": {
+      "en": "Namcheon-myeon, Hongcheon",
+      "ja": "洪川郡 南川面",
+      "zh": "洪川郡南川面",
+      "vi": "Namcheon-myeon, Hongcheon",
+      "id": "Namcheon-myeon, Hongcheon"
+    },
+    "description": {
+      "en": "Retired miners carve river stones on weekends — documented on Naver culture threads, not Google museums.",
+      "ja": "元炭鉱夫が週末に川石を彫る庭。ネイバー文化スレで紹介されるが、Googleの博物館リストにはない。",
+      "zh": "退休矿工周末雕刻河石的小院，在 Naver 文化帖介绍，不在 Google 博物馆列表。",
+      "vi": "Thợ mỏ nghỉ hưu khắc đá sông cuối tuần — ghi trên chủ đề văn hóa Naver, không phải bảo tàng Google.",
+      "id": "Mantan penambang mengukir batu sungai akhir pekan — didokumentasikan di thread budaya Naver, bukan museum Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gangwon",
+      "city": "taebaek",
+      "district": "cheoram"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Taebaek Coal Museum Backroom Tour",
+      "ja": "太白炭鉱博物館裏見学",
+      "zh": "太白煤矿博物馆后台参观",
+      "vi": "Tour hậu trường bảo tàng than Taebaek",
+      "id": "Tur Belakang Panggung Museum Batubara Taebaek"
+    },
+    "address": {
+      "en": "Cheoram-dong, Taebaek",
+      "ja": "太白市 鉄岩洞",
+      "zh": "太白市铁岩洞",
+      "vi": "Cheoram-dong, Taebaek",
+      "id": "Cheoram-dong, Taebaek"
+    },
+    "description": {
+      "en": "Volunteer-led backroom tours of mining relics — sign-up via Naver open chat, not Google tours.",
+      "ja": "ボランティア案内の炭鉱遺物裏見学。ネイバーオープンチャットで申込、Googleツアーにはない。",
+      "zh": "志愿者带领的煤矿遗物后台参观，通过 Naver 开放聊天报名，不在 Google 旅游。",
+      "vi": "Tour hậu trường di tích mỏ do tình nguyện viên dẫn — đăng ký qua open chat Naver, không phải tour Google.",
+      "id": "Tur belakang panggung relik tambang dipandu relawan — daftar lewat open chat Naver, bukan tur Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gangwon",
+      "city": "yeongwol",
+      "district": "yeongwol-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Yeongwol Dong River Poetry Reading Deck",
+      "ja": "寧越東江詩の朗読デッキ",
+      "zh": "宁越东江诗歌朗读露台",
+      "vi": "Sàn đọc thơ sông Dong Yeongwol",
+      "id": "Dek Membaca Puisi Sungai Dong Yeongwol"
+    },
+    "address": {
+      "en": "Yeongwol-eup, Yeongwol",
+      "ja": "寧越郡 寧越邑",
+      "zh": "寧越郡宁越邑",
+      "vi": "Yeongwol-eup, Yeongwol",
+      "id": "Yeongwol-eup, Yeongwol"
+    },
+    "description": {
+      "en": "Riverside deck where locals host monthly poetry nights — calendar on Naver cafés, not Google culture calendars.",
+      "ja": "地元民が月例詩の会を開く川辺デッキ。日程はネイバーカフェ、Google文化カレンダーにはない。",
+      "zh": "本地人举办月度诗会的江畔露台，日程在 Naver 咖啡馆，不在 Google 文化日历。",
+      "vi": "Sàn ven sông nơi dân địa phương tổ chức đêm thơ hàng tháng — lịch trên cafe Naver, không phải lịch văn hóa Google.",
+      "id": "Dek tepi sungai tempat warga mengadakan malam puisi bulanan — kalender di kafe Naver, bukan kalender budaya Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gangwon",
+      "city": "jeongseon",
+      "district": "jeongseon-eup"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Arirang Hills Morning Mist Trail",
+      "ja": "アリラン丘陵朝霧トレイル",
+      "zh": "阿里郎丘陵晨雾步道",
+      "vi": "Đường sương sáng đồi Arirang",
+      "id": "Jalur Kabut Pagi Bukit Arirang"
+    },
+    "address": {
+      "en": "Jeongseon-eup, Jeongseon",
+      "ja": "旌善郡 旌善邑",
+      "zh": "旌善郡旌善邑",
+      "vi": "Jeongseon-eup, Jeongseon",
+      "id": "Jeongseon-eup, Jeongseon"
+    },
+    "description": {
+      "en": "Ridge walk through morning fog above rice terraces — route shared on Naver hiking blogs, not Google trails.",
+      "ja": "棚田の上を抜ける朝霧の尾根道。ネイバー登山ブログでルート共有、Googleトレイルにはない。",
+      "zh": "穿越梯田上方晨雾的山脊步道，路线在 Naver 登山博客分享，Google 步道没有。",
+      "vi": "Đường đồi xuyên sương sáng trên ruộng bậc thang — lộ trình chia sẻ trên blog leo núi Naver, không có trên Google.",
+      "id": "Jalan punggung menembus kabut pagi di atas terasering — rute dibagikan di blog hiking Naver, bukan jalur Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gangwon",
+      "city": "inje",
+      "district": "buk-myeon"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Naerincheon Hidden Valley Walk",
+      "ja": "内麟川隠れ渓谷散策",
+      "zh": "内麟川隐秘溪谷漫步",
+      "vi": "Đi bộ thung lũng ẩn Naerincheon",
+      "id": "Jalan Lembah Tersembunyi Naerincheon"
+    },
+    "address": {
+      "en": "Buk-myeon, Inje",
+      "ja": "麟蹄郡 北面",
+      "zh": "麟蹄郡北面",
+      "vi": "Buk-myeon, Inje",
+      "id": "Buk-myeon, Inje"
+    },
+    "description": {
+      "en": "Shaded stream path locals cool off at in summer — pinned on Naver Map, missing from Google park listings.",
+      "ja": "夏に地元民が涼む木陰の渓流道。ネイバーマップにピンがあるが、Google公園リストにはない。",
+      "zh": "夏天本地人避暑的林荫溪道，标在 Naver 地图，Google 公园列表没有。",
+      "vi": "Đường suối râm mát dân địa phương tránh nóng hè — ghim trên Naver Map, thiếu trong danh sách công viên Google.",
+      "id": "Jalur sungai teduh tempat warga sejuk di musim panas — disematkan di Naver Map, tidak ada di daftar taman Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gangwon",
+      "city": "goseong-gangwon",
+      "district": "geonbuk"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Songjiho Lakeside Reed Boardwalk",
+      "ja": "松池湖葦の木道",
+      "zh": "松池湖芦苇木栈道",
+      "vi": "Ván sàn lau sậy hồ Songjiho",
+      "id": "Boardwalk Alang-alang Danau Songjiho"
+    },
+    "address": {
+      "en": "Geonbuk-myeon, Goseong",
+      "ja": "高城郡 県北面",
+      "zh": "高城郡县北面",
+      "vi": "Geonbuk-myeon, Goseong",
+      "id": "Geonbuk-myeon, Goseong"
+    },
+    "description": {
+      "en": "Short reed boardwalk with egret sightings — photographed for Naver blogs, not Google nature reserves.",
+      "ja": "サギが見える短い葦の木道。ネイバーブログ用に撮影されるが、Google自然保護区ではない。",
+      "zh": "可观赏白鹭的短芦苇栈道，为 Naver 博客拍照，不是 Google 自然保护区。",
+      "vi": "Ván sàn lau sậy ngắn ngắm diệc — chụp cho blog Naver, không phải khu bảo tồn thiên nhiên Google.",
+      "id": "Boardwalk alang-alang pendek dengan pemandangan bangau — difoto untuk blog Naver, bukan cagar alam Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gangwon",
+      "city": "chuncheon",
+      "district": "dongmyeong"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Uiamho Dawn Cycling Loop",
+      "ja": "義岩湖夜明けサイクリング",
+      "zh": "义岩湖黎明骑行环线",
+      "vi": "Vòng đạp xe bình minh Uiamho",
+      "id": "Loop Bersepeda Fajar Uiamho"
+    },
+    "address": {
+      "en": "Dongmyeong-dong, Chuncheon",
+      "ja": "春川市 東明洞",
+      "zh": "春川市东明洞",
+      "vi": "Dongmyeong-dong, Chuncheon",
+      "id": "Dongmyeong-dong, Chuncheon"
+    },
+    "description": {
+      "en": "Quiet lakeside loop cyclists ride at 5 a.m. — GPX files circulate on Naver, not Google Maps cycling routes.",
+      "ja": "朝5時に走る静かな湖畔ループ。GPXはネイバーで流通し、Googleマップのサイクリングルートではない。",
+      "zh": "清晨五点骑行的安静湖畔环线，GPX 在 Naver 流传，不是 Google 地图骑行路线。",
+      "vi": "Vòng ven hồ yên tĩnh cyclist đi lúc 5 giờ sáng — file GPX lan trên Naver, không phải tuyến đạp xe Google Maps.",
+      "id": "Loop tepi danau tenang yang dibikers jalani jam 5 pagi — file GPX beredar di Naver, bukan rute bersepeda Google Maps."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "chungbuk",
+      "city": "cheongju",
+      "district": "sangdang"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Sangdang Gopchang Alley",
+      "ja": "上党ゴプチャン横丁",
+      "zh": "上党烤肥肠巷",
+      "vi": "Hẻm gopchang Sangdang",
+      "id": "Gang Gopchang Sangdang"
+    },
+    "address": {
+      "en": "Sangdang-gu, Cheongju",
+      "ja": "清州市 上党区",
+      "zh": "清州市上党区",
+      "vi": "Sangdang-gu, Cheongju",
+      "id": "Sangdang-gu, Cheongju"
+    },
+    "description": {
+      "en": "Late-night gopchang grills behind the university — ranked on Naver Map foodie lists, not Google Michelin.",
+      "ja": "大学裏の深夜ゴプチャン焼き。ネイバーマップのグルメランキングに載るが、Googleミシュランにはない。",
+      "zh": "大学后巷深夜烤肥肠，排在 Naver 地图美食榜，不在 Google 米其林。",
+      "vi": "Quán nướng gopchang đêm khuya sau đại học — xếp hạng trên danh sách ẩm thực Naver Map, không phải Michelin Google.",
+      "id": "Panggangan gopchang larut malam di belakang kampus — masuk peringkat foodie Naver Map, bukan Michelin Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "chungbuk",
+      "city": "chungju",
+      "district": "yongtan"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Chungju Dried Persimmon Snack Lane",
+      "ja": "忠州干し柿おやつ路地",
+      "zh": "忠州柿饼零食巷",
+      "vi": "Ngõ snack hồng khô Chungju",
+      "id": "Gang Camilan Kesemek Kering Chungju"
+    },
+    "address": {
+      "en": "Yongtan-myeon, Chungju",
+      "ja": "忠州市 永同面",
+      "zh": "忠州市永同面",
+      "vi": "Yongtan-myeon, Chungju",
+      "id": "Yongtan-myeon, Chungju"
+    },
+    "description": {
+      "en": "Farmers sell dried persimmon chips from garage doors — discovered via Naver local market blogs, not Google shops.",
+      "ja": "農家がガレージから干し柿チップを販売。ネイバー地元市場ブログで見つかり、Googleの店舗にはない。",
+      "zh": "农户从车库门出售柿饼脆片，通过 Naver 本地市场博客发现，Google 店铺没有。",
+      "vi": "Nông dân bán snack hồng khô từ cửa garage — tìm qua blog chợ địa phương Naver, không phải cửa hàng Google.",
+      "id": "Petani menjual keripik kesemek kering dari pintu garasi — ditemukan lewat blog pasar lokal Naver, bukan toko Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "chungbuk",
+      "city": "jecheon",
+      "district": "jecheon-si"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Jecheon Medicinal Herb Baeksuk House",
+      "ja": "堤川薬草白灼家",
+      "zh": "堤川药草白灼家",
+      "vi": "Quán baeksuk thảo dược Jecheon",
+      "id": "Rumah Baeksuk Herbal Jecheon"
+    },
+    "address": {
+      "en": "Jecheon-si, Chungbuk",
+      "ja": "堤川市",
+      "zh": "堤川市",
+      "vi": "Jecheon-si, Chungbuk",
+      "id": "Jecheon-si, Chungbuk"
+    },
+    "description": {
+      "en": "Slow-simmered chicken with mountain herbs — a Naver wellness blog staple, absent from Google restaurant search.",
+      "ja": "山の薬草でじっくり煮る鶏白灼。ネイバーウェルネスブログの定番だが、Googleレストラン検索にはない。",
+      "zh": "山草药慢炖白灼鸡，Naver 养生博客常客，Google 餐厅搜索没有。",
+      "vi": "Gà baeksuk om thảo dược núi — món quen blog wellness Naver, không có trên tìm nhà hàng Google.",
+      "id": "Ayam baeksuk rebus herbal gunung — andalan blog wellness Naver, tidak ada di pencarian restoran Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "chungbuk",
+      "city": "danyang",
+      "district": "danyang-eup"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Danyang Paragliding Pilot Noodle Shop",
+      "ja": "丹陽パラグライダーパイロット麺店",
+      "zh": "丹阳滑翔伞飞行员面馆",
+      "vi": "Quán mì phi công dù lượn Danyang",
+      "id": "Warung Mie Pilot Paragliding Danyang"
+    },
+    "address": {
+      "en": "Danyang-eup, Danyang",
+      "ja": "丹陽郡 丹陽邑",
+      "zh": "丹阳郡丹阳邑",
+      "vi": "Danyang-eup, Danyang",
+      "id": "Danyang-eup, Danyang"
+    },
+    "description": {
+      "en": "Kalguksu shop where paragliding pilots breakfast — pinned on Naver pilot forums, not Google eateries.",
+      "ja": "パラグライダーパイロットが朝食を食べるカルグクス店。ネイバーパイロット掲示板にピン、Google飲食店にはない。",
+      "zh": "滑翔伞飞行员吃早餐的手切面店，标在 Naver 飞行员论坛，Google 餐饮店没有。",
+      "vi": "Quán kalguksu pilot dù lượn ăn sáng — ghim trên diễn đàn pilot Naver, không phải quán ăn Google.",
+      "id": "Warung kalguksu tempat pilot paragliding sarapan — disematkan di forum pilot Naver, bukan tempat makan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "chungbuk",
+      "city": "boeun",
+      "district": "boeun-eup"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Beopjusa Temple Road Drama Path",
+      "ja": "法住寺参道ドラマロケ道",
+      "zh": "法住寺参道剧集取景路",
+      "vi": "Đường quay phim lối vào chùa Beopjusa",
+      "id": "Jalan Syuting Drama Jalan Kuil Beopjusa"
+    },
+    "address": {
+      "en": "Boeun-eup, Boeun",
+      "ja": "報恩郡 報恩邑",
+      "zh": "报恩郡报恩邑",
+      "vi": "Boeun-eup, Boeun",
+      "id": "Boeun-eup, Boeun"
+    },
+    "description": {
+      "en": "Forest path featured in sageuk B-cam footage — location notes on Naver drama threads, not Google filming sites.",
+      "ja": "サゲクBカメ映像に映った森の道。場所の情報はネイバードラマスレ、Googleロケ地ではない。",
+      "zh": "历史剧 B 机位森林小路，位置备注在 Naver 剧集帖，不是 Google 取景地。",
+      "vi": "Đường rừng trong cảnh quay B sageuk — ghi chú địa điểm trên thread drama Naver, không phải điểm quay Google.",
+      "id": "Jalan hutan dalam footage B-cam sageuk — catatan lokasi di thread drama Naver, bukan lokasi syuting Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "chungbuk",
+      "city": "goesan",
+      "district": "goesan-eup"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Goesan Red Pepper Festival Backstage Alley",
+      "ja": "槐山唐辛子祭り裏路地",
+      "zh": "槐山辣椒节后台巷",
+      "vi": "Hẻm hậu trường lễ hội ớt Goesan",
+      "id": "Gang Belakang Panggung Festival Cabai Goesan"
+    },
+    "address": {
+      "en": "Goesan-eup, Goesan",
+      "ja": "槐山郡 槐山邑",
+      "zh": "槐山郡槐山邑",
+      "vi": "Goesan-eup, Goesan",
+      "id": "Goesan-eup, Goesan"
+    },
+    "description": {
+      "en": "Alley where festival staff eat between sets — gossiped about on Naver entertainment blogs, not Google.",
+      "ja": "祭りスタッフがセット間に食事する路地。ネイバーエンタメブログで噂され、Googleにはない。",
+      "zh": "节庆工作人员幕间用餐的后巷，在 Naver 娱乐博客被八卦，Google 没有。",
+      "vi": "Hẻm nhân viên lễ hội ăn giữa các tiết mục — đồn đại trên blog giải trí Naver, không có trên Google.",
+      "id": "Gang staf festival makan di antara sesi — digosipkan di blog hiburan Naver, tidak ada di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "chungbuk",
+      "city": "jeungpyeong",
+      "district": "jeungpyeong-eup"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jeungpyeong Countryside Variety Show Set",
+      "ja": "曾坪農村バラエティロケセット",
+      "zh": "曾坪乡村综艺取景棚",
+      "vi": "Set quay show variety nông thôn Jeungpyeong",
+      "id": "Set Syuting Variety Pedesaan Jeungpyeong"
+    },
+    "address": {
+      "en": "Jeungpyeong-eup, Jeungpyeong",
+      "ja": "曾坪郡 曾坪邑",
+      "zh": "曾坪郡曾坪邑",
+      "vi": "Jeungpyeong-eup, Jeungpyeong",
+      "id": "Jeungpyeong-eup, Jeungpyeong"
+    },
+    "description": {
+      "en": "Barn converted for rural variety shoots — open days announced on Naver TV blogs, not Google studios.",
+      "ja": "農村バラエティ撮影用に改造された納屋。公開日はネイバーTVブログで告知、Googleスタジオにはない。",
+      "zh": "为乡村综艺拍摄改造的谷仓，开放日在 Naver TV 博客公布，不在 Google 摄影棚。",
+      "vi": "Chuồng cải tạo quay variety nông thôn — ngày mở cửa thông báo trên blog TV Naver, không phải studio Google.",
+      "id": "Lumbung canggih untuk syuting variety pedesaan — hari buka diumumkan di blog TV Naver, bukan studio Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "chungbuk",
+      "city": "okcheon",
+      "district": "okcheon-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Okcheon Train Station Melodrama Platform",
+      "ja": "沃川駅メロドラマホーム",
+      "zh": "沃川站言情剧站台",
+      "vi": "Sân ga phim melodrama Ga Okcheon",
+      "id": "Peron Melodrama Stasiun Okcheon"
+    },
+    "address": {
+      "en": "Okcheon-eup, Okcheon",
+      "ja": "沃川郡 沃川邑",
+      "zh": "沃川郡沃川邑",
+      "vi": "Okcheon-eup, Okcheon",
+      "id": "Okcheon-eup, Okcheon"
+    },
+    "description": {
+      "en": "Tiny rural platform where cable melodramas film goodbye scenes — tagged on Naver drama location lists, not Google.",
+      "ja": "ケーブルメロドラマの別れシーン撮影地の小さな駅ホーム。ネイバーロケ地リストにタグ、Googleにはない。",
+      "zh": "有线言情剧告别场景取景的小站台，标在 Naver 取景地列表，Google 没有。",
+      "vi": "Sân ga nhỏ quay cảnh chia tay phim melodrama cáp — gắn thẻ danh sách địa điểm drama Naver, không trên Google.",
+      "id": "Peron kecil syuting adegan perpisahan melodrama kabel — ditag di daftar lokasi drama Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "chungbuk",
+      "city": "cheongju",
+      "district": "osong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Cheongju Osong Biotech Skin Clinic Alley",
+      "ja": "清州オソンバイオ肌クリニック路地",
+      "zh": "清州乌松生物护肤诊所巷",
+      "vi": "Hẻm phòng khám da biotech Osong Cheongju",
+      "id": "Gang Klinik Kulit Biotech Osong Cheongju"
+    },
+    "address": {
+      "en": "Osong-eup, Cheongju",
+      "ja": "清州市 五松邑",
+      "zh": "清州市五松邑",
+      "vi": "Osong-eup, Cheongju",
+      "id": "Osong-eup, Cheongju"
+    },
+    "description": {
+      "en": "Post-trial skincare samples from biotech labs — appointments via Naver Booking, not Google Health.",
+      "ja": "バイオ試験後のスキンケアサンプル提供。ネイバー予約が中心で、Googleヘルスにはない。",
+      "zh": "生物试验后护肤样品体验，通过 Naver 预约，不在 Google Health。",
+      "vi": "Mẫu skincare sau thử nghiệm biotech — đặt qua Naver Booking, không phải Google Health.",
+      "id": "Sampel skincare pasca uji biotech — janji temu lewat Naver Booking, bukan Google Health."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "chungbuk",
+      "city": "eumseong",
+      "district": "eumseong-eup"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Eumseong Garlic Essence Facial Bar",
+      "ja": "陰城ニンニクエッセンスフェイシャル",
+      "zh": "阴城大蒜精华面部吧",
+      "vi": "Quầy facial tinh chất tỏi Eumseong",
+      "id": "Bar Facial Esensi Bawang Eumseong"
+    },
+    "address": {
+      "en": "Eumseong-eup, Eumseong",
+      "ja": "陰城郡 陰城邑",
+      "zh": "陰城郡阴城邑",
+      "vi": "Eumseong-eup, Eumseong",
+      "id": "Eumseong-eup, Eumseong"
+    },
+    "description": {
+      "en": "Garlic-country facial serums in a farmhouse salon — reviewed on Naver beauty cafés, not Google spas.",
+      "ja": "ニンニクの産地で作る美容液を農家サロンで提供。ネイバービューティーカフェで口コミ、Googleスパにはない。",
+      "zh": "大蒜之乡农家沙龙提供美容精华液，在 Naver 美妆咖啡馆有评价，Google Spa 没有。",
+      "vi": "Serum facial vùng tỏi tại salon nông trại — review trên cafe làm đẹp Naver, không phải spa Google.",
+      "id": "Serum facial daerah bawang di salon rumah pertanian — diulas di kafe kecantikan Naver, bukan spa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "chungbuk",
+      "city": "jecheon",
+      "district": "ungok"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Jecheon Hot Spring Foot Peel Salon",
+      "ja": "堤川温泉足ピーリングサロン",
+      "zh": "堤川温泉足部去角质沙龙",
+      "vi": "Salon peel chân suối nước nóng Jecheon",
+      "id": "Salon Peel Kaki Pemandian Air Panas Jecheon"
+    },
+    "address": {
+      "en": "Ungok-dong, Jecheon",
+      "ja": "堤川市 雲谷洞",
+      "zh": "堤川市云谷洞",
+      "vi": "Ungok-dong, Jecheon",
+      "id": "Ungok-dong, Jecheon"
+    },
+    "description": {
+      "en": "Mineral foot peels beside jjimjilbang alleys — walk-ins found via Naver Map, not Google wellness apps.",
+      "ja": "ジムジルバン横のミネラル足ピーリング。ネイバーマップで見つかるが、Googleウェルネスアプリにはない。",
+      "zh": "汗蒸巷旁的矿物质足部护理，通过 Naver 地图找到，不在 Google 健康应用。",
+      "vi": "Peel chân khoáng cạnh hẻm jjimjilbang — tìm qua Naver Map, không phải app wellness Google.",
+      "id": "Peel kaki mineral di samping gang jjimjilbang — ditemukan lewat Naver Map, bukan app wellness Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "chungbuk",
+      "city": "danyang",
+      "district": "danyang-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Danyang Cave Mineral Mud Mask Studio",
+      "ja": "丹陽洞窟ミネラル泥パック工房",
+      "zh": "丹阳洞穴矿物泥膜工坊",
+      "vi": "Xưởng mặt nạ bùn khoáng hang động Danyang",
+      "id": "Studio Masker Lumpur Mineral Gua Danyang"
+    },
+    "address": {
+      "en": "Danyang-eup, Danyang",
+      "ja": "丹陽郡 丹陽邑",
+      "zh": "丹陽郡丹阳邑",
+      "vi": "Danyang-eup, Danyang",
+      "id": "Danyang-eup, Danyang"
+    },
+    "description": {
+      "en": "Cave-sourced mud masks mixed fresh daily — Naver caving bloggers review it; Google has no listing.",
+      "ja": "洞窟由来の泥パックを毎日仕込む工房。ネイバー洞窟ブロガーが紹介、Googleに掲載なし。",
+      "zh": "洞穴矿物泥每天现调面膜工坊，Naver 洞穴博主推荐，Google 无条目。",
+      "vi": "Mặt nạ bùn từ hang pha mỗi ngày — blogger hang động Naver review; Google không có mục.",
+      "id": "Masker lumpur dari gua dicampur segar tiap hari — blogger caving Naver mengulas; Google tanpa daftar."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "chungbuk",
+      "city": "boeun",
+      "district": "naeseong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Songnisan Temple Bell Craft Yard",
+      "ja": "俗離山梵鐘工芸庭",
+      "zh": "俗离山梵钟工艺院",
+      "vi": "Sân đúc chuông chùa Songnisan",
+      "id": "Halaman Kerajinan Lonceng Kuil Songnisan"
+    },
+    "address": {
+      "en": "Naeseong-myeon, Boeun",
+      "ja": "報恩郡 内聖面",
+      "zh": "报恩郡内圣面",
+      "vi": "Naeseong-myeon, Boeun",
+      "id": "Naeseong-myeon, Boeun"
+    },
+    "description": {
+      "en": "Artisan bell-casting demos on temple approach roads — schedules on Naver temple culture blogs, not Google.",
+      "ja": "寺参道の梵鐘鋳造デモ。日程はネイバー寺院文化ブログ、Googleにはない。",
+      "zh": "寺庙参道旁的铸钟演示，日程在 Naver 寺院文化博客，Google 没有。",
+      "vi": "Demo đúc chuông trên đường lên chùa — lịch trên blog văn hóa chùa Naver, không trên Google.",
+      "id": "Demo pengecoran lonceng di jalan pendekatan kuil — jadwal di blog budaya kuil Naver, bukan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "chungbuk",
+      "city": "goesan",
+      "district": "chilbo"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Goesan Chili Paste Fermentation Cellar",
+      "ja": "槐山コチュジャン発酵地下室",
+      "zh": "槐山辣椒酱发酵地下室",
+      "vi": "Hầm lên men gochujang Goesan",
+      "id": "Ruang Fermentasi Gochujang Goesan"
+    },
+    "address": {
+      "en": "Chilbo-myeon, Goesan",
+      "ja": "槐山郡 七宝面",
+      "zh": "槐山郡七宝面",
+      "vi": "Chilbo-myeon, Goesan",
+      "id": "Chilbo-myeon, Goesan"
+    },
+    "description": {
+      "en": "Family gochujang jars aging underground — tours booked through Naver blogs, not Google experiences.",
+      "ja": "地下で熟成する家族のコチュジャン甕。ネイバーブログ経由で見学予約、Google体験にはない。",
+      "zh": "地下窖藏家族辣椒酱瓮，通过 Naver 博客预约参观，不在 Google 体验。",
+      "vi": "Chum gochujang gia đình ủ dưới đất — tour đặt qua blog Naver, không phải trải nghiệm Google.",
+      "id": "Guci gochujang keluarga yang diasinkan bawah tanah — tur dipesan lewat blog Naver, bukan pengalaman Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "chungbuk",
+      "city": "jeungpyeong",
+      "district": "jeungpyeong-eup"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Jeungpyeong Straw Lacquerware Workshop",
+      "ja": "曾坪わら漆器工房",
+      "zh": "曾坪稻草漆器工坊",
+      "vi": "Xưởng sơn mài rơm Jeungpyeong",
+      "id": "Workshop Pernis Rotan Jeungpyeong"
+    },
+    "address": {
+      "en": "Jeungpyeong-eup, Jeungpyeong",
+      "ja": "曾坪郡 曾坪邑",
+      "zh": "曾坪郡曾坪邑",
+      "vi": "Jeungpyeong-eup, Jeungpyeong",
+      "id": "Jeungpyeong-eup, Jeungpyeong"
+    },
+    "description": {
+      "en": "Straw-inlaid lacquer taught by village elders — class links shared on Naver craft groups, not Google workshops.",
+      "ja": "村の長老が教えるわら象嵌漆器。受講リンクはネイバー工芸グループで共有、Googleワークショップにはない。",
+      "zh": "村中长辈教授稻草镶嵌漆器，报名链接在 Naver 工艺群分享，不在 Google 工坊。",
+      "vi": "Sơn mài khảm rơm do trưởng làng dạy — link lớp chia sẻ nhóm thủ công Naver, không phải workshop Google.",
+      "id": "Pernis inlaid jerami diajarkan tetua desa — link kelas dibagikan grup kerajinan Naver, bukan workshop Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "chungbuk",
+      "city": "okcheon",
+      "district": "okcheon-eup"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Okcheon Railroad Heritage Photo Yard",
+      "ja": "沃川鉄道遺産写真庭",
+      "zh": "沃川铁道遗产摄影院",
+      "vi": "Sân chụp ảnh di sản đường sắt Okcheon",
+      "id": "Halaman Foto Warisan Rel Okcheon"
+    },
+    "address": {
+      "en": "Okcheon-eup, Okcheon",
+      "ja": "沃川郡 沃川邑",
+      "zh": "沃川郡沃川邑",
+      "vi": "Okcheon-eup, Okcheon",
+      "id": "Okcheon-eup, Okcheon"
+    },
+    "description": {
+      "en": "Retired rail cars used as photo backdrops — coordinates on Naver photo clubs, not Google heritage maps.",
+      "ja": "廃車両を背景にした撮影スポット。座標はネイバー写真クラブ、Google遺産マップにはない。",
+      "zh": "退役车厢作背景的拍照点，坐标在 Naver 摄影俱乐部，不在 Google 遗产地图。",
+      "vi": "Toa tàu nghỉ hưu làm phông ảnh — tọa độ trên club ảnh Naver, không có trên bản đồ di sản Google.",
+      "id": "Gerbong pensiun sebagai latar foto — koordinat di klub foto Naver, bukan peta warisan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungbuk",
+      "city": "cheongju",
+      "district": "munui"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Daecheongho Hidden Shoreline Trail",
+      "ja": "大清湖隠れ湖岸トレイル",
+      "zh": "大清湖隐秘湖岸步道",
+      "vi": "Đường bờ hồ ẩn Daecheongho",
+      "id": "Jalur Pantai Tersembunyi Daecheongho"
+    },
+    "address": {
+      "en": "Munui-myeon, Cheongju",
+      "ja": "清州市 文義面",
+      "zh": "清州市文义面",
+      "vi": "Munui-myeon, Cheongju",
+      "id": "Munui-myeon, Cheongju"
+    },
+    "description": {
+      "en": "Unmarked lakeshore path locals fish along — GPX on Naver hiking blogs, not Google outdoor guides.",
+      "ja": "地元民が釣りをする無標識の湖岸道。GPXはネイバー登山ブログ、Googleアウトドアガイドにはない。",
+      "zh": "本地人钓鱼的无标识湖岸道，GPX 在 Naver 登山博客，不在 Google 户外指南。",
+      "vi": "Đường bờ hồ không biển báo dân địa phương câu cá — GPX trên blog leo núi Naver, không phải hướng dẫn ngoài trời Google.",
+      "id": "Jalur pantai danau tanpa rambu tempat warga memancing — GPX di blog hiking Naver, bukan panduan outdoor Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungbuk",
+      "city": "chungju",
+      "district": "yongtan"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Chungju Tangeumdae Riverside Dawn Walk",
+      "ja": "忠州彈琴臺川辺夜明け散策",
+      "zh": "忠州弹琴台江畔黎明漫步",
+      "vi": "Đi bộ bình minh ven sông Tangeumdae Chungju",
+      "id": "Jalan Fajar Tepi Sungai Tangeumdae Chungju"
+    },
+    "address": {
+      "en": "Yongtan-myeon, Chungju",
+      "ja": "忠州市 永同面",
+      "zh": "忠州市永同面",
+      "vi": "Yongtan-myeon, Chungju",
+      "id": "Yongtan-myeon, Chungju"
+    },
+    "description": {
+      "en": "Misty riverside steps where ajummas power-walk — route on Naver Map reviews, absent from Google parks.",
+      "ja": "霧の川辺でアジュマがパワーウォークする階段。ルートはネイバーマップ口コミ、Google公園にはない。",
+      "zh": "雾中江畔阿姨们健走的台阶，路线在 Naver 地图点评，Google 公园没有。",
+      "vi": "Cầu thang ven sông sương mù nơi các ajumma đi bộ nhanh — lộ trình trên đánh giá Naver Map, không có trong công viên Google.",
+      "id": "Tangga tepi sungai berkabut tempat ajumma power-walk — rute di ulasan Naver Map, tidak ada di taman Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungbuk",
+      "city": "jecheon",
+      "district": "bongbang"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Uirimji Reservoir Forest Loop",
+      "ja": "義林池貯水池森ループ",
+      "zh": "义林池水库森林环线",
+      "vi": "Vòng rừng hồ chứa Uirimji",
+      "id": "Loop Hutan Waduk Uirimji"
+    },
+    "address": {
+      "en": "Bongbang-dong, Jecheon",
+      "ja": "堤川市 鳳凰洞",
+      "zh": "堤川市凤凰洞",
+      "vi": "Bongbang-dong, Jecheon",
+      "id": "Bongbang-dong, Jecheon"
+    },
+    "description": {
+      "en": "Shaded loop around an ancient reservoir — favorite on Naver jogging blogs, not Google fitness routes.",
+      "ja": "古い貯水池を巡る木陰ループ。ネイバージョギングブログのお気に入り、Googleフィットネスルートではない。",
+      "zh": "环绕古水库的林荫环线，Naver 慢跑博客最爱，不是 Google 健身路线。",
+      "vi": "Vòng râm mát quanh hồ chứa cổ — yêu thích trên blog chạy bộ Naver, không phải tuyến fitness Google.",
+      "id": "Loop teduh mengelilingi waduk kuno — favorit di blog jogging Naver, bukan rute fitness Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungbuk",
+      "city": "danyang",
+      "district": "danyang-eup"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Dodamsambong Misty Rock Walk",
+      "ja": "道頭三峰霧の岩散策",
+      "zh": "道头三峰雾岩漫步",
+      "vi": "Đi bộ đá sương Dodamsambong",
+      "id": "Jalan Batu Kabut Dodamsambong"
+    },
+    "address": {
+      "en": "Danyang-eup, Danyang",
+      "ja": "丹陽郡 丹陽邑",
+      "zh": "丹阳郡丹阳邑",
+      "vi": "Danyang-eup, Danyang",
+      "id": "Danyang-eup, Danyang"
+    },
+    "description": {
+      "en": "Early-morning rock viewpoint locals prefer over tourist decks — tips on Naver photo blogs, not Google viewpoints.",
+      "ja": "観光デッキより地元民が好む早朝の岩展望。ヒントはネイバー写真ブログ、Google展望台ではない。",
+      "zh": "本地人偏爱而非观光台的清晨岩石观景点，贴士在 Naver 摄影博客，不是 Google 观景点。",
+      "vi": "Điểm ngắm đá sáng sớm dân địa phương thích hơn sàn du lịch — mẹo trên blog ảnh Naver, không phải điểm ngắm Google.",
+      "id": "Titik batu pagi dini yang disukai warga daripada dek wisata — tips di blog foto Naver, bukan viewpoint Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "chungnam",
+      "city": "cheonan",
+      "district": "dujeong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Dujeong-dong Army Stew Alley",
+      "ja": "두정동部隊鍋横丁",
+      "zh": "斗井洞部队锅巷",
+      "vi": "Hẻm lẩu quân đội Dujeong-dong",
+      "id": "Gang Rebusan Tentara Dujeong-dong"
+    },
+    "address": {
+      "en": "Dujeong-dong, Seobuk-gu, Cheonan",
+      "ja": "天安市 西北区 斗井洞",
+      "zh": "天安市西北区斗井洞",
+      "vi": "Dujeong-dong, Seobuk-gu, Cheonan",
+      "id": "Dujeong-dong, Seobuk-gu, Cheonan"
+    },
+    "description": {
+      "en": "Original budaejjigae birthplace alley locals still swear by — ranked on Naver Map, not Google food tours.",
+      "ja": "プデチゲ発祥の路地で地元民が今も通う店。ネイバーマップで評価されるが、Googleフードツアーにはない。",
+      "zh": "部队锅发源地巷里本地人仍常去的店，在 Naver 地图有排名，不在 Google 美食游。",
+      "vi": "Hẻm nguồn gốc budaejjigae mà dân địa phương vẫn tin — xếp hạng trên Naver Map, không phải tour ẩm thực Google.",
+      "id": "Gang asal budaejjigae yang masih dipercaya warga — masuk peringkat Naver Map, bukan food tour Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "chungnam",
+      "city": "asan",
+      "district": "onyang"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Onyang Hot Spring Hard-Boiled Egg Lane",
+      "ja": "温阳温泉ゆで卵路地",
+      "zh": "温阳温泉煮蛋巷",
+      "vi": "Ngõ trứng luộc suối nước nóng Onyang",
+      "id": "Gang Telur Rebus Pemandian Onyang"
+    },
+    "address": {
+      "en": "Oncheon-dong, Asan",
+      "ja": "牙山市 温泉洞",
+      "zh": "牙山市温泉洞",
+      "vi": "Oncheon-dong, Asan",
+      "id": "Oncheon-dong, Asan"
+    },
+    "description": {
+      "en": "Mineral-boiled eggs sold from jjimjilbang back doors — a Naver onsen blog classic, not Google snacks.",
+      "ja": "ジムジルバン裏口で売る温泉ゆで卵。ネイバー温泉ブログの定番だが、Googleスナックにはない。",
+      "zh": "汗蒸后门出售的温泉煮蛋，Naver 温泉博客经典，Google 小吃没有。",
+      "vi": "Trứng luộc khoáng bán cửa sau jjimjilbang — kinh điển blog onsen Naver, không phải snack Google.",
+      "id": "Telur rebus mineral dijual dari pintu belakang jjimjilbang — klasik blog onsen Naver, bukan camilan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "chungnam",
+      "city": "seosan",
+      "district": "seosan-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Seosan Dried Croaker Alley",
+      "ja": "瑞山干しコチョギ路地",
+      "zh": "瑞山干黄花鱼巷",
+      "vi": "Hẻm cá đù khô Seosan",
+      "id": "Gang Ikan Kuning Kering Seosan"
+    },
+    "address": {
+      "en": "Seosan-si, Chungnam",
+      "ja": "瑞山市",
+      "zh": "瑞山市",
+      "vi": "Seosan-si, Chungnam",
+      "id": "Seosan-si, Chungnam"
+    },
+    "description": {
+      "en": "Wholesale dried fish stalls behind the fish market — found via Naver market blogs, not Google shopping.",
+      "ja": "魚市場裏の干物卸売店。ネイバー市場ブログで見つかり、Googleショッピングにはない。",
+      "zh": "鱼市场后的干鱼批发摊，通过 Naver 市场博客找到，Google 购物没有。",
+      "vi": "Quầy cá khô bán buôn sau chợ cá — tìm qua blog chợ Naver, không phải mua sắm Google.",
+      "id": "Kios ikan kering grosir di belakang pasar ikan — ditemukan lewat blog pasar Naver, bukan belanja Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "chungnam",
+      "city": "gongju",
+      "district": "ungjin"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Gongju Gukhwajeong Rice Cake Shop Row",
+      "ja": "公州菊亭餅店通り",
+      "zh": "公州菊亭糕店街",
+      "vi": "Dãy tiệm bánh gạo Gukhwajeong Gongju",
+      "id": "Deretan Toko Kue Beras Gukhwajeong Gongju"
+    },
+    "address": {
+      "en": "Ungjin-dong, Gongju",
+      "ja": "公州市 熊津洞",
+      "zh": "公州市熊津洞",
+      "vi": "Ungjin-dong, Gongju",
+      "id": "Ungjin-dong, Gongju"
+    },
+    "description": {
+      "en": "Centuries-old rice cake shops on a quiet lane — Naver food heritage posts, not Google bakeries.",
+      "ja": "静かな路地の何世代も続く餅屋。ネイバー食文化遺産記事に載るが、Googleベーカリーにはない。",
+      "zh": "安静巷弄里传承数代的糕饼店，Naver 食文化遗产帖，Google 面包店没有。",
+      "vi": "Tiệm bánh gạo nhiều đời trên ngõ yên tĩnh — bài di sản ẩm thực Naver, không phải tiệm bánh Google.",
+      "id": "Toko kue beras turun-temurun di gang tenang — posting warisan kuliner Naver, bukan bakery Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "chungnam",
+      "city": "dangjin",
+      "district": "sinjang"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Dangjin Port Fishermen Documentary Pier",
+      "ja": "唐津港漁師ドキュメンタリー桟橋",
+      "zh": "唐津港渔民纪录片码头",
+      "vi": "Bến tài liệu ngư dân Cảng Dangjin",
+      "id": "Dermaga Dokumenter Nelayan Pelabuhan Dangjin"
+    },
+    "address": {
+      "en": "Sinjang-dong, Dangjin",
+      "ja": "唐津市 新昌洞",
+      "zh": "唐津市新昌洞",
+      "vi": "Sinjang-dong, Dangjin",
+      "id": "Sinjang-dong, Dangjin"
+    },
+    "description": {
+      "en": "Pier where indie docs film sunrise hauls — location tips on Naver film clubs, not Google harbors.",
+      "ja": "インディーズドキュメンタリーが朝の漁を撮る桟橋。場所の情報はネイバー映画クラブ、Google港にはない。",
+      "zh": "独立纪录片拍摄清晨渔获的码头，位置信息在 Naver 电影俱乐部，Google 港口没有。",
+      "vi": "Bến quay tài liệu độc lập về mẻ cá bình minh — mẹo địa điểm trên club phim Naver, không phải cảng Google.",
+      "id": "Dermaga syuting dokumenter indie tangkapan fajar — tips lokasi di klub film Naver, bukan pelabuhan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "chungnam",
+      "city": "buyeo",
+      "district": "gungnam"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Buyeo Baekje Drama Village Backlot",
+      "ja": "扶余百済ドラマ村裏セット",
+      "zh": "扶余百济剧集村后台",
+      "vi": "Backlot làng drama Baekje Buyeo",
+      "id": "Backlot Desa Drama Baekje Buyeo"
+    },
+    "address": {
+      "en": "Gungnam-myeon, Buyeo",
+      "ja": "扶余郡 宮南면",
+      "zh": "扶余郡宫南面",
+      "vi": "Gungnam-myeon, Buyeo",
+      "id": "Gungnam-myeon, Buyeo"
+    },
+    "description": {
+      "en": "Replica village corners used for cable sageuk — scouted via Naver drama blogs, not Google sets.",
+      "ja": "ケーブル史劇のロケに使われる復元村の角。ネイバードラマブログで探すが、Googleセットにはない。",
+      "zh": "有线历史剧取景的复原村角落，通过 Naver 剧集博客踩点，不在 Google 片场。",
+      "vi": "Góc làng phục nguyên quay sageuk cáp — khảo sát qua blog drama Naver, không phải set Google.",
+      "id": "Sudut desa replika untuk sageuk kabel — disurvei lewat blog drama Naver, bukan set Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "chungnam",
+      "city": "nonsan",
+      "district": "nonsan-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Nonsan Army Training Camp Drama Hill",
+      "ja": "論山訓練所ドラマの丘",
+      "zh": "论山训练所剧集山丘",
+      "vi": "Đồi drama trại huấn luyện Nonsan",
+      "id": "Bukit Drama Kamp Pelatihan Nonsan"
+    },
+    "address": {
+      "en": "Nonsan-si, Chungnam",
+      "ja": "論山市",
+      "zh": "论山市",
+      "vi": "Nonsan-si, Chungnam",
+      "id": "Nonsan-si, Chungnam"
+    },
+    "description": {
+      "en": "Hillside used in military-themed web dramas — tagged on Naver location threads, not Google bases.",
+      "ja": "軍テーマウェブドラマのロケ地になった丘。ネイバーロケ地スレにタグ、Google基地にはない。",
+      "zh": "军事题材网络剧取景的山丘，标在 Naver 取景帖，Google 基地没有。",
+      "vi": "Đồi quay web-drama chủ đề quân sự — gắn thẻ thread địa điểm Naver, không phải căn cứ Google.",
+      "id": "Bukit lokasi web-drama bertema militer — ditag di thread lokasi Naver, bukan pangkalan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "chungnam",
+      "city": "taean",
+      "district": "mallipo"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Taean West Coast Indie Film Beach",
+      "ja": "泰安西海岸インディー映画ビーチ",
+      "zh": "泰安西海岸独立电影海滩",
+      "vi": "Bãi biển phim indie bờ tây Taean",
+      "id": "Pantai Film Indie Pantai Barat Taean"
+    },
+    "address": {
+      "en": "Mallipo-myeon, Taean",
+      "ja": "泰安郡 万里浦面",
+      "zh": "泰安郡万里浦面",
+      "vi": "Mallipo-myeon, Taean",
+      "id": "Mallipo-myeon, Taean"
+    },
+    "description": {
+      "en": "Quiet beach where film students shoot shorts — coordinates on Naver film school blogs, not Google beaches.",
+      "ja": "映画学生がショートを撮る静かな海岸。座標はネイバー映画学校ブログ、Googleビーチにはない。",
+      "zh": "电影学生拍短片的安静海岸，坐标在 Naver 电影学院博客，Google 海滩没有。",
+      "vi": "Bãi biển yên tĩnh sinh viên điện ảnh quay phim ngắn — tọa độ trên blog trường phim Naver, không phải bãi Google.",
+      "id": "Pantai tenang tempat mahasiswa film syuting pendek — koordinat di blog sekolah film Naver, bukan pantai Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "chungnam",
+      "city": "cheonan",
+      "district": "seongjeong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Cheonan Jjimjilbang Scrub Alley",
+      "ja": "天安ジムジルバンスクラブ路地",
+      "zh": "天安汗蒸去角质巷",
+      "vi": "Hẻm scrub jjimjilbang Cheonan",
+      "id": "Gang Scrub Jjimjilbang Cheonan"
+    },
+    "address": {
+      "en": "Seongjeong-dong, Seobuk-gu, Cheonan",
+      "ja": "天安市 西北区 城政洞",
+      "zh": "天安市西北区城政洞",
+      "vi": "Seongjeong-dong, Seobuk-gu, Cheonan",
+      "id": "Seongjeong-dong, Seobuk-gu, Cheonan"
+    },
+    "description": {
+      "en": "Traditional scrub masters in a jjimjilbang row — booked via Naver Talk, not Google spa finders.",
+      "ja": "ジムジルバン通りの伝統スクラブ名人。ネイバートーク予約が中心、Googleスパ検索にはない。",
+      "zh": "汗蒸街传统搓澡师傅，通过 Naver Talk 预约，Google Spa 搜索没有。",
+      "vi": "Thợ scrub truyền thống trên phố jjimjilbang — đặt qua Naver Talk, không phải tìm spa Google.",
+      "id": "Master scrub tradisional di deretan jjimjilbang — dipesan lewat Naver Talk, bukan pencari spa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "chungnam",
+      "city": "asan",
+      "district": "onyang"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Onyang Hot Spring Rice Bran Facial",
+      "ja": "温阳温泉米ぬかフェイシャル",
+      "zh": "温阳温泉米糠面部护理",
+      "vi": "Facial cám gạo suối nước nóng Onyang",
+      "id": "Facial Bekas Beras Pemandian Onyang"
+    },
+    "address": {
+      "en": "Oncheon-dong, Asan",
+      "ja": "牙山市 温泉洞",
+      "zh": "牙山市温泉洞",
+      "vi": "Oncheon-dong, Asan",
+      "id": "Oncheon-dong, Asan"
+    },
+    "description": {
+      "en": "Rice-bran facials beside century-old onsen inns — reviewed on Naver wellness blogs, not Google.",
+      "ja": "百年温泉旅館横の米ぬかフェイシャル。ネイバーウェルネスブログで評価、Googleにはない。",
+      "zh": "百年温泉旅馆旁的米糠面部护理，Naver 养生博客有评价，Google 没有。",
+      "vi": "Facial cám gạo cạnh ryokan onsen trăm năm — review trên blog wellness Naver, không trên Google.",
+      "id": "Facial bekas beras di samping penginapan onsen berabad-abad — diulas blog wellness Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "chungnam",
+      "city": "geumsan",
+      "district": "geumsan-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Geumsan Ginseng Essence Skin Bar",
+      "ja": "錦山人蔘エッセンス肌バー",
+      "zh": "锦山人参精华护肤吧",
+      "vi": "Quầy da tinh chất nhân sâm Geumsan",
+      "id": "Bar Kulit Esensi Ginseng Geumsan"
+    },
+    "address": {
+      "en": "Geumsan-eup, Geumsan",
+      "ja": "錦山郡 錦山邑",
+      "zh": "锦山郡锦山邑",
+      "vi": "Geumsan-eup, Geumsan",
+      "id": "Geumsan-eup, Geumsan"
+    },
+    "description": {
+      "en": "Fresh ginseng serums mixed at the market corner — Naver beauty bloggers rave; Google has no storefront.",
+      "ja": "市場の角で作る生人参美容液。ネイバービューティーブロガーが絶賛、Google店舗なし。",
+      "zh": "市场角落现调鲜人参精华液，Naver 美妆博主盛赞，Google 无店面。",
+      "vi": "Serum nhân sâm tươi pha ở góc chợ — blogger làm đẹp Naver khen nức nở; Google không có cửa hàng.",
+      "id": "Serum ginseng segar dicampur di sudut pasar — blogger kecantikan Naver memuji; Google tanpa toko."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "chungnam",
+      "city": "seocheon",
+      "district": "seocheon-eup"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Seocheon Salt Flat Mineral Foot Spa",
+      "ja": "舒川塩田ミネラル足スパ",
+      "zh": "舒川盐田矿物足浴",
+      "vi": "Spa chân khoáng ruộng muối Seocheon",
+      "id": "Spa Kaki Mineral Tambak Garam Seocheon"
+    },
+    "address": {
+      "en": "Seocheon-eup, Seocheon",
+      "ja": "舒川郡 舒川邑",
+      "zh": "舒川郡舒川邑",
+      "vi": "Seocheon-eup, Seocheon",
+      "id": "Seocheon-eup, Seocheon"
+    },
+    "description": {
+      "en": "Foot soaks using tidal-flat minerals — walk-ins via Naver Map pins, not Google wellness listings.",
+      "ja": "干潟ミネラルで足湯。ネイバーマップのピンで見つかるが、Googleウェルネスリストにはない。",
+      "zh": "用滩涂矿物质足浴，靠 Naver 地图标记找到，不在 Google 健康列表。",
+      "vi": "Ngâm chân khoáng bãi bồi — tìm qua ghim Naver Map, không có trong danh sách wellness Google.",
+      "id": "Rendam kaki mineral tambak garam — lewat pin Naver Map, tidak ada di daftar wellness Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "chungnam",
+      "city": "gongju",
+      "district": "ungjin"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gongju Magoksa Temple Craft Fair",
+      "ja": "公州麻谷寺手工芸市",
+      "zh": "公州麻谷寺手工艺市集",
+      "vi": "Hội chợ thủ công chùa Magoksa Gongju",
+      "id": "Pasar Kerajinan Kuil Magoksa Gongju"
+    },
+    "address": {
+      "en": "Ungjin-dong, Gongju",
+      "ja": "公州市 熊津洞",
+      "zh": "公州市熊津洞",
+      "vi": "Ungjin-dong, Gongju",
+      "id": "Ungjin-dong, Gongju"
+    },
+    "description": {
+      "en": "Monthly temple craft fair with woodblock prints — dates on Naver temple blogs, not Google events.",
+      "ja": "木版画などの月例寺手工芸市。日程はネイバー寺院ブログ、Googleイベントにはない。",
+      "zh": "木版画等月度寺庙手工艺市集，日期在 Naver 寺院博客，不在 Google 活动。",
+      "vi": "Hội chợ thủ công chùa hàng tháng với khắc gỗ — ngày trên blog chùa Naver, không phải sự kiện Google.",
+      "id": "Pasar kerajinan kuil bulanan dengan cetak kayu — tanggal di blog kuil Naver, bukan acara Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "chungnam",
+      "city": "buyeo",
+      "district": "dongnam"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Buyeo Lotus Lantern Workshop",
+      "ja": "扶余蓮花灯籠工房",
+      "zh": "扶余莲花灯笼工坊",
+      "vi": "Xưởng đèn lồng sen Buyeo",
+      "id": "Workshop Lampion Teratai Buyeo"
+    },
+    "address": {
+      "en": "Dongnam-ri, Buyeo",
+      "ja": "扶余郡 東南里",
+      "zh": "扶余郡东南里",
+      "vi": "Dongnam-ri, Buyeo",
+      "id": "Dongnam-ri, Buyeo"
+    },
+    "description": {
+      "en": "Lotus lantern making beside Baekje relic fields — classes listed on Naver culture blogs, not Google.",
+      "ja": "百済遺跡横の蓮花灯籠作り体験。受講情報はネイバー文化ブログ、Googleにはない。",
+      "zh": "百济遗迹旁莲花灯笼制作体验，课程信息在 Naver 文化博客，Google 没有。",
+      "vi": "Làm đèn lồng sen cạnh di tích Baekje — lớp học trên blog văn hóa Naver, không trên Google.",
+      "id": "Membuat lampion teratai di samping relik Baekje — kelas di blog budaya Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "chungnam",
+      "city": "dangjin",
+      "district": "songak"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Dangjin Salt Farm Heritage Walk",
+      "ja": "唐津塩田遺産ウォーク",
+      "zh": "唐津盐田遗产漫步",
+      "vi": "Đi bộ di sản ruộng muối Dangjin",
+      "id": "Jalan Warisan Tambak Garam Dangjin"
+    },
+    "address": {
+      "en": "Songak-myeon, Dangjin",
+      "ja": "唐津市 松岘面",
+      "zh": "唐津市松岘面",
+      "vi": "Songak-myeon, Dangjin",
+      "id": "Songak-myeon, Dangjin"
+    },
+    "description": {
+      "en": "Guided walks through active salt pans — sign-up on Naver local tour posts, not Google experiences.",
+      "ja": "現役塩田を巡るガイド付き散策。ネイバー地元ツアー記事で申込、Google体験にはない。",
+      "zh": "穿越活跃盐田的导览漫步，在 Naver 本地游帖报名，不在 Google 体验。",
+      "vi": "Đi bộ có hướng dẫn qua ruộng muối đang hoạt động — đăng ký trên bài tour địa phương Naver, không phải trải nghiệm Google.",
+      "id": "Jalan terpandu melewati tambak garam aktif — daftar di posting tur lokal Naver, bukan pengalaman Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "chungnam",
+      "city": "nonsan",
+      "district": "nonsan-si"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Nonsan Straw Shoe Weaving Shed",
+      "ja": "論山わらじ編み小屋",
+      "zh": "论山草鞋编织小屋",
+      "vi": "Lều đan dép rơm Nonsan",
+      "id": "Gubuk Anyaman Sandal Jerami Nonsan"
+    },
+    "address": {
+      "en": "Nonsan-si, Chungnam",
+      "ja": "論山市",
+      "zh": "论山市",
+      "vi": "Nonsan-si, Chungnam",
+      "id": "Nonsan-si, Chungnam"
+    },
+    "description": {
+      "en": "Elder artisans teach straw sandal weaving — workshop links on Naver folk craft groups, not Google.",
+      "ja": "わらじ編みを教える職人の小屋。工房リンクはネイバー民俗工芸グループ、Googleにはない。",
+      "zh": "长辈匠人教授草鞋编织的小屋，工坊链接在 Naver 民俗工艺群，Google 没有。",
+      "vi": "Nghệ nhân cao tuổi dạy đan dép rơm — link xưởng trên nhóm thủ công dân gian Naver, không trên Google.",
+      "id": "Pengrajin senior mengajar anyaman sandal jerami — link workshop di grup kerajinan rakyat Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungnam",
+      "city": "taean",
+      "district": "mallipo"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Halli Beach Dune Morning Trail",
+      "ja": "万里浦砂丘朝のトレイル",
+      "zh": "万里浦沙丘晨间步道",
+      "vi": "Đường sáng cồn cát bãi Halli",
+      "id": "Jalur Pagi Bukit Pasir Pantai Halli"
+    },
+    "address": {
+      "en": "Mallipo-myeon, Taean",
+      "ja": "泰安郡 万里浦面",
+      "zh": "泰安郡万里浦面",
+      "vi": "Mallipo-myeon, Taean",
+      "id": "Mallipo-myeon, Taean"
+    },
+    "description": {
+      "en": "Wind-sculpted dunes locals jog before tourists arrive — route on Naver running blogs, not Google trails.",
+      "ja": "観光客前に地元民が走る風紋の砂丘。ルートはネイバーランニングブログ、Googleトレイルにはない。",
+      "zh": "游客到来前本地人慢跑的风纹沙丘，路线在 Naver 跑步博客，Google 步道没有。",
+      "vi": "Cồn cát gió xói dân địa phương chạy trước du khách — lộ trình trên blog chạy Naver, không phải đường mòn Google.",
+      "id": "Bukit pasir terbentuk angin tempat warga joging sebelum turis datang — rute di blog lari Naver, bukan jalur Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungnam",
+      "city": "seosan",
+      "district": "palbong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Ganwolam Tidal Flat Bird Walk",
+      "ja": "間月庵干潟バードウォッチ",
+      "zh": "间月庵滩涂观鸟步道",
+      "vi": "Đi bộ ngắm chim bãi bồi Ganwolam",
+      "id": "Jalan Birdwatching Tambak Ganwolam"
+    },
+    "address": {
+      "en": "Palbong-myeon, Seosan",
+      "ja": "瑞山市 八峰面",
+      "zh": "瑞山市八峰面",
+      "vi": "Palbong-myeon, Seosan",
+      "id": "Palbong-myeon, Seosan"
+    },
+    "description": {
+      "en": "Mudflat path beside a hermitage at low tide — bird lists on Naver nature blogs, not Google reserves.",
+      "ja": "干潮時の庵横の干潟道。鳥リストはネイバー自然ブログ、Google保護区にはない。",
+      "zh": "退潮时庵旁的滩涂道，鸟类清单在 Naver 自然博客，Google 保护区没有。",
+      "vi": "Đường bãi bồi cạnh am cửa thủy triều — danh sách chim trên blog thiên nhiên Naver, không phải khu bảo tồn Google.",
+      "id": "Jalur tambak di samping pertapaan saat air surut — daftar burung di blog alam Naver, bukan cagar alam Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungnam",
+      "city": "geumsan",
+      "district": "geumsan-eup"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Ginseng Field Ridge Sunset Walk",
+      "ja": "人参畑尾根夕日散策",
+      "zh": "人参田山脊日落漫步",
+      "vi": "Đi bộ hoàng hôn đồi ruộng nhân sâm",
+      "id": "Jalan Matahari Terbenam Punggung Ladang Ginseng"
+    },
+    "address": {
+      "en": "Geumsan-eup, Geumsan",
+      "ja": "錦山郡 錦山邑",
+      "zh": "锦山郡锦山邑",
+      "vi": "Geumsan-eup, Geumsan",
+      "id": "Geumsan-eup, Geumsan"
+    },
+    "description": {
+      "en": "Ridge paths between ginseng shade tents at dusk — photos on Naver rural blogs, not Google farms.",
+      "ja": "夕暮れの人参遮光ネット間を抜ける尾根道。写真はネイバー農村ブログ、Google農場にはない。",
+      "zh": "黄昏穿越人参遮阳网间的山脊道，照片在 Naver 乡村博客，Google 农场没有。",
+      "vi": "Đường đồi giữa lưới che nhân sâm lúc hoàng hôn — ảnh trên blog nông thôn Naver, không phải trang trại Google.",
+      "id": "Jalur punggung di antara tenda naungan ginseng saat senja — foto di blog pedesaan Naver, bukan peternakan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungnam",
+      "city": "seocheon",
+      "district": "seocheon-eup"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Seocheon Reed Marsh Boardwalk",
+      "ja": "舒川葦湿地木道",
+      "zh": "舒川芦苇湿地木栈道",
+      "vi": "Ván sàn đầm lau sậy Seocheon",
+      "id": "Boardwalk Rawa Alang-alang Seocheon"
+    },
+    "address": {
+      "en": "Seocheon-eup, Seocheon",
+      "ja": "舒川郡 舒川邑",
+      "zh": "舒川郡舒川邑",
+      "vi": "Seocheon-eup, Seocheon",
+      "id": "Seocheon-eup, Seocheon"
+    },
+    "description": {
+      "en": "Short reed marsh walk with firefly season tips — pinned on Naver ecology blogs, not Google wetlands.",
+      "ja": "ホタルシーズンのヒント付き短い葦湿地の木道。ネイバー生态ブログにピン、Google湿地にはない。",
+      "zh": "附带萤火虫季节贴士的短芦苇湿地木栈道，标在 Naver 生态博客，Google 湿地没有。",
+      "vi": "Ván sàn đầm lau ngắn kèm mẹo mùa đom đóm — ghim trên blog sinh thái Naver, không phải đầm lầy Google.",
+      "id": "Boardwalk rawa alang-alang pendek dengan tips musim kunang-kunang — disematkan di blog ekologi Naver, bukan lahan basah Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonbuk",
+      "city": "gunsan",
+      "district": "haemang"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Gunsan Modern History Red Bean Porridge Alley",
+      "ja": "群山近代史小豆粥横丁",
+      "zh": "群山近代史红豆粥巷",
+      "vi": "Hẻm cháo đậu đỏ lịch sử hiện đại Gunsan",
+      "id": "Gang Bubur Kacang Merah Sejarah Modern Gunsan"
+    },
+    "address": {
+      "en": "Haemang-dong, Gunsan",
+      "ja": "群山市 海港洞",
+      "zh": "群山市海港洞",
+      "vi": "Haemang-dong, Gunsan",
+      "id": "Haemang-dong, Gunsan"
+    },
+    "description": {
+      "en": "Red-bean porridge shops in old Japanese-era alleys — Naver local history food blogs, not Google guides.",
+      "ja": "日帝時代の路地にある小豆粥店。ネイバー地域史グルメブログに載るが、Googleガイドにはない。",
+      "zh": "日据时期巷弄里的红豆粥店，出现在 Naver 地方史美食博客，不在 Google 指南。",
+      "vi": "Quán cháo đậu đỏ trong hẻm thời Nhật — blog ẩm thực lịch sử địa phương Naver, không phải hướng dẫn Google.",
+      "id": "Warung bubur kacang merah di gang era Jepang — blog makanan sejarah lokal Naver, bukan panduan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonbuk",
+      "city": "iksan",
+      "district": "wanggung"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Iksan Wanggung Bibimbap Corner",
+      "ja": "益山王宮ビビンパ角",
+      "zh": "益山王宫拌饭角",
+      "vi": "Góc bibimbap Wanggung Iksan",
+      "id": "Sudut Bibimbap Wanggung Iksan"
+    },
+    "address": {
+      "en": "Wanggung-myeon, Iksan",
+      "ja": "益山市 王宫面",
+      "zh": "益山市王宫面",
+      "vi": "Wanggung-myeon, Iksan",
+      "id": "Wanggung-myeon, Iksan"
+    },
+    "description": {
+      "en": "Farmhouse bibimbap near Baekje palace ruins — discovered on Naver rural food threads, not Google.",
+      "ja": "百済王宮遺跡近くの農家ビビンパ。ネイバー田舎グルメスレで発見、Googleにはない。",
+      "zh": "百济王宫遗迹附近的农家拌饭，在 Naver 乡村美食帖发现，Google 没有。",
+      "vi": "Bibimbap nông trại gần di tích cung Baekje — tìm thấy trên thread ẩm thực nông thôn Naver, không trên Google.",
+      "id": "Bibimbap rumah pertanian dekat reruntuhan istana Baekje — ditemukan di thread makanan pedesaan Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeongeup",
+      "district": "jeongeup-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jeongeup Naejangsan Mushroom Stew House",
+      "ja": "井邑内장산きのこ鍋家",
+      "zh": "井邑内藏山蘑菇锅家",
+      "vi": "Quán lẩu nấm Naejangsan Jeongeup",
+      "id": "Rumah Rebus Jamur Naejangsan Jeongeup"
+    },
+    "address": {
+      "en": "Jeongeup-si, Jeonbuk",
+      "ja": "井邑市",
+      "zh": "井邑市",
+      "vi": "Jeongeup-si, Jeonbuk",
+      "id": "Jeongeup-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Mountain mushroom stews for temple hikers — pinned on Naver hiking food blogs, not Google restaurants.",
+      "ja": "登山者向け山きのこ鍋。ネイバー登山グルメブログにピン、Googleレストランにはない。",
+      "zh": "给登山者的山蘑菇锅，标在 Naver 登山美食博客，Google 餐厅没有。",
+      "vi": "Lẩu nấm núi cho người leo chùa — ghim trên blog ẩm thực leo núi Naver, không phải nhà hàng Google.",
+      "id": "Rebusan jamur gunung untuk pendaki kuil — disematkan di blog makanan hiking Naver, bukan restoran Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonbuk",
+      "city": "namwon",
+      "district": "namwon-si"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Namwon Chunhyang Gukbap Backstreet",
+      "ja": "南原春香肉汁飯裏通り",
+      "zh": "南原春香汤饭后街",
+      "vi": "Ngõ gukbap Chunhyang Namwon",
+      "id": "Gang Belakang Gukbap Chunhyang Namwon"
+    },
+    "address": {
+      "en": "Namwon-si, Jeonbuk",
+      "ja": "南原市",
+      "zh": "南原市",
+      "vi": "Namwon-si, Jeonbuk",
+      "id": "Namwon-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Locals skip tourist strips for this gukbap backstreet — Naver Map ratings only, not Google lists.",
+      "ja": "観光客向け通りを避け地元民が通う국밥裏通り。ネイバーマップ評価のみ、Googleリストにはない。",
+      "zh": "本地人避开观光街走这条汤饭后街，只有 Naver 地图评分，Google 列表没有。",
+      "vi": "Dân địa phương bỏ phố du lịch để đến ngõ gukbap này — chỉ đánh giá Naver Map, không có danh sách Google.",
+      "id": "Warga menghindari jalan wisata untuk gang gukbap ini — hanya rating Naver Map, bukan daftar Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "seohak"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Jeonju Seohak-dong Indie Film Alley",
+      "ja": "全州西学洞インディー映画路地",
+      "zh": "全州西学洞独立电影巷",
+      "vi": "Hẻm phim indie Seohak-dong Jeonju",
+      "id": "Gang Film Indie Seohak-dong Jeonju"
+    },
+    "address": {
+      "en": "Seohak-dong, Wansan-gu, Jeonju",
+      "ja": "全州市 完山区 西学洞",
+      "zh": "全州市完山区西学洞",
+      "vi": "Seohak-dong, Wansan-gu, Jeonju",
+      "id": "Seohak-dong, Wansan-gu, Jeonju"
+    },
+    "description": {
+      "en": "Micro-cinemas and film student hangouts off the hanok strip — listed on Naver film blogs, not Google cinemas.",
+      "ja": "韓屋通りから外れた学生映画のたまり場。ネイバー映画ブログに載るが、Google映画館にはない。",
+      "zh": "韩屋街外的学生电影据点，列在 Naver 电影博客，Google 影院没有。",
+      "vi": "Rạp vi mô và chỗ tụ họp sinh viên phim ngoài phố hanok — có trên blog phim Naver, không phải rạp Google.",
+      "id": "Bioskop mikro dan tempat nongkrong mahasiswa film di luar jalan hanok — ada di blog film Naver, bukan bioskop Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonbuk",
+      "city": "gunsan",
+      "district": "haemang"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Gunsan Japanese House Drama Location",
+      "ja": "群山日本家屋ドラマロケ地",
+      "zh": "群山日式房屋剧集取景地",
+      "vi": "Địa điểm drama nhà kiểu Nhật Gunsan",
+      "id": "Lokasi Drama Rumah Jepang Gunsan"
+    },
+    "address": {
+      "en": "Haemang-dong, Gunsan",
+      "ja": "群山市 海港洞",
+      "zh": "群山市海港洞",
+      "vi": "Haemang-dong, Gunsan",
+      "id": "Haemang-dong, Gunsan"
+    },
+    "description": {
+      "en": "Colonial-era houses used in period web dramas — location maps on Naver drama cafés, not Google.",
+      "ja": "時代劇ウェブドラマのロケに使われる殖民期家屋。地図はネイバードラマカフェ、Googleにはない。",
+      "zh": "时代剧网络剧取景的殖民时期房屋，地图在 Naver 剧集咖啡馆，Google 没有。",
+      "vi": "Nhà thời thuộc địa dùng quay web-drama cổ trang — bản đồ trên cafe drama Naver, không trên Google.",
+      "id": "Rumah era kolonial untuk web-drama period — peta di kafe drama Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonbuk",
+      "city": "buan",
+      "district": "buan-gun"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Buan Byeonsan Indie Music Video Cliff",
+      "ja": "扶安変산インディーMV崖",
+      "zh": "扶安边山独立 MV 悬崖",
+      "vi": "Vách đá MV nhạc indie Byeonsan Buan",
+      "id": "Tebing MV Musik Indie Byeonsan Buan"
+    },
+    "address": {
+      "en": "Buan-gun, Jeonbuk",
+      "ja": "扶安郡",
+      "zh": "扶安郡",
+      "vi": "Buan-gun, Jeonbuk",
+      "id": "Buan-gun, Jeonbuk"
+    },
+    "description": {
+      "en": "Cliff overlook where indie bands shoot MVs at sunset — coords on Naver music blogs, not Google scenic spots.",
+      "ja": "インディーバンドが夕日MVを撮る崖。座標はネイバー音楽ブログ、Google絶景スポットではない。",
+      "zh": "独立乐队拍日落 MV 的悬崖，坐标在 Naver 音乐博客，不是 Google 风景名胜。",
+      "vi": "Vách ngắm hoàng hôn nơi ban nhạc indie quay MV — tọa độ trên blog nhạc Naver, không phải điểm cảnh Google.",
+      "id": "Tebing pemandangan senja tempat band indie syuting MV — koordinat di blog musik Naver, bukan spot pemandangan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonbuk",
+      "city": "sunchang",
+      "district": "sunchang-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Sunchang Gochujang Village Variety Set",
+      "ja": "淳昌コチュジャン村バラエティセット",
+      "zh": "淳昌辣椒酱村综艺布景",
+      "vi": "Set variety làng gochujang Sunchang",
+      "id": "Set Variety Desa Gochujang Sunchang"
+    },
+    "address": {
+      "en": "Sunchang-eup, Sunchang",
+      "ja": "淳昌郡 淳昌邑",
+      "zh": "淳昌郡淳昌邑",
+      "vi": "Sunchang-eup, Sunchang",
+      "id": "Sunchang-eup, Sunchang"
+    },
+    "description": {
+      "en": "Fermentation yards featured in rural variety shows — open days on Naver TV blogs, not Google studios.",
+      "ja": "農村バラエティに登場する発酵ヤード。公開日はネイバーTVブログ、Googleスタジオにはない。",
+      "zh": "乡村综艺出现的发酵场，开放日在 Naver TV 博客，不在 Google 摄影棚。",
+      "vi": "Sân lên men xuất hiện trong show variety nông thôn — ngày mở trên blog TV Naver, không phải studio Google.",
+      "id": "Halaman fermentasi yang tampil di variety show pedesaan — hari buka di blog TV Naver, bukan studio Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "pungnam"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Jeonju Hanji Sheet Mask Workshop",
+      "ja": "全州韓紙シートマスク工房",
+      "zh": "全州韩纸面膜工坊",
+      "vi": "Xưởng mặt nạ giấy hanji Jeonju",
+      "id": "Workshop Sheet Mask Hanji Jeonju"
+    },
+    "address": {
+      "en": "Pungnam-dong, Wansan-gu, Jeonju",
+      "ja": "全州市 完山区 豊南洞",
+      "zh": "全州市完山区丰南洞",
+      "vi": "Pungnam-dong, Wansan-gu, Jeonju",
+      "id": "Pungnam-dong, Wansan-gu, Jeonju"
+    },
+    "description": {
+      "en": "Hanji fiber sheet masks pressed by hand — workshops booked via Naver blogs, not Google spas.",
+      "ja": "手押し韓紙シートマスクの工房。ネイバーブログで予約、Googleスパにはない。",
+      "zh": "手压韩纸纤维面膜工坊，通过 Naver 博客预约，Google Spa 没有。",
+      "vi": "Mặt nạ giấy sợi hanji ép tay — workshop đặt qua blog Naver, không phải spa Google.",
+      "id": "Sheet mask serat hanji ditekan tangan — workshop dipesan lewat blog Naver, bukan spa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonbuk",
+      "city": "iksan",
+      "district": "wanggung"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Iksan Baekje Clay Facial Studio",
+      "ja": "益山百済粘土フェイシャル",
+      "zh": "益山百济粘土面部护理",
+      "vi": "Studio facial đất sét Baekje Iksan",
+      "id": "Studio Facial Tanah Liat Baekje Iksan"
+    },
+    "address": {
+      "en": "Wanggung-myeon, Iksan",
+      "ja": "益山市 王宫面",
+      "zh": "益山市王宫面",
+      "vi": "Wanggung-myeon, Iksan",
+      "id": "Wanggung-myeon, Iksan"
+    },
+    "description": {
+      "en": "Clay masks using local Baekje-era soil blends — reviewed on Naver beauty threads, not Google.",
+      "ja": "百済時代の土をブレンドした粘土パック。ネイバービューティースレで評価、Googleにはない。",
+      "zh": "混合百济时代土壤的粘土面膜，在 Naver 美妆帖有评价，Google 没有。",
+      "vi": "Mặt nạ đất sét pha đất thời Baekje — review trên thread làm đẹp Naver, không trên Google.",
+      "id": "Masker tanah liat campuran tanah era Baekje — diulas di thread kecantikan Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonbuk",
+      "city": "gimje",
+      "district": "gimje-si"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Gimje Plain Rice Bran Skin Bar",
+      "ja": "金堤平野米ぬか肌バー",
+      "zh": "金堤平原米糠护肤吧",
+      "vi": "Quầy da cám gạo đồng bằng Gimje",
+      "id": "Bar Kulit Bekas Beras Dataran Gimje"
+    },
+    "address": {
+      "en": "Gimje-si, Jeonbuk",
+      "ja": "金堤市",
+      "zh": "金堤市",
+      "vi": "Gimje-si, Jeonbuk",
+      "id": "Gimje-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Rice-bran exfoliation bars beside harvest fields — walk-ins via Naver Map, not Google beauty apps.",
+      "ja": "収穫畑横の米ぬか角質ケアバー。ネイバーマップで見つかるが、Googleビューティーアプリにはない。",
+      "zh": "收割田旁的米糠去角质吧，通过 Naver 地图找到，Google 美妆应用没有。",
+      "vi": "Quầy tẩy tế bào chết cám gạo cạnh ruộng gặt — tìm qua Naver Map, không phải app làm đẹp Google.",
+      "id": "Bar eksfoliasi bekas beras di samping ladang panen — lewat Naver Map, bukan app kecantikan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonbuk",
+      "city": "imsil",
+      "district": "imsil-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Imsil Cheese Byproduct Skin Cream Lab",
+      "ja": "任実チーズ副産物クリームラボ",
+      "zh": "任实奶酪副产品护肤实验室",
+      "vi": "Lab kem da phụ phẩm phô mai Imsil",
+      "id": "Lab Krim Kulit Byproduk Keju Imsil"
+    },
+    "address": {
+      "en": "Imsil-eup, Imsil",
+      "ja": "任実郡 任実邑",
+      "zh": "任实郡任实邑",
+      "vi": "Imsil-eup, Imsil",
+      "id": "Imsil-eup, Imsil"
+    },
+    "description": {
+      "en": "Whey-based creams from village cheese co-ops — Naver dairy beauty bloggers feature it; Google ignores it.",
+      "ja": "村のチーズ協同組合の乳清クリーム。ネイバーダイアリービューティーブロガーが紹介、Googleは無視。",
+      "zh": "村庄奶酪合作社的乳清护肤霜，Naver 乳品美妆博主推荐，Google 忽略。",
+      "vi": "Kem từ whey hợp tác xã phô mai làng — blogger làm đẹp sữa Naver giới thiệu; Google bỏ qua.",
+      "id": "Krim whey dari koperasi keju desa — blogger kecantikan dairy Naver menampilkan; Google mengabaikan."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonbuk",
+      "city": "namwon",
+      "district": "namwon-si"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Namwon Gwanghallu Moonlight Poetry Night",
+      "ja": "南原広寒楼月夜詩の会",
+      "zh": "南原广寒楼月夜诗会",
+      "vi": "Đêm thơ trăng Gwanghallu Namwon",
+      "id": "Malam Puisi Bulan Gwanghallu Namwon"
+    },
+    "address": {
+      "en": "Namwon-si, Jeonbuk",
+      "ja": "南原市",
+      "zh": "南原市",
+      "vi": "Namwon-si, Jeonbuk",
+      "id": "Namwon-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Locals gather for moon-view poetry off the tourist pavilion — schedule on Naver culture cafés, not Google.",
+      "ja": "観光パビリオン外で地元民が集う月見の詩の会。日程はネイバー文化カフェ、Googleにはない。",
+      "zh": "观光亭外本地人聚会的赏月诗会，日程在 Naver 文化咖啡馆，Google 没有。",
+      "vi": "Dân địa phương tụ họp thơ ngắm trăng ngoài đình du lịch — lịch trên cafe văn hóa Naver, không trên Google.",
+      "id": "Warga berkumpul puisi bulan di luar paviliun wisata — jadwal di kafe budaya Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeongeup",
+      "district": "jeongeup-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Naejangsa Temple Bell Ringing Class",
+      "ja": "内藏寺梵鐘鳴らし体験",
+      "zh": "内藏寺敲钟体验",
+      "vi": "Lớp gõ chuông chùa Naejangsa",
+      "id": "Kelas Membunyikan Lonceng Kuil Naejangsa"
+    },
+    "address": {
+      "en": "Jeongeup-si, Jeonbuk",
+      "ja": "井邑市",
+      "zh": "井邑市",
+      "vi": "Jeongeup-si, Jeonbuk",
+      "id": "Jeongeup-si, Jeonbuk"
+    },
+    "description": {
+      "en": "Morning bell-ringing lessons with temple stay guests — sign-up via Naver temple blogs, not Google.",
+      "ja": "テンプルステイ参加者向けの朝の梵鐘体験。ネイバー寺院ブログで申込、Googleにはない。",
+      "zh": "寺庙寄宿者晨间敲钟体验，通过 Naver 寺院博客报名，Google 没有。",
+      "vi": "Học gõ chuông sáng với khách temple stay — đăng ký qua blog chùa Naver, không trên Google.",
+      "id": "Pelajaran membunyikan lonceng pagi untuk tamu temple stay — daftar lewat blog kuil Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonbuk",
+      "city": "buan",
+      "district": "buan-gun"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Buan Byeonsan Fishermen Folk Song Deck",
+      "ja": "扶安変山漁師民謡デッキ",
+      "zh": "扶安边山渔民民谣露台",
+      "vi": "Sàn dân ca ngư dân Byeonsan Buan",
+      "id": "Dek Lagu Rakyat Nelayan Byeonsan Buan"
+    },
+    "address": {
+      "en": "Buan-gun, Jeonbuk",
+      "ja": "扶安郡",
+      "zh": "扶安郡",
+      "vi": "Buan-gun, Jeonbuk",
+      "id": "Buan-gun, Jeonbuk"
+    },
+    "description": {
+      "en": "Fishermen sing minyo at dusk on a harbor deck — events posted on Naver folk culture blogs, not Google.",
+      "ja": "夕暮れの港デッキで漁師が民謡を歌う。イベントはネイバー民俗文化ブログ、Googleにはない。",
+      "zh": "黄昏渔港露台上渔民唱民谣，活动发在 Naver 民俗文化博客，Google 没有。",
+      "vi": "Ngư dân hát minyo lúc hoàng hôn trên sàn cảng — sự kiện đăng blog văn hóa dân gian Naver, không trên Google.",
+      "id": "Nelayan menyanyi minyo saat senja di dek pelabuhan — acara diposting blog budaya rakyat Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonbuk",
+      "city": "sunchang",
+      "district": "sunchang-eup"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Sunchang Gochujang Fermentation Yard Tour",
+      "ja": "淳昌コチュジャン発酵ヤード見学",
+      "zh": "淳昌辣椒酱发酵场参观",
+      "vi": "Tour sân lên men gochujang Sunchang",
+      "id": "Tur Halaman Fermentasi Gochujang Sunchang"
+    },
+    "address": {
+      "en": "Sunchang-eup, Sunchang",
+      "ja": "淳昌郡 淳昌邑",
+      "zh": "淳昌郡淳昌邑",
+      "vi": "Sunchang-eup, Sunchang",
+      "id": "Sunchang-eup, Sunchang"
+    },
+    "description": {
+      "en": "Family fermentation yards open one weekend a month — dates on Naver food heritage posts, not Google.",
+      "ja": "月一週末だけ開く家族の発酵ヤード。日程はネイバー食文化遺産記事、Googleにはない。",
+      "zh": "每月一个周末开放的家庭发酵场，日期在 Naver 食文化遗产帖，Google 没有。",
+      "vi": "Sân lên men gia đình mở một cuối tuần mỗi tháng — ngày trên bài di sản ẩm thực Naver, không trên Google.",
+      "id": "Halaman fermentasi keluarga buka satu akhir pekan per bulan — tanggal di posting warisan kuliner Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jinan",
+      "district": "jinan-gun"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Maisan Tapsa Ridge Prayer Flag Trail",
+      "ja": "マイサン塔寺祈祷旗尾根道",
+      "zh": "马耳山塔寺经幡山脊道",
+      "vi": "Đường cờ cầu nguyện đồi Tapsa Maisan",
+      "id": "Jalur Bendera Doa Punggung Tapsa Maisan"
+    },
+    "address": {
+      "en": "Jinan-gun, Jeonbuk",
+      "ja": "鎮安郡",
+      "zh": "镇安郡",
+      "vi": "Jinan-gun, Jeonbuk",
+      "id": "Jinan-gun, Jeonbuk"
+    },
+    "description": {
+      "en": "Ridge path with stone pagodas and prayer flags — route on Naver hiking blogs, not Google trail apps.",
+      "ja": "石塔と祈祷旗の尾根道。ルートはネイバー登山ブログ、Googleトレイルアプリにはない。",
+      "zh": "石塔与经幡的山脊道，路线在 Naver 登山博客，Google 步道应用没有。",
+      "vi": "Đường đồi với tháp đá và cờ cầu nguyện — lộ trình trên blog leo núi Naver, không phải app đường mòn Google.",
+      "id": "Jalur punggung dengan pagoda batu dan bendera doa — rute di blog hiking Naver, bukan app jalur Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonbuk",
+      "city": "muju",
+      "district": "muju-gun"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Muju Gucheondong Valley Secret Pool",
+      "ja": "茂朱求仁洞渓谷隠れ淵",
+      "zh": "茂朱求仁洞溪谷隐秘水潭",
+      "vi": "Hồ bí mật thung lũng Gucheondong Muju",
+      "id": "Kolam Rahasia Lembah Gucheondong Muju"
+    },
+    "address": {
+      "en": "Muju-gun, Jeonbuk",
+      "ja": "茂朱郡",
+      "zh": "茂朱郡",
+      "vi": "Muju-gun, Jeonbuk",
+      "id": "Muju-gun, Jeonbuk"
+    },
+    "description": {
+      "en": "Crystal pool locals cool off at in summer — coords shared on Naver outdoor blogs, not Google swimming spots.",
+      "ja": "夏に地元民が泳ぐ透明な淵。座標はネイバーアウトドアブログで共有、Google水泳スポットにはない。",
+      "zh": "夏天本地人游泳的清澈水潭，坐标在 Naver 户外博客分享，Google 游泳点没有。",
+      "vi": "Hồ trong suốt dân địa phương tắm hè — tọa độ chia sẻ trên blog ngoài trời Naver, không phải điểm bơi Google.",
+      "id": "Kolam jernih tempat warga berenang musim panas — koordinat dibagikan blog outdoor Naver, bukan spot renang Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonbuk",
+      "city": "gunsan",
+      "district": "okgu"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gunsan Saemangeum Embankment Bike Loop",
+      "ja": "群山새만금堤防サイクリング",
+      "zh": "群山新万金海堤骑行环线",
+      "vi": "Vòng đạp xe đê Saemangeum Gunsan",
+      "id": "Loop Sepeda Tanggul Saemangeum Gunsan"
+    },
+    "address": {
+      "en": "Okgu-myeon, Gunsan",
+      "ja": "群山市 玉谷面",
+      "zh": "群山市玉谷面",
+      "vi": "Okgu-myeon, Gunsan",
+      "id": "Okgu-myeon, Gunsan"
+    },
+    "description": {
+      "en": "Windy embankment loop cyclists ride at dawn — GPX on Naver cycling clubs, not Google bike routes.",
+      "ja": "早朝サイクリストが走る風の強い堤防ループ。GPXはネイバーサイクリングクラブ、Google自転車ルートにはない。",
+      "zh": "骑行者清晨出发的多风海堤环线，GPX 在 Naver 骑行俱乐部，Google 自行车路线没有。",
+      "vi": "Vòng đê gió nơi cyclist đi lúc bình minh — GPX trên club đạp xe Naver, không phải tuyến xe đạp Google.",
+      "id": "Loop tanggul berangin yang dibikers jalani saat fajar — GPX di klub bersepeda Naver, bukan rute sepeda Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeonju",
+      "district": "deokjin"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Deokjin Park Lotus Pond Morning Loop",
+      "ja": "徳津公園蓮池朝ループ",
+      "zh": "德津公园莲池晨间环线",
+      "vi": "Vòng sáng ao sen Công viên Deokjin",
+      "id": "Loop Pagi Kolam Teratai Taman Deokjin"
+    },
+    "address": {
+      "en": "Deokjin-gu, Jeonju",
+      "ja": "全州市 徳津区",
+      "zh": "全州市德津区",
+      "vi": "Deokjin-gu, Jeonju",
+      "id": "Deokjin-gu, Jeonju"
+    },
+    "description": {
+      "en": "Neighborhood lotus pond loop before the hanok crowds — favorite on Naver jogging blogs, not Google parks.",
+      "ja": "韓屋観光客前の近所蓮池一周。ネイバージョギングブログのお気に入り、Google公園にはない。",
+      "zh": "韩屋游客到来前的社区莲池环线，Naver 慢跑博客最爱，Google 公园没有。",
+      "vi": "Vòng ao sen khu phố trước đám đông hanok — yêu thích trên blog chạy bộ Naver, không phải công viên Google.",
+      "id": "Loop kolam teratai lingkungan sebelum kerumunan hanok — favorit di blog jogging Naver, bukan taman Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonnam",
+      "city": "yeosu",
+      "district": "dolsan"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Yeosu Dolsan Bridge Dawn Raw Fish Alley",
+      "ja": "麗水突山大橋明け方刺身路地",
+      "zh": "丽水突山大桥黎明刺身巷",
+      "vi": "Hẻm sashimi bình minh cầu Dolsan Yeosu",
+      "id": "Gang Sashimi Fajar Jembatan Dolsan Yeosu"
+    },
+    "address": {
+      "en": "Dolsan-dong, Yeosu",
+      "ja": "麗水市 突山洞",
+      "zh": "丽水市突山洞",
+      "vi": "Dolsan-dong, Yeosu",
+      "id": "Dolsan-dong, Yeosu"
+    },
+    "description": {
+      "en": "Fishermen sell dawn-caught sashimi from garage stalls — Naver seafood blogs only, not Google fish markets.",
+      "ja": "漁師がガレージで明け方の刺身を売る路地。ネイバー海鮮ブログのみ、Google魚市場にはない。",
+      "zh": "渔民从车库摊出售黎明捕捞的刺身，只在 Naver 海鲜博客，Google 鱼市没有。",
+      "vi": "Ngư dân bán sashimi bắt lúc bình minh từ quầy garage — chỉ blog hải sản Naver, không phải chợ cá Google.",
+      "id": "Nelayan menjual sashimi tangkapan fajar dari kios garasi — hanya blog seafood Naver, bukan pasar ikan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonnam",
+      "city": "mokpo",
+      "district": "yudal"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Mokpo Harbor Dried Seafood Back Alley",
+      "ja": "木浦港干し海産物裏路地",
+      "zh": "木浦港干海鲜后巷",
+      "vi": "Ngõ hải sản khô cảng Mokpo",
+      "id": "Gang Belakang Seafood Kering Pelabuhan Mokpo"
+    },
+    "address": {
+      "en": "Yudal-dong, Mokpo",
+      "ja": "木浦市 儒达洞",
+      "zh": "木浦市儒达洞",
+      "vi": "Yudal-dong, Mokpo",
+      "id": "Yudal-dong, Mokpo"
+    },
+    "description": {
+      "en": "Wholesale dried cuttlefish and anchovy stalls behind the pier — found via Naver market blogs, not Google.",
+      "ja": "桟橋裏の干しイカとカタクチイワシ卸店。ネイバー市場ブログで見つかり、Googleにはない。",
+      "zh": "码头后的干鱿鱼和小鳀鱼批发摊，通过 Naver 市场博客找到，Google 没有。",
+      "vi": "Quầy mực khô và cá cơm bán buôn sau bến tàu — tìm qua blog chợ Naver, không trên Google.",
+      "id": "Kios cumi kering dan teri grosir di belakang dermaga — ditemukan lewat blog pasar Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonnam",
+      "city": "suncheon",
+      "district": "suncheon-si"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Suncheon Bay Salted Shrimp Porridge Shop",
+      "ja": "順天湾塩辛粥店",
+      "zh": "顺天湾虾酱粥店",
+      "vi": "Quán cháo tôm muối Vịnh Suncheon",
+      "id": "Warung Bubur Udang Asin Teluk Suncheon"
+    },
+    "address": {
+      "en": "Suncheon-si, Jeonnam",
+      "ja": "順天市",
+      "zh": "顺天市",
+      "vi": "Suncheon-si, Jeonnam",
+      "id": "Suncheon-si, Jeonnam"
+    },
+    "description": {
+      "en": "Salted-shrimp porridge before the wetland tourists wake — ranked on Naver Map, not Google food lists.",
+      "ja": "湿地観光客が起きる前の塩辛粥。ネイバーマップで評価されるが、Googleグルメリストにはない。",
+      "zh": "湿地游客起床前的虾酱粥，在 Naver 地图有排名，Google 美食列表没有。",
+      "vi": "Cháo tôm muối trước khi du khách đầm lầy thức dậy — xếp hạng trên Naver Map, không phải danh sách ẩm thực Google.",
+      "id": "Bubur udang asin sebelum turis wetland bangun — masuk peringkat Naver Map, bukan daftar makanan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "jeonnam",
+      "city": "damyang",
+      "district": "damyang-eup"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Damyang Bamboo Smoked Duck Alley",
+      "ja": "潭陽竹燻鴨路地",
+      "zh": "潭阳竹熏鸭巷",
+      "vi": "Hẻm vịt hun tre Damyang",
+      "id": "Gang Bebek Asap Bambu Damyang"
+    },
+    "address": {
+      "en": "Damyang-eup, Damyang",
+      "ja": "潭陽郡 潭陽邑",
+      "zh": "潭阳郡潭阳邑",
+      "vi": "Damyang-eup, Damyang",
+      "id": "Damyang-eup, Damyang"
+    },
+    "description": {
+      "en": "Bamboo-smoked duck joints locals drive to on weekends — Naver weekend food blogs, not Google Michelin.",
+      "ja": "週末に地元民が車で行く竹燻鴨店。ネイバー週末グルメブログに載るが、Googleミシュランにはない。",
+      "zh": "周末本地人开车去的竹熏鸭店，出现在 Naver 周末美食博客，不在 Google 米其林。",
+      "vi": "Quán vịt hun tre dân địa phương lái xe cuối tuần — blog ẩm thực cuối tuần Naver, không phải Michelin Google.",
+      "id": "Warung bebek asap bambu yang dikunjungi warga akhir pekan — blog makanan akhir pekan Naver, bukan Michelin Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonnam",
+      "city": "gwangyang",
+      "district": "daap"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gwangyang Maehwa Drama Orchard Hill",
+      "ja": "光陽梅花ドラマ果樹園の丘",
+      "zh": "光阳梅花剧集果园山丘",
+      "vi": "Đồi vườn cây drama mai Gwangyang",
+      "id": "Bukit Kebun Drama Bunga Plum Gwangyang"
+    },
+    "address": {
+      "en": "Daap-myeon, Gwangyang",
+      "ja": "光陽市 多堡面",
+      "zh": "光阳市多堡面",
+      "vi": "Daap-myeon, Gwangyang",
+      "id": "Daap-myeon, Gwangyang"
+    },
+    "description": {
+      "en": "Plum-blossom orchards used in spring melodramas — bloom alerts on Naver drama cafés, not Google orchards.",
+      "ja": "春のメロドラマロケ地の梅園。開花情報はネイバードラマカフェ、Google果樹園にはない。",
+      "zh": "春季言情剧取景的梅花园，开花信息在 Naver 剧集咖啡馆，Google 果园没有。",
+      "vi": "Vườn mai quay phim melodrama mùa xuân — cảnh báo nở hoa trên cafe drama Naver, không phải vườn Google.",
+      "id": "Kebun plum lokasi melodrama musim semi — info mekar di kafe drama Naver, bukan kebun Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonnam",
+      "city": "naju",
+      "district": "naju-si"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Naju Gomtu Drama Riverside Set",
+      "ja": "羅州ゴムトゥドラマ川辺セット",
+      "zh": "罗州龟岩剧集江畔布景",
+      "vi": "Set ven sông drama Gomtu Naju",
+      "id": "Set Tepi Sungai Drama Gomtu Naju"
+    },
+    "address": {
+      "en": "Naju-si, Jeonnam",
+      "ja": "羅州市",
+      "zh": "罗州市",
+      "vi": "Naju-si, Jeonnam",
+      "id": "Naju-si, Jeonnam"
+    },
+    "description": {
+      "en": "Riverside rock formations scouted for cable sageuk — location notes on Naver drama threads, not Google.",
+      "ja": "ケーブル史劇のロケハンになる川辺の岩。場所のメモはネイバードラマスレ、Googleにはない。",
+      "zh": "有线历史剧踩点的江畔岩石，位置备注在 Naver 剧集帖，Google 没有。",
+      "vi": "Đá ven sông được khảo sát cho sageuk cáp — ghi chú địa điểm trên thread drama Naver, không trên Google.",
+      "id": "Formasi batu tepi sungai untuk sageuk kabel — catatan lokasi di thread drama Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonnam",
+      "city": "haenam",
+      "district": "songji"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Haenam Ttangkkeut Indie Film Horizon Deck",
+      "ja": "海南ッangッケウトインディー映画展望デッキ",
+      "zh": "海南天涯海角独立电影展望台",
+      "vi": "Sàn phim indie chân trời Ttangkkeut Haenam",
+      "id": "Dek Film Indie Cakrawala Ttangkkeut Haenam"
+    },
+    "address": {
+      "en": "Songji-myeon, Haenam",
+      "ja": "海南郡 松芝面",
+      "zh": "海南郡松芝面",
+      "vi": "Songji-myeon, Haenam",
+      "id": "Songji-myeon, Haenam"
+    },
+    "description": {
+      "en": "Land-end deck where film students shoot horizon shorts — coords on Naver film school blogs, not Google viewpoints.",
+      "ja": "映画学生が地平線ショートを撮る最南端デッキ。座標はネイバー映画学校ブログ、Google展望台にはない。",
+      "zh": "电影学生拍地平线短片的陆地尽头露台，坐标在 Naver 电影学院博客，Google 观景点没有。",
+      "vi": "Sàn cuối đất nơi sinh viên quay phim ngắn chân trời — tọa độ trên blog trường phim Naver, không phải điểm ngắm Google.",
+      "id": "Dek ujung darat tempat mahasiswa film syuting pendek cakrawala — koordinat di blog sekolah film Naver, bukan viewpoint Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "jeonnam",
+      "city": "jindo",
+      "district": "uisin"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jindo Sea Parting Festival Backstage Beach",
+      "ja": "珍島海割れ祭り裏舞台ビーチ",
+      "zh": "珍岛海拆节后台海滩",
+      "vi": "Bãi biển hậu trường lễ hội biển chia Jindo",
+      "id": "Pantai Belakang Panggung Festival Laut Terbelah Jindo"
+    },
+    "address": {
+      "en": "Uisin-myeon, Jindo",
+      "ja": "珍島郡 義新面",
+      "zh": "珍岛郡义新面",
+      "vi": "Uisin-myeon, Jindo",
+      "id": "Uisin-myeon, Jindo"
+    },
+    "description": {
+      "en": "Beach where festival crews rest between performances — gossip on Naver entertainment blogs, not Google beaches.",
+      "ja": "祭りスタッフが公演合間に休む裏ビーチ。ネイバーエンタメブログで噂、Googleビーチにはない。",
+      "zh": "节庆工作人员幕间休息的后台海滩，在 Naver 娱乐博客被八卦，Google 海滩没有。",
+      "vi": "Bãi biển nhân viên lễ hội nghỉ giữa tiết mục — đồn đại trên blog giải trí Naver, không phải bãi Google.",
+      "id": "Pantai tempat kru festival istirahat antar pertunjukan — gosip di blog hiburan Naver, bukan pantai Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonnam",
+      "city": "yeosu",
+      "district": "jungang"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Yeosu Seaweed Collagen Facial Bar",
+      "ja": "麗海藻コラーゲンフェイシャル",
+      "zh": "丽水海藻胶原蛋白面部吧",
+      "vi": "Quầy facial collagen rong biển Yeosu",
+      "id": "Bar Facial Kolagen Rumput Laut Yeosu"
+    },
+    "address": {
+      "en": "Jungang-dong, Yeosu",
+      "ja": "麗水市 中央洞",
+      "zh": "丽水市中央洞",
+      "vi": "Jungang-dong, Yeosu",
+      "id": "Jungang-dong, Yeosu"
+    },
+    "description": {
+      "en": "Fresh seaweed collagen masks beside the fish market — Naver beauty bloggers review; Google has no listing.",
+      "ja": "魚市場横の生海藻コラーゲンパック。ネイバービューティーブロガーが紹介、Google掲載なし。",
+      "zh": "鱼市场旁的新鲜海藻胶原蛋白面膜，Naver 美妆博主推荐，Google 无条目。",
+      "vi": "Mặt nạ collagen rong biển tươi cạnh chợ cá — blogger làm đẹp Naver review; Google không có mục.",
+      "id": "Masker kolagen rumput laut segar di samping pasar ikan — blogger kecantikan Naver mengulas; Google tanpa daftar."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonnam",
+      "city": "mokpo",
+      "district": "samhak"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Mokpo Salt Flat Foot Peel Salon",
+      "ja": "木浦塩田足ピーリングサロン",
+      "zh": "木浦盐田足部去角质沙龙",
+      "vi": "Salon peel chân ruộng muối Mokpo",
+      "id": "Salon Peel Kaki Tambak Garam Mokpo"
+    },
+    "address": {
+      "en": "Samhak-dong, Mokpo",
+      "ja": "木浦市 三湖洞",
+      "zh": "木浦市三湖洞",
+      "vi": "Samhak-dong, Mokpo",
+      "id": "Samhak-dong, Mokpo"
+    },
+    "description": {
+      "en": "Tidal-flat salt scrubs in a jjimjilbang row — walk-ins via Naver Map, not Google spa directories.",
+      "ja": "ジムジルバン通りの干潟塩スクラブ。ネイバーマップで見つかるが、Googleスパ名鑑にはない。",
+      "zh": "汗蒸街的滩涂盐去角质，通过 Naver 地图找到，不在 Google Spa 目录。",
+      "vi": "Scrub muối bãi bồi trên phố jjimjilbang — tìm qua Naver Map, không phải danh bạ spa Google.",
+      "id": "Scrub garam tambak di deretan jjimjilbang — lewat Naver Map, bukan direktori spa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonnam",
+      "city": "goheung",
+      "district": "goheung-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Goheung Green Tea Essence Skin Lab",
+      "ja": "高興緑茶エッセンス肌ラボ",
+      "zh": "高兴绿茶精华护肤实验室",
+      "vi": "Lab da tinh chất trà xanh Goheung",
+      "id": "Lab Kulit Esensi Teh Hijau Goheung"
+    },
+    "address": {
+      "en": "Goheung-eup, Goheung",
+      "ja": "高興郡 高興邑",
+      "zh": "高兴郡高兴邑",
+      "vi": "Goheung-eup, Goheung",
+      "id": "Goheung-eup, Goheung"
+    },
+    "description": {
+      "en": "Green-tea serums from hillside co-ops — appointments via Naver Booking, not Google wellness apps.",
+      "ja": "丘陵の協同組合が作る緑茶美容液。ネイバー予約が中心、Googleウェルネスアプリにはない。",
+      "zh": "丘陵合作社制作的绿茶精华液，通过 Naver 预约，Google 健康应用没有。",
+      "vi": "Serum trà xanh từ hợp tác xã đồi — đặt qua Naver Booking, không phải app wellness Google.",
+      "id": "Serum teh hijau dari koperasi perbukitan — lewat Naver Booking, bukan app wellness Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "jeonnam",
+      "city": "wando",
+      "district": "wando-eup"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Wando Abalone Shell Powder Facial",
+      "ja": "莞島アワビ殻パウダーフェイシャル",
+      "zh": "莞岛鲍鱼壳粉面部护理",
+      "vi": "Facial bột vỏ bào ngư Wando",
+      "id": "Facial Bubuk Cangkang Abalone Wando"
+    },
+    "address": {
+      "en": "Wando-eup, Wando",
+      "ja": "莞島郡 莞島邑",
+      "zh": "莞岛郡莞岛邑",
+      "vi": "Wando-eup, Wando",
+      "id": "Wando-eup, Wando"
+    },
+    "description": {
+      "en": "Abalone-shell powder facials at a harbor salon — reviewed on Naver coastal beauty blogs, not Google.",
+      "ja": "港のサロンでのアワビ殻パウダーフェイシャル。ネイバー海岸ビューティーブログで口コミ、Googleにはない。",
+      "zh": "港口沙龙的鲍鱼壳粉面部护理，在 Naver 海岸美妆博客有评价，Google 没有。",
+      "vi": "Facial bột vỏ bào ngư tại salon cảng — review trên blog làm đẹp ven biển Naver, không trên Google.",
+      "id": "Facial bubuk cangkang abalone di salon pelabuhan — diulas blog kecantikan pesisir Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonnam",
+      "city": "damyang",
+      "district": "damyang-eup"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Damyang Bamboo Craft Village Workshop",
+      "ja": "潭陽竹細工村工房",
+      "zh": "潭阳竹细工村工坊",
+      "vi": "Xưởng làng mây tre Damyang",
+      "id": "Workshop Desa Kerajinan Bambu Damyang"
+    },
+    "address": {
+      "en": "Damyang-eup, Damyang",
+      "ja": "潭陽郡 潭陽邑",
+      "zh": "潭阳郡潭阳邑",
+      "vi": "Damyang-eup, Damyang",
+      "id": "Damyang-eup, Damyang"
+    },
+    "description": {
+      "en": "Hands-on bamboo weaving beyond the tourist center — class links on Naver craft groups, not Google workshops.",
+      "ja": "観光センター外の竹細工体験。受講リンクはネイバー工芸グループ、Googleワークショップにはない。",
+      "zh": "观光中心以外的竹编体验，报名链接在 Naver 工艺群，不在 Google 工坊。",
+      "vi": "Đan tre thực hành ngoài trung tâm du lịch — link lớp trên nhóm thủ công Naver, không phải workshop Google.",
+      "id": "Anyaman bambu hands-on di luar pusat wisata — link kelas di grup kerajinan Naver, bukan workshop Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonnam",
+      "city": "naju",
+      "district": "naju-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Naju Gomtu Legend Storytelling Deck",
+      "ja": "羅州亀岩伝説語りデッキ",
+      "zh": "罗州龟岩传说故事露台",
+      "vi": "Sàn kể chuyện truyền thuyết Gomtu Naju",
+      "id": "Dek Bercerita Legenda Gomtu Naju"
+    },
+    "address": {
+      "en": "Naju-si, Jeonnam",
+      "ja": "羅州市",
+      "zh": "罗州市",
+      "vi": "Naju-si, Jeonnam",
+      "id": "Naju-si, Jeonnam"
+    },
+    "description": {
+      "en": "Elders tell Gomtu legends at dusk — event nights posted on Naver folk culture blogs, not Google.",
+      "ja": "夕暮れに長老が亀岩伝説を語るデッキ。開催日はネイバー民俗文化ブログ、Googleにはない。",
+      "zh": "黄昏长辈讲述龟岩传说的露台，活动日在 Naver 民俗文化博客，Google 没有。",
+      "vi": "Trưởng làng kể truyền thuyết Gomtu lúc hoàng hôn — đêm sự kiện đăng blog văn hóa dân gian Naver, không trên Google.",
+      "id": "Tetua menceritakan legenda Gomtu saat senja — malam acara diposting blog budaya rakyat Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonnam",
+      "city": "gwangyang",
+      "district": "gwangyang-si"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Baegunsan Temple Bell Craft Yard",
+      "ja": "白雲山梵鐘工芸庭",
+      "zh": "白云山梵钟工艺院",
+      "vi": "Sân đúc chuông chùa Baegunsan",
+      "id": "Halaman Kerajinan Lonceng Kuil Baegunsan"
+    },
+    "address": {
+      "en": "Gwangyang-si, Jeonnam",
+      "ja": "光陽市",
+      "zh": "光阳市",
+      "vi": "Gwangyang-si, Jeonnam",
+      "id": "Gwangyang-si, Jeonnam"
+    },
+    "description": {
+      "en": "Artisan bell demos on temple approach mornings — schedules on Naver temple culture blogs, not Google.",
+      "ja": "寺参道の朝に行われる梵鐘鋳造デモ。日程はネイバー寺院文化ブログ、Googleにはない。",
+      "zh": "寺庙参道清晨的铸钟演示，日程在 Naver 寺院文化博客，Google 没有。",
+      "vi": "Demo đúc chuông buổi sáng trên đường lên chùa — lịch trên blog văn hóa chùa Naver, không trên Google.",
+      "id": "Demo pengecoran lonceng pagi di jalan pendekatan kuil — jadwal di blog budaya kuil Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "jeonnam",
+      "city": "haenam",
+      "district": "songji"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Haenam Ttangkkeut Sunrise Prayer Flag Yard",
+      "ja": "海南最南端日の出祈祷旗庭",
+      "zh": "海南最南端日出经幡院",
+      "vi": "Sân cờ cầu nguyện bình minh Ttangkkeut Haenam",
+      "id": "Halaman Bendera Doa Matahari Terbit Ttangkkeut Haenam"
+    },
+    "address": {
+      "en": "Songji-myeon, Haenam",
+      "ja": "海南郡 松芝面",
+      "zh": "海南郡松芝面",
+      "vi": "Songji-myeon, Haenam",
+      "id": "Songji-myeon, Haenam"
+    },
+    "description": {
+      "en": "Locals hang prayer flags at Koreas land-end — photos on Naver pilgrimage blogs, not Google landmarks.",
+      "ja": "韓国最南端で地元民が祈祷旗を掲げる庭。写真はネイバー巡礼ブログ、Googleランドマークではない。",
+      "zh": "韩国最南端本地人挂经幡的小院，照片在 Naver 朝圣博客，不是 Google 地标。",
+      "vi": "Dân địa phương treo cờ cầu nguyện ở cực nam Hàn Quốc — ảnh trên blog hành hương Naver, không phải địa danh Google.",
+      "id": "Warga menggantung bendera doa di ujung selatan Korea — foto di blog ziarah Naver, bukan landmark Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonnam",
+      "city": "suncheon",
+      "district": "suncheon-si"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Suncheon Bay Reed Hidden Boardwalk",
+      "ja": "順天湾葦隠れ木道",
+      "zh": "顺天湾芦苇隐秘木栈道",
+      "vi": "Ván sàn lau sậy ẩn Vịnh Suncheon",
+      "id": "Boardwalk Alang-alang Tersembunyi Teluk Suncheon"
+    },
+    "address": {
+      "en": "Suncheon-si, Jeonnam",
+      "ja": "順天市",
+      "zh": "顺天市",
+      "vi": "Suncheon-si, Jeonnam",
+      "id": "Suncheon-si, Jeonnam"
+    },
+    "description": {
+      "en": "Unmarked reed boardwalk locals prefer over tourist routes — pinned on Naver ecology blogs, not Google wetlands.",
+      "ja": "観光ルートより地元民が好む無標識の葦の木道。ネイバー生态ブログにピン、Google湿地にはない。",
+      "zh": "本地人偏爱而非观光路线的无标识芦苇栈道，标在 Naver 生态博客，Google 湿地没有。",
+      "vi": "Ván sàn lau không biển báo dân địa phương thích hơn tuyến du lịch — ghim trên blog sinh thái Naver, không phải đầm lầy Google.",
+      "id": "Boardwalk alang-alang tanpa rambu yang disukai warga daripada rute wisata — disematkan di blog ekologi Naver, bukan lahan basah Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonnam",
+      "city": "goheung",
+      "district": "goheung-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Goheung Naro Space Center Shore Walk",
+      "ja": "高興羅老宇宙センター海岸散策",
+      "zh": "高兴罗老航天中心海岸漫步",
+      "vi": "Đi bộ bờ biển Trung tâm Vũ trụ Naro Goheung",
+      "id": "Jalan Pantai Pusat Antariksa Naro Goheung"
+    },
+    "address": {
+      "en": "Goheung-eup, Goheung",
+      "ja": "高興郡 高興邑",
+      "zh": "高兴郡高兴邑",
+      "vi": "Goheung-eup, Goheung",
+      "id": "Goheung-eup, Goheung"
+    },
+    "description": {
+      "en": "Quiet shoreline walk beside launch pads — route on Naver science hobby blogs, not Google space tours.",
+      "ja": "発射台横の静かな海岸散策。ルートはネイバー科学趣味ブログ、Google宇宙ツアーにはない。",
+      "zh": "发射台旁的安静海岸漫步，路线在 Naver 科学爱好博客，不在 Google 太空游。",
+      "vi": "Đi bộ bờ biển yên tĩnh cạnh bệ phóng — lộ trình trên blog sở thích khoa học Naver, không phải tour vũ trụ Google.",
+      "id": "Jalan pantai tenang di samping landasan peluncuran — rute di blog hobi sains Naver, bukan tur antariksa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonnam",
+      "city": "wando",
+      "district": "wando-eup"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Wando Cheongsando Slow Path Loop",
+      "ja": "莞島青山島スローパス",
+      "zh": "莞岛青山岛慢道环线",
+      "vi": "Vòng đường chậm Cheongsando Wando",
+      "id": "Loop Jalur Lambat Cheongsando Wando"
+    },
+    "address": {
+      "en": "Wando-eup, Wando",
+      "ja": "莞島郡 莞島邑",
+      "zh": "莞岛郡莞岛邑",
+      "vi": "Wando-eup, Wando",
+      "id": "Wando-eup, Wando"
+    },
+    "description": {
+      "en": "Island slow-walking path between stone walls — GPX on Naver island blogs, not Google hiking apps.",
+      "ja": "石垣の間を抜ける島のスローウォーク。GPXはネイバー島ブログ、Google登山アプリにはない。",
+      "zh": "穿越石墙间的岛屿慢行道，GPX 在 Naver 岛屿博客，Google 登山应用没有。",
+      "vi": "Đường đi chậm giữa tường đá trên đảo — GPX trên blog đảo Naver, không phải app leo núi Google.",
+      "id": "Jalan slow-walk antar tembok batu di pulau — GPX di blog pulau Naver, bukan app hiking Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "jeonnam",
+      "city": "jindo",
+      "district": "uisin"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jindo Uldolmok Tidal Current View Trail",
+      "ja": "珍島蔚珍茂浦潮流展望トレイル",
+      "zh": "珍岛蔚珍茂浦潮流展望步道",
+      "vi": "Đường ngắm hải lưu Uldolmok Jindo",
+      "id": "Jalur Pemandangan Arus Pasang Uldolmok Jindo"
+    },
+    "address": {
+      "en": "Uisin-myeon, Jindo",
+      "ja": "珍島郡 義新面",
+      "zh": "珍岛郡义新面",
+      "vi": "Uisin-myeon, Jindo",
+      "id": "Uisin-myeon, Jindo"
+    },
+    "description": {
+      "en": "Clifftop path for watching tidal races at dawn — tide tables on Naver marine blogs, not Google viewpoints.",
+      "ja": "早朝の潮流を見る崖上の道。潮時表はネイバー海洋ブログ、Google展望台にはない。",
+      "zh": "清晨观赏潮流的崖顶步道，潮汐表在 Naver 海洋博客，Google 观景点没有。",
+      "vi": "Đường vách đá ngắm hải lưu lúc bình minh — bảng thủy triều trên blog biển Naver, không phải điểm ngắm Google.",
+      "id": "Jalur tebing untuk melihat arus pasang saat fajar — tabel pasang di blog kelautan Naver, bukan viewpoint Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gumi",
+      "district": "gwonseon"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gumi Industrial District Night Gopchang Row",
+      "ja": "亀尾工業地帯夜ゴプチャン通り",
+      "zh": "龟尾工业区深夜烤肥肠街",
+      "vi": "Dãy gopchang đêm khu công nghiệp Gumi",
+      "id": "Deretan Gopchang Malam Distrik Industri Gumi"
+    },
+    "address": {
+      "en": "Gwonseon-dong, Gumi",
+      "ja": "亀尾市 権善洞",
+      "zh": "龟尾市权善洞",
+      "vi": "Gwonseon-dong, Gumi",
+      "id": "Gwonseon-dong, Gumi"
+    },
+    "description": {
+      "en": "Factory workers midnight gopchang strip — ranked on Naver Map night-food blogs, not Google guides.",
+      "ja": "工場勤務者の深夜ゴプチャン通り。ネイバーマップの夜グルメブログで評価、Googleガイドにはない。",
+      "zh": "工厂工人深夜烤肥肠街，在 Naver 地图夜宵博客有排名，Google 指南没有。",
+      "vi": "Phố gopchang nửa đêm của công nhân nhà máy — xếp hạng trên blog ẩm thực đêm Naver Map, không phải hướng dẫn Google.",
+      "id": "Jalan gopchang tengah malam pekerja pabrik — masuk peringkat blog makanan malam Naver Map, bukan panduan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongsan",
+      "district": "jinryang"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Gyeongsan College Town Sundae Alley",
+      "ja": "慶山大学生街スンデ路地",
+      "zh": "庆山大学城血肠巷",
+      "vi": "Hẻm sundae phố đại học Gyeongsan",
+      "id": "Gang Sundae Kota Kampus Gyeongsan"
+    },
+    "address": {
+      "en": "Jinryang-eup, Gyeongsan",
+      "ja": "慶山市 進良邑",
+      "zh": "庆山市进良邑",
+      "vi": "Jinryang-eup, Gyeongsan",
+      "id": "Jinryang-eup, Gyeongsan"
+    },
+    "description": {
+      "en": "Student-favorite sundae stalls open past midnight — discovered on Naver campus food threads, not Google.",
+      "ja": "深夜まで開く学生向けスンデ屋台。ネイバーキャンパスグルメスレで発見、Googleにはない。",
+      "zh": "营业至深夜的学生血肠摊，在 Naver 校园美食帖发现，Google 没有。",
+      "vi": "Quầy sundae sinh viên mở quá nửa đêm — tìm thấy trên thread ẩm thực campus Naver, không trên Google.",
+      "id": "Kios sundae favorit mahasiswa buka lewat tengah malam — ditemukan di thread makanan kampus Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "yeongju",
+      "district": "punggi"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Yeongju Punggi Ginseng Chicken Baeksuk House",
+      "ja": "栄州豊基人参鶏白灼家",
+      "zh": "荣州丰基人参鸡白灼家",
+      "vi": "Quán baeksuk gà nhân sâm Punggi Yeongju",
+      "id": "Rumah Baeksuk Ayam Ginseng Punggi Yeongju"
+    },
+    "address": {
+      "en": "Punggi-eup, Yeongju",
+      "ja": "栄州市 豊基邑",
+      "zh": "荣州市丰基邑",
+      "vi": "Punggi-eup, Yeongju",
+      "id": "Punggi-eup, Yeongju"
+    },
+    "description": {
+      "en": "Ginseng-chicken baeksuk in a mountain village kitchen — Naver wellness food blogs, not Google restaurants.",
+      "ja": "山村の厨房で作る人参鶏白灼。ネイバーウェルネスグルメブログに載るが、Googleレストランにはない。",
+      "zh": "山村厨房里的人参鸡白灼，出现在 Naver 养生美食博客，Google 餐厅没有。",
+      "vi": "Baeksuk gà nhân sâm trong bếp làng núi — blog ẩm thực wellness Naver, không phải nhà hàng Google.",
+      "id": "Baeksuk ayam ginseng di dapur desa pegunungan — blog makanan wellness Naver, bukan restoran Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "mungyeong",
+      "district": "mungyeong-si"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Mungyeong Omija Valley Syrup Shop",
+      "ja": "聞慶オミジャ渓谷シロップ店",
+      "zh": "闻庆五味子溪谷糖浆店",
+      "vi": "Quán siro omija thung lũng Mungyeong",
+      "id": "Toko Sirup Omija Lembah Mungyeong"
+    },
+    "address": {
+      "en": "Mungyeong-si, Gyeongbuk",
+      "ja": "聞慶市",
+      "zh": "闻庆市",
+      "vi": "Mungyeong-si, Gyeongbuk",
+      "id": "Mungyeong-si, Gyeongbuk"
+    },
+    "description": {
+      "en": "Homemade omija syrup and mountain-herb drinks — pinned on Naver foraging blogs, not Google cafes.",
+      "ja": "手作りオミジャシロップと山野草ドリンク。ネイバー山菜ブログにピン、Googleカフェにはない。",
+      "zh": "手作五味子糖浆和山野草药饮，标在 Naver 山菜博客，Google 咖啡馆没有。",
+      "vi": "Siro omija và đồ uống thảo mộc núi tự làm — ghim trên blog hái rừng Naver, không phải quán Google.",
+      "id": "Sirup omija buatan rumah dan minuman herbal gunung — disematkan di blog foraging Naver, bukan kafe Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "andong",
+      "district": "hahoe"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Andong Hahoe Mask Drama Backlot Lane",
+      "ja": "安東河回仮面劇裏ロケ路地",
+      "zh": "安东河回假面剧后台巷",
+      "vi": "Hẻm backlot drama mặt nạ Hahoe Andong",
+      "id": "Gang Backlot Drama Topeng Hahoe Andong"
+    },
+    "address": {
+      "en": "Pungcheon-myeon, Andong",
+      "ja": "安東市 豊川面",
+      "zh": "安东市丰川面",
+      "vi": "Pungcheon-myeon, Andong",
+      "id": "Pungcheon-myeon, Andong"
+    },
+    "description": {
+      "en": "Village lanes used for mask-dance drama inserts — location maps on Naver drama cafés, not Google sets.",
+      "ja": "仮面劇インサートのロケに使われる村の路地。地図はネイバードラマカフェ、Googleセットにはない。",
+      "zh": "假面剧插入镜头取景的村落巷弄，地图在 Naver 剧集咖啡馆，不在 Google 片场。",
+      "vi": "Ngõ làng quay cảnh chèn múa mặt nạ — bản đồ trên cafe drama Naver, không phải set Google.",
+      "id": "Gang desa untuk insert drama tari topeng — peta di kafe drama Naver, bukan set Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju",
+      "district": "bomun"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Gyeongju Bomun Lake Indie Drama Pier",
+      "ja": "慶州普門湖インディードラマ桟橋",
+      "zh": "庆州普门湖独立剧集码头",
+      "vi": "Bến drama indie Hồ Bomun Gyeongju",
+      "id": "Dermaga Drama Indie Danau Bomun Gyeongju"
+    },
+    "address": {
+      "en": "Bomun-dong, Gyeongju",
+      "ja": "慶州市 普門洞",
+      "zh": "庆州市普门洞",
+      "vi": "Bomun-dong, Gyeongju",
+      "id": "Bomun-dong, Gyeongju"
+    },
+    "description": {
+      "en": "Quiet pier where cable dramas film confession scenes — tagged on Naver location threads, not Google lakes.",
+      "ja": "ケーブルドラマの告白シーン撮影地の静かな桟橋。ネイバーロケ地スレにタグ、Google湖にはない。",
+      "zh": "有线剧集告白场景取景的安静码头，标在 Naver 取景帖，Google 湖泊没有。",
+      "vi": "Bến yên tĩnh quay cảnh thú nhận phim cáp — gắn thẻ thread địa điểm Naver, không phải hồ Google.",
+      "id": "Dermaga tenang syuting adegan pengakuan drama kabel — ditag di thread lokasi Naver, bukan danau Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "pohang",
+      "district": "daejam"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Pohang Steel Mill Worker Drama Alley",
+      "ja": "浦項製鉄所労働者ドラマ路地",
+      "zh": "浦项制铁所工人剧集巷",
+      "vi": "Hẻm drama công nhân nhà máy thép Pohang",
+      "id": "Gang Drama Pekerja Pabrik Baja Pohang"
+    },
+    "address": {
+      "en": "Daejam-dong, Pohang",
+      "ja": "浦項市 大蚕洞",
+      "zh": "浦项市大蚕洞",
+      "vi": "Daejam-dong, Pohang",
+      "id": "Daejam-dong, Pohang"
+    },
+    "description": {
+      "en": "Industrial alleys scouted for working-class melodramas — notes on Naver film clubs, not Google locations.",
+      "ja": "労働者メロドラマのロケハンになる工業路地。メモはネイバー映画クラブ、Googleロケ地にはない。",
+      "zh": "工人题材言情剧踩点的工业巷，备注在 Naver 电影俱乐部，Google 取景地没有。",
+      "vi": "Hẻm công nghiệp khảo sát cho melodrama giai cấp công nhân — ghi chú trên club phim Naver, không phải địa điểm Google.",
+      "id": "Gang industri disurvei untuk melodrama kelas pekerja — catatan di klub film Naver, bukan lokasi Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "uljin",
+      "district": "uljin-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Uljin East Sea Indie Film Cliff Deck",
+      "ja": "蔚珍東海インディー映画崖デッキ",
+      "zh": "蔚珍东海独立电影悬崖露台",
+      "vi": "Sàn phim indie vách đá biển Đông Uljin",
+      "id": "Dek Film Indie Tebing Laut Timur Uljin"
+    },
+    "address": {
+      "en": "Uljin-eup, Uljin",
+      "ja": "蔚珍郡 蔚珍邑",
+      "zh": "蔚珍郡蔚珍邑",
+      "vi": "Uljin-eup, Uljin",
+      "id": "Uljin-eup, Uljin"
+    },
+    "description": {
+      "en": "Cliff deck where film students shoot ocean shorts — coords on Naver film school blogs, not Google beaches.",
+      "ja": "映画学生が海のショートを撮る崖デッキ。座標はネイバー映画学校ブログ、Googleビーチにはない。",
+      "zh": "电影学生拍海洋短片的悬崖露台，坐标在 Naver 电影学院博客，Google 海滩没有。",
+      "vi": "Sàn vách đá nơi sinh viên quay phim ngắn biển — tọa độ trên blog trường phim Naver, không phải bãi Google.",
+      "id": "Dek tebing tempat mahasiswa film syuting pendek laut — koordinat di blog sekolah film Naver, bukan pantai Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "andong",
+      "district": "hahoe"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Andong Hanji Sheet Mask Atelier",
+      "ja": "安東韓紙シートマスクアトリエ",
+      "zh": "安东韩纸面膜工作室",
+      "vi": "Xưởng mặt nạ giấy hanji Andong",
+      "id": "Atelier Sheet Mask Hanji Andong"
+    },
+    "address": {
+      "en": "Pungcheon-myeon, Andong",
+      "ja": "安東市 豊川面",
+      "zh": "安东市丰川面",
+      "vi": "Pungcheon-myeon, Andong",
+      "id": "Pungcheon-myeon, Andong"
+    },
+    "description": {
+      "en": "Hand-pressed hanji masks in a village atelier — workshops via Naver blogs, not Google spas.",
+      "ja": "村のアトリエで手押し韓紙マスク。ネイバーブログで予約、Googleスパにはない。",
+      "zh": "村落工作室手压韩纸面膜，通过 Naver 博客预约，Google Spa 没有。",
+      "vi": "Mặt nạ hanji ép tay tại atelier làng — workshop qua blog Naver, không phải spa Google.",
+      "id": "Masker hanji ditekan tangan di atelier desa — workshop lewat blog Naver, bukan spa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju",
+      "district": "hwango"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Gyeongju Silla Clay Facial Studio",
+      "ja": "慶州新羅粘土フェイシャル",
+      "zh": "庆州新罗粘土面部护理",
+      "vi": "Studio facial đất sét Silla Gyeongju",
+      "id": "Studio Facial Tanah Liat Silla Gyeongju"
+    },
+    "address": {
+      "en": "Hwango-dong, Gyeongju",
+      "ja": "慶州市 桓宮洞",
+      "zh": "庆州市桓宫洞",
+      "vi": "Hwango-dong, Gyeongju",
+      "id": "Hwango-dong, Gyeongju"
+    },
+    "description": {
+      "en": "Clay masks using local Silla-era soil blends — reviewed on Naver beauty threads, not Google.",
+      "ja": "新羅時代の土をブレンドした粘土パック。ネイバービューティースレで評価、Googleにはない。",
+      "zh": "混合新罗时代土壤的粘土面膜，在 Naver 美妆帖有评价，Google 没有。",
+      "vi": "Mặt nạ đất sét pha đất thời Silla — review trên thread làm đẹp Naver, không trên Google.",
+      "id": "Masker tanah liat campuran tanah era Silla — diulas di thread kecantikan Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "pohang",
+      "district": "daebo"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Pohang Seaweed Spa Facial Alley",
+      "ja": "浦項海藻スパフェイシャル路地",
+      "zh": "浦项海藻 Spa 面部巷",
+      "vi": "Hẻm facial spa rong biển Pohang",
+      "id": "Gang Facial Spa Rumput Laut Pohang"
+    },
+    "address": {
+      "en": "Daebo-myeon, Pohang",
+      "ja": "浦項市 大甫面",
+      "zh": "浦项市大甫面",
+      "vi": "Daebo-myeon, Pohang",
+      "id": "Daebo-myeon, Pohang"
+    },
+    "description": {
+      "en": "Seaweed facials in a jjimjilbang row near the port — walk-ins via Naver Map, not Google spa finders.",
+      "ja": "港近くのジムジルバン通りの海藻フェイシャル。ネイバーマップで見つかるが、Googleスパ検索にはない。",
+      "zh": "港口附近汗蒸街的海藻面部护理，通过 Naver 地图找到，Google Spa 搜索没有。",
+      "vi": "Facial rong biển trên phố jjimjilbang gần cảng — tìm qua Naver Map, không phải tìm spa Google.",
+      "id": "Facial rumput laut di deretan jjimjilbang dekat pelabuhan — lewat Naver Map, bukan pencari spa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "cheongsong",
+      "district": "cheongsong-eup"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Cheongsong Apple Vinegar Skin Toner Lab",
+      "ja": "青松りんご酢化粧水ラボ",
+      "zh": "青松苹果醋化妆水实验室",
+      "vi": "Lab toner giấm táo Cheongsong",
+      "id": "Lab Toner Cuka Apel Cheongsong"
+    },
+    "address": {
+      "en": "Cheongsong-eup, Cheongsong",
+      "ja": "青松郡 青松邑",
+      "zh": "青松郡青松邑",
+      "vi": "Cheongsong-eup, Cheongsong",
+      "id": "Cheongsong-eup, Cheongsong"
+    },
+    "description": {
+      "en": "Small-batch apple vinegar toners from orchard co-ops — Naver orchard beauty bloggers feature it; Google ignores it.",
+      "ja": "果樹園協同組合の少量生産りんご酢化粧水。ネイバー果樹ビューティーブロガーが紹介、Googleは無視。",
+      "zh": "果园合作社小批量苹果醋化妆水，Naver 果园美妆博主推荐，Google 忽略。",
+      "vi": "Toner giấm táo sản xuất nhỏ từ hợp tác xã vườn — blogger làm đẹp vườn Naver giới thiệu; Google bỏ qua.",
+      "id": "Toner cuka apel produksi kecil dari koperasi kebun — blogger kecantikan kebun Naver menampilkan; Google mengabaikan."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "andong",
+      "district": "hahoe"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Andong Soju Museum Backroom Tasting",
+      "ja": "安東焼酎博物館裏試飲",
+      "zh": "安东烧酒博物馆后台品饮",
+      "vi": "Nếm thử hậu trường Bảo tàng Soju Andong",
+      "id": "Pencicipan Belakang Panggung Museum Soju Andong"
+    },
+    "address": {
+      "en": "Pungcheon-myeon, Andong",
+      "ja": "安東市 豊川面",
+      "zh": "安东市丰川面",
+      "vi": "Pungcheon-myeon, Andong",
+      "id": "Pungcheon-myeon, Andong"
+    },
+    "description": {
+      "en": "Volunteer-led soju tastings in museum backrooms — sign-up on Naver culture blogs, not Google experiences.",
+      "ja": "博物館裏室でのボランティア案内焼酎試飲。ネイバー文化ブログで申込、Google体験にはない。",
+      "zh": "博物馆后台志愿者带领的烧酒品鉴，在 Naver 文化博客报名，不在 Google 体验。",
+      "vi": "Nếm soju do tình nguyện viên dẫn trong phòng hậu bảo tàng — đăng ký trên blog văn hóa Naver, không phải trải nghiệm Google.",
+      "id": "Pencicipan soju dipandu relawan di ruang belakang museum — daftar di blog budaya Naver, bukan pengalaman Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "gyeongju",
+      "district": "wolseong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Gyeongju Wolseong Star-Gazing Story Night",
+      "ja": "慶州月城星見物語の会",
+      "zh": "庆州月城观星故事会",
+      "vi": "Đêm kể chuyện ngắm sao Wolseong Gyeongju",
+      "id": "Malam Bercerita Mengamati Bintang Wolseong Gyeongju"
+    },
+    "address": {
+      "en": "Inwang-dong, Gyeongju",
+      "ja": "慶州市 仁旺洞",
+      "zh": "庆州市仁旺洞",
+      "vi": "Inwang-dong, Gyeongju",
+      "id": "Inwang-dong, Gyeongju"
+    },
+    "description": {
+      "en": "Locals tell Silla legends under the stars off the tourist path — nights posted on Naver culture cafés, not Google.",
+      "ja": "観光ルート外で地元民が新羅伝説を語る星見の会。日程はネイバー文化カフェ、Googleにはない。",
+      "zh": "观光路线外本地人讲述新罗传说的观星会，日程在 Naver 文化咖啡馆，Google 没有。",
+      "vi": "Dân địa phương kể truyền thuyết Silla dưới sao ngoài lộ trình du lịch — đêm đăng trên cafe văn hóa Naver, không trên Google.",
+      "id": "Warga menceritakan legenda Silla di bawah bintang di luar jalur wisata — malam diposting di kafe budaya Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "sangju",
+      "district": "sangju-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Sangju Dried Persimmon Craft Workshop",
+      "ja": "尙州干し柿工芸工房",
+      "zh": "尚州柿饼工艺工坊",
+      "vi": "Xưởng thủ công hồng khô Sangju",
+      "id": "Workshop Kerajinan Kesemek Kering Sangju"
+    },
+    "address": {
+      "en": "Sangju-si, Gyeongbuk",
+      "ja": "尙州市",
+      "zh": "尚州市",
+      "vi": "Sangju-si, Gyeongbuk",
+      "id": "Sangju-si, Gyeongbuk"
+    },
+    "description": {
+      "en": "Hands-on dried persimmon rolling in a farmhouse — class links on Naver folk craft groups, not Google.",
+      "ja": "農家での干し柿巻き体験。受講リンクはネイバー民俗工芸グループ、Googleにはない。",
+      "zh": "农家柿饼卷制体验，报名链接在 Naver 民俗工艺群，Google 没有。",
+      "vi": "Cuộn hồng khô thực hành tại nông trại — link lớp trên nhóm thủ công dân gian Naver, không trên Google.",
+      "id": "Menggulung kesemek kering hands-on di rumah pertanian — link kelas di grup kerajinan rakyat Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "goryeong",
+      "district": "daegaya"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Daegaya Kingdom Pottery Kiln Tour",
+      "ja": "大加耶王国陶窯見学",
+      "zh": "大加耶王国陶窑参观",
+      "vi": "Tour lò gốm Vương quốc Daegaya",
+      "id": "Tur Kiln Keramik Kerajaan Daegaya"
+    },
+    "address": {
+      "en": "Daegaya-eup, Goryeong",
+      "ja": "高靈郡 大加耶邑",
+      "zh": "高灵郡大加耶邑",
+      "vi": "Daegaya-eup, Goryeong",
+      "id": "Daegaya-eup, Goryeong"
+    },
+    "description": {
+      "en": "Family kiln tours beside ancient tomb fields — booked through Naver archaeology blogs, not Google.",
+      "ja": "古墳横の家族窯見学。ネイバー考古学ブログで予約、Googleにはない。",
+      "zh": "古坟旁的家庭窑炉参观，通过 Naver 考古博客预约，Google 没有。",
+      "vi": "Tour lò gia đình cạnh cánh đồng mộ cổ — đặt qua blog khảo cổ Naver, không trên Google.",
+      "id": "Tur kiln keluarga di samping ladang makam kuno — dipesan lewat blog arkeologi Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "cheongsong",
+      "district": "cheongsong-eup"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Juwangsan Hidden Waterfall Trail",
+      "ja": "周王山隠れ滝トレイル",
+      "zh": "周王山隐秘瀑布步道",
+      "vi": "Đường thác ẩn Juwangsan",
+      "id": "Jalur Air Terjun Tersembunyi Juwangsan"
+    },
+    "address": {
+      "en": "Cheongsong-eup, Cheongsong",
+      "ja": "青松郡 青松邑",
+      "zh": "青松郡青松邑",
+      "vi": "Cheongsong-eup, Cheongsong",
+      "id": "Cheongsong-eup, Cheongsong"
+    },
+    "description": {
+      "en": "Unmarked waterfall path locals hike on weekdays — route on Naver hiking blogs, not Google trail apps.",
+      "ja": "平日に地元民が歩く無標識の滝道。ルートはネイバー登山ブログ、Googleトレイルアプリにはない。",
+      "zh": "平日本地人走的无标识瀑布道，路线在 Naver 登山博客，Google 步道应用没有。",
+      "vi": "Đường thác không biển báo dân địa phương đi ngày thường — lộ trình trên blog leo núi Naver, không phải app đường mòn Google.",
+      "id": "Jalur air terjun tanpa rambu yang dilalui warga hari kerja — rute di blog hiking Naver, bukan app jalur Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "pohang",
+      "district": "daebo"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Homigot Sunrise Neighborhood Walk",
+      "ja": "虎尾台日の出近所散策",
+      "zh": "虎尾台日出社区漫步",
+      "vi": "Đi bộ cộng đồng bình minh Homigot",
+      "id": "Jalan Lingkungan Matahari Terbit Homigot"
+    },
+    "address": {
+      "en": "Daebo-myeon, Pohang",
+      "ja": "浦項市 大甫面",
+      "zh": "浦项市大甫面",
+      "vi": "Daebo-myeon, Pohang",
+      "id": "Daebo-myeon, Pohang"
+    },
+    "description": {
+      "en": "Quiet coastal walk locals take before the tourist sunrise crowd — tips on Naver morning blogs, not Google beaches.",
+      "ja": "観光客の日の出前に地元民が歩く静かな海岸道。ヒントはネイバー朝ブログ、Googleビーチにはない。",
+      "zh": "游客看日出前本地人走的安静海岸道，贴士在 Naver 清晨博客，Google 海滩没有。",
+      "vi": "Đi bộ ven biển yên tĩnh trước đám đông ngắm bình minh — mẹo trên blog buổi sáng Naver, không phải bãi Google.",
+      "id": "Jalan pantai tenang sebelum kerumunan wisata sunrise — tips di blog pagi Naver, bukan pantai Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "mungyeong",
+      "district": "mungyeong-si"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Mungyeong Saejae Pass Ridge Loop",
+      "ja": "聞慶鳥嶺峠尾根ループ",
+      "zh": "闻庆鸟岭关山脊环线",
+      "vi": "Vòng đồi đèo Saejae Mungyeong",
+      "id": "Loop Punggung Tanah Saejae Mungyeong"
+    },
+    "address": {
+      "en": "Mungyeong-si, Gyeongbuk",
+      "ja": "聞慶市",
+      "zh": "闻庆市",
+      "vi": "Mungyeong-si, Gyeongbuk",
+      "id": "Mungyeong-si, Gyeongbuk"
+    },
+    "description": {
+      "en": "Historic pass ridge loop with autumn colors — GPX on Naver hiking clubs, not Google heritage trails.",
+      "ja": "紅葉が美しい史跡峠の尾根ループ。GPXはネイバー登山クラブ、Google遺産トレイルにはない。",
+      "zh": "秋叶迷人的古迹关隘山脊环线，GPX 在 Naver 登山俱乐部，Google 遗产步道没有。",
+      "vi": "Vòng đồi đèo di tích với màu thu — GPX trên club leo núi Naver, không phải đường mòn di sản Google.",
+      "id": "Loop punggung tanah bersejarah dengan warna musim gugur — GPX di klub hiking Naver, bukan jalur warisan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongbuk",
+      "city": "uljin",
+      "district": "uljin-eup"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Uljin Wangpi Beach Dawn Shell Walk",
+      "ja": "蔚珍望皮浜夜明け貝殻散策",
+      "zh": "蔚珍望皮浜黎明贝壳漫步",
+      "vi": "Đi bộ vỏ sò bình minh bãi Wangpi Uljin",
+      "id": "Jalan Cangkang Fajar Pantai Wangpi Uljin"
+    },
+    "address": {
+      "en": "Uljin-eup, Uljin",
+      "ja": "蔚珍郡 蔚珍邑",
+      "zh": "蔚珍郡蔚珍邑",
+      "vi": "Uljin-eup, Uljin",
+      "id": "Uljin-eup, Uljin"
+    },
+    "description": {
+      "en": "Shell-strewn beach walk at first light — photos on Naver coastal blogs, not Google swimming beaches.",
+      "ja": "夜明けの貝殻散らばる浜辺散策。写真はネイバー海岸ブログ、Google海水浴場にはない。",
+      "zh": "黎明时分贝壳遍布的海滨漫步，照片在 Naver 海岸博客，Google 海水浴场没有。",
+      "vi": "Đi bộ bãi đầy vỏ sò lúc rạng đông — ảnh trên blog ven biển Naver, không phải bãi tắm Google.",
+      "id": "Jalan pantai berhamburan cangkang saat fajar — foto di blog pesisir Naver, bukan pantai renang Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongnam",
+      "city": "changwon",
+      "district": "ungdong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Ungdong Eel Alley",
+      "ja": "雲洞ウナギ路地",
+      "zh": "云洞鳗鱼巷",
+      "vi": "Hẻm lươn Ungdong",
+      "id": "Gang Belut Ungdong"
+    },
+    "address": {
+      "en": "Ungdong, Changwon",
+      "ja": "昌原市 雲洞",
+      "zh": "昌原市云洞",
+      "vi": "Ungdong, Changwon",
+      "id": "Ungdong, Changwon"
+    },
+    "description": {
+      "en": "Charcoal-grilled eel shops locals queue for on payday — ranked on Naver Map, not Google restaurant guides.",
+      "ja": "給料日に地元民が並ぶ炭火ウナギ店。ネイバーマップで評価されるが、Googleレストランガイドにはない。",
+      "zh": "发薪日本地人排队的炭烤鳗鱼店，在 Naver 地图有排名，Google 餐厅指南没有。",
+      "vi": "Quán lươn nướng than dân địa phương xếp hàng ngày lương — xếp hạng trên Naver Map, không phải hướng dẫn nhà hàng Google.",
+      "id": "Warung belut panggang arang yang diantre warga hari gajian — masuk peringkat Naver Map, bukan panduan restoran Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongnam",
+      "city": "jinju",
+      "district": "geumseong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Jinju Namgang Night Market Gukbap Row",
+      "ja": "晋州南江夜市肉汁飯通り",
+      "zh": "晋州南江夜市汤饭街",
+      "vi": "Dãy gukbap chợ đêm Namgang Jinju",
+      "id": "Deretan Gukbap Pasar Malam Namgang Jinju"
+    },
+    "address": {
+      "en": "Geumseong-myeon, Jinju",
+      "ja": "晋州市 錦城面",
+      "zh": "晋州市锦城面",
+      "vi": "Geumseong-myeon, Jinju",
+      "id": "Geumseong-myeon, Jinju"
+    },
+    "description": {
+      "en": "Night-market gukbap stalls after the lantern festival crowds leave — Naver night-food blogs, not Google.",
+      "ja": "灯籠祭の人波が引いた後の夜市국밥屋台。ネイバー夜グルメブログに載るが、Googleにはない。",
+      "zh": "灯笼节人潮散去后的夜市汤饭摊，出现在 Naver 夜宵博客，Google 没有。",
+      "vi": "Quầy gukbap chợ đêm sau khi đám đông lễ hội đèn lồng rời đi — blog ẩm thực đêm Naver, không trên Google.",
+      "id": "Kios gukbap pasar malam setelah kerumunan festival lentera pergi — blog makanan malam Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongnam",
+      "city": "tongyeong",
+      "district": "bongpyeong"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Tongyeong Chungmu Kimbap Back Alley",
+      "ja": "統营忠武キンパ裏路地",
+      "zh": "统营忠武紫菜包饭后巷",
+      "vi": "Ngõ kimbap Chungmu Tongyeong",
+      "id": "Gang Belakang Kimbap Chungmu Tongyeong"
+    },
+    "address": {
+      "en": "Bongpyeong-dong, Tongyeong",
+      "ja": "統营市 鳳坪洞",
+      "zh": "统营市凤坪洞",
+      "vi": "Bongpyeong-dong, Tongyeong",
+      "id": "Bongpyeong-dong, Tongyeong"
+    },
+    "description": {
+      "en": "Radish-heavy Chungmu kimbap locals eat dockside — pinned on Naver seafood blogs, not Google fish markets.",
+      "ja": "港横で地元民が食べる大根たっぷり忠武キンパ。ネイバー海鮮ブログにピン、Google魚市場にはない。",
+      "zh": "码头边本地人吃的大根忠武紫菜包饭，标在 Naver 海鲜博客，Google 鱼市没有。",
+      "vi": "Kimbap Chungmu nhiều củ cải dân địa phương ăn bên bến — ghim trên blog hải sản Naver, không phải chợ cá Google.",
+      "id": "Kimbap Chungmu berlabu yang dimakan warga di dermaga — disematkan di blog seafood Naver, bukan pasar ikan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "gohyeon"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Geoje Shipyard Worker Jjigae Alley",
+      "ja": "巨濟造船所労働者チゲ路地",
+      "zh": "巨济造船所工人炖锅巷",
+      "vi": "Hẻm jjigae công nhân đóng tàu Geoje",
+      "id": "Gang Jjigae Pekerja Galangan Geoje"
+    },
+    "address": {
+      "en": "Gohyeon-dong, Geoje",
+      "ja": "巨濟市 古縣洞",
+      "zh": "巨济市古县洞",
+      "vi": "Gohyeon-dong, Geoje",
+      "id": "Gohyeon-dong, Geoje"
+    },
+    "description": {
+      "en": "Hearty jjigae joints serving shipyard shifts at dawn — Naver industrial food threads, not Google.",
+      "ja": "早朝の造船所シフト向けチゲ店。ネイバー工業地グルメスレに載るが、Googleにはない。",
+      "zh": "清晨为造船厂轮班准备的炖锅店，出现在 Naver 工业区美食帖，Google 没有。",
+      "vi": "Quán jjigae đậm đà phục vụ ca đóng tàu lúc bình minh — thread ẩm thực công nghiệp Naver, không trên Google.",
+      "id": "Warung jjigae mengenyangkan untuk shift galangan saat fajar — thread makanan industri Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "sacheon",
+      "district": "sacheon-si"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Sacheon Aerospace Drama Hangar Backlot",
+      "ja": "泗川航空宇宙ドラマ格納庫裏",
+      "zh": "泗川航空航天剧集机库后台",
+      "vi": "Backlot hangar drama hàng không Sacheon",
+      "id": "Backlot Hanggar Drama Dirgantara Sacheon"
+    },
+    "address": {
+      "en": "Sacheon-si, Gyeongnam",
+      "ja": "泗川市",
+      "zh": "泗川市",
+      "vi": "Sacheon-si, Gyeongnam",
+      "id": "Sacheon-si, Gyeongnam"
+    },
+    "description": {
+      "en": "Decommissioned hangars scouted for aviation melodramas — location notes on Naver drama threads, not Google.",
+      "ja": "航空メロドラマのロケハンになる廃格納庫。場所のメモはネイバードラマスレ、Googleロケ地にはない。",
+      "zh": "航空言情剧踩点的废弃机库，位置备注在 Naver 剧集帖，Google 取景地没有。",
+      "vi": "Nhà kho máy bay ngừng hoạt động khảo sát cho melodrama hàng không — ghi chú trên thread drama Naver, không phải địa điểm Google.",
+      "id": "Hanggar tidak terpakai disurvei untuk melodrama aviasi — catatan di thread drama Naver, bukan lokasi Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "gimhae",
+      "district": "gimhae-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Gimhae Gaya Kingdom Drama Village Corner",
+      "ja": "金海伽倻王国ドラマ村の角",
+      "zh": "金海伽倻王国剧集村角落",
+      "vi": "Góc làng drama Vương quốc Gaya Gimhae",
+      "id": "Sudut Desa Drama Kerajaan Gaya Gimhae"
+    },
+    "address": {
+      "en": "Gimhae-si, Gyeongnam",
+      "ja": "金海市",
+      "zh": "金海市",
+      "vi": "Gimhae-si, Gyeongnam",
+      "id": "Gimhae-si, Gyeongnam"
+    },
+    "description": {
+      "en": "Replica village corners used for cable sageuk — scouted via Naver drama blogs, not Google heritage sites.",
+      "ja": "ケーブル史劇のロケに使われる復元村の角。ネイバードラマブログで探すが、Google遺産サイトではない。",
+      "zh": "有线历史剧取景的复原村角落，通过 Naver 剧集博客踩点，不是 Google 遗产网站。",
+      "vi": "Góc làng phục nguyên quay sageuk cáp — khảo sát qua blog drama Naver, không phải di sản Google.",
+      "id": "Sudut desa replika untuk sageuk kabel — disurvei lewat blog drama Naver, bukan situs warisan Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "yangsan",
+      "district": "yangsan-si"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Yangsan Webtoon Alley Basement Studios",
+      "ja": "梁山ウェブトゥーン路地地下スタジオ",
+      "zh": "梁山网漫巷地下室工作室",
+      "vi": "Studio tầng hầm hẻm webtoon Yangsan",
+      "id": "Studio Basement Gang Webtoon Yangsan"
+    },
+    "address": {
+      "en": "Yangsan-si, Gyeongnam",
+      "ja": "梁山市",
+      "zh": "梁山市",
+      "vi": "Yangsan-si, Gyeongnam",
+      "id": "Yangsan-si, Gyeongnam"
+    },
+    "description": {
+      "en": "Basement studios where rookie webtoon artists debut — shared on Naver blogs, not Google art districts.",
+      "ja": "新人ウェブトゥーン作家がデビューする地下スタジオ。ネイバーブログで共有、Googleアート地区にはない。",
+      "zh": "新人网漫作者在地下室工作室出道，在 Naver 博客分享，不在 Google 艺术区。",
+      "vi": "Studio tầng hầm nơi họa sĩ webtoon tân binh ra mắt — chia sẻ trên blog Naver, không phải khu nghệ thuật Google.",
+      "id": "Studio basement tempat artis webtoon pemula debut — dibagikan di blog Naver, bukan distrik seni Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "miryang",
+      "district": "miryang-si"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Miryang Miryang Arirang Drama Stage Backyard",
+      "ja": "密陽密陽アリラン劇場裏庭",
+      "zh": "密阳密阳阿里郎剧场后院",
+      "vi": "Sân sau sân khấu drama Arirang Miryang",
+      "id": "Halaman Belakang Panggung Drama Arirang Miryang"
+    },
+    "address": {
+      "en": "Miryang-si, Gyeongnam",
+      "ja": "密陽市",
+      "zh": "密阳市",
+      "vi": "Miryang-si, Gyeongnam",
+      "id": "Miryang-si, Gyeongnam"
+    },
+    "description": {
+      "en": "Backyard stage where regional Arirang dramas rehearse — schedules on Naver folk culture blogs, not Google.",
+      "ja": "地域アリラン劇が稽古する裏庭舞台。日程はネイバー民俗文化ブログ、Googleにはない。",
+      "zh": "地方阿里郎剧排练的后院舞台，日程在 Naver 民俗文化博客，Google 没有。",
+      "vi": "Sân khấu sân sau nơi drama Arirang địa phương tập — lịch trên blog văn hóa dân gian Naver, không trên Google.",
+      "id": "Panggung halaman belakang tempat drama Arirang regional latihan — jadwal di blog budaya rakyat Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongnam",
+      "city": "changwon",
+      "district": "palyong"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Changwon Jjimjilbang Scrub Master Alley",
+      "ja": "昌原ジムジルバンスクラブ名人路地",
+      "zh": "昌原汗蒸去角质名师巷",
+      "vi": "Hẻm thầy scrub jjimjilbang Changwon",
+      "id": "Gang Master Scrub Jjimjilbang Changwon"
+    },
+    "address": {
+      "en": "Palyong-dong, Changwon",
+      "ja": "昌原市 八龍洞",
+      "zh": "昌原市八龙洞",
+      "vi": "Palyong-dong, Changwon",
+      "id": "Palyong-dong, Changwon"
+    },
+    "description": {
+      "en": "Legendary scrub masters in a jjimjilbang row — booked via Naver Talk, not Google spa finders.",
+      "ja": "ジムジルバン通りの伝説のスクラブ名人。ネイバートーク予約が中心、Googleスパ検索にはない。",
+      "zh": "汗蒸街传奇搓澡师傅，通过 Naver Talk 预约，Google Spa 搜索没有。",
+      "vi": "Thợ scrub huyền thoại trên phố jjimjilbang — đặt qua Naver Talk, không phải tìm spa Google.",
+      "id": "Master scrub legendaris di deretan jjimjilbang — dipesan lewat Naver Talk, bukan pencari spa Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongnam",
+      "city": "jinju",
+      "district": "jinju-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Jinju Silk Protein Hair Treatment Salon",
+      "ja": "晋州シルクプロテインヘアサロン",
+      "zh": "晋州丝蛋白护发沙龙",
+      "vi": "Salon điều trị tóc protein tơ tằm Jinju",
+      "id": "Salon Perawatan Rambut Protein Sutra Jinju"
+    },
+    "address": {
+      "en": "Jinju-si, Gyeongnam",
+      "ja": "晋州市",
+      "zh": "晋州市",
+      "vi": "Jinju-si, Gyeongnam",
+      "id": "Jinju-si, Gyeongnam"
+    },
+    "description": {
+      "en": "Silk-protein hair masks from local cocoon co-ops — reviewed on Naver beauty threads, not Google salons.",
+      "ja": "地元繭協同組合のシルクプロテインヘアマスク。ネイバービューティースレで評価、Googleサロンにはない。",
+      "zh": "当地蚕茧合作社的丝蛋白发膜，在 Naver 美妆帖有评价，Google 沙龙没有。",
+      "vi": "Mặt nạ tóc protein tơ tằm từ hợp tác xã kén địa phương — review trên thread làm đẹp Naver, không phải salon Google.",
+      "id": "Masker rambut protein sutra dari koperasi kepompong lokal — diulas di thread kecantikan Naver, bukan salon Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongnam",
+      "city": "tongyeong",
+      "district": "bongpyeong"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Tongyeong Seaweed Collagen Facial Dock",
+      "ja": "統营海藻コラーゲン港フェイシャル",
+      "zh": "统营海藻胶原蛋白港口面部护理",
+      "vi": "Facial collagen rong biển bến cảng Tongyeong",
+      "id": "Facial Kolagen Rumput Laut Dermaga Tongyeong"
+    },
+    "address": {
+      "en": "Bongpyeong-dong, Tongyeong",
+      "ja": "統营市 鳳坪洞",
+      "zh": "统营市凤坪洞",
+      "vi": "Bongpyeong-dong, Tongyeong",
+      "id": "Bongpyeong-dong, Tongyeong"
+    },
+    "description": {
+      "en": "Dockside facials using fresh seaweed harvest — Naver coastal beauty bloggers rave; Google has no listing.",
+      "ja": "新鮮海藻収穫を使う港のフェイシャル。ネイバー海岸ビューティーブロガーが絶賛、Google掲載なし。",
+      "zh": "用新鲜采收海藻的港口面部护理，Naver 海岸美妆博主盛赞，Google 无条目。",
+      "vi": "Facial cạnh bến dùng rong biển tươi — blogger làm đẹp ven biển Naver khen nức nở; Google không có mục.",
+      "id": "Facial di dermaga memakai rumput laut segar — blogger kecantikan pesisir Naver memuji; Google tanpa daftar."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "gyeongnam",
+      "city": "hadong",
+      "district": "hadong-eup"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Hadong Green Tea Essence Skin Bar",
+      "ja": "河東緑茶エッセンス肌バー",
+      "zh": "河东绿茶精华护肤吧",
+      "vi": "Quầy da tinh chất trà xanh Hadong",
+      "id": "Bar Kulit Esensi Teh Hijau Hadong"
+    },
+    "address": {
+      "en": "Hadong-eup, Hadong",
+      "ja": "河東郡 河東邑",
+      "zh": "河东郡河东邑",
+      "vi": "Hadong-eup, Hadong",
+      "id": "Hadong-eup, Hadong"
+    },
+    "description": {
+      "en": "First-flush green tea serums at a hillside bar — appointments via Naver Booking, not Google wellness apps.",
+      "ja": "丘陵のバーで提供する新茶エッセンス。ネイバー予約が中心、Googleウェルネスアプリにはない。",
+      "zh": "山丘吧提供的新茶精华液，通过 Naver 预约，Google 健康应用没有。",
+      "vi": "Serum trà xanh đầu mùa tại quầy bar đồi — đặt qua Naver Booking, không phải app wellness Google.",
+      "id": "Serum teh hijau first-flush di bar perbukitan — lewat Naver Booking, bukan app wellness Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "haegeum"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Geoje Haegeum Island Fishermen Folk Song Deck",
+      "ja": "巨濟海琴島漁師民謡デッキ",
+      "zh": "巨济海琴岛渔民民谣露台",
+      "vi": "Sàn dân ca ngư dân đảo Haegeum Geoje",
+      "id": "Dek Lagu Rakyat Nelayan Pulau Haegeum Geoje"
+    },
+    "address": {
+      "en": "Haegeum-myeon, Geoje",
+      "ja": "巨濟市 海琴面",
+      "zh": "巨济市海琴面",
+      "vi": "Haegeum-myeon, Geoje",
+      "id": "Haegeum-myeon, Geoje"
+    },
+    "description": {
+      "en": "Fishermen sing minyo at dusk on an island deck — events posted on Naver folk culture blogs, not Google.",
+      "ja": "夕暮れの島デッキで漁師が民謡を歌う。イベントはネイバー民俗文化ブログ、Googleにはない。",
+      "zh": "黄昏岛屿露台上渔民唱民谣，活动发在 Naver 民俗文化博客，Google 没有。",
+      "vi": "Ngư dân hát minyo lúc hoàng hôn trên sàn đảo — sự kiện đăng blog văn hóa dân gian Naver, không trên Google.",
+      "id": "Nelayan menyanyi minyo saat senja di dek pulau — acara diposting blog budaya rakyat Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "sacheon",
+      "district": "sacheon-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Sacheon Pottery Village Kiln Firing Demo",
+      "ja": "泗川陶磁器村窯焚きデモ",
+      "zh": "泗川陶瓷村窑烧演示",
+      "vi": "Demo nung lò làng gốm Sacheon",
+      "id": "Demo Pembakaran Kiln Desa Keramik Sacheon"
+    },
+    "address": {
+      "en": "Sacheon-si, Gyeongnam",
+      "ja": "泗川市",
+      "zh": "泗川市",
+      "vi": "Sacheon-si, Gyeongnam",
+      "id": "Sacheon-si, Gyeongnam"
+    },
+    "description": {
+      "en": "Monthly kiln-firing demos open to neighbors — dates on Naver craft blogs, not Google pottery tours.",
+      "ja": "近所民向けの月例窯焚きデモ。日程はネイバー工芸ブログ、Google陶芸ツアーにはない。",
+      "zh": "面向街坊的月度窑烧演示，日期在 Naver 工艺博客，不在 Google 陶艺游。",
+      "vi": "Demo nung lò hàng tháng mở cho hàng xóm — ngày trên blog thủ công Naver, không phải tour gốm Google.",
+      "id": "Demo pembakaran kiln bulanan terbuka untuk tetangga — tanggal di blog kerajinan Naver, bukan tur keramik Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "gimhae",
+      "district": "gimhae-si"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Gimhae Gaya Tomb Field Storytelling Walk",
+      "ja": "金海伽倻古墳群語り散策",
+      "zh": "金海伽倻古坟群故事漫步",
+      "vi": "Đi bộ kể chuyện cánh đồng mộ Gaya Gimhae",
+      "id": "Jalan Bercerita Ladang Makam Gaya Gimhae"
+    },
+    "address": {
+      "en": "Gimhae-si, Gyeongnam",
+      "ja": "金海市",
+      "zh": "金海市",
+      "vi": "Gimhae-si, Gyeongnam",
+      "id": "Gimhae-si, Gyeongnam"
+    },
+    "description": {
+      "en": "Volunteer guides tell Gaya legends beside tomb mounds — sign-up on Naver archaeology blogs, not Google.",
+      "ja": "古墳横でボランティアが伽倻伝説を語る散策。ネイバー考古学ブログで申込、Googleにはない。",
+      "zh": "古坟旁志愿者讲述伽倻传说的漫步，在 Naver 考古博客报名，Google 没有。",
+      "vi": "Hướng dẫn viên tình nguyện kể truyền thuyết Gaya cạnh gò mộ — đăng ký trên blog khảo cổ Naver, không trên Google.",
+      "id": "Pemandu relawan menceritakan legenda Gaya di samping gundukan makam — daftar di blog arkeologi Naver, tidak di Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "haman",
+      "district": "haman-eup"
+    },
+    "rating": 4.3,
+    "name": {
+      "en": "Haman Hwagae Market Folk Craft Fair",
+      "ja": "咸安花開市場民俗工芸市",
+      "zh": "咸安花开市场民俗工艺市集",
+      "vi": "Hội chợ thủ công dân gian chợ Hwagae Haman",
+      "id": "Pasar Kerajinan Rakyat Pasar Hwagae Haman"
+    },
+    "address": {
+      "en": "Haman-eup, Haman",
+      "ja": "咸安郡 咸安邑",
+      "zh": "咸安郡咸安邑",
+      "vi": "Haman-eup, Haman",
+      "id": "Haman-eup, Haman"
+    },
+    "description": {
+      "en": "Monthly folk craft fair at a countryside market — dates on Naver local culture posts, not Google events.",
+      "ja": "田舎市場の月例民俗工芸市。日程はネイバー地域文化記事、Googleイベントにはない。",
+      "zh": "乡村市场的月度民俗工艺市集，日期在 Naver 地方文化帖，不在 Google 活动。",
+      "vi": "Hội chợ thủ công dân gian hàng tháng tại chợ nông thôn — ngày trên bài văn hóa địa phương Naver, không phải sự kiện Google.",
+      "id": "Pasar kerajinan rakyat bulanan di pasar pedesaan — tanggal di posting budaya lokal Naver, bukan acara Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongnam",
+      "city": "tongyeong",
+      "district": "bongpyeong"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Mireukdo Island Hidden Ridge Trail",
+      "ja": "弥勒岛隠れ尾根トレイル",
+      "zh": "弥勒岛隐秘山脊步道",
+      "vi": "Đường đồi ẩn đảo Mireukdo",
+      "id": "Jalur Punggung Tersembunyi Pulau Mireukdo"
+    },
+    "address": {
+      "en": "Bongpyeong-dong, Tongyeong",
+      "ja": "統营市 鳳坪洞",
+      "zh": "统营市凤坪洞",
+      "vi": "Bongpyeong-dong, Tongyeong",
+      "id": "Bongpyeong-dong, Tongyeong"
+    },
+    "description": {
+      "en": "Ridge path with sea views locals hike on weekdays — route on Naver island blogs, not Google trail apps.",
+      "ja": "平日に地元民が歩く海が見える尾根道。ルートはネイバー島ブログ、Googleトレイルアプリにはない。",
+      "zh": "平日本地人走的海景山脊道，路线在 Naver 岛屿博客，Google 步道应用没有。",
+      "vi": "Đường đồi view biển dân địa phương đi ngày thường — lộ trình trên blog đảo Naver, không phải app đường mòn Google.",
+      "id": "Jalur punggung pemandangan laut yang dilalui warga hari kerja — rute di blog pulau Naver, bukan app jalur Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "haegeum"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Geoje Haegeum Skywalk Dawn Loop",
+      "ja": "巨濟海琴スカイウォーク夜明けループ",
+      "zh": "巨济海琴天空步道黎明环线",
+      "vi": "Vòng bình minh skywalk Haegeum Geoje",
+      "id": "Loop Fajar Skywalk Haegeum Geoje"
+    },
+    "address": {
+      "en": "Haegeum-myeon, Geoje",
+      "ja": "巨濟市 海琴面",
+      "zh": "巨济市海琴面",
+      "vi": "Haegeum-myeon, Geoje",
+      "id": "Haegeum-myeon, Geoje"
+    },
+    "description": {
+      "en": "Skywalk loop locals walk before tour buses arrive — tips on Naver morning blogs, not Google attractions.",
+      "ja": "観光バス前に地元民が歩くスカイウォークループ。ヒントはネイバー朝ブログ、Google名所にはない。",
+      "zh": "旅游大巴到来前本地人走的天空步道环线，贴士在 Naver 清晨博客，Google 景点没有。",
+      "vi": "Vòng skywalk dân địa phương đi trước khi xe du lịch đến — mẹo trên blog buổi sáng Naver, không phải điểm tham quan Google.",
+      "id": "Loop skywalk yang dilalui warga sebelum bus wisata tiba — tips di blog pagi Naver, bukan atraksi Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongnam",
+      "city": "hadong",
+      "district": "hadong-eup"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Hwagae Valley Cherry Blossom Secret Path",
+      "ja": "花開渓谷桜隠れ道",
+      "zh": "花开溪谷樱花秘道",
+      "vi": "Đường bí mật hoa anh đào thung lũng Hwagae",
+      "id": "Jalan Rahasia Bunga Sakura Lembah Hwagae"
+    },
+    "address": {
+      "en": "Hadong-eup, Hadong",
+      "ja": "河東郡 河東邑",
+      "zh": "河东郡河东邑",
+      "vi": "Hadong-eup, Hadong",
+      "id": "Hadong-eup, Hadong"
+    },
+    "description": {
+      "en": "Unmarked cherry path locals picnic on before festival crowds — bloom alerts on Naver blogs, not Google parks.",
+      "ja": "祭りの人波前に地元民がピクニックする無標識の桜道。開花情報はネイバーブログ、Google公園にはない。",
+      "zh": "节庆人潮前本地人野餐的无标识樱花道，开花信息在 Naver 博客，Google 公园没有。",
+      "vi": "Đường anh đào không biển báo dân địa phương picnic trước đám đông lễ hội — cảnh báo nở hoa trên blog Naver, không phải công viên Google.",
+      "id": "Jalur sakura tanpa rambu tempat warga piknik sebelum kerumunan festival — info mekar di blog Naver, bukan taman Google."
+    },
+    "localGem": true
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongnam",
+      "city": "yangsan",
+      "district": "yangsan-si"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Yangsan Tongdosa Temple Forest Morning Loop",
+      "ja": "梁山通度寺森朝ループ",
+      "zh": "梁山通度寺森林晨间环线",
+      "vi": "Vòng sáng rừng chùa Tongdosa Yangsan",
+      "id": "Loop Pagi Hutan Kuil Tongdosa Yangsan"
+    },
+    "address": {
+      "en": "Yangsan-si, Gyeongnam",
+      "ja": "梁山市",
+      "zh": "梁山市",
+      "vi": "Yangsan-si, Gyeongnam",
+      "id": "Yangsan-si, Gyeongnam"
+    },
+    "description": {
+      "en": "Forest loop monks and neighbors walk at dawn — favorite on Naver temple hiking blogs, not Google trails.",
+      "ja": "僧侶と近所民が早朝歩く森ループ。ネイバー寺院登山ブログのお気に入り、Googleトレイルにはない。",
+      "zh": "僧人与街坊清晨走的森林环线，Naver 寺院登山博客最爱，Google 步道没有。",
+      "vi": "Vòng rừng sư và hàng xóm đi lúc bình minh — yêu thích trên blog leo núi chùa Naver, không phải đường mòn Google.",
+      "id": "Loop hutan yang dilalui biksu dan tetangga saat fajar — favorit di blog hiking kuil Naver, bukan jalur Google."
+    },
+    "localGem": true
   }
 ]

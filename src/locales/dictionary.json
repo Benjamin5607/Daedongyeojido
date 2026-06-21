@@ -35,6 +35,8 @@
     "allCities": "All cities",
     "allDistricts": "All districts",
     "clearFilters": "Clear filters",
+    "naverLocalBadge": "Naver Local Gem",
+    "naverLocalHint": "Best found on Naver Map — rarely on Google",
     "footer": "Auto-curated weekly · Zero API · Built for travelers"
   },
   "ja": {
@@ -73,6 +75,8 @@
     "allCities": "すべての市",
     "allDistricts": "すべての区",
     "clearFilters": "フィルター解除",
+    "naverLocalBadge": "ネイバーローカル",
+    "naverLocalHint": "Googleよりネイバーマップで探すのが確実",
     "footer": "毎週自動更新 · API不要 · 旅行者のために"
   },
   "zh": {
@@ -111,6 +115,8 @@
     "allCities": "全部市",
     "allDistricts": "全部区",
     "clearFilters": "清除筛选",
+    "naverLocalBadge": "Naver 本地秘境",
+    "naverLocalHint": "在 Naver 地图更易找到，Google 很少收录",
     "footer": "每周自动更新 · 零 API · 为旅行者而建"
   },
   "vi": {
@@ -149,6 +155,8 @@
     "allCities": "Tất cả thành phố",
     "allDistricts": "Tất cả quận",
     "clearFilters": "Xóa bộ lọc",
+    "naverLocalBadge": "Địa điểm Naver địa phương",
+    "naverLocalHint": "Tìm trên Naver Map dễ hơn Google",
     "footer": "Tự động cập nhật hàng tuần · Không cần API · Dành cho du khách"
   },
   "id": {
@@ -187,6 +195,8 @@
     "allCities": "Semua kota",
     "allDistricts": "Semua distrik",
     "clearFilters": "Hapus filter",
+    "naverLocalBadge": "Permata Lokal Naver",
+    "naverLocalHint": "Lebih mudah ditemukan di Naver Map, jarang di Google",
     "footer": "Diperbarui otomatis mingguan · Tanpa API · Dibuat untuk pelancong"
   }
 }

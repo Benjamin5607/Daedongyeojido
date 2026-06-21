@@ -8,7 +8,7 @@ import { ThemeTabs } from "@/components/ThemeTabs";
 import { useLanguage } from "@/context/LanguageContext";
 import placesData from "@/data/crawled_places.json";
 import type { RegionFilterState } from "@/lib/regions";
-import type { Place, ThemeId } from "@/types";
+import type { Place, ThemeFilterId } from "@/types";
 
 const initialRegionFilter: RegionFilterState = {
   province: undefined,
@@ -19,14 +19,13 @@ const initialRegionFilter: RegionFilterState = {
 
 export function HomePage() {
   const { t } = useLanguage();
-  const [activeTheme, setActiveTheme] = useState<ThemeId>("k-food");
+  const [activeTheme, setActiveTheme] = useState<ThemeFilterId>("all");
   const [regionFilter, setRegionFilter] =
     useState<RegionFilterState>(initialRegionFilter);
   const places = placesData as Place[];
 
-  const handleThemeChange = (theme: ThemeId) => {
+  const handleThemeChange = (theme: ThemeFilterId) => {
     setActiveTheme(theme);
-    setRegionFilter(initialRegionFilter);
   };
 
   return (

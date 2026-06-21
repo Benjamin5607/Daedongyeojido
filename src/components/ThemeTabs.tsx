@@ -1,9 +1,10 @@
 "use client";
 
-import { THEMES, type ThemeId } from "@/types";
+import { THEME_TAB_IDS, type ThemeFilterId } from "@/types";
 import { useLanguage } from "@/context/LanguageContext";
 
-const THEME_ICONS: Record<ThemeId, string> = {
+const THEME_ICONS: Record<ThemeFilterId, string> = {
+  all: "🗺️",
   "k-food": "🍖",
   hallyu: "🎤",
   "k-beauty": "✨",
@@ -12,8 +13,8 @@ const THEME_ICONS: Record<ThemeId, string> = {
 };
 
 interface ThemeTabsProps {
-  activeTheme: ThemeId;
-  onThemeChange: (theme: ThemeId) => void;
+  activeTheme: ThemeFilterId;
+  onThemeChange: (theme: ThemeFilterId) => void;
 }
 
 export function ThemeTabs({ activeTheme, onThemeChange }: ThemeTabsProps) {
@@ -45,7 +46,7 @@ export function ThemeTabs({ activeTheme, onThemeChange }: ThemeTabsProps) {
         aria-label={t.themeTablistAria}
         className="flex flex-wrap gap-2"
       >
-        {THEMES.map((theme) => {
+        {THEME_TAB_IDS.map((theme) => {
           const isActive = theme === activeTheme;
           return (
             <button

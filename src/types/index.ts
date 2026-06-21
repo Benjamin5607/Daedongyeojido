@@ -7,6 +7,9 @@ export type ThemeId =
   | "k-culture"
   | "urban-nature";
 
+/** UI theme filter — includes "all" to browse every category at once */
+export type ThemeFilterId = ThemeId | "all";
+
 export type LocalizedText = Record<Locale, string> & {
   /** Korean name for Naver Map search */
   ko?: string;
@@ -38,6 +41,8 @@ export const THEMES: ThemeId[] = [
   "k-culture",
   "urban-nature",
 ];
+
+export const THEME_TAB_IDS: ThemeFilterId[] = ["all", ...THEMES];
 
 export const LOCALES: { code: Locale; label: string }[] = [
   { code: "en", label: "English" },

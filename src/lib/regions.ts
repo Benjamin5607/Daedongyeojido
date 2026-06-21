@@ -1,6 +1,6 @@
 import regionLabels from "@/data/region_labels.json";
 import { resolveLocalizedField } from "@/lib/i18n";
-import type { Locale, Place, PlaceRegion } from "@/types";
+import type { Locale, Place, PlaceRegion, ThemeFilterId } from "@/types";
 
 type LabelMap = Record<string, Record<Locale | "ko", string>>;
 
@@ -132,14 +132,14 @@ function placeSearchText(place: Place, locale: Locale): string {
 
 export function filterPlaces(
   places: Place[],
-  activeTheme: Place["theme"],
+  activeTheme: ThemeFilterId,
   filter: RegionFilterState,
   locale: Locale
 ): Place[] {
   const normalizedQuery = filter.query.trim().toLowerCase();
 
   return places.filter((place) => {
-    if (place.theme !== activeTheme) return false;
+    if (activeTheme !== "all" && place.theme !== activeTheme) return false;
 
     if (filter.province && place.region?.province !== filter.province) {
       return false;

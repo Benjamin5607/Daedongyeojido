@@ -8,6 +8,7 @@
     "photoPlaceholder": "Photo",
     "themeTablistAria": "Travel themes",
     "themes": {
+      "all": "All Themes",
       "k-food": "K-Food Deep Dive",
       "hallyu": "Hallyu Pilgrimage",
       "k-beauty": "K-Beauty Wellness",
@@ -15,6 +16,7 @@
       "urban-nature": "Urban Nature Escapes"
     },
     "themeDescriptions": {
+      "all": "See every curated spot in one view — pick a neighborhood below to plan your day.",
       "k-food": "From sizzling BBQ alleys to hidden hanok cafés — taste Korea like a local.",
       "hallyu": "Walk in the footsteps of dramas, K-pop, and the scenes that shaped global fandom.",
       "k-beauty": "Spas, skincare rituals, and wellness spots where glow meets tradition.",
@@ -52,6 +54,7 @@
     "photoPlaceholder": "写真",
     "themeTablistAria": "旅行テーマ",
     "themes": {
+      "all": "すべて",
       "k-food": "K-Food 深掘り",
       "hallyu": "韓流聖地巡礼",
       "k-beauty": "K-ビューティー・ウェルネス",
@@ -59,6 +62,7 @@
       "urban-nature": "都市の中の自然"
     },
     "themeDescriptions": {
+      "all": "食・文化・美容・自然など、厳選スポットをまとめて表示。下の地域フィルターで行き先を絞り込めます。",
       "k-food": "焼肉路地から韓屋カフェまで、地元のように韓国を味わう。",
       "hallyu": "ドラマ、K-POP、世界的ファンの聖地を歩く。",
       "k-beauty": "スパ、スキンケア、伝統と輝きが出会うウェルネス。",
@@ -96,6 +100,7 @@
     "photoPlaceholder": "照片",
     "themeTablistAria": "旅行主题",
     "themes": {
+      "all": "全部",
       "k-food": "K-Food 深度探索",
       "hallyu": "韩流圣地巡礼",
       "k-beauty": "K-美容养生",
@@ -103,6 +108,7 @@
       "urban-nature": "都市中的自然"
     },
     "themeDescriptions": {
+      "all": "美食、文化、美容、自然等精选地点一次浏览——用下方地区筛选规划行程。",
       "k-food": "从烤肉小巷到韩屋咖啡馆，像本地人一样品味韩国。",
       "hallyu": "追随韩剧、K-pop 与全球粉丝心中的经典场景。",
       "k-beauty": "水疗、护肤仪式与传统养生相遇之地。",
@@ -140,6 +146,7 @@
     "photoPlaceholder": "Ảnh",
     "themeTablistAria": "Chủ đề du lịch",
     "themes": {
+      "all": "Tất cả",
       "k-food": "Khám phá ẩm thực Hàn",
       "hallyu": "Hành hương Hallyu",
       "k-beauty": "Làm đẹp & wellness K-Beauty",
@@ -147,6 +154,7 @@
       "urban-nature": "Thiên nhiên giữa lòng thành phố"
     },
     "themeDescriptions": {
+      "all": "Xem mọi điểm tuyển chọn cùng lúc — lọc khu vực bên dưới để lên kế hoạch cho chuyến đi.",
       "k-food": "Từ hẻm nướng thịt đến quán cà phê hanok — nếm Hàn Quốc như người địa phương.",
       "hallyu": "Bước theo dấu chân phim, K-pop và những cảnh quen thuộc với fan toàn cầu.",
       "k-beauty": "Spa, chăm sóc da và wellness nơi vẻ đẹp gặp truyền thống.",
@@ -184,6 +192,7 @@
     "photoPlaceholder": "Foto",
     "themeTablistAria": "Tema perjalanan",
     "themes": {
+      "all": "Semua",
       "k-food": "K-Food Mendalam",
       "hallyu": "Ziarah Hallyu",
       "k-beauty": "K-Beauty & Wellness",
@@ -191,6 +200,7 @@
       "urban-nature": "Alam di Kota"
     },
     "themeDescriptions": {
+      "all": "Lihat semua tempat pilihan sekaligus — filter wilayah di bawah untuk merencanakan kunjungan.",
       "k-food": "Dari gang BBQ hingga kafe hanok — rasakan Korea seperti warga lokal.",
       "hallyu": "Jejar drama, K-pop, dan lokasi ikonik para penggemar global.",
       "k-beauty": "Spa, ritual perawatan kulit, dan wellness bertemu tradisi.",

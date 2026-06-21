@@ -3,11 +3,11 @@
 import { PlaceCard } from "@/components/PlaceCard";
 import { useLanguage } from "@/context/LanguageContext";
 import { filterPlaces, type RegionFilterState } from "@/lib/regions";
-import type { Place, ThemeId } from "@/types";
+import type { Place, ThemeFilterId } from "@/types";
 
 interface PlaceListProps {
   places: Place[];
-  activeTheme: ThemeId;
+  activeTheme: ThemeFilterId;
   regionFilter: RegionFilterState;
 }
 

@@ -4,7 +4,41 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 const { crawlGoogleMaps, mergeAndCleanExisting } = require("./crawler");
 
 const OUTPUT_PATH = path.join(__dirname, "..", "src", "data", "crawled_places.json");
-const BATCH_SIZE = 8;
+const BATCH_SIZE = Number(process.env.GEMINI_BATCH_SIZE) || 3;
+const BATCH_DELAY_MS = Number(process.env.GEMINI_BATCH_DELAY_MS) || 20_000;
+const MAX_RETRIES = Number(process.env.GEMINI_MAX_RETRIES) || 5;
+const INITIAL_BACKOFF_MS = Number(process.env.GEMINI_INITIAL_BACKOFF_MS) || 45_000;
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/**
+ * @param {unknown} error
+ */
+function isRateLimitError(error) {
+  const message = String(
+    error && typeof error === "object" && "message" in error ? error.message : error
+  );
+  return (
+    (error && typeof error === "object" && "status" in error && error.status === 429) ||
+    message.includes("429") ||
+    message.includes("Too Many Requests") ||
+    /quota/i.test(message)
+  );
+}
+
+/**
+ * @param {unknown} error
+ */
+function parseRetryDelayMs(error) {
+  const message = String(
+    error && typeof error === "object" && "message" in error ? error.message : error
+  );
+  const match = message.match(/retry in ([\d.]+)s/i);
+  if (!match) return null;
+  return Math.ceil(Number(match[1]) * 1000) + 1000;
+}
 
 const SYSTEM_PROMPT = `You are a Korean travel data curator.
 Analyze the crawled Korean place data and return ONLY a valid JSON array.
@@ -59,16 +93,36 @@ function parseJsonArray(value) {
 /**
  * @param {import('@google/generative-ai').GenerativeModel} model
  * @param {object[]} batch
+ * @param {number} batchIndex
  */
-async function processBatchWithGemini(model, batch) {
+async function processBatchWithGemini(model, batch, batchIndex) {
   const prompt = `${SYSTEM_PROMPT}
 
 Input data:
 ${JSON.stringify(batch, null, 2)}`;
 
-  const result = await model.generateContent(prompt);
-  const text = result.response.text();
-  return parseJsonArray(text);
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt += 1) {
+    try {
+      const result = await model.generateContent(prompt);
+      const text = result.response.text();
+      return parseJsonArray(text);
+    } catch (error) {
+      if (!isRateLimitError(error) || attempt === MAX_RETRIES) {
+        throw error;
+      }
+
+      const suggestedMs = parseRetryDelayMs(error);
+      const backoffMs = suggestedMs ?? INITIAL_BACKOFF_MS * 2 ** attempt;
+
+      console.warn(
+        `Batch ${batchIndex}: rate limited (attempt ${attempt + 1}/${MAX_RETRIES}). ` +
+          `Waiting ${Math.round(backoffMs / 1000)}s before retry...`
+      );
+      await sleep(backoffMs);
+    }
+  }
+
+  throw new Error(`Batch ${batchIndex}: exhausted retries after rate limiting.`);
 }
 
 /**
@@ -83,14 +137,25 @@ async function enrichPlacesWithGemini(rawPlaces) {
   const genAI = new GoogleGenerativeAI(apiKey);
   const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
+  const totalBatches = Math.ceil(rawPlaces.length / BATCH_SIZE);
+  console.log(
+    `Gemini config: batchSize=${BATCH_SIZE}, batchDelay=${BATCH_DELAY_MS / 1000}s, maxRetries=${MAX_RETRIES}`
+  );
+
   /** @type {object[]} */
   const enriched = [];
 
   for (let i = 0; i < rawPlaces.length; i += BATCH_SIZE) {
+    const batchIndex = Math.floor(i / BATCH_SIZE) + 1;
     const batch = rawPlaces.slice(i, i + BATCH_SIZE);
-    console.log(`Processing batch ${i / BATCH_SIZE + 1} (${batch.length} places)...`);
-    const processed = await processBatchWithGemini(model, batch);
+    console.log(`Processing batch ${batchIndex}/${totalBatches} (${batch.length} places)...`);
+    const processed = await processBatchWithGemini(model, batch, batchIndex);
     enriched.push(...processed);
+
+    if (batchIndex < totalBatches) {
+      console.log(`Waiting ${BATCH_DELAY_MS / 1000}s before next batch...`);
+      await sleep(BATCH_DELAY_MS);
+    }
   }
 
   return enriched;

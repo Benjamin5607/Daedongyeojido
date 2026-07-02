@@ -17,9 +17,9 @@ const notoSerif = Noto_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Daedongyeojido | K-Travel Auto-Curation",
+  title: "Daedongyeojido | Korea Travel Reviews & Guides",
   description:
-    "Weekly curated Korean travel hotspots for global explorers — K-Food, Hallyu, K-Beauty, culture, and urban nature.",
+    "Your dedicated Korea travel platform — discover top-rated restaurants, Hallyu spots, culture, beauty, and nature with traveler reviews and local tips.",
 };
 
 export default function RootLayout({

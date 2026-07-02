@@ -130,12 +130,12 @@ function placeSearchText(place: Place, locale: Locale): string {
     .toLowerCase();
 }
 
-export function filterPlaces(
-  places: Place[],
+export function filterPlaces<T extends Place>(
+  places: T[],
   activeTheme: ThemeFilterId,
   filter: RegionFilterState,
   locale: Locale
-): Place[] {
+): T[] {
   const normalizedQuery = filter.query.trim().toLowerCase();
 
   return places.filter((place) => {

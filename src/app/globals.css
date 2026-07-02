@@ -8,6 +8,9 @@
   --color-accent-dark: #24543f;
   --color-accent-soft: #e8f2ec;
   --color-border: #e5ddd0;
+  --color-trip-green: #00aa6c;
+  --color-trip-green-dark: #008f5a;
+  --color-trip-green-light: #34d399;
   --background: var(--color-surface);
   --foreground: var(--color-ink);
 }

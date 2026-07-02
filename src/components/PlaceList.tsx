@@ -3,18 +3,23 @@
 import { PlaceCard } from "@/components/PlaceCard";
 import { useLanguage } from "@/context/LanguageContext";
 import { filterPlaces, type RegionFilterState } from "@/lib/regions";
-import type { Place, ThemeFilterId } from "@/types";
+import type { IndexedPlace } from "@/lib/places";
+import type { ThemeFilterId } from "@/types";
 
 interface PlaceListProps {
-  places: Place[];
+  places: IndexedPlace[];
   activeTheme: ThemeFilterId;
   regionFilter: RegionFilterState;
+  heading?: string;
+  subheading?: string;
 }
 
 export function PlaceList({
   places,
   activeTheme,
   regionFilter,
+  heading,
+  subheading,
 }: PlaceListProps) {
   const { locale, t } = useLanguage();
 
@@ -31,13 +36,13 @@ export function PlaceList({
       <div className="mb-6 flex items-end justify-between gap-4">
         <div>
           <h3 className="font-serif text-xl font-semibold text-[var(--color-ink)]">
-            {t.placesHeading}
+            {heading ?? t.placesHeading}
           </h3>
           <p className="mt-1 text-sm text-[var(--color-muted)]">
-            {t.placesSubheading}
+            {subheading ?? t.placesSubheading}
           </p>
         </div>
-        <span className="rounded-full bg-[var(--color-accent-soft)] px-3 py-1 text-xs font-medium text-[var(--color-accent)]">
+        <span className="rounded-full bg-[var(--color-trip-green)]/10 px-3 py-1 text-xs font-medium text-[var(--color-trip-green-dark)]">
           {filtered.length}
         </span>
       </div>
@@ -49,18 +54,10 @@ export function PlaceList({
       ) : (
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {filtered.map((place) => (
-            <PlaceCard
-              key={`${place.theme}-${resolvePlaceKey(place)}`}
-              place={place}
-            />
+            <PlaceCard key={place.slug} place={place} />
           ))}
         </div>
       )}
     </section>
   );
-}
-
-function resolvePlaceKey(place: Place): string {
-  if (typeof place.name === "string") return place.name;
-  return place.name.en;
 }

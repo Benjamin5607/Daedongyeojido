@@ -12642,5 +12642,314 @@
       "id": "Jembatan laut menghubungkan Geoje dan Busan."
     },
     "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20101203_231%2Fsks1237765_1291352740045W4Y45_JPEG%2F%25B0%25C5%25B0%25A1%25B4%25EB%25B1%25B3.jpg&type=l340_165"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jung-gu"
+    },
+    "name": "하남돼지집동대문점",
+    "address": "서울특별시 중구 을지로43길 9",
+    "rating": 4.5,
+    "description": {
+      "en": "Pork restaurant in Seoul, known for its delicious dishes",
+      "ja": "ソウルで人気の豚肉料理店",
+      "zh": "首尔市著名的猪肉料理店",
+      "vi": "Nhà hàng thịt lợn nổi tiếng ở Seoul",
+      "id": "Restoran daging babi terkenal di Seoul"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA5MTVfMTg5%2FMDAxNzI2Mzc4MTkwNTY1.SvoK-ipUAsjNyihr_9RevKPNhulCnEC9UrH4iUUxTzsg.Aks1R9wBGinObniutzaKCkvhvKTp80RF2tsytxjkNTYg.JPEG%2FIMG_7664.jpg&type=a340"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "yongsan-gu"
+    },
+    "name": "보광로돼지집",
+    "address": "서울특별시 용산구 보광로59길 14",
+    "rating": 4.5,
+    "description": {
+      "en": "Pork restaurant in Yongsan-gu, Seoul, offering various pork dishes",
+      "ja": "龍山区の豚肉料理店、豚肉料理を提供",
+      "zh": "位于龙山区的猪肉料理店，提供多种猪肉菜肴",
+      "vi": "Nhà hàng thịt lợn ở Yongsan-gu, Seoul, phục vụ các món thịt lợn",
+      "id": "Restoran daging babi di Yongsan-gu, Seoul, menawarkan berbagai hidangan daging babi"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA4MjBfMzkg%2FMDAxNTY2MjgyNTI0MTg5.uQ2t3WyNKOxsaWti9q96cZPot82OuSWC7ss2tcIb76Ig.iwnHzJ6G5O7DPeO0XE5rZXdQKgbfiA0zogDndMe0s_sg.JPEG.kies84%2Fgundam_01.jpg&type=a340"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jung-gu"
+    },
+    "name": "다산로돼지집",
+    "address": "서울특별시 중구 다산로 232",
+    "rating": 4.5,
+    "description": {
+      "en": "Pork restaurant in Jung-gu, Seoul, serving traditional Korean pork dishes",
+      "ja": "中区の豚肉料理店、伝統的な韓国豚肉料理を提供",
+      "zh": "位于中区的猪肉料理店，提供传统的韩国猪肉菜肴",
+      "vi": "Nhà hàng thịt lợn ở Jung-gu, Seoul, phục vụ các món thịt lợn truyền thống của Hàn Quốc",
+      "id": "Restoran daging babi di Jung-gu, Seoul, menyajikan hidangan daging babi tradisional Korea"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA5MDRfMTA5%2FMDAxNzI1NDU2MjcxMjM3.4C4l3PPg7oIVsDmV6M9ZCUCj0_vfRKM1Cd29rMm76rkg.Bj5w3RS6K3cBI8rcSTyxxhNzpDBUkSGDSKeLAH1CHtkg.JPEG%2F20240904%25A3%25DF213512.jpg&type=a340"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan"
+    },
+    "name": "검색 결과",
+    "address": "대한민국 부산광역시 동구 중앙대로533번길 4",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPgLSCcfSWdfzxe9YLZJkXSK6FfIig3SWNSi9HqslROO6ZrICIjgsPiw5eqDsNLFcVWnJhtkcsDIlmtjWGGXBJP-Anp7B1M7QYm_-8kPduzSmc-PzBpT0TeQEsQxpPBC7-B-vd_iK3ATFo=w408-h306-k-no"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "mapo"
+    },
+    "name": "서울 한우 맛집",
+    "address": "서울특별시 마포구 삼개로 10-1",
+    "rating": 4.5,
+    "description": {
+      "en": "Korean beef restaurant in Mapo, Seoul",
+      "ja": "ソウル麻浦区の韓国牛肉レストラン",
+      "zh": "位于麻浦区的韩国牛肉餐厅",
+      "vi": "Nhà hàng thịt bò Hàn Quốc ở Mapo, Seoul",
+      "id": "Restoran daging sapi Korea di Mapo, Seoul"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA0MjZfNzgg%2FMDAxNjgyNTE1NjI0NzMz.yUJ55sMluGyhXuvpUn9RIRffIlS2Pz9htoY5Sgct7_gg._lL3Wdn4awQMeLSnq_OLn40WW--yY7_A1w3Ti2MSriYg.JPEG.dlddms11%2FIMG_9723.JPG&type=a340"
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul"
+    },
+    "name": "검색 결과",
+    "address": "대한민국 서울특별시 마포구 월드컵로 240",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFobJp8Q0kzO3Xw9E_Rlf5Gg4DxOmsnY53YfWiwYijxxHX2Q-RHAgPnJum_EUqYDaj5ayacUalTZTJQ2kvshfOHxB8OGnUOzyush6sCZ3R3QmLpVFzql9Ve-JjVR_zfKs1lAeh-=w408-h306-k-no"
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "gangnam-gu"
+    },
+    "name": "K-POP 성지",
+    "address": "서울특별시 강남구 청담동 141-14",
+    "rating": 4.5,
+    "description": {
+      "en": "A K-POP pilgrimage site in Seoul's Gangnam district",
+      "ja": "ソウルの江南地区にあるK-POPの聖地",
+      "zh": "首尔江南区的K-POP朝圣地",
+      "vi": "Địa điểm hành hương K-POP tại quận Gangnam, Seoul",
+      "id": "Situs ziarah K-POP di distrik Gangnam, Seoul"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA2MjFfNjUg%2FMDAxNTYxMTE2MjI0Mzg3.IYg09blN6Tk8h-UyWL44lp4g2q3Lw5RZz1xNbVHSYtEg.lk51y8-La6NgTDn4lYaR1PUTuHvIJ9CNX3VHLdc9-tMg.JPEG.haechiseoul%2F%25B9%25CC%25B7%25AF%25B8%25B5-%25BB%25F3%25B4%25DC.jpg&type=l340_165"
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul"
+    },
+    "name": "HALLYUSTORM 홍대 KPOP 앨범 및 굿즈 매장",
+    "address": "대한민국 서울특별시 마포구 양화로12길 23 1층",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrCD2x1CoJI8c9TVcO2WTI-Lh1HJj2xJiBOCSQWn7b8WgIobXDELcHxSv0IXBaIKu25NeVud5MvERtypmArDEWRAkxyfhOHx_H6GftrBIDqsmM2ZXipQhIwE3PKSff3jFOJjuDAjB1uQc=w408-h544-k-no"
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul"
+    },
+    "name": "케이팝 스퀘어 홍대",
+    "address": "대한민국 서울특별시 마포구 양화로 141",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFqVpVSy8eOvSoHsd_s3uLcJ8N3TBLso1H0Nlo83JstmNZxJSlgfqi9u8pPcgjSuV0QiWA-_szSCUKYaXU_gbwxFZ4OGDgZ3xhjkqiUNC5rtZjaGLN0vnZ5Ed1TkovVBCAMT7uMPboAVb0=w408-h323-k-no"
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul"
+    },
+    "name": "K-Pop of Chinatown",
+    "address": "2223 S Wentworth Ave, Chicago, IL 60616",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4srjjJwOe1TEMoyju6eVxZcMTq--mse4gUxD5OT1GZSSc6rGvnDwdjYvZzVy8FylJsT0eepx7ZZI4GjgnsN9xI0NIrTBRXVpyGRP1fcTRyXv8ZLG8AdvFFLsrhpD8vTCps18lQdsp2tAn=w408-h307-k-no"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul"
+    },
+    "name": "검색 결과",
+    "address": "대한민국 서울특별시 중구 명동8길 27",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuHDWOu2coVY0mBh6Fia0FW3RcqThoKxjegL0JaAMumFYAuifgHOWcVqZ3XuOPl3FtnxWOBC1KZXCWpzVT6hhK90dXRFTkx8KwdAbDiNOr56sh7d3luxS5pcJjrvobMhhbOdOio6Oe9i94=w408-h544-k-no"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jung"
+    },
+    "name": "서울 전통시장",
+    "address": "서울특별시 중구 퇴계로85길 36",
+    "rating": 4.5,
+    "description": {
+      "en": "Traditional market in Seoul",
+      "ja": "ソウル伝統市場",
+      "zh": "首尔传统市场",
+      "vi": "Chợ truyền thống Seoul",
+      "id": "Pasar tradisional Seoul"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA1MjdfMTg5%2FMDAxNTU4OTQ4NjM1MTQ1.sIr65GfoiP3ASIm7EgVXupLgcA8QfQxYReHptX3z5PQg.BgHTKpy3glzMZc0DcNNI4M3TMT38kaOQFvKZTA0OSZYg.JPEG.haechiseoul%2F%25BC%25AD%25BF%25EF%25BD%25C3_%25C4%25AB%25B5%25E5%25B4%25BA%25BD%25BA_%25C0%25FC%25C5%25EB%25BD%25C3%25C0%25E501_190524.jpg&type=a340"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "eunpyeong"
+    },
+    "name": "연서시장",
+    "address": "서울특별시 은평구 불광동 번지 1층 310-11",
+    "rating": 4.5,
+    "description": {
+      "en": "Yeonsu market in Seoul",
+      "ja": "ヨンス市場",
+      "zh": "延寿市场",
+      "vi": "Chợ Yeonsu",
+      "id": "Pasar Yeonsu"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMjZfMjkw%2FMDAxNzA2Mjc4Njk2MzI4.LPrUQzbut-esnJ2rfyngoltQrDsPP5YfmBnTojlIDaUg.JCo-lg1-26knRRz1U4rxbbOUzL-0kPuyuKV1AdKJWSsg.JPEG.orgghshbhg7%2F20230811_182350.jpg&type=a340"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul"
+    },
+    "name": "검색 결과",
+    "address": "대한민국 서울특별시 종로구 계동길 37",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhDjraGkKOpo9exfI1rP32ZfYIbd6pehlln_rs4qftDwJOCsryMbxAhNUSrbV2jjrvJp8N-3eq8YVnFmkxbaWgYEgMMs3jjAUWTwdF7DM9jtbo-FcT5Dx_Mhf8EvdFOZMoOUjP4Q=w408-h306-k-no"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jongno"
+    },
+    "name": "북촌 한옥마을",
+    "address": "서울특별시 종로구 북촌로12길 29-1",
+    "rating": 4.5,
+    "description": {
+      "en": "Bukchon Hanok Village is a traditional Korean village with many hanok (traditional Korean houses) that date back to the 14th century.",
+      "ja": "ブクチョン・ハノク村は、14世紀に遡る多くのハノク（伝統的な韓国家）がある伝統的な韓国村です。",
+      "zh": "北村韩屋村是一个传统的韩国村庄，拥有许多可以追溯到14世纪的韩屋（传统韩国房屋）。",
+      "vi": "Làng Hanok Bukchon là một ngôi làng truyền thống của Hàn Quốc với nhiều ngôi nhà hanok (ngôi nhà truyền thống của Hàn Quốc) có từ thế kỷ 14.",
+      "id": "Desa Hanok Bukchon adalah desa tradisional Korea dengan banyak hanok (rumah tradisional Korea) yang berasal dari abad ke-14."
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMTVfNzAg%2FMDAxNjQyMjMyMTcwMjE4.g7u1inBywuvQ5w-A7F5fJ00qltIRG18Hh_9ukH4nfUcg.rs7FJKZgXAVAw2BvM1ZGggRXhhEBEWIrRC8IxLnfSdwg.JPEG.masterjohn205%2FIMG_1680.jpg&type=a340"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jung"
+    },
+    "name": "남산 둘레길",
+    "address": "서울특별시 중구 용산동2가",
+    "rating": 4.5,
+    "description": {
+      "en": "Namsan Dulle-gil is a scenic walking trail that surrounds Namsan Mountain, offering stunning views of the city.",
+      "ja": "ナムサン・ドルレギルは、ナムサン山を囲む風光明媚な散歩道で、市内の素晴らしい景色を提供しています。",
+      "zh": "南山둘레길是围绕南山的风景如画的步行小径，提供了城市的壮丽景色。",
+      "vi": "Namsan Dulle-gil là một con đường đi bộ cảnh quan bao quanh Núi Namsan, cung cấp tầm nhìn tuyệt đẹp của thành phố.",
+      "id": "Namsan Dulle-gil adalah jalur berjalan yang indah yang mengelilingi Gunung Namsan, menawarkan pemandangan kota yang luar biasa."
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHFJFu5_tHHIeRjslNYGCAfp-JWIcF2eYff_7BLwkXvn8a3tm2g-Hsopzt3uJeCtpWazQ-2WcZ8aexFscjWE_4iXvqY3SIXn7UHXnDs0vD69c_-mNEUzN9x_Cr3bin0XHnjBVL=w408-h306-k-no"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jung"
+    },
+    "name": "남산 둘레길 진입로",
+    "address": "서울특별시 중구 예장동 8-177",
+    "rating": 4.5,
+    "description": {
+      "en": "Namsan Dulle-gil Entrance Road is the main entrance to the Namsan Dulle-gil walking trail, offering easy access to the scenic trail.",
+      "ja": "ナムサン・ドルレギル入口道路は、ナムサン・ドルレギル散歩道へのメインエントランスで、風光明媚な散歩道へのアクセスが容易です。",
+      "zh": "南山둘레길入口路是南山둘레길步行小径的主要入口，提供了便捷的通道到风景如画的小径。",
+      "vi": "Con đường vào Namsan Dulle-gil là lối vào chính đến đường đi bộ Namsan Dulle-gil, cung cấp quyền truy cập dễ dàng vào con đường đi bộ cảnh quan.",
+      "id": "Jalan Masuk Namsan Dulle-gil adalah pintu masuk utama ke jalur berjalan Namsan Dulle-gil, menawarkan akses mudah ke jalur berjalan yang indah."
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpam3vmPhwGIArCiQa9noUHy5VnlMyzsu7J3sORLPCtFEW9Su14OhWWmiUVCpxvWmxEMr2yiswtkP5ijgX7BtibKG5xK66EMAilgI4p5wr72mQ17bfaZMp92uFPDKi8alH4EhJ=w408-h306-k-no"
   }
 ]

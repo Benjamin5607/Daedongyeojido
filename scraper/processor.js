@@ -2,17 +2,20 @@ const fs = require("fs");
 const path = require("path");
 const { crawlGoogleMaps, mergeAndCleanExisting } = require("./crawler");
 const { nvidiaChatCompletion, DEFAULT_MODEL } = require("./llmClient");
+const { enrichPlaceLocally } = require("./localEnrich");
+const { attachMissingImages } = require("./placeImages");
 
 const OUTPUT_PATH = path.join(__dirname, "..", "src", "data", "crawled_places.json");
 const BATCH_SIZE =
   Number(process.env.LLM_BATCH_SIZE || process.env.GEMINI_BATCH_SIZE) || 3;
 const BATCH_DELAY_MS =
-  Number(process.env.LLM_BATCH_DELAY_MS || process.env.GEMINI_BATCH_DELAY_MS) || 20_000;
+  Number(process.env.LLM_BATCH_DELAY_MS || process.env.GEMINI_BATCH_DELAY_MS) || 5_000;
+const IMAGE_DELAY_MS = Number(process.env.IMAGE_FETCH_DELAY_MS) || 1200;
 const MAX_RETRIES =
   Number(process.env.LLM_MAX_RETRIES || process.env.GEMINI_MAX_RETRIES) || 5;
 const INITIAL_BACKOFF_MS =
   Number(process.env.LLM_INITIAL_BACKOFF_MS || process.env.GEMINI_INITIAL_BACKOFF_MS) ||
-  45_000;
+  30_000;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -32,6 +35,15 @@ function isRateLimitError(error) {
     /quota/i.test(message) ||
     /rate limit/i.test(message)
   );
+}
+
+/**
+ * @param {unknown} error
+ */
+function isRetryableError(error) {
+  if (isRateLimitError(error)) return true;
+  const status = error && typeof error === "object" && "status" in error ? error.status : 0;
+  return typeof status === "number" && status >= 500 && status < 600;
 }
 
 /**
@@ -89,11 +101,18 @@ function parseJsonArray(value) {
     .replace(/^```\s*/i, "")
     .replace(/\s*```$/i, "");
 
-  const parsed = JSON.parse(withoutFence);
-  if (!Array.isArray(parsed)) {
+  try {
+    const parsed = JSON.parse(withoutFence);
+    if (!Array.isArray(parsed)) throw new Error("not array");
+    return parsed;
+  } catch {
+    const match = withoutFence.match(/\[[\s\S]*\]/);
+    if (match) {
+      const parsed = JSON.parse(match[0]);
+      if (Array.isArray(parsed)) return parsed;
+    }
     throw new Error("LLM response was not a JSON array.");
   }
-  return parsed;
 }
 
 /**
@@ -109,24 +128,36 @@ async function processBatchWithLlm(batch, batchIndex) {
         system: SYSTEM_PROMPT,
         user: userPrompt,
       });
-      return parseJsonArray(text);
+      try {
+        return parseJsonArray(text);
+      } catch (parseError) {
+        if (attempt === MAX_RETRIES) break;
+        console.warn(
+          `Batch ${batchIndex}: invalid JSON (attempt ${attempt + 1}/${MAX_RETRIES}), retrying...`
+        );
+        await sleep(2000);
+        continue;
+      }
     } catch (error) {
-      if (!isRateLimitError(error) || attempt === MAX_RETRIES) {
-        throw error;
+      if (!isRetryableError(error) || attempt === MAX_RETRIES) {
+        break;
       }
 
       const suggestedMs = parseRetryDelayMs(error);
       const backoffMs = suggestedMs ?? INITIAL_BACKOFF_MS * 2 ** attempt;
 
       console.warn(
-        `Batch ${batchIndex}: rate limited (attempt ${attempt + 1}/${MAX_RETRIES}). ` +
-          `Waiting ${Math.round(backoffMs / 1000)}s before retry...`
+        `Batch ${batchIndex}: request failed (attempt ${attempt + 1}/${MAX_RETRIES}). ` +
+          `Waiting ${Math.round(backoffMs / 1000)}s...`
       );
       await sleep(backoffMs);
     }
   }
 
-  throw new Error(`Batch ${batchIndex}: exhausted retries after rate limiting.`);
+  console.warn(
+    `Batch ${batchIndex}: LLM unavailable — local fallback for ${batch.length} place(s).`
+  );
+  return batch.map(enrichPlaceLocally);
 }
 
 /**
@@ -158,6 +189,17 @@ async function enrichPlacesWithLlm(rawPlaces) {
   return enriched;
 }
 
+/**
+ * @param {object[]} rawPlaces
+ */
+async function enrichPlaces(rawPlaces) {
+  if (!process.env.NVIDIA_API_KEY) {
+    console.warn("NVIDIA_API_KEY not set — using local enrichment (pipeline continues).");
+    return rawPlaces.map(enrichPlaceLocally);
+  }
+  return enrichPlacesWithLlm(rawPlaces);
+}
+
 function readExistingPlaces() {
   if (!fs.existsSync(OUTPUT_PATH)) return [];
   try {
@@ -184,13 +226,13 @@ async function runPipeline() {
   }
 
   const cleanedRaw = mergeAndCleanExisting([], crawled);
-  console.log("Sending data to NVIDIA NIM...");
+  console.log("Enriching crawled places...");
   const imageUrlByKey = new Map(
     cleanedRaw
       .filter((place) => place.imageUrl)
       .map((place) => [`${place.theme}|${normalizeKey(place.name)}`, place.imageUrl])
   );
-  const enriched = await enrichPlacesWithLlm(cleanedRaw);
+  const enriched = await enrichPlaces(cleanedRaw);
   for (const place of enriched) {
     const key = `${place.theme}|${normalizeKey(place.name)}`;
     if (!place.imageUrl && imageUrlByKey.has(key)) {
@@ -200,13 +242,16 @@ async function runPipeline() {
 
   const existing = readExistingPlaces();
   const merged = mergeExistingCurated(existing, enriched);
+  console.log("Attaching photos for new or missing entries...");
+  const withPhotos = await attachMissingImages(merged, { delayMs: IMAGE_DELAY_MS });
+
   const previous = JSON.stringify(existing, null, 2);
-  const next = JSON.stringify(merged, null, 2);
+  const next = JSON.stringify(withPhotos, null, 2);
 
-  writePlaces(merged);
-  console.log(`Wrote ${merged.length} places to ${OUTPUT_PATH}`);
+  writePlaces(withPhotos);
+  console.log(`Wrote ${withPhotos.length} places to ${OUTPUT_PATH}`);
 
-  return { changed: previous !== next, count: merged.length };
+  return { changed: previous !== next, count: withPhotos.length };
 }
 
 /**
@@ -239,6 +284,9 @@ function normalizeKey(name) {
   if (name && typeof name === "object" && "en" in name) {
     return String(name.en).toLowerCase().trim();
   }
+  if (name && typeof name === "object" && "ko" in name) {
+    return String(name.ko).toLowerCase().trim();
+  }
   return JSON.stringify(name).toLowerCase();
 }
 
@@ -255,7 +303,9 @@ if (require.main === module) {
 
 module.exports = {
   runPipeline,
+  enrichPlaces,
   enrichPlacesWithLlm,
   writePlaces,
   readExistingPlaces,
+  attachMissingImages,
 };

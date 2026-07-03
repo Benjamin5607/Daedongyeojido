@@ -1,13 +1,18 @@
 const fs = require("fs");
 const path = require("path");
-const { GoogleGenerativeAI } = require("@google/generative-ai");
 const { crawlGoogleMaps, mergeAndCleanExisting } = require("./crawler");
+const { nvidiaChatCompletion, DEFAULT_MODEL } = require("./llmClient");
 
 const OUTPUT_PATH = path.join(__dirname, "..", "src", "data", "crawled_places.json");
-const BATCH_SIZE = Number(process.env.GEMINI_BATCH_SIZE) || 3;
-const BATCH_DELAY_MS = Number(process.env.GEMINI_BATCH_DELAY_MS) || 20_000;
-const MAX_RETRIES = Number(process.env.GEMINI_MAX_RETRIES) || 5;
-const INITIAL_BACKOFF_MS = Number(process.env.GEMINI_INITIAL_BACKOFF_MS) || 45_000;
+const BATCH_SIZE =
+  Number(process.env.LLM_BATCH_SIZE || process.env.GEMINI_BATCH_SIZE) || 3;
+const BATCH_DELAY_MS =
+  Number(process.env.LLM_BATCH_DELAY_MS || process.env.GEMINI_BATCH_DELAY_MS) || 20_000;
+const MAX_RETRIES =
+  Number(process.env.LLM_MAX_RETRIES || process.env.GEMINI_MAX_RETRIES) || 5;
+const INITIAL_BACKOFF_MS =
+  Number(process.env.LLM_INITIAL_BACKOFF_MS || process.env.GEMINI_INITIAL_BACKOFF_MS) ||
+  45_000;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -24,7 +29,8 @@ function isRateLimitError(error) {
     (error && typeof error === "object" && "status" in error && error.status === 429) ||
     message.includes("429") ||
     message.includes("Too Many Requests") ||
-    /quota/i.test(message)
+    /quota/i.test(message) ||
+    /rate limit/i.test(message)
   );
 }
 
@@ -74,7 +80,7 @@ Rules:
  */
 function parseJsonArray(value) {
   if (typeof value !== "string") {
-    throw new Error("Gemini response was not text.");
+    throw new Error("LLM response was not text.");
   }
 
   const trimmed = value.trim();
@@ -85,26 +91,24 @@ function parseJsonArray(value) {
 
   const parsed = JSON.parse(withoutFence);
   if (!Array.isArray(parsed)) {
-    throw new Error("Gemini response was not a JSON array.");
+    throw new Error("LLM response was not a JSON array.");
   }
   return parsed;
 }
 
 /**
- * @param {import('@google/generative-ai').GenerativeModel} model
  * @param {object[]} batch
  * @param {number} batchIndex
  */
-async function processBatchWithGemini(model, batch, batchIndex) {
-  const prompt = `${SYSTEM_PROMPT}
-
-Input data:
-${JSON.stringify(batch, null, 2)}`;
+async function processBatchWithLlm(batch, batchIndex) {
+  const userPrompt = `Input data:\n${JSON.stringify(batch, null, 2)}`;
 
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt += 1) {
     try {
-      const result = await model.generateContent(prompt);
-      const text = result.response.text();
+      const text = await nvidiaChatCompletion({
+        system: SYSTEM_PROMPT,
+        user: userPrompt,
+      });
       return parseJsonArray(text);
     } catch (error) {
       if (!isRateLimitError(error) || attempt === MAX_RETRIES) {
@@ -128,18 +132,11 @@ ${JSON.stringify(batch, null, 2)}`;
 /**
  * @param {object[]} rawPlaces
  */
-async function enrichPlacesWithGemini(rawPlaces) {
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey) {
-    throw new Error("GEMINI_API_KEY environment variable is required.");
-  }
-
-  const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
-
+async function enrichPlacesWithLlm(rawPlaces) {
   const totalBatches = Math.ceil(rawPlaces.length / BATCH_SIZE);
   console.log(
-    `Gemini config: batchSize=${BATCH_SIZE}, batchDelay=${BATCH_DELAY_MS / 1000}s, maxRetries=${MAX_RETRIES}`
+    `LLM config: provider=nvidia, model=${DEFAULT_MODEL}, batchSize=${BATCH_SIZE}, ` +
+      `batchDelay=${BATCH_DELAY_MS / 1000}s, maxRetries=${MAX_RETRIES}`
   );
 
   /** @type {object[]} */
@@ -149,7 +146,7 @@ async function enrichPlacesWithGemini(rawPlaces) {
     const batchIndex = Math.floor(i / BATCH_SIZE) + 1;
     const batch = rawPlaces.slice(i, i + BATCH_SIZE);
     console.log(`Processing batch ${batchIndex}/${totalBatches} (${batch.length} places)...`);
-    const processed = await processBatchWithGemini(model, batch, batchIndex);
+    const processed = await processBatchWithLlm(batch, batchIndex);
     enriched.push(...processed);
 
     if (batchIndex < totalBatches) {
@@ -187,13 +184,13 @@ async function runPipeline() {
   }
 
   const cleanedRaw = mergeAndCleanExisting([], crawled);
-  console.log("Sending data to Gemini...");
+  console.log("Sending data to NVIDIA NIM...");
   const imageUrlByKey = new Map(
     cleanedRaw
       .filter((place) => place.imageUrl)
       .map((place) => [`${place.theme}|${normalizeKey(place.name)}`, place.imageUrl])
   );
-  const enriched = await enrichPlacesWithGemini(cleanedRaw);
+  const enriched = await enrichPlacesWithLlm(cleanedRaw);
   for (const place of enriched) {
     const key = `${place.theme}|${normalizeKey(place.name)}`;
     if (!place.imageUrl && imageUrlByKey.has(key)) {
@@ -256,4 +253,9 @@ if (require.main === module) {
     });
 }
 
-module.exports = { runPipeline, enrichPlacesWithGemini, writePlaces, readExistingPlaces };
+module.exports = {
+  runPipeline,
+  enrichPlacesWithLlm,
+  writePlaces,
+  readExistingPlaces,
+};

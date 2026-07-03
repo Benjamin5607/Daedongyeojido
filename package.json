@@ -14,8 +14,6 @@
     "attach-images": "node scripts/attach-place-images.mjs"
   },
   "dependencies": {
-    "@google/generative-ai": "^0.24.1",
-    "next": "16.2.9",
     "playwright": "^1.52.0",
     "react": "19.2.4",
     "react-dom": "19.2.4"

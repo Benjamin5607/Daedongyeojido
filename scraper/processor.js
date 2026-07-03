@@ -188,7 +188,18 @@ async function runPipeline() {
 
   const cleanedRaw = mergeAndCleanExisting([], crawled);
   console.log("Sending data to Gemini...");
+  const imageUrlByKey = new Map(
+    cleanedRaw
+      .filter((place) => place.imageUrl)
+      .map((place) => [`${place.theme}|${normalizeKey(place.name)}`, place.imageUrl])
+  );
   const enriched = await enrichPlacesWithGemini(cleanedRaw);
+  for (const place of enriched) {
+    const key = `${place.theme}|${normalizeKey(place.name)}`;
+    if (!place.imageUrl && imageUrlByKey.has(key)) {
+      place.imageUrl = imageUrlByKey.get(key);
+    }
+  }
 
   const existing = readExistingPlaces();
   const merged = mergeExistingCurated(existing, enriched);
@@ -212,7 +223,12 @@ function mergeExistingCurated(existing, incoming) {
   );
 
   for (const place of incoming) {
-    map.set(`${place.theme}|${normalizeKey(place.name)}`, place);
+    const key = `${place.theme}|${normalizeKey(place.name)}`;
+    const previous = map.get(key);
+    map.set(key, {
+      ...place,
+      imageUrl: place.imageUrl ?? previous?.imageUrl,
+    });
   }
 
   return Array.from(map.values());

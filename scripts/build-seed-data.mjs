@@ -130,6 +130,39 @@ const places = [
   ...GEOJE_PLACES.map(fromGeoje),
 ];
 
+function placeKey(place) {
+  const name =
+    typeof place.name === "string"
+      ? place.name
+      : place.name?.ko ?? place.name?.en ?? "";
+  return `${place.theme}|${String(name).toLowerCase().trim()}`;
+}
+
+function preserveImageUrls(nextPlaces, existingPlaces) {
+  const imageByKey = new Map(
+    existingPlaces
+      .filter((place) => place.imageUrl)
+      .map((place) => [placeKey(place), place.imageUrl])
+  );
+
+  return nextPlaces.map((place) => {
+    const imageUrl = place.imageUrl ?? imageByKey.get(placeKey(place));
+    return imageUrl ? { ...place, imageUrl } : place;
+  });
+}
+
+let existingPlaces = [];
+if (fs.existsSync(OUT_PATH)) {
+  try {
+    const parsed = JSON.parse(fs.readFileSync(OUT_PATH, "utf8"));
+    existingPlaces = Array.isArray(parsed) ? parsed : [];
+  } catch {
+    existingPlaces = [];
+  }
+}
+
+const outputPlaces = preserveImageUrls(places, existingPlaces);
+
 function countByProvince(list) {
   /** @type {Record<string, number>} */
   const counts = {};
@@ -166,20 +199,20 @@ function countLocalThemes(list, province) {
   return out;
 }
 
-syncRegionLabels(places);
-fs.writeFileSync(OUT_PATH, `${JSON.stringify(places, null, 2)}\n`);
+syncRegionLabels(outputPlaces);
+fs.writeFileSync(OUT_PATH, `${JSON.stringify(outputPlaces, null, 2)}\n`);
 
 const naverKo = JSON.parse(fs.readFileSync(NAVER_KO_PATH, "utf8"));
-for (const p of places) {
+for (const p of outputPlaces) {
   if (typeof p.name === "object" && p.name.ko) {
     naverKo[p.name.en] = p.name.ko;
   }
 }
 fs.writeFileSync(NAVER_KO_PATH, `${JSON.stringify(naverKo, null, 2)}\n`);
 
-const total = places.length;
-const localTotal = places.filter((p) => p.localGem).length;
-const byProvince = countByProvince(places);
+const total = outputPlaces.length;
+const localTotal = outputPlaces.filter((p) => p.localGem).length;
+const byProvince = countByProvince(outputPlaces);
 
 console.log(`Wrote ${total} places (${localTotal} Naver local gems) to ${OUT_PATH}`);
 console.log("Count by province:", byProvince);
@@ -190,7 +223,7 @@ if (total !== expectedTotal) {
   process.exit(1);
 }
 
-const geojePlaces = places.filter((p) => p.region.city === "geoje");
+const geojePlaces = outputPlaces.filter((p) => p.region.city === "geoje");
 if (geojePlaces.length !== GEOJE_TOTAL) {
   console.error(`ERROR: expected ${GEOJE_TOTAL} Geoje places, got ${geojePlaces.length}`);
   process.exit(1);
@@ -209,7 +242,7 @@ if (localTotal !== 160) {
 }
 
 for (const prov of TOURIST_PROVINCES) {
-  const touristCount = places.filter((p) => !p.localGem && p.region.province === prov).length;
+  const touristCount = outputPlaces.filter((p) => !p.localGem && p.region.province === prov).length;
   if (touristCount !== 20) {
     console.error(`ERROR: tourist ${prov} has ${touristCount}, expected 20`);
     process.exit(1);
@@ -217,13 +250,13 @@ for (const prov of TOURIST_PROVINCES) {
 }
 
 for (const prov of EIGHT_DO) {
-  const localCount = countLocalByProvince(places, prov);
+  const localCount = countLocalByProvince(outputPlaces, prov);
   if (localCount !== 20) {
     console.error(`ERROR: local gems ${prov} has ${localCount}, expected 20`);
     process.exit(1);
   }
   for (const theme of THEMES) {
-    if ((countLocalThemes(places, prov)[theme] ?? 0) !== 4) {
+    if ((countLocalThemes(outputPlaces, prov)[theme] ?? 0) !== 4) {
       console.error(`ERROR: local ${prov}/${theme} expected 4`);
       process.exit(1);
     }

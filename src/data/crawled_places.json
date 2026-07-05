@@ -12706,7 +12706,7 @@
       "province": "busan"
     },
     "name": "검색 결과",
-    "address": "대한민국 부산광역시 동구 중앙대로533번길 4",
+    "address": "대한민국 부산광역시 부산진구 전포대로209번길 43 산반들 1층",
     "rating": 4,
     "description": {
       "en": "",
@@ -12715,7 +12715,7 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPgLSCcfSWdfzxe9YLZJkXSK6FfIig3SWNSi9HqslROO6ZrICIjgsPiw5eqDsNLFcVWnJhtkcsDIlmtjWGGXBJP-Anp7B1M7QYm_-8kPduzSmc-PzBpT0TeQEsQxpPBC7-B-vd_iK3ATFo=w408-h306-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsN5QuKhiw5nAxdzyEHg0Jptk9GccZMX9M651pia8huPBQE7Yo_r4fbCONRCkMWACcZPGPkl1hCO4dHDyQxianm1RsCSvyWP9w6n7CkpUKiVE_ikT936zhKJJTHZUAexRtJ4h0KP7yHEs8=w408-h544-k-no"
   },
   {
     "theme": "k-food",
@@ -12742,7 +12742,7 @@
       "province": "seoul"
     },
     "name": "검색 결과",
-    "address": "대한민국 서울특별시 마포구 월드컵로 240",
+    "address": "대한민국 서울특별시 중구 마장로 3 맥스타일 지하 1층",
     "rating": 4,
     "description": {
       "en": "",
@@ -12751,7 +12751,7 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFobJp8Q0kzO3Xw9E_Rlf5Gg4DxOmsnY53YfWiwYijxxHX2Q-RHAgPnJum_EUqYDaj5ayacUalTZTJQ2kvshfOHxB8OGnUOzyush6sCZ3R3QmLpVFzql9Ve-JjVR_zfKs1lAeh-=w408-h306-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsacO3sdv9pXYCGAHndyaDD1NF6o2BU_O0lpHOfq50rXFhdbnos8AULZMiPzK5lKoOjkKTH38735WFFqugExYyjfm8-Qkq4qAmiFeVxxvCVeS2-QVCBPY_pKIjnmkJWr8KZ0L1MyU5XZwR=w408-h267-k-no"
   },
   {
     "theme": "hallyu",
@@ -12838,7 +12838,7 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuHDWOu2coVY0mBh6Fia0FW3RcqThoKxjegL0JaAMumFYAuifgHOWcVqZ3XuOPl3FtnxWOBC1KZXCWpzVT6hhK90dXRFTkx8KwdAbDiNOr56sh7d3luxS5pcJjrvobMhhbOdOio6Oe9i94=w408-h544-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfnsIDGux8Lc9FRffMGSt4BwIZx1nYQ2e1eJA9QbkdVOkOgIBe43s3pdlvYFOe_8K0qVYHteqlC_t34QBqUnBjmHwRsGFXcotiTIbAMNWyX80ui5KiE-APKFSCqVf3BeEfSuKNQCscbwan=w408-h544-k-no"
   },
   {
     "theme": "k-culture",
@@ -12870,11 +12870,11 @@
     "address": "서울특별시 은평구 불광동 번지 1층 310-11",
     "rating": 4.5,
     "description": {
-      "en": "Yeonsu market in Seoul",
-      "ja": "ヨンス市場",
-      "zh": "延寿市场",
-      "vi": "Chợ Yeonsu",
-      "id": "Pasar Yeonsu"
+      "en": "Yeonsae Market is a traditional market in Seoul, offering a variety of goods and food.",
+      "ja": "ヨンセ市場は、ソウルにある伝統的な市場で、様々な商品や食べ物を提供しています。",
+      "zh": "延世市场是首尔的一家传统市场，提供各种商品和食物。",
+      "vi": "Chợ Yeonsae là một chợ truyền thống ở Seoul, cung cấp nhiều loại hàng hóa và thực phẩm.",
+      "id": "Pasar Yeonsae adalah pasar tradisional di Seoul, menawarkan berbagai macam barang dan makanan."
     },
     "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMjZfMjkw%2FMDAxNzA2Mjc4Njk2MzI4.LPrUQzbut-esnJ2rfyngoltQrDsPP5YfmBnTojlIDaUg.JCo-lg1-26knRRz1U4rxbbOUzL-0kPuyuKV1AdKJWSsg.JPEG.orgghshbhg7%2F20230811_182350.jpg&type=a340"
   },
@@ -12884,7 +12884,7 @@
       "province": "seoul"
     },
     "name": "검색 결과",
-    "address": "대한민국 서울특별시 종로구 계동길 37",
+    "address": "대한민국 서울특별시 종로구 북촌로12길 29-1",
     "rating": 4,
     "description": {
       "en": "",
@@ -12893,7 +12893,7 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhDjraGkKOpo9exfI1rP32ZfYIbd6pehlln_rs4qftDwJOCsryMbxAhNUSrbV2jjrvJp8N-3eq8YVnFmkxbaWgYEgMMs3jjAUWTwdF7DM9jtbo-FcT5Dx_Mhf8EvdFOZMoOUjP4Q=w408-h306-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtj4ZpsgCXRbfjxlEo-2oUHgB35UbfCYn5O4Xfyo97BUpPogWJBvoFad_vkCnPBY21f-5vTC4gSSsjr8z_85WI5ZgUfAC2favwtBiIbppUiPUO3ZU99IxPaSE8r4g_6vD2fE00Vw=w408-h306-k-no"
   },
   {
     "theme": "k-culture",
@@ -12903,53 +12903,163 @@
       "district": "jongno"
     },
     "name": "북촌 한옥마을",
-    "address": "서울특별시 종로구 북촌로12길 29-1",
+    "address": "서울특별시 종로구 북촌로12길 24-5",
     "rating": 4.5,
     "description": {
-      "en": "Bukchon Hanok Village is a traditional Korean village with many hanok (traditional Korean houses) that date back to the 14th century.",
-      "ja": "ブクチョン・ハノク村は、14世紀に遡る多くのハノク（伝統的な韓国家）がある伝統的な韓国村です。",
-      "zh": "北村韩屋村是一个传统的韩国村庄，拥有许多可以追溯到14世纪的韩屋（传统韩国房屋）。",
-      "vi": "Làng Hanok Bukchon là một ngôi làng truyền thống của Hàn Quốc với nhiều ngôi nhà hanok (ngôi nhà truyền thống của Hàn Quốc) có từ thế kỷ 14.",
-      "id": "Desa Hanok Bukchon adalah desa tradisional Korea dengan banyak hanok (rumah tradisional Korea) yang berasal dari abad ke-14."
+      "en": "Bukchon Hanok Village is a traditional Korean village in Seoul, offering a glimpse into the country's rich cultural heritage.",
+      "ja": "北村ハノク村は、ソウルにある伝統的な韓国村で、韓国の豊かな文化遺産を垣間見ることができます。",
+      "zh": "北村韩屋村是首尔的一座传统韩国村庄，提供了对韩国丰富文化遗产的洞察。",
+      "vi": "Làng Hanok Bukchon là một ngôi làng truyền thống của Hàn Quốc ở Seoul, cung cấp cái nhìn sâu sắc về di sản văn hóa phong phú của đất nước.",
+      "id": "Desa Hanok Bukchon adalah sebuah desa tradisional Korea di Seoul, menawarkan wawasan tentang warisan budaya Korea yang kaya."
     },
     "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMTVfNzAg%2FMDAxNjQyMjMyMTcwMjE4.g7u1inBywuvQ5w-A7F5fJ00qltIRG18Hh_9ukH4nfUcg.rs7FJKZgXAVAw2BvM1ZGggRXhhEBEWIrRC8IxLnfSdwg.JPEG.masterjohn205%2FIMG_1680.jpg&type=a340"
   },
   {
     "theme": "urban-nature",
     "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "jung"
+      "province": "seoul"
     },
     "name": "남산 둘레길",
-    "address": "서울특별시 중구 용산동2가",
-    "rating": 4.5,
+    "address": "대한민국 서울특별시 중구 용산동2가",
+    "rating": 4,
     "description": {
-      "en": "Namsan Dulle-gil is a scenic walking trail that surrounds Namsan Mountain, offering stunning views of the city.",
-      "ja": "ナムサン・ドルレギルは、ナムサン山を囲む風光明媚な散歩道で、市内の素晴らしい景色を提供しています。",
-      "zh": "南山둘레길是围绕南山的风景如画的步行小径，提供了城市的壮丽景色。",
-      "vi": "Namsan Dulle-gil là một con đường đi bộ cảnh quan bao quanh Núi Namsan, cung cấp tầm nhìn tuyệt đẹp của thành phố.",
-      "id": "Namsan Dulle-gil adalah jalur berjalan yang indah yang mengelilingi Gunung Namsan, menawarkan pemandangan kota yang luar biasa."
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHFJFu5_tHHIeRjslNYGCAfp-JWIcF2eYff_7BLwkXvn8a3tm2g-Hsopzt3uJeCtpWazQ-2WcZ8aexFscjWE_4iXvqY3SIXn7UHXnDs0vD69c_-mNEUzN9x_Cr3bin0XHnjBVL=w408-h306-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsZN6_zJJhN5pQacId48g4UxfEV7657Q8FfRKe5tU1_ilfMkIhwVxmxNP2jfo2lbFqEqJVHryjE7ki-Ec_GANkRK-XZinZhZEaezF8u0x5TpS-sEGFgdX5P8xzF-22xXCLj5h7=w408-h306-k-no"
   },
   {
     "theme": "urban-nature",
+    "region": {
+      "province": "seoul"
+    },
+    "name": "남산 둘레길 진입로",
+    "address": "대한민국 서울특별시 중구 예장동 8-177",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUSGluhxqXtXjL5LhaJXJusCeRL4ZZ6UVcNHQIwnIBzEik1sFoKjjHADf_N4d7e-5VUEMVFO1z3z-yq2ayrs4K2JLQzaD5oEZEwGJ10EuxJIR7qlVGL3Kxmk6CPrTrLFVr3slP=w408-h306-k-no"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan",
+      "city": null,
+      "district": "donggu"
+    },
+    "name": "부산 국밥 맛집",
+    "address": "부산광역시 동구 중앙대로209번길 12",
+    "rating": 4.5,
+    "description": {
+      "en": "A popular Korean restaurant in Busan serving delicious gukbap.",
+      "ja": "釜山で人気の韓国料理店。美味しいクッパを提供しています。",
+      "zh": "釜山一家受欢迎的韩国餐厅，提供美味的国밥。",
+      "vi": "Nhà hàng Hàn Quốc nổi tiếng ở Busan, phục vụ gukbap ngon.",
+      "id": "Restoran Korea populer di Busan, menyajikan gukbap yang lezat."
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA5MjVfMjcz%2FMDAxNjk1NTk5NDQzMjQ1.ceBkOvW2ekobyAc51Dxpj3DhUMhC8qc33Gd0wgp48Kwg.0q99GjuW0lShSxyPep_EkqUg8Lk29yzhIXF7ynq4sdgg.PNG.ttt796%2F13.PNG&type=a340"
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "junggu"
+    },
+    "name": "서울 K-POP 성지",
+    "address": "서울특별시 중구 장충단로 72",
+    "rating": 4.5,
+    "description": {
+      "en": "Another K-POP pilgrimage site in Seoul, a great spot for fans.",
+      "ja": "ソウルにあるもう一つのK-POPの聖地。ファンにとって素晴らしいスポットです。",
+      "zh": "首尔的另一个K-POP朝圣地，粉丝的理想之地。",
+      "vi": "Địa điểm hành hương K-POP khác ở Seoul, nơi lý tưởng cho người hâm mộ.",
+      "id": "Situs ziarah K-POP lain di Seoul, tempat yang ideal untuk penggemar."
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA2MjFfNjUg%2FMDAxNTYxMTE2MjI0Mzg3.IYg09blN6Tk8h-UyWL44lp4g2q3Lw5RZz1xNbVHSYtEg.lk51y8-La6NgTDn4lYaR1PUTuHvIJ9CNX3VHLdc9-tMg.JPEG.haechiseoul%2F%25B9%25CC%25B7%25AF%25B8%25B5-%25BB%25F3%25B4%25DC.jpg&type=l340_165"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "mapo"
+    },
+    "name": "서울 스파 마사지",
+    "address": "서울특별시 마포구 서교동 448-31",
+    "rating": 4.5,
+    "description": {
+      "en": "Spa and massage in Seoul",
+      "ja": "ソウルでのスパとマッサージ",
+      "zh": "首尔水疗和按摩",
+      "vi": "Thiền đường và mát xa tại Seoul",
+      "id": "Spa dan pijat di Seoul"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA4MDZfMTI5%2FMDAxNjkxMjUzNjIwNzY0.ihhsaUFrfMMIwelJhSLL1npe4zA5QGrNKIVvVINjZmYg.a1Hgh5Z5Ol7hAhh03RJeYDK4QjwDMuKPJNX3gH4aSj8g.JPEG.lejdksn%2FBeautyPlus%25A3%25DF20230730211821295%25A3%25DFsave.jpg&type=a340"
+  },
+  {
+    "theme": "k-beauty",
     "region": {
       "province": "seoul",
       "city": null,
       "district": "jung"
     },
-    "name": "남산 둘레길 진입로",
-    "address": "서울특별시 중구 예장동 8-177",
+    "name": "명동 스파 마사지",
+    "address": "서울특별시 중구 명동7길 8",
     "rating": 4.5,
     "description": {
-      "en": "Namsan Dulle-gil Entrance Road is the main entrance to the Namsan Dulle-gil walking trail, offering easy access to the scenic trail.",
-      "ja": "ナムサン・ドルレギル入口道路は、ナムサン・ドルレギル散歩道へのメインエントランスで、風光明媚な散歩道へのアクセスが容易です。",
-      "zh": "南山둘레길入口路是南山둘레길步行小径的主要入口，提供了便捷的通道到风景如画的小径。",
-      "vi": "Con đường vào Namsan Dulle-gil là lối vào chính đến đường đi bộ Namsan Dulle-gil, cung cấp quyền truy cập dễ dàng vào con đường đi bộ cảnh quan.",
-      "id": "Jalan Masuk Namsan Dulle-gil adalah pintu masuk utama ke jalur berjalan Namsan Dulle-gil, menawarkan akses mudah ke jalur berjalan yang indah."
+      "en": "Spa and massage in Myeong-dong, Seoul",
+      "ja": "明洞でのスパとマッサージ",
+      "zh": "明洞水疗和按摩",
+      "vi": "Thiền đường và mát xa tại Myeong-dong, Seoul",
+      "id": "Spa dan pijat di Myeong-dong, Seoul"
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpam3vmPhwGIArCiQa9noUHy5VnlMyzsu7J3sORLPCtFEW9Su14OhWWmiUVCpxvWmxEMr2yiswtkP5ijgX7BtibKG5xK66EMAilgI4p5wr72mQ17bfaZMp92uFPDKi8alH4EhJ=w408-h306-k-no"
+    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fd2ur7st6jjikze.cloudfront.net%2Foffer_photos%2F84945%2F539870_large_1600916314.jpg%3F1600916314&type=a340"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "gangnam"
+    },
+    "name": "강남 피부과 클리닉",
+    "address": "서울특별시 강남구 강남대로 488",
+    "rating": 4.5,
+    "description": {
+      "en": "Skin clinic in Gangnam, Seoul",
+      "ja": "江南の皮膚科クリニック",
+      "zh": "江南皮肤科诊所",
+      "vi": "Phòng khám da ở Gangnam, Seoul",
+      "id": "Klinik kulit di Gangnam, Seoul"
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAxODA4MDhfMjM0%2FMDAxNTMzNjk3OTUyMjUw.ngAHZLT73bvgBwlBQg6MofhPWq2iioeWGYq7OjveYzwg.gdjuA-Igt4yHtDJ5_sCKlTCORrfhwZ3dkgnv1Fb1NFwg.PNG.rfxwxdkrpwxgk%2F20180808120706.png&type=l340_165"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "mapo"
+    },
+    "name": "포은로6길 27",
+    "address": "서울특별시 마포구 포은로6길 27",
+    "rating": 4.5,
+    "description": {
+      "en": "This is a traditional Korean market located in Mapo-gu, Seoul, offering a unique shopping experience.",
+      "ja": "こちらは、ソウルにある伝統的な韓国市場で、ユニークなショッピング体験を提供しています。",
+      "zh": "这是位于首尔麻浦区的一家传统韩国市场，提供独特的购物体验。",
+      "vi": "Đây là một chợ truyền thống của Hàn Quốc nằm ở quận Mapo, Seoul, cung cấp trải nghiệm mua sắm độc đáo.",
+      "id": "Ini adalah pasar tradisional Korea yang terletak di Distrik Mapo, Seoul, menawarkan pengalaman belanja yang unik."
+    },
+    "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20150521_182%2Fphoibosblog_143217481369637fIJ_JPEG%2Femblem04.jpg&type=l340_110"
   }
 ]

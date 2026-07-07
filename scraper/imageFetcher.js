@@ -7,14 +7,33 @@ const GOOGLE_PHOTO_SELECTORS = [
   'img[src*="googleusercontent.com/gps-cs-s"]',
 ];
 
-const NAVER_PHOTO_SELECTORS = [
-  'img[src*="search.pstatic.net"]',
+const NAVER_PLACE_PHOTO_SELECTORS = [
   'img[src*="ldb-phinf.pstatic.net"]',
-  'img[src*="pstatic.net"]',
+  'img[src*="map.pstatic.net"]',
 ];
+
+const PLACE_FETCH_TIMEOUT_MS = Number(process.env.PLACE_PHOTO_TIMEOUT_MS) || 45_000;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/**
+ * @param {Promise<T>} promise
+ * @param {number} ms
+ * @param {string} label
+ * @returns {Promise<T>}
+ */
+async function withTimeout(promise, ms, label) {
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`${label} timed out`)), ms);
+  });
+  try {
+    return await Promise.race([promise, timeout]);
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 async function dismissGoogleConsent(page) {
@@ -23,7 +42,7 @@ async function dismissGoogleConsent(page) {
   );
   if ((await consent.count()) > 0) {
     await consent.first().click({ timeout: 3000 }).catch(() => undefined);
-    await sleep(500);
+    await sleep(400);
   }
 }
 
@@ -37,43 +56,138 @@ function isUsablePhotoUrl(src) {
   return true;
 }
 
+/** Reject blog/image-search proxies — not tied to a map POI. */
+function isLowQualityImageUrl(src) {
+  if (!src) return true;
+  if (src.includes("ldb-phinf.pstatic.net") || src.includes("map.pstatic.net")) return false;
+  if (src.includes("search.pstatic.net/common") && /ldb-phinf|map\.pstatic/.test(src)) {
+    return false;
+  }
+  return (
+    src.includes("search.pstatic.net/common") ||
+    src.includes("blogfiles.naver.net") ||
+    src.includes("cafefiles.naver.net") ||
+    src.includes("imgnews.naver.net") ||
+    (/googleusercontent\.com/.test(src) &&
+      /=w(\d+)-h(\d+)/.test(src) &&
+      Number(src.match(/=w(\d+)-h(\d+)/)?.[1] ?? 999) < 120)
+  );
+}
+
+/**
+ * @param {string} src
+ */
+function unwrapNaverPhotoUrl(src) {
+  if (!src.includes("search.pstatic.net/common")) return src;
+  const match = src.match(/[?&]src=([^&]+)/);
+  if (!match) return src;
+  try {
+    const decoded = decodeURIComponent(match[1]);
+    if (decoded.includes("ldb-phinf.pstatic.net") || decoded.includes("map.pstatic.net")) {
+      return decoded;
+    }
+  } catch {
+    return src;
+  }
+  return src;
+}
+
+/**
+ * @param {string|null|undefined} src
+ */
+function isPlaceListingPhotoUrl(src) {
+  const resolved = unwrapNaverPhotoUrl(src);
+  if (!isUsablePhotoUrl(resolved)) return false;
+  if (isLowQualityImageUrl(resolved)) return false;
+  if (resolved.includes("googleusercontent.com")) return true;
+  if (resolved.includes("ldb-phinf.pstatic.net")) return true;
+  if (resolved.includes("map.pstatic.net")) return true;
+  return false;
+}
+
+/**
+ * @param {string} src
+ */
+function upgradePhotoUrl(src) {
+  const resolved = unwrapNaverPhotoUrl(src);
+  if (resolved.includes("googleusercontent.com")) {
+    return resolved
+      .replace(/=w\d+-h\d+[^&]*/i, "=w800-h600-k-no")
+      .replace(/=s\d+[^&]*/i, "=s800-no");
+  }
+  if (resolved.includes("pstatic.net")) {
+    return resolved.replace(/type=f\d+_\d+/i, "type=f500_500").replace(/type=w\d+[^&]*/i, "type=w800");
+  }
+  return resolved;
+}
+
+/**
+ * @param {string} a
+ * @param {string} b
+ */
+function namesLikelyMatch(a, b) {
+  const compact = (value) =>
+    value
+      .toLowerCase()
+      .replace(/[\s·.,()[\]'"-]/g, "")
+      .trim();
+  const left = compact(a);
+  const right = compact(b);
+  if (!left || !right) return false;
+  if (left.includes(right) || right.includes(left)) return true;
+
+  const tokens = (value) =>
+    value
+      .replace(/[^\uAC00-\uD7A3a-zA-Z0-9]/g, " ")
+      .split(/\s+/)
+      .map((part) => part.trim())
+      .filter((part) => part.length >= 2);
+
+  const leftTokens = tokens(a);
+  const rightTokens = tokens(b);
+  return leftTokens.some((token) =>
+    rightTokens.some((other) => other.includes(token) || token.includes(other))
+  );
+}
+
 /**
  * @param {import('playwright').Page} page
+ * @param {string[]} selectors
  */
-async function extractPhotoFromOpenPanel(page, selectors) {
-  await sleep(1500);
+async function extractBestPlacePhoto(page, selectors) {
+  await sleep(1200);
+
+  /** @type {{ src: string; area: number }[]} */
+  const candidates = [];
 
   for (const selector of selectors) {
     const locator = page.locator(selector);
     const count = await locator.count().catch(() => 0);
-    for (let i = 0; i < Math.min(count, 8); i += 1) {
-      const src = await locator.nth(i).getAttribute("src").catch(() => null);
-      if (isUsablePhotoUrl(src)) return src;
+    for (let i = 0; i < Math.min(count, 10); i += 1) {
+      const el = locator.nth(i);
+      const src = await el.getAttribute("src").catch(() => null);
+      if (!isPlaceListingPhotoUrl(src)) continue;
+      const box = await el.boundingBox().catch(() => null);
+      const area = box ? box.width * box.height : 100;
+      candidates.push({ src, area });
     }
   }
 
-  const evaluated = await page
-    .evaluate(() => {
-      const imgs = [...document.querySelectorAll("img[src*='googleusercontent'], img[src*='pstatic.net']")];
-      const ranked = imgs
-        .map((img) => ({
-          src: img.getAttribute("src"),
-          area: (img.naturalWidth || img.width || 0) * (img.naturalHeight || img.height || 0),
-        }))
-        .filter((item) => item.src && item.area >= 10_000)
-        .sort((a, b) => b.area - a.area);
-      return ranked[0]?.src ?? null;
-    })
-    .catch(() => null);
-
-  return isUsablePhotoUrl(evaluated) ? evaluated : null;
+  if (candidates.length === 0) return null;
+  candidates.sort((a, b) => b.area - a.area);
+  return upgradePhotoUrl(candidates[0].src);
 }
 
 /**
  * @param {import('playwright').Page} page
  */
 async function extractGooglePlacePhoto(page) {
-  return extractPhotoFromOpenPanel(page, GOOGLE_PHOTO_SELECTORS);
+  const photosTab = page.locator('button[aria-label*="사진"], button[aria-label*="Photos"]');
+  if ((await photosTab.count()) > 0) {
+    await photosTab.first().click({ timeout: 4000 }).catch(() => undefined);
+    await sleep(1000);
+  }
+  return extractBestPlacePhoto(page, GOOGLE_PHOTO_SELECTORS);
 }
 
 /**
@@ -90,40 +204,33 @@ async function fetchGoogleMapsPhoto(page, searchQuery) {
   const count = await results.count();
   if (count === 0) return null;
 
-  for (let i = 0; i < Math.min(count, 3); i += 1) {
-    await results.nth(i).click({ timeout: 10000 });
-    const photo = await extractPhotoFromOpenPanel(page, GOOGLE_PHOTO_SELECTORS);
-    if (photo) return photo;
-    await page.keyboard.press("Escape").catch(() => undefined);
-    await sleep(600);
-  }
-
-  return null;
-}
-
-/**
- * @param {import('playwright').Page} page
- * @param {string} searchQuery
- */
-async function fetchNaverImageSearchPhoto(page, searchQuery) {
-  const url = `https://search.naver.com/search.naver?where=image&query=${encodeURIComponent(searchQuery)}`;
-  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
-  await sleep(2000);
-
-  const selectors = [
-    'img[src*="search.pstatic.net"]',
-    'img[src*="ldb-phinf.pstatic.net"]',
-    'div.image_tile img',
-    'img._img',
-  ];
-
-  for (const selector of selectors) {
-    const locator = page.locator(selector);
-    const count = await locator.count().catch(() => 0);
-    for (let i = 0; i < Math.min(count, 6); i += 1) {
-      const src = await locator.nth(i).getAttribute("src").catch(() => null);
-      if (isUsablePhotoUrl(src)) return src;
+  for (let i = 0; i < Math.min(count, 4); i += 1) {
+    const card = results.nth(i);
+    const cardPhoto = await card
+      .locator('img[src*="googleusercontent.com"]')
+      .first()
+      .getAttribute("src")
+      .catch(() => null);
+    if (isPlaceListingPhotoUrl(cardPhoto)) {
+      return upgradePhotoUrl(cardPhoto);
     }
+
+    await card.click({ timeout: 10000 });
+    await sleep(2000);
+
+    const title =
+      (await page.locator("h1").first().textContent({ timeout: 4000 }).catch(() => null)) || "";
+    if (i > 0 && title && !namesLikelyMatch(title, searchQuery)) {
+      await page.keyboard.press("Escape").catch(() => undefined);
+      await sleep(400);
+      continue;
+    }
+
+    const photo = await extractGooglePlacePhoto(page);
+    if (photo) return photo;
+
+    await page.keyboard.press("Escape").catch(() => undefined);
+    await sleep(400);
   }
 
   return null;
@@ -134,61 +241,56 @@ async function fetchNaverImageSearchPhoto(page, searchQuery) {
  * @param {string} searchQuery
  */
 async function fetchNaverMapPhoto(page, searchQuery) {
-  const url = `https://map.naver.com/v5/search/${encodeURIComponent(searchQuery)}`;
-  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
-  await sleep(3000);
+  const pcmapUrl = `https://pcmap.place.naver.com/place/list?query=${encodeURIComponent(searchQuery)}`;
+  await page.goto(pcmapUrl, { waitUntil: "domcontentloaded", timeout: 45000 });
+  await sleep(2000);
 
-  const frame = page.frameLocator('iframe[id="searchIframe"]').first();
-  const inFrame = (await frame.locator("body").count().catch(() => 0)) > 0;
+  const photos = page.locator(
+    'img[src*="ldb-phinf.pstatic.net"], img[src*="map.pstatic.net"], img[src*="search.pstatic.net/common"]'
+  );
+  const count = await photos.count().catch(() => 0);
+  for (let i = 0; i < Math.min(count, 6); i += 1) {
+    const src = await photos.nth(i).getAttribute("src").catch(() => null);
+    if (isPlaceListingPhotoUrl(src)) return upgradePhotoUrl(src);
+  }
 
-  const resultLink = inFrame
-    ? frame.locator('a[href*="/entry/place"], a[class*="place_bluelink"]').first()
-    : page.locator('a[href*="/entry/place"], a[class*="place_bluelink"]').first();
+  const firstPlace = page.locator("a.place_bluelink, a[href*='/restaurant/'], a[href*='/place/']").first();
+  if ((await firstPlace.count()) === 0) return null;
 
-  if ((await resultLink.count()) === 0) return null;
-
-  await resultLink.click({ timeout: 10000 }).catch(() => null);
+  await firstPlace.click({ timeout: 8000 }).catch(() => null);
   await sleep(2500);
 
-  const photo = await extractPhotoFromOpenPanel(page, NAVER_PHOTO_SELECTORS);
-  if (photo) return photo;
-
-  if (inFrame) {
-    for (const selector of NAVER_PHOTO_SELECTORS) {
-      const locator = frame.locator(selector);
-      const count = await locator.count().catch(() => 0);
-      for (let i = 0; i < Math.min(count, 5); i += 1) {
-        const src = await locator.nth(i).getAttribute("src").catch(() => null);
-        if (isUsablePhotoUrl(src)) return src;
-      }
-    }
+  const detailPhotos = page.locator(
+    'img[src*="ldb-phinf.pstatic.net"], img[src*="map.pstatic.net"], img[src*="search.pstatic.net/common"]'
+  );
+  const detailCount = await detailPhotos.count().catch(() => 0);
+  for (let i = 0; i < Math.min(detailCount, 8); i += 1) {
+    const src = await detailPhotos.nth(i).getAttribute("src").catch(() => null);
+    if (isPlaceListingPhotoUrl(src)) return upgradePhotoUrl(src);
   }
 
   return null;
 }
 
 /**
+ * Prefer map POI listing photos (Google Maps → Naver Place).
  * @param {import('playwright').Page} page
  * @param {string} searchQuery
  */
 async function fetchPlacePhoto(page, searchQuery) {
-  const hasHangul = /[가-힣]/.test(searchQuery);
+  const googlePhoto = await withTimeout(
+    fetchGoogleMapsPhoto(page, searchQuery),
+    PLACE_FETCH_TIMEOUT_MS,
+    "google-maps"
+  ).catch(() => null);
+  if (googlePhoto) return { imageUrl: googlePhoto, source: "google-maps" };
 
-  if (hasHangul) {
-    const naverImage = await fetchNaverImageSearchPhoto(page, searchQuery).catch(() => null);
-    if (naverImage) return { imageUrl: naverImage, source: "naver-image" };
-
-    const naverPhoto = await fetchNaverMapPhoto(page, searchQuery).catch(() => null);
-    if (naverPhoto) return { imageUrl: naverPhoto, source: "naver" };
-  }
-
-  const googlePhoto = await fetchGoogleMapsPhoto(page, searchQuery).catch(() => null);
-  if (googlePhoto) return { imageUrl: googlePhoto, source: "google" };
-
-  if (!hasHangul) {
-    const naverImage = await fetchNaverImageSearchPhoto(page, searchQuery).catch(() => null);
-    if (naverImage) return { imageUrl: naverImage, source: "naver-image" };
-  }
+  const naverPhoto = await withTimeout(
+    fetchNaverMapPhoto(page, searchQuery),
+    PLACE_FETCH_TIMEOUT_MS,
+    "naver-map"
+  ).catch(() => null);
+  if (naverPhoto) return { imageUrl: naverPhoto, source: "naver-map" };
 
   return null;
 }
@@ -197,7 +299,9 @@ module.exports = {
   fetchPlacePhoto,
   fetchGoogleMapsPhoto,
   fetchNaverMapPhoto,
-  fetchNaverImageSearchPhoto,
   extractGooglePlacePhoto,
   isUsablePhotoUrl,
+  isLowQualityImageUrl,
+  isPlaceListingPhotoUrl,
+  upgradePhotoUrl,
 };

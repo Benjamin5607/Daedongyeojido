@@ -1,26 +1,17 @@
 const fs = require("fs");
 const path = require("path");
 const { chromium } = require("playwright");
-const { fetchPlacePhoto } = require("./imageFetcher");
+const { fetchPlacePhoto, isLowQualityImageUrl } = require("./imageFetcher");
 
 const NAVER_KO_PATH = path.join(__dirname, "../src/data/naver_search_ko.json");
-const LABELS_PATH = path.join(__dirname, "../src/data/region_labels.json");
 
 let naverKoCache;
-let regionLabelsCache;
 
 function loadNaverKo() {
   if (!naverKoCache) {
     naverKoCache = JSON.parse(fs.readFileSync(NAVER_KO_PATH, "utf8"));
   }
   return naverKoCache;
-}
-
-function loadRegionLabels() {
-  if (!regionLabelsCache) {
-    regionLabelsCache = JSON.parse(fs.readFileSync(LABELS_PATH, "utf8"));
-  }
-  return regionLabelsCache;
 }
 
 function sleep(ms) {
@@ -42,23 +33,42 @@ function resolveKoName(name) {
  * @param {object} place
  */
 function buildImageSearchQuery(place) {
-  const regionLabels = loadRegionLabels();
-  const nameKo = resolveKoName(place.name).trim();
-  if (!nameKo) return "";
+  return resolveKoName(place.name).trim();
+}
 
-  const cityCode = place.region?.city;
-  const cityKo = cityCode ? regionLabels.cities?.[cityCode]?.ko : "";
-  if (cityKo && !nameKo.includes(cityKo.replace(/(시|군)$/, ""))) {
-    return `${nameKo} ${cityKo}`;
+/**
+ * @param {object} place
+ * @returns {string[]}
+ */
+function buildImageSearchQueries(place) {
+  const name = resolveKoName(place.name).trim();
+  if (!name) return [];
+
+  const regionLabels = JSON.parse(
+    fs.readFileSync(path.join(__dirname, "../src/data/region_labels.json"), "utf8")
+  );
+  const queries = [name];
+  const cityKo = place.region?.city ? regionLabels.cities?.[place.region.city]?.ko : "";
+  if (cityKo && !name.includes(cityKo.replace(/(시|군)$/, ""))) {
+    queries.push(`${name} ${cityKo}`);
   }
-
-  const provinceCode = place.region?.province;
-  const provinceKo = provinceCode ? regionLabels.provinces?.[provinceCode]?.ko : "";
+  const provinceKo = place.region?.province
+    ? regionLabels.provinces?.[place.region.province]?.ko
+    : "";
   if (provinceKo === "서울특별시" || provinceKo === "부산광역시") {
-    return `${nameKo} ${provinceKo.replace(/특별시|광역시/, "")}`;
+    queries.push(`${name} ${provinceKo.replace(/특별시|광역시/, "")}`);
   }
+  return [...new Set(queries)];
+}
 
-  return nameKo;
+/**
+ * @param {object} place
+ * @param {boolean} force
+ */
+function needsPhoto(place, force) {
+  if (force) return true;
+  if (!place.imageUrl) return true;
+  return isLowQualityImageUrl(place.imageUrl);
 }
 
 /**
@@ -73,7 +83,7 @@ async function attachMissingImages(places, options = {}) {
 
   const targets = places
     .map((place, index) => ({ place, index }))
-    .filter(({ place }) => force || !place.imageUrl)
+    .filter(({ place }) => needsPhoto(place, force))
     .slice(0, Number.isFinite(limit) ? limit : places.length);
 
   if (targets.length === 0) {
@@ -81,7 +91,7 @@ async function attachMissingImages(places, options = {}) {
     return places;
   }
 
-  console.log(`Fetching photos for ${targets.length} place(s)...`);
+  console.log(`Fetching map POI photos for ${targets.length} place(s)...`);
 
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage({
@@ -97,14 +107,18 @@ async function attachMissingImages(places, options = {}) {
   try {
     for (let i = 0; i < targets.length; i += 1) {
       const { place, index } = targets[i];
-      const searchQuery = buildImageSearchQuery(place);
-      if (!searchQuery) {
+      const searchQueries = buildImageSearchQueries(place);
+      if (searchQueries.length === 0) {
         failed += 1;
         continue;
       }
 
-      console.log(`[photo ${i + 1}/${targets.length}] ${searchQuery}`);
-      const result = await fetchPlacePhoto(page, searchQuery).catch(() => null);
+      console.log(`[photo ${i + 1}/${targets.length}] ${searchQueries.join(" | ")}`);
+      let result = null;
+      for (const query of searchQueries) {
+        result = await fetchPlacePhoto(page, query).catch(() => null);
+        if (result?.imageUrl) break;
+      }
 
       if (result?.imageUrl) {
         updated[index] = { ...place, imageUrl: result.imageUrl };
@@ -128,5 +142,6 @@ async function attachMissingImages(places, options = {}) {
 module.exports = {
   attachMissingImages,
   buildImageSearchQuery,
+  buildImageSearchQueries,
   resolveKoName,
 };

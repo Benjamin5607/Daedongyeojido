@@ -1,0 +1,590 @@
+{
+  "gwangjang-market-jongno": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5/data=!4m7!3m6!1s0x357ca2ed7e74759b:0xd656a34831089f44!8m2!3d37.5700398!4d126.9996036!16s%2Fm%2F012r1x6q!19sChIJm3V0fu2ifDURRJ8IMUijVtY?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Gwangjang Market",
+    "totalCount": 5,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tKamNUSnpXRU5yZFdwamIzSlFWVmRDV1VkR1VtYxAB",
+        "author": "Quynh Tu",
+        "rating": 4,
+        "text": "Good place to visit for snacks.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRU9HUTFUemRITFRGdWNVNUpVVmM0ZVVneWRVRRAB",
+        "author": "tracy hsu",
+        "rating": 5,
+        "text": "zh-Hant",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT205VFZIRmFUblUyZG5KblRFcGFXSE5zUkdOME1XYxAB",
+        "author": "Bogi Aditya",
+        "rating": 4,
+        "text": "crowded, very crowded",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2toSlVYZDBPV1U0VjNKc2MzTXhhRFphWmxCNVkxRRAB",
+        "author": "Jay Chau",
+        "rating": 5,
+        "text": "zh-Hant",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRlp6SnVlVFJpVlZCYU5FWXRaVEZvZVdRMlRWRRAB",
+        "author": "鶴峰良宣",
+        "rating": 5,
+        "text": "賑やかで活気のあるフードエリア。どのお店も店員からメニューを差し出され「座って食べて行きなさい」のお誘い。個人的には価格は高めの設定だと思います。<br>カルグクスは永谷園のお茶漬けを思い出させられました。海苔の香りがとても心地良く私好みなのですが濃い目の味付けで私には塩っぱかったです。<br>水餃子は大きめで食べ応えがあり具材もしっかり入って満足でき<br>チヂミはイメージしてたよりお好み焼きの様な分厚さで油ギッシュだったので食べる気は起きませんでした。美味しいのかも知れませんが、酸化した油だと体調を悪くするのでベトナムのバインセオなども食べない様にしてますので…<br>キンパは日本だと油っこいですが、本場のキンパはスッキリ、シャキっとした食感で癖になる味わいでとても気に入りした。",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:01:06.150Z"
+  },
+  "maple-tree-house-itaewon-yongsan": {
+    "source": "google",
+    "totalCount": 0,
+    "reviews": [],
+    "fetchedAt": "2026-07-08T08:01:26.448Z",
+    "error": "Could not resolve Google Maps place URL"
+  },
+  "tongin-market-mapo": {
+    "source": "google",
+    "totalCount": 0,
+    "reviews": [],
+    "fetchedAt": "2026-07-08T08:01:46.816Z",
+    "error": "Could not resolve Google Maps place URL"
+  },
+  "myeongdong-kyoja-jung-seoul": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EB%AA%85%EB%8F%99%EA%B5%90%EC%9E%90+%EB%B3%B8%EC%A0%90/data=!4m7!3m6!1s0x357ca2f00d41b15b:0x7d50d5b6b0623a1d!8m2!3d37.5610151!4d126.9860829!16s%2Fg%2F11csqxcpw1!19sChIJW7FBDfCifDURHTpisLbVUH0?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Myeongdong Kyoja Jung-gu, Seoul",
+    "totalCount": 5,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tGblNqVk5jazF6VERKR1ZqVk9hSGt5T1VSb2FXYxAB",
+        "author": "Víctor L. M.",
+        "rating": 4,
+        "text": "Comida extraordinaria, todo pero especialmente los fideos verdes fríos. Son adictivos.<br>Se entiende el hype y que es un sitio de comida rápida, aunque sea tradicional, pero las prisas son excesivas.<br>Si hay ocasión y la espera no es muy larga, hay que probarlo.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT205SmJFazRja3BWWmxsRVFWQmtWbmRSVDB3dFpGRRAB",
+        "author": "smith",
+        "rating": 5,
+        "text": "Best noodle texture ever. The kalguksu was fantastic and the taste worked so well with the soft and chewy noodles. We got one of everything on the menu. Dumplings were good, nice skin. The cold noodles have the perfect noodle texture. I find the cold noodles are normally too al dente but this place had it perfect, nice and soft. The kongguksu soybean noodles were not for me, but certainly special. Kalguksu had nice umami broth, perfect wontons, and nice bite. We went around 11am and it was already quite busy, as we were leaving there was a line, so definitely come earlier.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25CaGRVWldkbEExY1doMVZGTmxVSE4zZVRWWVkwRRAB",
+        "author": "becca Re",
+        "rating": 4,
+        "text": "一不小心失控點太多.....<br>一下飛機真的太餓了，但不得不說份量很足夠！！<br>韓國的餃子🥟我好喜歡！！<br>不得不說座位很多，人員服務很一般....<br>#美食r  #明洞餃子 #韓國觀光客",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tNNFQxWnNlV3BTVEhSVk9GTkhjVEJxTUVZeFluYxAB",
+        "author": "ひろ",
+        "rating": 5,
+        "text": "明洞餃子に行きました！<br>カルグクスとマンドゥを注文しましたが、どちらもとても美味しかったです😊<br><br>カルグクスはスープに旨みがしっかりあって、麺もやさしい食感で食べやすかったです。マンドゥも具がたっぷりで、人気店なのも納得の味でした🥟✨<br><br>特に印象に残ったのは、にんにくの効いたキムチです！<br>かなりパンチのある味ですが、カルグクスとの相性が最高で、クセになる美味しさでした。韓国らしいしっかりした味を楽しみたい方にはぜひ食べてほしいです🔥<br><br>店内は混んでいましたが回転が早く、明洞で定番の韓国料理を食べたい方におすすめのお店です！<br><br>명동교자에 다녀왔습니다!<br>칼국수와 만두를 주문했는데 둘 다 정말 맛있었습니다😊<br><br>칼국수는 국물에 깊은 맛이 있고, 면도 부드러워서 먹기 좋았습니다. 만두도 속이 꽉 차 있어서 왜 인기 있는 곳인지 알 수 있었습니다🥟✨<br><br>특히 기억에 남았던 건 마늘향이 강한 김치였습니다!<br>맛이 꽤 강하지만 칼국수와의 조합이 정말 최고였고, 계속 먹고 싶어지는 맛이었습니다. 한국다운 진한 맛을 좋아하는 분들께 꼭 추천하고 싶습니다🔥<br><br>매장은 붐볐지만 회전이 빠른 편이었고, 명동에서 대표적인 한국 음식을 먹고 싶다면 추천할 만한 곳입니다!",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25SSGJrUmhYMlZLT1Voelh5MTNkRzQ0UXpONlNsRRAB",
+        "author": "Traveler",
+        "rating": 5,
+        "text": "米其林推薦人很多 點了包子和刀削麵很好吃<br>首爾明洞擁有逾50年歷史的傳奇名店，自2017年起連年榮獲米其林必比登推介。招牌菜為濃郁雞湯底的刀切麵（칼국수）及皮薄餡紮實的蒸餃（만두）",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:01:52.196Z"
+  },
+  "hybe-insight-yongsan": {
+    "source": "google",
+    "totalCount": 0,
+    "reviews": [],
+    "fetchedAt": "2026-07-08T08:02:12.568Z",
+    "error": "Could not resolve Google Maps place URL"
+  },
+  "smtown-coex-artium-gangnam": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EC%BD%94%EC%97%91%EC%8A%A4%EC%95%84%ED%8B%B0%EC%9B%80/data=!4m7!3m6!1s0x357ca543e1626b4b:0xc06030e86ada73aa!8m2!3d37.5100063!4d127.0614792!16s%2Fg%2F11pd3mlf56!19sChIJS2ti4UOlfDURqnPaaugwYMA?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "SM타운 COEX 아티움 서울특별시",
+    "totalCount": 4,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT21aWVNYRm9TRTlFVlROdFlYcHBkRkZVY0U5V1JIYxAB",
+        "author": "steffi 123",
+        "rating": 5,
+        "text": "Its a really good store!",
+        "relativeTime": "2026년 5월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tOMU5GOWplSEJzU1ZOclVYZDNVMWc1Tm0xSU5HYxAB",
+        "author": "yunee Jeong",
+        "rating": 5,
+        "text": "공연보러갔어요 위아래 볼거리도많이있네요",
+        "relativeTime": "2026년 4월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tkYWMxSjVhMGQ2U1V4Sk5WSXlXRkJPWlVSR05rRRAB",
+        "author": "조성희, BRIANNa SOPI",
+        "rating": 4,
+        "text": "렘피카공연보러갔는데웅장한크기는아니여도,공연재밌고, 열열하는모습, 앞좌석이라 잘보이고넘재미있었어요, 렘피카,화이륑!~",
+        "relativeTime": "2026년 4월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2xrM1JqSXlObUZwYzFVNE4zZHBkMk41YkdFdGVuYxAB",
+        "author": "김별님",
+        "rating": 5,
+        "text": "뮤지컬 렘피카 보러 다녀옴",
+        "relativeTime": "2026년 3월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:02:23.490Z"
+  },
+  "k-star-road-gangnam": {
+    "source": "google",
+    "totalCount": 0,
+    "reviews": [],
+    "fetchedAt": "2026-07-08T08:02:43.845Z",
+    "error": "Could not resolve Google Maps place URL"
+  },
+  "hongdae-playground-mapo": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/Hongdae+Playground/data=!4m7!3m6!1s0x357c99e61842901f:0xa0749bf3097c9b62!8m2!3d37.5521973!4d126.9233027!16s%2Fg%2F11fj5j1gp2!19sChIJH5BCGOaZfDURYpt8CfObdKA?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Hongdae Playground 서울특별시",
+    "totalCount": 5,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25wV1p6QmhXa1ZDYURNNE1tMVJZMkpoY0VkNmVsRRAB",
+        "author": "Sean Quinn",
+        "rating": 5,
+        "text": "Nice play to watch some street performances.",
+        "relativeTime": "2026년 6월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2pCUVNGODBXa00zV1dSYVkyVnpTSGxrYjJGV05IYxAB",
+        "author": "Dyseny Family",
+        "rating": 5,
+        "text": "7,80년대에는 놀이터, 90,2000년대에는 벼룩시장 등을 거쳐 최근(2025년) 그림동네로도 탈바꿈한, 홍대 앞 명소자리를 계속 지키고 있는 hot place",
+        "relativeTime": "2026년 3월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2pWdGR6WXpiR0pyTkhRNVUzTnhRemM1TmsxdlUzYxAB",
+        "author": "JasonPorter1201",
+        "rating": 5,
+        "text": "It used to be an actual playground for children and there was a kindergarten like a decade ago. maybe two decades now...<br><br>Now this field is remodeled for 'arts' and 'culture'.<br>And it probably will be used as a public standing pub 2.0 version for the youth just as it always has been.<br><br>It's 2.0 because the public toilet has been remodeled and now there is a GS25 convenient store like 5 feet away. The previous CV store was suck to be honest.",
+        "relativeTime": "2026년 3월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2swME1tRk1XR1pVTm13MkxUSXlaVjlGVWxWTlkzYxAB",
+        "author": "HYUNYONG HWANG",
+        "rating": 3,
+        "text": "공연이나 팬미팅 같은 행사가 열리면 여기 아주 미어 터집니다.",
+        "relativeTime": "2026년 3월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT205MFJIRklTMmxCVG5ocFRYY3RSRFZyWHpGVk5GRRAB",
+        "author": "ary antara",
+        "rating": 2,
+        "text": "Apalah",
+        "relativeTime": "2026년 2월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:02:51.557Z"
+  },
+  "sulwhasoo-flagship-store-jung-seoul": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EC%84%A4%ED%99%94%EC%88%98+%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD%EC%8A%A4%ED%86%A0%EC%96%B4/data=!4m7!3m6!1s0x357ca3894799679b:0xf2a9cfb01d4f164b!8m2!3d37.5235538!4d127.0354599!16s%2Fg%2F11byxh4m4_!19sChIJm2eZR4mjfDURSxZPHbDPqfI?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Sulwhasoo Flagship Store 서울특별시",
+    "totalCount": 5,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGamRuWlZlVmhwYWt4YWRrSkJMVU41WXpBM1NXYxAB",
+        "author": "Rex",
+        "rating": 5,
+        "text": "zh-Hant",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2kxS1VrTldNa1J1VmpZdFJtZDBMVzFFTUZsbldWRRAB",
+        "author": "박선주",
+        "rating": 5,
+        "text": "인삼클래스 좋았어요 차 맛있었어요",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSkxUaDNVelZxY1daWlYyRkNNMkpSY1c1MVVHYxAB",
+        "author": "Iryna Kremin",
+        "rating": 5,
+        "text": "Beautiful experience and amazing design, and must buy products when you are in Seoul",
+        "relativeTime": "2026년 6월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RVVIb3RhbHBSTjFKV2VEWnNhRlJHWW5jeFVYYxAB",
+        "author": "Suni Suresh",
+        "rating": 5,
+        "text": "The services here is really great, I always come here to buy my skincare line 🥳 I love their products so much, I come here whenever I am in Korea to stock up 🫶<br>They offer me tea service and also give me so many samples to try which is nice for me to go home and try to see if it suits my skin 🌸",
+        "relativeTime": "2026년 6월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25oUWRHdG5NRWs1UkhsdmJ6UmFSSFpXUWpWamVrRRAB",
+        "author": "W. Vlachopoulos",
+        "rating": 5,
+        "text": "Very nice Sortiment!",
+        "relativeTime": "2026년 6월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:02:59.410Z"
+  },
+  "olive-young-myeongdong-town-jung-seoul": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81+%EB%AA%85%EB%8F%99+%ED%83%80%EC%9A%B4/data=!4m7!3m6!1s0x357ca2efe0d570f5:0x1ed61ca1e03d322a!8m2!3d37.563946!4d126.9851624!16s%2Fg%2F11f3n40rnm!19sChIJ9XDV4O-ifDURKjI94KEc1h4?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Olive Young Myeongdong Town 서울특별시",
+    "totalCount": 5,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT21sRFUyWnZlVGx0ZHpOQlQwRnNhbWRSVlRKUmJWRRAB",
+        "author": "melihcan altan",
+        "rating": 5,
+        "text": "En büyük mağazası",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcVNHcEhUR05rYlU1S1lWOUJTVzFpVG1oTGVtYxAB",
+        "author": "Wasim Bader",
+        "rating": 5,
+        "text": "Olive Young is one of the best places to shop for Korean skincare and beauty products. authentic brands, great deals, and reliable service. Overall it's a great shopping experience. Highly recommended",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tscGJpMTRiMkZ6VTBOUGRUZGpZVmRSY0cxTFVVRRAB",
+        "author": "N I",
+        "rating": 5,
+        "text": "とりあえず滞在中一回は行く。<br>閉店間際はめちゃくちゃ混むので早い時間帯の方がストレスがましかな。",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT21oSVFUVkxaVFV5UzA5bVRrVndPWGRHYVdVemFGRRAB",
+        "author": "Philosophizing",
+        "rating": 5,
+        "text": "2호선 을지로입구역과 4호선 명동역의 중간에 위치한 매우 입지가 좋은 올리브영 명동 타운 !! 1층~2층을 모두 사용하여 규모가 서울에서 가장 큰 올리브영 매장 중 하나에요. 제품들도 아주 다양해서 명동 인근에서 가볍게 쇼핑하기 참 좋은 곳입니다 :) 낮에 가나 밤에 가나 쇼핑하기 굳굳입니다. 접근성도 매우 훌륭 !! 멋진 건물입니다 ㅎㅎㅎ",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2kxd2R6Tk9SbFZpUkhCRWFHNUNjSEpYU1VGSlptYxAB",
+        "author": "Mandy Chan",
+        "rating": 2,
+        "text": "the upstairs sales associates were super kind but the downstairs ones at the skin care section were incredibly rude and dismissive and focused more on laughing among themselves.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:03:07.187Z"
+  },
+  "ahc-spa-gangnam-gangnam": {
+    "source": "google",
+    "totalCount": 0,
+    "reviews": [],
+    "fetchedAt": "2026-07-08T08:03:27.599Z",
+    "error": "Could not resolve Google Maps place URL"
+  },
+  "innisfree-flagship-hongdae-mapo": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EC%BC%80%EC%9D%B4%ED%8C%9D+%EC%8A%A4%ED%80%98%EC%96%B4+%ED%99%8D%EB%8C%80/data=!4m7!3m6!1s0x357c99e071f9a631:0x1f82073317fdce08!8m2!3d37.5555491!4d126.9216216!16s%2Fg%2F11fjb1w217!19sChIJMab5ceCZfDURCM79FzMHgh8?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Innisfree Flagship Hongdae Mapo-gu, Seoul",
+    "totalCount": 5,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tGblVVaEpjbGRZZGtjNFpsVlpNVlJVWDB4TVZVRRAB",
+        "author": "Bianca Anime",
+        "rating": 5,
+        "text": "Very nice I recommend",
+        "relativeTime": "2026년 6월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tFelkzVkRXRjl5UldGb1dWVjRURW8xYkZObE4zYxAB",
+        "author": "Morgan Smith",
+        "rating": 2,
+        "text": "Name is a bit misleading, this is a Line Friends store. They have a great selection of BT21 merchandise and much smaller selections of other idol group Line Friends merch, but no other kpop items and not every group with Line Friends characters is represented. The first floor was occupied by a pop-up when I visited, but I was able to visit the permanent second floor shop without needing to queue for the pop-up. Helpful staff, disappointing store.",
+        "relativeTime": "2026년 5월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25KVmJWUm9iakZGT0ZaZlUxOXZWbkJzVVhZek1FRRAB",
+        "author": "Ellana Nabilah Nur Averina Ansar",
+        "rating": 5,
+        "text": "Visiting during the NCT Dream exhibition. The merchandise are so cute",
+        "relativeTime": "2026년 5월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT21GMlFVNDFOVm93WVZWa1VVWjVXRXRvZEZwTmVGRRAB",
+        "author": "Arushi Chauhan",
+        "rating": 2,
+        "text": "Didn't find anything worth taking.<br>Ok collection<br>People who are into these characters might find worth exploring.<br>The staff was friendly, she clicked a picture for us.",
+        "relativeTime": "2026년 5월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbGRsOUdUMlpIZDFacVV6Wk5Xa2h4WmpsMVpHYxAB",
+        "author": "Naria Rose",
+        "rating": 5,
+        "text": "The new store looks beautiful",
+        "relativeTime": "2026년 5월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:03:32.202Z"
+  },
+  "gyeongbokgung-palace-jongno": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EA%B2%BD%EB%B3%B5%EA%B6%81/data=!4m7!3m6!1s0x357ca2c74aeddea1:0x8b3046532cc715f6!8m2!3d37.579617!4d126.977041!16zL20vMDJ2M3Q2!19sChIJod7tSseifDUR9hXHLFNGMIs?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Gyeongbokgung Palace 서울특별시",
+    "totalCount": 3,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdlpsVlZOWEV6YVRSV1NHY3lUbU10ZVZaTFprRRAB",
+        "author": "Alfredo Verrelli",
+        "rating": 5,
+        "text": "Complesso di edifici di una bellezza disarmante. Abbiamo anche affittato i vestiti tradizionali , i cosiddetti hanbok , per viviate un esperienza totalmente dedicata alla tradizione.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2pWak1HTjFWa05EWnpSa1RIRlpkMjVpZDJwcVZIYxAB",
+        "author": "Mildred Rodriguez",
+        "rating": 5,
+        "text": "A must see. Historical.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2s5V1MwMHhiVmh5T1Y4eWFGOHpjV05IVFVWbk1rRRAB",
+        "author": "Xiaoxiao Liu",
+        "rating": 4,
+        "text": "穿汉服可以免费入场，五点前可以进，六点关门。",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:03:40.066Z"
+  },
+  "bukchon-hanok-village-jongno": {
+    "source": "google",
+    "totalCount": 0,
+    "reviews": [],
+    "fetchedAt": "2026-07-08T08:04:00.452Z",
+    "error": "Could not resolve Google Maps place URL"
+  },
+  "national-museum-of-korea-yongsan": {
+    "source": "google",
+    "totalCount": 0,
+    "reviews": [],
+    "fetchedAt": "2026-07-08T08:04:20.840Z",
+    "error": "Could not resolve Google Maps place URL"
+  },
+  "changdeokgung-palace-jongno": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EC%B0%BD%EB%8D%95%EA%B6%81/data=!4m7!3m6!1s0x357ca25bce7408e3:0xff296b97da565068!8m2!3d37.5794309!4d126.9910426!16s%2Fg%2F11b7gr9kq4!19sChIJ4wh0zluifDURaFBW2pdrKf8?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Changdeokgung Palace",
+    "totalCount": 5,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MVYyVjVSM0p4YWxSaFkyOUdkamRqWDFKV2NHYxAB",
+        "author": "mick wu",
+        "rating": 5,
+        "text": "zh-Hant",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT21JMFFqaFpUSEpZVlhnd2JsWXphMGswT1hOTU5rRRAB",
+        "author": "Mountain Top",
+        "rating": 2,
+        "text": "Tourists from a specific country next door to the west of Korea are talking so loud whereever they go,   I could not focus even on looking at those beautiful palace buildings and surrounding gardens.<br><br>It was so annoying that it was even difficult to pay attention to take pictures.<br><br>The management office should educate those disrespectable people on public manner before letting them in.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT214elVIaE9ORzVsVkV0cVFuZ3RZazFuWjNsS2MxRRAB",
+        "author": "Eminonu",
+        "rating": 5,
+        "text": "チャンドックン",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2prMmJsVnhVMnhrVjNoVWIycEhVRUp4Y1d4MlFWRRAB",
+        "author": "사진으로엮는 이야기",
+        "rating": 5,
+        "text": "가이드의 자세한 설명으로 모르는 부분을 알게 되면서 역사를 다시 배웁니다.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25ka2JrMWZXbDkyWWpCT2IxbHFWVlpaVjB0clpYYxAB",
+        "author": "Rodolphe Texier",
+        "rating": 5,
+        "text": "Beautiful place feels authentic and free of charge if you come dressed. The souvenir shop offers original products you won't find anywhere else",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:04:41.392Z"
+  },
+  "cheonggyecheon-stream-jung-seoul": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EC%B2%AD%EA%B3%84%EC%B2%9C/data=!4m7!3m6!1s0x357ca2ece3930023:0xbd86fa6e88b74ed4!8m2!3d37.5691015!4d126.9786692!16zL20vMDh4dG0y!19sChIJIwCT4-yifDUR1E63iG76hr0?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "청계천 서울특별시",
+    "totalCount": 4,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tRdFNUZEJNVjlYUkMwemJsSmllbWRIY1RrNFdGRRAB",
+        "author": "Alfredo Verrelli",
+        "rating": 5,
+        "text": "Stupenda zona per rilassarsi dopo una giornata di visite o lavoro. Nel pieno centro di Seul , questa zona , che prima era un autostrada , adesso è stata convertita a zona dedicata all utenza pubblica come parco da vivere. Esperienza unica passeggiate a tarda sera oppure per una corsetta mattutina quando Seul si sveglia.",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdlJXOXBRblJZYjNaVGFURTFMVE5XWmkxWlNtYxAB",
+        "author": "Chao Shin (shinchao!)",
+        "rating": 5,
+        "text": "언제 어느 때나 들려도 힐링 받는 곳<br>계절마다 한 번씩 들르면 계절이 바뀌어 가는 게 보이는 아름다운 곳이다",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25neWRrRlZWM2M0YlZob1F6SXpWbHB6VDBGSGVrRRAB",
+        "author": "suffocation",
+        "rating": 5,
+        "text": "Amazing place, perfect for relaxing and if you’re into reading, it’s also an open air library. Loved my time here! Definitely worth the visit, not too crowded and you can even put your feet in the water!",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT21acU9WUmpabkpNTTBGVE5IY3dSSFY0TFRKRlZuYxAB",
+        "author": "Jhenyi Wu貞宜",
+        "rating": 5,
+        "text": "zh-Hant",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:04:52.338Z"
+  },
+  "namsan-park-jung-seoul": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EB%82%A8%EC%82%B0%EA%B3%B5%EC%9B%90/data=!4m7!3m6!1s0x357ca25ed5405a85:0x9462acee0386eec6!8m2!3d37.553782!4d126.9808945!16s%2Fg%2F11bwqm7svz!19sChIJhVpA1V6ifDURxu6GA-6sYpQ?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "Namsan Park 서울특별시",
+    "totalCount": 2,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT25odGVraGthMUZtZGpkSmNTMW1YMWxWU0VJM1FuYxAB",
+        "author": "Dho Joon",
+        "rating": 5,
+        "text": "남산공원에서 찾은 56년전 엄마의 추억...",
+        "relativeTime": "2026년 5월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dWRqVnlTV00xWWpoeWR6SXdWVU42WkRkV0xVRRAB",
+        "author": "Pudding-",
+        "rating": 5,
+        "text": "산책하기 좋아요",
+        "relativeTime": "2026년 4월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:05:00.097Z"
+  },
+  "hangang-park-yeouido-yeongdeungpo": {
+    "source": "google",
+    "totalCount": 0,
+    "reviews": [],
+    "fetchedAt": "2026-07-08T08:05:20.387Z",
+    "error": "Could not resolve Google Maps place URL"
+  },
+  "bukhansan-national-park-seodaemun": {
+    "source": "google",
+    "googleMapsUrl": "https://www.google.com/maps/place/%EB%B6%81%ED%95%9C%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90/data=!4m7!3m6!1s0x357ca2ed7e746c37:0x68d84df978e285!8m2!3d37.6190261!4d126.9969584!16zL20vMGM5bWs3!19sChIJN2x0fu2ifDURheJ4-U3YaAA?authuser=0&hl=ko&rclk=1",
+    "searchQuery": "북한산국립공원 서울특별시",
+    "totalCount": 5,
+    "reviews": [
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2paWFlrRkRjRFZsWmt0clJ6VjRTVEp2TVUxVGVHYxAB",
+        "author": "Layla Wyn",
+        "rating": 3,
+        "text": "It’s Nice but a Little dangerous",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWU5rSldkemM0YmxsUkxXNVVWVE5TVlU1NFJuYxAB",
+        "author": "E K Goh",
+        "rating": 5,
+        "text": "It was a trekking trip out of the blue. Having more than 12 hours to my departure from Seoul,  my Korean friend suggested we go for some workout in the mountain.<br>Our adventure starts from Bulgwang Station and there was already many groups of people heading towards Bukhansan.<br>I have not been exercising for a while and the first stop was at the look out gate, elevation of 160m and already taking my half my life away.<br>The weather of early summer is proving too hot for me and I was perspiring like a dog.<br>Reaching a height of 160m was like a great achievement 👏 but that was only less than 10% to the peak !<br>Still i fairly good shape, we continued for the next stop, where there are public toilets and vending machine.<br>We persevere and continue after 15min of rest for our 3rd stop, which is a small stream and the water was cold and refreshing.<br>The 4th stop is at a crossroad to 836m Baegundae peak or the lower 505m Wonhyobong peak. Already 3 quarter dead, we decided to go for Wonhyobong.<br>Although it show only 1200m, the climb was lasting forever. Trying to catch my breadth, we stopped at 450m amd 400m left to go.<br>Getting to Wonhyobong peak looks easy but the final climb was much more steep. It tool us another 25min to reach the peak and the view was exhilarating.<br>Good job, it is worth the climb,  2.5hours",
+        "relativeTime": "2026년 7월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdVVsSkpkWGxhVm01Q1RFSnlSUzFSTWxSb1gwRRAB",
+        "author": "Minh Thu",
+        "rating": 5,
+        "text": "Rất đáng thăm quan",
+        "relativeTime": "2026년 6월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUk1tWXlVVnBIVkVOaU9WSm9kMU4wYnpaSVYyYxAB",
+        "author": "Romanioli",
+        "rating": 5,
+        "text": "What amazed me the most about Bukhansan (outside of the incredible views) is its proximity to the city itself.<br>The views, as mentioned before, were incredible and breathtaking.<br>You know it’s a good hiking trip when every two minutes you want to take your phone out to take yet another picture. And that was certainly the case here.",
+        "relativeTime": "2026년 6월",
+        "source": "google"
+      },
+      {
+        "id": "Ci9DQUlRQUNvZENodHljRjlvT210d00yeGpkRXBDVm1NNFpITkdWVkF5UWt0NFNVRRAB",
+        "author": "Ernest Tock",
+        "rating": 5,
+        "text": "Tough but rewarding, would not reccomend to older beginners tho as final ascent uses quite a bit of arms on slippery rock face",
+        "relativeTime": "2026년 6월",
+        "source": "google"
+      }
+    ],
+    "fetchedAt": "2026-07-08T08:05:31.258Z"
+  }
+}

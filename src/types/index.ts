@@ -34,6 +34,27 @@ export interface Place {
   imageUrl?: string;
 }
 
+export type ReviewSource = "google" | "naver";
+
+export interface ScrapedReview {
+  id: string;
+  author: string;
+  rating: number;
+  text: string;
+  relativeTime: string;
+  source: ReviewSource;
+}
+
+export interface PlaceReviewEntry {
+  source: ReviewSource;
+  totalCount: number;
+  reviews: ScrapedReview[];
+  fetchedAt: string;
+  googleMapsUrl?: string;
+  searchQuery?: string;
+  error?: string;
+}
+
 export const THEMES: ThemeId[] = [
   "k-food",
   "hallyu",

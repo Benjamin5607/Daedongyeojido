@@ -1,4 +1,5 @@
 import placesData from "@/data/crawled_places.json";
+import { getReviewCountForPlace, getTotalScrapedReviewCount } from "@/lib/reviews";
 import type { Place, ThemeId } from "@/types";
 
 export interface IndexedPlace extends Place {
@@ -33,21 +34,6 @@ function resolveEnglishName(place: Place): string {
   return place.name.en;
 }
 
-function hashString(input: string): number {
-  let hash = 0;
-  for (let i = 0; i < input.length; i++) {
-    hash = (hash << 5) - hash + input.charCodeAt(i);
-    hash |= 0;
-  }
-  return Math.abs(hash);
-}
-
-function buildReviewCount(place: Place, index: number): number {
-  const seed = hashString(`${resolveEnglishName(place)}-${place.theme}-${index}`);
-  const base = Math.floor(place.rating * 42) + (seed % 120);
-  return Math.max(18, base);
-}
-
 function buildUniqueSlug(
   place: Place,
   index: number,
@@ -76,11 +62,14 @@ export function getAllPlaces(): IndexedPlace[] {
   const usedSlugs = new Set<string>();
   const places = placesData as Place[];
 
-  cachedIndex = places.map((place, index) => ({
-    ...place,
-    slug: buildUniqueSlug(place, index, usedSlugs),
-    reviewCount: buildReviewCount(place, index),
-  }));
+  cachedIndex = places.map((place, index) => {
+    const slug = buildUniqueSlug(place, index, usedSlugs);
+    return {
+      ...place,
+      slug,
+      reviewCount: getReviewCountForPlace(slug),
+    };
+  });
 
   return cachedIndex;
 }
@@ -129,7 +118,7 @@ export function getPlatformStats() {
   return {
     placeCount: places.length,
     provinceCount: provinces.size,
-    reviewCount: places.reduce((sum, place) => sum + place.reviewCount, 0),
+    reviewCount: getTotalScrapedReviewCount(),
   };
 }
 

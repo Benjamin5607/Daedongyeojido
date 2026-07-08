@@ -79,12 +79,14 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
             <p className="mt-0.5 text-xs text-[var(--color-muted)]">{localizedName}</p>
           )}
           <div className="mt-2">
-            <StarRating
-              rating={place.rating}
-              size="sm"
-              reviewCount={place.reviewCount}
-              reviewLabel={t.reviewsLabel}
-            />
+            {place.reviewCount > 0 && (
+              <StarRating
+                rating={place.rating}
+                size="sm"
+                reviewCount={place.reviewCount}
+                reviewLabel={t.reviewsLabel}
+              />
+            )}
           </div>
           {!compact && (
             <p className="mt-2 text-sm text-[var(--color-muted)]">{address}</p>

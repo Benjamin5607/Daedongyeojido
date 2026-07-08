@@ -278,6 +278,17 @@ async function fetchNaverMapPhoto(page, searchQuery) {
  * @param {string} searchQuery
  */
 async function fetchPlacePhoto(page, searchQuery) {
+  const hasHangul = /[가-힣]/.test(searchQuery);
+
+  if (hasHangul) {
+    const naverPhoto = await withTimeout(
+      fetchNaverMapPhoto(page, searchQuery),
+      PLACE_FETCH_TIMEOUT_MS,
+      "naver-map"
+    ).catch(() => null);
+    if (naverPhoto) return { imageUrl: naverPhoto, source: "naver-map" };
+  }
+
   const googlePhoto = await withTimeout(
     fetchGoogleMapsPhoto(page, searchQuery),
     PLACE_FETCH_TIMEOUT_MS,
@@ -285,12 +296,14 @@ async function fetchPlacePhoto(page, searchQuery) {
   ).catch(() => null);
   if (googlePhoto) return { imageUrl: googlePhoto, source: "google-maps" };
 
-  const naverPhoto = await withTimeout(
-    fetchNaverMapPhoto(page, searchQuery),
-    PLACE_FETCH_TIMEOUT_MS,
-    "naver-map"
-  ).catch(() => null);
-  if (naverPhoto) return { imageUrl: naverPhoto, source: "naver-map" };
+  if (!hasHangul) {
+    const naverPhoto = await withTimeout(
+      fetchNaverMapPhoto(page, searchQuery),
+      PLACE_FETCH_TIMEOUT_MS,
+      "naver-map"
+    ).catch(() => null);
+    if (naverPhoto) return { imageUrl: naverPhoto, source: "naver-map" };
+  }
 
   return null;
 }

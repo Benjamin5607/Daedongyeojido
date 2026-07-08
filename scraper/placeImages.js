@@ -127,6 +127,19 @@ async function attachMissingImages(places, options = {}) {
       } else {
         failed += 1;
         console.warn("  ✗ no photo found");
+        if (place.imageUrl && isLowQualityImageUrl(place.imageUrl)) {
+          const { imageUrl: _removed, ...rest } = updated[index];
+          updated[index] = rest;
+        }
+      }
+
+      if ((i + 1) % 10 === 0) {
+        fs.writeFileSync(
+          path.join(__dirname, "../src/data/crawled_places.json"),
+          `${JSON.stringify(updated, null, 2)}\n`,
+          "utf8"
+        );
+        console.log(`  (checkpoint: ${attached} attached, ${failed} failed)`);
       }
 
       if (i < targets.length - 1) await sleep(delayMs);

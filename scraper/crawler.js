@@ -1,5 +1,6 @@
 const { chromium } = require("playwright");
 const { SEARCH_QUERIES } = require("./config");
+const { extractGooglePlacePhoto } = require("./imageFetcher");
 
 const RESULTS_PER_QUERY = 5;
 const SCROLL_PAUSE_MS = 800;
@@ -13,6 +14,7 @@ const SCROLL_PAUSE_MS = 800;
  * @property {number|null} rating
  * @property {string} review
  * @property {boolean} permanentlyClosed
+ * @property {string=} imageUrl
  */
 
 /**
@@ -115,6 +117,8 @@ async function extractPlacesFromResults(page, theme, query) {
 
       if (!name.trim()) continue;
 
+      const imageUrl = await extractGooglePlacePhoto(page).catch(() => null);
+
       places.push({
         theme,
         query,
@@ -123,6 +127,7 @@ async function extractPlacesFromResults(page, theme, query) {
         rating: parseRating(ratingText),
         review: (review || "").trim(),
         permanentlyClosed,
+        ...(imageUrl ? { imageUrl } : {}),
       });
 
       await page.keyboard.press("Escape").catch(() => undefined);

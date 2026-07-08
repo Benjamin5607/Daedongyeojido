@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useState } from "react";
 import {
   buildGoogleMapsUrl,
   buildMapQuery,
@@ -19,6 +20,7 @@ interface PlaceCardProps {
 
 export function PlaceCard({ place, compact = false }: PlaceCardProps) {
   const { locale, t } = useLanguage();
+  const [imageFailed, setImageFailed] = useState(false);
 
   const nameKo = resolveKoreanField(place.name);
   const localizedName = resolveLocalizedField(place.name, locale);
@@ -28,7 +30,10 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
   const regionLabel = place.region
     ? formatPlaceRegion(place.region, locale)
     : "";
-  const imageUrl = getPlaceImageUrl(place);
+  const imageUrl =
+    imageFailed && place.imageUrl
+      ? getPlaceImageUrl({ ...place, imageUrl: undefined })
+      : getPlaceImageUrl(place);
 
   const mapQuery = buildMapQuery(nameKo, address);
   const googleMapsUrl = buildGoogleMapsUrl(mapQuery);
@@ -48,6 +53,11 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
           <img
             src={imageUrl}
             alt={nameKo}
+            loading="lazy"
+            referrerPolicy="no-referrer"
+            onError={() => {
+              if (place.imageUrl && !imageFailed) setImageFailed(true);
+            }}
             className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
           />
           <div className="absolute left-3 top-3">

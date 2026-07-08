@@ -11,7 +11,8 @@
     "scrape": "node scraper/processor.js",
     "scrape-reviews": "node scripts/scrape-reviews.mjs",
     "seed": "node scripts/build-seed-data.mjs",
-    "repair-labels": "node scripts/run-repair-labels.mjs"
+    "repair-labels": "node scripts/run-repair-labels.mjs",
+    "attach-images": "node scripts/attach-place-images.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

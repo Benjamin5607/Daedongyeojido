@@ -3,11 +3,7 @@
 import Link from "next/link";
 import { StarRating } from "@/components/StarRating";
 import { useLanguage } from "@/context/LanguageContext";
-import {
-  buildGoogleMapsUrl,
-  buildMapQuery,
-  buildNaverMapUrlForPlace,
-} from "@/lib/mapLinks";
+import { getPlaceMapLinks } from "@/lib/mapLinks";
 import { resolveKoreanField, resolveLocalizedField } from "@/lib/i18n";
 import {
   getReviewSource,
@@ -33,8 +29,10 @@ export function ReviewList({ place }: ReviewListProps) {
 
   const nameKo = resolveKoreanField(place.name);
   const address = resolveLocalizedField(place.address, locale);
-  const googleUrl = buildGoogleMapsUrl(buildMapQuery(nameKo, address));
-  const naverUrl = buildNaverMapUrlForPlace(place);
+  const { googleUrl: googleUrl, naverUrl: naverUrl } = getPlaceMapLinks(
+    place.slug,
+    place
+  );
   const externalUrl = source === "naver" ? naverUrl : googleUrl;
 
   return (

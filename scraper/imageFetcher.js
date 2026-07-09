@@ -192,6 +192,18 @@ async function extractGooglePlacePhoto(page) {
 
 /**
  * @param {import('playwright').Page} page
+ * @param {string} placeUrl
+ */
+async function fetchGooglePlacePhotoFromUrl(page, placeUrl) {
+  if (!placeUrl?.includes("/maps/place")) return null;
+  await page.goto(placeUrl, { waitUntil: "domcontentloaded", timeout: 60000 });
+  await dismissGoogleConsent(page);
+  await sleep(2000);
+  return extractGooglePlacePhoto(page);
+}
+
+/**
+ * @param {import('playwright').Page} page
  * @param {string} searchQuery
  */
 async function fetchGoogleMapsPhoto(page, searchQuery) {
@@ -311,6 +323,7 @@ async function fetchPlacePhoto(page, searchQuery) {
 module.exports = {
   fetchPlacePhoto,
   fetchGoogleMapsPhoto,
+  fetchGooglePlacePhotoFromUrl,
   fetchNaverMapPhoto,
   extractGooglePlacePhoto,
   isUsablePhotoUrl,

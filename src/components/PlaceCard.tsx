@@ -3,9 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import {
-  buildGoogleMapsUrl,
-  buildMapQuery,
-  buildNaverMapUrlForPlace,
+  getPlaceMapLinks,
 } from "@/lib/mapLinks";
 import { getPlaceImageUrl, type IndexedPlace } from "@/lib/places";
 import { resolveLocalizedField, resolveKoreanField } from "@/lib/i18n";
@@ -35,9 +33,10 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
       ? getPlaceImageUrl({ ...place, imageUrl: undefined })
       : getPlaceImageUrl(place);
 
-  const mapQuery = buildMapQuery(nameKo, address);
-  const googleMapsUrl = buildGoogleMapsUrl(mapQuery);
-  const naverMapUrl = buildNaverMapUrlForPlace(place);
+  const { googleUrl: googleMapsUrl, naverUrl: naverMapUrl } = getPlaceMapLinks(
+    place.slug,
+    place
+  );
 
   return (
     <article

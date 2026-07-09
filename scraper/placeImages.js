@@ -1,9 +1,14 @@
 const fs = require("fs");
 const path = require("path");
 const { chromium } = require("playwright");
-const { fetchPlacePhoto, isLowQualityImageUrl } = require("./imageFetcher");
+const {
+  fetchPlacePhoto,
+  fetchGooglePlacePhotoFromUrl,
+  isLowQualityImageUrl,
+} = require("./imageFetcher");
 
 const NAVER_KO_PATH = path.join(__dirname, "../src/data/naver_search_ko.json");
+const MAP_LINKS_PATH = path.join(__dirname, "../src/data/place_map_links.json");
 
 let naverKoCache;
 
@@ -27,6 +32,49 @@ function resolveKoName(name) {
   if (name.ko) return name.ko;
   if (name.en && naverKo[name.en]) return naverKo[name.en];
   return name.en ?? "";
+}
+
+function loadMapLinks() {
+  if (!fs.existsSync(MAP_LINKS_PATH)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(MAP_LINKS_PATH, "utf8"));
+  } catch {
+    return {};
+  }
+}
+
+function slugify(text) {
+  return text
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function resolveEnglishName(place) {
+  if (typeof place.name === "string") return place.name;
+  return place.name.en;
+}
+
+function buildSlugMap(places) {
+  const usedSlugs = new Set();
+  const slugByIndex = new Map();
+  places.forEach((place, index) => {
+    const name = resolveEnglishName(place);
+    const province = place.region?.province ?? "korea";
+    const district = place.region?.district ?? place.region?.city ?? "";
+    const base = slugify(`${name}-${district || province}`) || `place-${index}`;
+    let slug = base;
+    let suffix = 2;
+    while (usedSlugs.has(slug)) {
+      slug = `${base}-${suffix}`;
+      suffix += 1;
+    }
+    usedSlugs.add(slug);
+    slugByIndex.set(index, slug);
+  });
+  return slugByIndex;
 }
 
 /**
@@ -93,6 +141,9 @@ async function attachMissingImages(places, options = {}) {
 
   console.log(`Fetching map POI photos for ${targets.length} place(s)...`);
 
+  const mapLinks = loadMapLinks();
+  const slugByIndex = buildSlugMap(places);
+
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage({
     locale: "ko-KR",
@@ -115,7 +166,18 @@ async function attachMissingImages(places, options = {}) {
 
       console.log(`[photo ${i + 1}/${targets.length}] ${searchQueries.join(" | ")}`);
       let result = null;
+
+      const slug = slugByIndex.get(index);
+      const googlePlaceUrl = mapLinks[slug]?.googleUrl;
+      if (googlePlaceUrl?.includes("/maps/place")) {
+        const imageUrl = await fetchGooglePlacePhotoFromUrl(page, googlePlaceUrl).catch(
+          () => null
+        );
+        if (imageUrl) result = { imageUrl, source: "google-place-url" };
+      }
+
       for (const query of searchQueries) {
+        if (result?.imageUrl) break;
         result = await fetchPlacePhoto(page, query).catch(() => null);
         if (result?.imageUrl) break;
       }

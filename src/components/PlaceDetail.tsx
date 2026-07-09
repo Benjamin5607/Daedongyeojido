@@ -1,14 +1,13 @@
 "use client";
 
 import Link from "next/link";
+import { useState } from "react";
 import { PageShell } from "@/components/PageShell";
 import { PlaceCard } from "@/components/PlaceCard";
 import { ReviewList } from "@/components/ReviewList";
 import { StarRating } from "@/components/StarRating";
 import {
-  buildGoogleMapsUrl,
-  buildMapQuery,
-  buildNaverMapUrlForPlace,
+  getPlaceMapLinks,
 } from "@/lib/mapLinks";
 import { getPlaceImageUrl, getRelatedPlaces, type IndexedPlace } from "@/lib/places";
 import { resolveLocalizedField, resolveKoreanField } from "@/lib/i18n";
@@ -21,6 +20,7 @@ interface PlaceDetailProps {
 
 export function PlaceDetail({ place }: PlaceDetailProps) {
   const { locale, t } = useLanguage();
+  const [imageFailed, setImageFailed] = useState(false);
   const related = getRelatedPlaces(place);
 
   const nameKo = resolveKoreanField(place.name);
@@ -31,11 +31,15 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
   const regionLabel = place.region
     ? formatPlaceRegion(place.region, locale)
     : "";
-  const imageUrl = getPlaceImageUrl(place);
+  const imageUrl =
+    imageFailed && place.imageUrl
+      ? getPlaceImageUrl({ ...place, imageUrl: undefined })
+      : getPlaceImageUrl(place);
 
-  const mapQuery = buildMapQuery(nameKo, address);
-  const googleMapsUrl = buildGoogleMapsUrl(mapQuery);
-  const naverMapUrl = buildNaverMapUrlForPlace(place);
+  const { googleUrl: googleMapsUrl, naverUrl: naverMapUrl } = getPlaceMapLinks(
+    place.slug,
+    place
+  );
 
   return (
     <PageShell>
@@ -61,6 +65,10 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
             <img
               src={imageUrl}
               alt={nameKo}
+              referrerPolicy="no-referrer"
+              onError={() => {
+                if (place.imageUrl && !imageFailed) setImageFailed(true);
+              }}
               className="aspect-[16/10] w-full object-cover"
             />
           </div>

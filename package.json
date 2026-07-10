@@ -13,6 +13,7 @@
     "seed": "node scripts/build-seed-data.mjs",
     "repair-labels": "node scripts/run-repair-labels.mjs",
     "attach-images": "node scripts/attach-place-images.js",
+    "validate-images": "node scripts/validate-place-images.js",
     "build-map-links": "node scripts/build-map-links.mjs"
   },
   "dependencies": {

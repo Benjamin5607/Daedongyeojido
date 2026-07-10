@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const { attachMissingImages } = require("../scraper/placeImages");
+const { validatePlaceImages } = require("./validate-place-images.js");
 
 const PLACES_PATH = path.join(__dirname, "../src/data/crawled_places.json");
 
@@ -19,6 +20,7 @@ async function main() {
   const { limit, force, delayMs } = parseArgs();
   const places = JSON.parse(fs.readFileSync(PLACES_PATH, "utf8"));
   const updated = await attachMissingImages(places, { delayMs, force, limit });
+  validatePlaceImages(updated);
   fs.writeFileSync(PLACES_PATH, `${JSON.stringify(updated, null, 2)}\n`, "utf8");
 }
 

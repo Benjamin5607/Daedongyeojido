@@ -1,4 +1,5 @@
 import { Footer } from "@/components/Footer";
+import { GuideBot } from "@/components/GuideBot/GuideBot";
 import { Navbar } from "@/components/Navbar";
 
 interface PageShellProps {
@@ -12,6 +13,7 @@ export function PageShell({ children, className = "" }: PageShellProps) {
       <Navbar />
       <main className={`flex-1 ${className}`}>{children}</main>
       <Footer />
+      <GuideBot />
     </div>
   );
 }

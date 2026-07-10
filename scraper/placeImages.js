@@ -95,18 +95,48 @@ function buildImageSearchQueries(place) {
   const regionLabels = JSON.parse(
     fs.readFileSync(path.join(__dirname, "../src/data/region_labels.json"), "utf8")
   );
-  const queries = [name];
-  const cityKo = place.region?.city ? regionLabels.cities?.[place.region.city]?.ko : "";
-  if (cityKo && !name.includes(cityKo.replace(/(시|군)$/, ""))) {
-    queries.push(`${name} ${cityKo}`);
+  /** @type {Set<string>} */
+  const queries = new Set();
+
+  const enName = typeof place.name === "object" ? place.name.en?.trim() : "";
+  if (enName) queries.add(enName);
+  queries.add(name);
+
+  const strippedBranch = name
+    .replace(/\s*(본점|지점|타운|스토어|플래그십)$/u, "")
+    .replace(/\s+(점)$/u, "")
+    .trim();
+  if (strippedBranch.length >= 2) queries.add(strippedBranch);
+
+  const parts = name.split(/\s+/).filter(Boolean);
+  if (parts.length > 1) {
+    queries.add(parts[0]);
+    if (parts.length >= 2) queries.add(`${parts[0]} ${parts[parts.length - 1]}`);
+    if (!name.includes("점")) queries.add(`${name}점`);
+    queries.add(`${parts[parts.length - 1]} ${parts[0]}`);
   }
+
+  const cityKo = place.region?.city ? regionLabels.cities?.[place.region.city]?.ko : "";
+  const districtKo = place.region?.district
+    ? regionLabels.districts?.[place.region.district]?.ko
+    : "";
   const provinceKo = place.region?.province
     ? regionLabels.provinces?.[place.region.province]?.ko
     : "";
-  if (provinceKo === "서울특별시" || provinceKo === "부산광역시") {
-    queries.push(`${name} ${provinceKo.replace(/특별시|광역시/, "")}`);
+
+  for (const base of [name, strippedBranch, enName].filter(Boolean)) {
+    if (cityKo && !base.includes(cityKo.replace(/(시|군)$/, ""))) {
+      queries.add(`${base} ${cityKo}`);
+    }
+    if (districtKo && !base.includes(districtKo.replace(/(구|군)$/, ""))) {
+      queries.add(`${base} ${districtKo}`);
+    }
+    if (provinceKo === "서울특별시" || provinceKo === "부산광역시") {
+      queries.add(`${base} ${provinceKo.replace(/특별시|광역시/, "")}`);
+    }
   }
-  return [...new Set(queries)];
+
+  return [...queries].filter((query) => query.length >= 2);
 }
 
 /**

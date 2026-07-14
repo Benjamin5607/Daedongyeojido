@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -50,10 +52,57 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/place_map_links.json src/data/crawled_places.json
-          if git diff --staged --quiet; then
-            echo "No asset changes to commit."
-            exit 0
-          fi
-          git commit -m "chore: refresh map links and place photos"
-          git push
+
+          # Long jobs can finish after other commits landed on master.
+          # Overlay generated assets onto the latest remote tip, merging
+          # imageUrl onto current places so we don't wipe newer scrapes.
+          MSG="chore: refresh map links and place photos"
+          MAP_FILE="src/data/place_map_links.json"
+          PLACES_FILE="src/data/crawled_places.json"
+          cp "$MAP_FILE" /tmp/place_map_links.generated.json
+          cp "$PLACES_FILE" /tmp/crawled_places.assets.generated.json
+
+          for attempt in 1 2 3 4 5; do
+            git fetch origin master
+            git reset --hard origin/master
+            cp /tmp/place_map_links.generated.json "$MAP_FILE"
+            python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          places_path = Path("src/data/crawled_places.json")
+          generated = json.loads(Path("/tmp/crawled_places.assets.generated.json").read_text())
+          current = json.loads(places_path.read_text())
+
+          def key(place):
+              name = place.get("name") or {}
+              if isinstance(name, dict):
+                  name_key = name.get("en") or name.get("ko") or next(iter(name.values()), "")
+              else:
+                  name_key = str(name)
+              region = place.get("region") or {}
+              district = region.get("district") if isinstance(region, dict) else ""
+              return (place.get("theme"), district, name_key)
+
+          images = {key(p): p.get("imageUrl") for p in generated if p.get("imageUrl")}
+          for place in current:
+              k = key(place)
+              if k in images:
+                  place["imageUrl"] = images[k]
+          places_path.write_text(json.dumps(current, ensure_ascii=False, indent=2) + "\n")
+          PY
+            git add "$MAP_FILE" "$PLACES_FILE"
+            if git diff --staged --quiet; then
+              echo "Remote already has the same asset content; nothing to push."
+              exit 0
+            fi
+            git commit -m "$MSG"
+            if git push origin HEAD:master; then
+              echo "Pushed successfully (attempt ${attempt})"
+              exit 0
+            fi
+            echo "Push race (attempt ${attempt}); retrying..."
+            sleep $((attempt * 4))
+          done
+          echo "ERROR: failed to push after retries" >&2
+          exit 1

@@ -31,6 +31,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -67,6 +69,29 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/place_reviews.json
-          git commit -m "Auto-update Google Maps reviews ($(date -u +%Y-%m))"
-          git push
+
+          # Long scrapes can finish after other commits landed on master.
+          # Put our generated file on top of the latest remote tip, then push with retries.
+          MSG="Auto-update Google Maps reviews ($(date -u +%Y-%m))"
+          DATA_FILE="src/data/place_reviews.json"
+          cp "$DATA_FILE" /tmp/place_reviews.generated.json
+
+          for attempt in 1 2 3 4 5; do
+            git fetch origin master
+            git reset --hard origin/master
+            cp /tmp/place_reviews.generated.json "$DATA_FILE"
+            if git diff --quiet -- "$DATA_FILE"; then
+              echo "Remote already has the same reviews content; nothing to push."
+              exit 0
+            fi
+            git add "$DATA_FILE"
+            git commit -m "$MSG"
+            if git push origin HEAD:master; then
+              echo "Pushed successfully (attempt ${attempt})"
+              exit 0
+            fi
+            echo "Push race (attempt ${attempt}); retrying..."
+            sleep $((attempt * 4))
+          done
+          echo "ERROR: failed to push after retries" >&2
+          exit 1

@@ -1,7 +1,7 @@
 import { getAllPlaces } from "@/lib/places";
 import { getPlaceCoordinates, haversineKm } from "@/lib/placeCoords";
 import { formatPlaceRegion } from "@/lib/regions";
-import { resolveLocalizedField } from "@/lib/i18n";
+import { resolveKoreanField, resolveLocalizedField } from "@/lib/i18n";
 import type { Locale } from "@/types";
 import type { NearbyPlaceContext } from "./types";
 
@@ -37,6 +37,7 @@ export function findNearbyHistoricalPlaces(
     if (!isHistoricalPlace(description, place.theme)) continue;
 
     const name = resolveLocalizedField(place.name, locale);
+    const nameKo = resolveKoreanField(place.name);
     const regionLabel = place.region
       ? formatPlaceRegion(place.region, locale)
       : "";
@@ -44,6 +45,7 @@ export function findNearbyHistoricalPlaces(
     results.push({
       slug: place.slug,
       name,
+      nameKo,
       distanceKm: Math.round(distanceKm * 10) / 10,
       description,
       theme: place.theme,

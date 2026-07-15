@@ -1,9 +1,9 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import Link from "next/link";
 import { useLanguage } from "@/context/LanguageContext";
 import { sendGuideChat } from "@/lib/guideBot/client";
+import { fetchGuideKnowledge } from "@/lib/guideBot/knowledge/client";
 import { buildGreeting, buildGuideSystemPrompt } from "@/lib/guideBot/personality";
 import {
   findNearbyHistoricalPlaces,
@@ -26,6 +26,7 @@ export function ChatPanel({ config, onChangeKey }: ChatPanelProps) {
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
   const [nearbyContext, setNearbyContext] = useState<string | undefined>();
+  const [nearbyNamesKo, setNearbyNamesKo] = useState<string[]>([]);
   const [locating, setLocating] = useState(false);
   const bottomRef = useRef<HTMLDivElement>(null);
 
@@ -38,10 +39,24 @@ export function ChatPanel({ config, onChangeKey }: ChatPanelProps) {
   }, [messages, loading]);
 
   const runChat = useCallback(
-    async (nextMessages: ChatMessage[], context?: string) => {
+    async (
+      nextMessages: ChatMessage[],
+      context?: string,
+      namesKo?: string[]
+    ) => {
       setLoading(true);
       try {
-        const system = buildGuideSystemPrompt(locale, context ?? nearbyContext);
+        const lastUser = [...nextMessages]
+          .reverse()
+          .find((m) => m.role === "user")?.content;
+        const knowledge = lastUser
+          ? await fetchGuideKnowledge(lastUser, namesKo ?? nearbyNamesKo)
+          : null;
+        const system = buildGuideSystemPrompt(
+          locale,
+          context ?? nearbyContext,
+          knowledge?.formatted
+        );
         const reply = await sendGuideChat(config, system, nextMessages);
         setMessages((prev) => [
           ...prev,
@@ -57,7 +72,7 @@ export function ChatPanel({ config, onChangeKey }: ChatPanelProps) {
         setLoading(false);
       }
     },
-    [config, locale, nearbyContext, t.guideBotError]
+    [config, locale, nearbyContext, nearbyNamesKo, t.guideBotError]
   );
 
   const handleSend = async () => {
@@ -88,7 +103,9 @@ export function ChatPanel({ config, onChangeKey }: ChatPanelProps) {
           locale
         );
         const context = formatNearbyContext(places);
+        const namesKo = places.map((p) => p.nameKo).filter(Boolean);
         setNearbyContext(context);
+        setNearbyNamesKo(namesKo);
 
         const userMsg: ChatMessage = {
           id: newId(),
@@ -98,7 +115,7 @@ export function ChatPanel({ config, onChangeKey }: ChatPanelProps) {
         const next = [...messages, userMsg];
         setMessages(next);
         setLocating(false);
-        await runChat(next, context);
+        await runChat(next, context, namesKo);
       },
       () => {
         setLocating(false);

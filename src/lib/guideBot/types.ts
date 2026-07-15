@@ -14,6 +14,8 @@ export interface ChatMessage {
 export interface NearbyPlaceContext {
   slug: string;
   name: string;
+  /** Korean name for encyclopedia / heritage lookups */
+  nameKo: string;
   distanceKm: number;
   description: string;
   theme: string;

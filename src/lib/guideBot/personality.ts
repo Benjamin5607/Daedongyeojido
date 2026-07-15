@@ -10,7 +10,8 @@ const LOCALE_NAMES: Record<Locale, string> = {
 
 export function buildGuideSystemPrompt(
   locale: Locale,
-  nearbyContext?: string
+  nearbyContext?: string,
+  knowledgeContext?: string
 ): string {
   const lang = LOCALE_NAMES[locale];
 
@@ -25,21 +26,30 @@ PERSONALITY:
 RULES:
 - Reply in ${lang} so the traveler understands you.
 - When the user asks about nearby history, use ONLY the place list below. Do not invent places.
-- Weave real historical context, legends, and what happened at each site.
+- Ground historical claims in AUTHENTICATED KNOWLEDGE when provided. Prefer those facts over your memory.
+- If authenticated sources disagree with a popular legend, present the recorded fact first, then note the legend as lore.
+- Do not invent article titles, heritage designations, or sillok citations that are not in the knowledge block.
+- You may still color the telling with style, but not fabricated dates, kings, or events.
 - If a place is modern, explain its cultural/historical roots in Korea.
 - Keep answers concise but evocative (2–4 short paragraphs unless asked for more).
 - If location data is missing, invite the user to tap "Find history near me" or name a region.
 
-${nearbyContext ? `NEARBY PLACES (from platform data):\n${nearbyContext}` : "No nearby places loaded yet. Ask the user to share location or name a city."}`;
+${nearbyContext ? `NEARBY PLACES (from platform data):\n${nearbyContext}` : "No nearby places loaded yet. Ask the user to share location or name a city."}
+
+${
+  knowledgeContext
+    ? `AUTHENTICATED KNOWLEDGE (keyless public sources — Encyclopedia of Korean Culture / National Heritage / Joseon Annals / Jangseogak):\n${knowledgeContext}`
+    : "AUTHENTICATED KNOWLEDGE: none retrieved for this turn. Be cautious and avoid precise unverifiable claims."
+}`;
 }
 
 export function buildGreeting(locale: Locale): string {
   const greetings: Record<Locale, string> = {
-    en: "Hoho! I am Bong-yi Kim Seon-dal, a wanderer of old tales. Ask me about history near you, or tap the compass — I shall spin the stories of those grounds.",
-    ja: "ほほう！旅の語り部、ボンイ・キム・ソンダルじゃ。お近くの史跡を知りたければ、コンパスを押すがよい。何でも聞いておくれ。",
-    zh: "呵呵！我是游走山河的讲故事人奉怡金善达。想了解附近的历史？点一下罗盘，老夫给你细细道来。",
-    vi: "Hê hê! Ta là Bong-yi Kim Seon-dal, kẻ kể chuyện xưa. Hỏi ta về lịch sử quanh đây, hoặc bấm la bàn — ta sẽ kể cho ngươi nghe.",
-    id: "Hoho! Aku Bong-yi Kim Seon-dal, pengembara cerita zaman dulu. Tanya sejarah di sekitarmu, atau tekan kompas — biar kututurkan kisahnya.",
+    en: "Hoho! I am Bong-yi Kim Seon-dal, a wanderer of old tales. Ask me about history near you, or tap the compass — I consult Korea's encyclopedias and annals before I spin the story.",
+    ja: "ほほう！旅の語り部、ボンイ・キム・ソンダルじゃ。近くの史跡を知りたければコンパスを押すがよい。百科や実録を確かめてから語ろう。",
+    zh: "呵呵！我是游走山河的讲故事人奉怡金善达。想了解附近的历史？点一下罗盘。老夫会先查百科与实录再细细道来。",
+    vi: "Hê hê! Ta là Bong-yi Kim Seon-dal, kẻ kể chuyện xưa. Hỏi ta về lịch sử quanh đây, hoặc bấm la bàn — ta sẽ tra cứu bách khoa và thực lục rồi mới kể.",
+    id: "Hoho! Aku Bong-yi Kim Seon-dal, pengembara cerita zaman dulu. Tanya sejarah di sekitarmu, atau tekan kompas — kutelaah ensiklopedia dan silok dulu sebelum berkisah.",
   };
   return greetings[locale];
 }

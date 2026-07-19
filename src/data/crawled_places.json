@@ -12641,11 +12641,11 @@
     "address": "서울특별시 중구 을지로43길 9",
     "rating": 4.5,
     "description": {
-      "en": "Pork restaurant in Seoul, known for its delicious dishes",
-      "ja": "ソウルで人気の豚肉料理店",
-      "zh": "首尔著名的猪肉料理店",
-      "vi": "Nhà hàng thịt lợn ngon ở Seoul",
-      "id": "Restoran daging babi yang terkenal di Seoul"
+      "en": "A popular pork restaurant in Seoul",
+      "ja": "ソウルで人気の豚肉レストラン",
+      "zh": "首尔著名的猪肉餐厅",
+      "vi": "Nhà hàng thịt lợn nổi tiếng ở Seoul",
+      "id": "Restoran daging babi yang populer di Seoul"
     }
   },
   {
@@ -12707,17 +12707,17 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "mapo"
+      "district": "seongdonggu"
     },
     "name": "서울 한우 맛집",
-    "address": "서울특별시 마포구 삼개로 10-1",
+    "address": "서울특별시 성동구 매봉길 48 101",
     "rating": 4.5,
     "description": {
-      "en": "Korean beef restaurant in Mapo, Seoul",
-      "ja": "ソウル麻浦区の韓国牛肉レストラン",
-      "zh": "位于麻浦区的韩国牛肉餐厅",
-      "vi": "Nhà hàng thịt bò Hàn Quốc ở Mapo, Seoul",
-      "id": "Restoran daging sapi Korea di Mapo, Seoul"
+      "en": "A Korean restaurant in Seoul serving high-quality Hanu beef dishes.",
+      "ja": "ソウルで人気のハヌ牛レストラン",
+      "zh": "位于首尔的韩式烤肉餐厅，提供高品质的韩牛肉菜肴",
+      "vi": "Nhà hàng thịt bò Hàn Quốc tại Seoul, phục vụ các món ăn từ thịt bò Hanu chất lượng cao",
+      "id": "Restoran daging sapi Korea di Seoul, menyajikan hidangan daging sapi Hanu berkualitas tinggi"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240625_39/1719277509643gO6oX_JPEG/KakaoTalk_20240625_100254599_03.jpg"
   },
@@ -12736,24 +12736,24 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsacO3sdv9pXYCGAHndyaDD1NF6o2BU_O0lpHOfq50rXFhdbnos8AULZMiPzK5lKoOjkKTH38735WFFqugExYyjfm8-Qkq4qAmiFeVxxvCVeS2-QVCBPY_pKIjnmkJWr8KZ0L1MyU5XZwR=w408-h267-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFPwLLOtSMFFtDXWpM33Gq6lZLfr6KbX9iFmYImtFE3N9-2af_l2WmnYVTKxq_Z2rFfOzHYV9uPnnLln7xL34jo3iXs2gIhGyHJJOjrwgW8kQ-ClPOES1zSV06BWMKSdWPVXEhAbTDOEXu=w800-h600-k-no"
   },
   {
     "theme": "hallyu",
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "jung-gu"
+      "district": "gangnam"
     },
     "name": "K-POP 성지",
-    "address": "서울특별시 중구 마장로 3 맥스타일 지하 1층",
+    "address": "서울특별시 강남구 청담동 141-14",
     "rating": 4.5,
     "description": {
-      "en": "A K-POP pilgrimage site in Seoul",
-      "ja": "ソウルにあるK-POPの聖地",
-      "zh": "首尔的K-POP朝圣地",
-      "vi": "Địa điểm hành hương K-POP tại Seoul",
-      "id": "Situs ziarah K-POP di Seoul"
+      "en": "K-POP pilgrimage site in Seoul",
+      "ja": "ソウルK-POP巡礼地",
+      "zh": "首尔K-POP圣地",
+      "vi": "địa điểm hành hương K-POP tại Seoul",
+      "id": "situs ziarah K-POP di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20231203_230/1701580351255oQHG2_JPEG/1701579950469.jpg"
   },
@@ -12814,7 +12814,7 @@
       "province": "seoul"
     },
     "name": "검색 결과",
-    "address": "대한민국 서울특별시 강남구 테헤란로 116 동경빌딩 1층",
+    "address": "대한민국 서울특별시 서초구 강남대로69길 8",
     "rating": 4,
     "description": {
       "en": "",
@@ -12823,17 +12823,17 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYxAz0N84QRNGys2UndOPEqMmxbdwQk4KYBu5GD6RDtAqiyy6mFvvqgp2xtqVyEYgK33accwesryfF3GHJNSUMFdYxJzWZg2uor_FOsfzrGmy6-sWN0HVqFvsjODLlcMhvuCcB7_q3MZo=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnv4BfEJSPMVJ55HF2wyBStSYJ8xN32EBJMrBz01MvKo4Pn_fSRknq22Z2-myCSNTFI6EhvYJyve660oCGKe8CvtpL-8I19VDvoRS4hPOfNUa2bnC7hpjbBdYGyEcFXLGM_G9BiMoTPa3RX=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "jung"
+      "district": "yongsan"
     },
     "name": "서울 전통시장",
-    "address": "서울특별시 중구 퇴계로85길 36",
+    "address": "서울특별시 영등포구 영등포동2가 335",
     "rating": 4.5,
     "description": {
       "en": "Traditional market in Seoul",
@@ -12855,11 +12855,11 @@
     "address": "서울특별시 은평구 불광동 번지 1층 310-11",
     "rating": 4.5,
     "description": {
-      "en": "Yeonsae Market is a traditional market in Seoul, offering a variety of goods and food.",
-      "ja": "ヨンセ市場は、ソウルにある伝統的な市場で、様々な商品や食べ物を提供しています。",
-      "zh": "延世市场是首尔的一家传统市场，提供各种商品和食物。",
-      "vi": "Chợ Yeonsae là một chợ truyền thống ở Seoul, cung cấp nhiều loại hàng hóa và thực phẩm.",
-      "id": "Pasar Yeonsae adalah pasar tradisional di Seoul, menawarkan berbagai macam barang dan makanan."
+      "en": "Traditional market in Seoul",
+      "ja": "ソウル伝統市場",
+      "zh": "首尔传统市场",
+      "vi": "Chợ truyền thống Seoul",
+      "id": "Pasar tradisional Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_300/1441017557183wi6jp_JPEG/116071548130142_0.jpg"
   },
@@ -12902,17 +12902,19 @@
   {
     "theme": "urban-nature",
     "region": {
-      "province": "seoul"
+      "province": "seoul",
+      "city": null,
+      "district": "jongno"
     },
     "name": "남산 둘레길",
-    "address": "대한민국 서울특별시 중구 용산동2가",
-    "rating": 4,
+    "address": "서울특별시 중구 예장동 8-177",
+    "rating": 4.5,
     "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
+      "en": "Namsan Trail, a scenic path surrounding Namsan Mountain",
+      "ja": "ナムサン둘레ギル（南山の周りの散策道）",
+      "zh": "南山둘레길（南山周围的风景小径）",
+      "vi": "Đường đi bộ xung quanh Namsan",
+      "id": "Jalur Namsan, jalur yang mengelilingi Gunung Namsan"
     },
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsZN6_zJJhN5pQacId48g4UxfEV7657Q8FfRKe5tU1_ilfMkIhwVxmxNP2jfo2lbFqEqJVHryjE7ki-Ec_GANkRK-XZinZhZEaezF8u0x5TpS-sEGFgdX5P8xzF-22xXCLj5h7=w408-h306-k-no"
   },
@@ -12938,17 +12940,17 @@
     "region": {
       "province": "busan",
       "city": null,
-      "district": "busanjin-gu"
+      "district": "busanjin"
     },
     "name": "부산 국밥 맛집",
-    "address": "부산광역시 부산진구 자유평화로 21-11",
+    "address": "부산광역시 부산진구 서면로 10",
     "rating": 4.5,
     "description": {
-      "en": "A Korean restaurant in Busan, serving gukbap in a cozy atmosphere.",
-      "ja": "釜山にある韓国料理店。クッパを提供しています。",
-      "zh": "釜山的一家韩国餐厅，提供粥饭，氛围温馨。",
-      "vi": "Nhà hàng Hàn Quốc ở Busan, phục vụ gukbap trong không gian ấm cúng.",
-      "id": "Restoran Korea di Busan, menyajikan gukbap dalam suasana yang nyaman."
+      "en": "A popular Korean restaurant in Busan serving delicious gukbap",
+      "ja": "釜山で人気の韓国料理店。美味しいクッパを提供しています",
+      "zh": "釜山一家受欢迎的韩国餐厅，提供美味的粥饭",
+      "vi": "Nhà hàng Hàn Quốc nổi tiếng ở Busan, phục vụ gukbap ngon",
+      "id": "Restoran Korea yang populer di Busan, menyajikan gukbap yang lezat"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240313_293/1710297487780Blqia_JPEG/020.jpg"
   },
@@ -12976,16 +12978,16 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "gangnam"
+      "district": "jongno"
     },
     "name": "서울 스파 마사지",
-    "address": "서울특별시 강남구 논현2동 221-13",
+    "address": "서울특별시 종로구 동숭3길 6-4",
     "rating": 4.5,
     "description": {
       "en": "Seoul spa massage",
       "ja": "ソウル スパ マッサージ",
       "zh": "首尔水疗按摩",
-      "vi": "Thiền đường xoa bóp Seoul",
+      "vi": "Phòng xông hơi và mát xa Seoul",
       "id": "Pijat spa Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260527_227/1779859824677vVg9u_JPEG/KakaoTalk_20260526_152136549.jpg"
@@ -13017,14 +13019,14 @@
       "district": "gangnam"
     },
     "name": "강남 피부과 클리닉",
-    "address": "서울특별시 강남구 강남대로 488",
+    "address": "서울특별시 강남구 강남대로 432",
     "rating": 4.5,
     "description": {
-      "en": "Skin clinic in Gangnam, Seoul",
-      "ja": "江南の皮膚科クリニック",
+      "en": "Gangnam skin clinic",
+      "ja": "江南皮膚科クリニック",
       "zh": "江南皮肤科诊所",
-      "vi": "Phòng khám da ở Gangnam, Seoul",
-      "id": "Klinik kulit di Gangnam, Seoul"
+      "vi": "Phòng khám da Gangnam",
+      "id": "Klinik kulit Gangnam"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260225_182/1772003343382Ypmh4_JPEG/260220_B.%BA%EA%B7%A3%B5%E5_%B3%D7%C0%CC%B9%F6%C7%C3%B7%B9%C0%CC%BD%BA%28model_a%29_720x720_%281%29.jpg"
   },
@@ -13052,17 +13054,17 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "junggu"
+      "district": "yongsan-gu"
     },
     "name": "서울 돼지고기 맛집",
-    "address": "서울특별시 중구 을지로44길 6",
+    "address": "서울특별시 용산구 한강대로52길 27",
     "rating": 4.5,
     "description": {
-      "en": "Popular pork restaurant in Seoul, serving various dishes",
-      "ja": "ソウルで人気の豚肉料理店、様々なメニューを提供",
-      "zh": "首尔受欢迎的猪肉料理店，提供多种菜肴",
-      "vi": "Nhà hàng thịt lợn phổ biến ở Seoul, phục vụ nhiều món ăn",
-      "id": "Restoran daging babi yang populer di Seoul, menyajikan berbagai hidangan"
+      "en": "Pork restaurant in Seoul",
+      "ja": "ソウルで人気の豚肉レストラン",
+      "zh": "首尔猪肉餐厅",
+      "vi": "Nhà hàng thịt lợn ở Seoul",
+      "id": "Restoran daging babi di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20251223_12/1766465054437g40JH_JPEG/%BD%E6%B3%D7%C0%CF.jpg"
   },
@@ -13077,11 +13079,11 @@
     "address": "서울특별시 중구 다산로 232",
     "rating": 4.5,
     "description": {
-      "en": "Pork restaurant located in Dasan-ro, Seoul, offering a variety of dishes",
-      "ja": "ダサンロに位置する豚肉料理店、様々なメニューを提供",
-      "zh": "位于大山路的猪肉料理店，提供多种菜肴",
-      "vi": "Nhà hàng thịt lợn nằm ở Dasan-ro, Seoul, phục vụ nhiều món ăn",
-      "id": "Restoran daging babi yang terletak di Dasan-ro, Seoul, menawarkan berbagai hidangan"
+      "en": "A tasty pork restaurant in Seoul",
+      "ja": "ソウルでおいしい豚肉レストラン",
+      "zh": "首尔美味的猪肉餐厅",
+      "vi": "Nhà hàng thịt lợn ngon ở Seoul",
+      "id": "Restoran daging babi yang lezat di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20220802_101/1659370765037AXLjm_JPEG/DD07CF1D-8EA2-4102-909C-B1733368C6E8.jpeg"
   },
@@ -13188,5 +13190,138 @@
       "id": ""
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260326_241/1774489899064tAUwm_JPEG/DF9C_1.jpg"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "mapo"
+    },
+    "name": "스파 마사지",
+    "address": "서울특별시 마포구 서교동 448-31",
+    "rating": 4.5,
+    "description": {
+      "en": "Spa and massage in Seoul",
+      "ja": "ソウルスパとマッサージ",
+      "zh": "首尔水疗和按摩",
+      "vi": "spa và massage tại Seoul",
+      "id": "spa dan massage di Seoul"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251010_133/176010141060124vpQ_GIF/%C1%A6%B8%F1_%BE%F8%B4%C2_%B5%F0%C0%DA%C0%CE_%285%29.gif"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jung"
+    },
+    "name": "명동 마사지",
+    "address": "서울특별시 중구 명동7길 8",
+    "rating": 4.5,
+    "description": {
+      "en": "Massage in Myeong-dong, Seoul",
+      "ja": "明洞のマッサージ",
+      "zh": "明洞按摩",
+      "vi": "Massage tại Myeong-dong, Seoul",
+      "id": "Massage di Myeong-dong, Seoul"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260219_156/1771489732301UeQvG_JPEG/KakaoTalk_20260219_172508960.jpg"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "gangnam"
+    },
+    "name": "논현 마사지",
+    "address": "서울특별시 강남구 논현2동 221-13",
+    "rating": 4.5,
+    "description": {
+      "en": "Massage in Nonhyeon, Seoul",
+      "ja": "論峴のマッサージ",
+      "zh": "论峴按摩",
+      "vi": "Massage tại Nonhyeon, Seoul",
+      "id": "Massage di Nonhyeon, Seoul"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260115_39/17684506117724ayqy_JPEG/KakaoTalk_20260114_140730440_03.jpg"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "junggu"
+    },
+    "name": "명동 K뷰티 쇼핑",
+    "address": "서울특별시 중구 퇴계로 115",
+    "rating": 4.5,
+    "description": {
+      "en": "Myeong-dong K-beauty shopping street",
+      "ja": "ミョンドン Kビューティー ショッピング ストリート",
+      "zh": "明洞 K 美容购物街",
+      "vi": "Phố mua sắm K-beauty Myeong-dong",
+      "id": "Jalan belanja K-beauty Myeong-dong"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20230620_85/1687230335274PKIVd_JPEG/K%BA%E4%C6%BC%BC%A5_%BB%E7%BA%B8%C0%CC%C1%A1.jpg"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "mapo"
+    },
+    "name": "포은로 전통시장",
+    "address": "서울특별시 마포구 포은로6길 27",
+    "rating": 4.5,
+    "description": {
+      "en": "Traditional market in Mapo, Seoul",
+      "ja": "マポ伝統市場",
+      "zh": "麻浦传统市场",
+      "vi": "Chợ truyền thống Mapo, Seoul",
+      "id": "Pasar tradisional Mapo, Seoul"
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlljUDMdColTuttFzOxCayAV9em1HIhQloDQiEfdhzhpZ6As4udHEu1P7emoP9VbwIqlioH0MvhvJlRS2YhdKtbl1dGOhPH6lYGtXtBjqCJD8HZX8cZ-L_pzyTT8mQlYS6N1UgQqu7MHFCe=w800-h600-k-no"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jongno"
+    },
+    "name": "자하문로 전통시장",
+    "address": "서울특별시 종로구 자하문로15길 18",
+    "rating": 4.5,
+    "description": {
+      "en": "Traditional market in Jongno, Seoul",
+      "ja": "チョンロ伝統市場",
+      "zh": "钟路传统市场",
+      "vi": "Chợ truyền thống Jongno, Seoul",
+      "id": "Pasar tradisional Jongno, Seoul"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260703_166/1783041726604cbBix_JPEG/%C1%A6%B8%F1%C0%BB_%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4..jpg"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jongno"
+    },
+    "name": "북촌 한옥마을 체험",
+    "address": "서울특별시 종로구 재동 54-1",
+    "rating": 4.5,
+    "description": {
+      "en": "Bukchon Hanok Village experience",
+      "ja": "北村ハノク村体験",
+      "zh": "北村韩屋村体验",
+      "vi": "Trải nghiệm làng Hanok Bukchon",
+      "id": "Pengalaman desa Hanok Bukchon"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20220402_32/1648858600507NB5lH_JPEG/image.jpg"
   }
 ]

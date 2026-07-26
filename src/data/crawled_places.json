@@ -12635,18 +12635,19 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "junggu"
+      "district": "jung"
     },
     "name": "하남돼지집동대문점",
-    "address": "서울특별시 중구 을지로43길 9",
+    "address": "서울특별시 중구 을지로43길 9 1층",
     "rating": 4.5,
     "description": {
-      "en": "A popular pork restaurant in Seoul",
-      "ja": "ソウルで人気の豚肉レストラン",
-      "zh": "首尔著名的猪肉餐厅",
-      "vi": "Nhà hàng thịt lợn nổi tiếng ở Seoul",
-      "id": "Restoran daging babi yang populer di Seoul"
-    }
+      "en": "Pork restaurant in Jung district, Seoul",
+      "ja": "中区の豚肉レストラン",
+      "zh": "中区猪肉餐厅",
+      "vi": "Nhà hàng thịt lợn ở quận Jung",
+      "id": "Restoran daging babi di distrik Jung"
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfbEmLV7iyZIRYrw9M-mqPhnhTcHVhi5NeYLrECDAQCuGCdA_ocTdQX82FYmHnd040oxH6ej7cjEHP6s11tTWGEGq6drfu7j0V1rmrxtaCVVpDrD6hvwNdq52aY3PNsFq8zfxGQEwunlxN=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -12707,17 +12708,17 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "seongdonggu"
+      "district": "mapo"
     },
     "name": "서울 한우 맛집",
-    "address": "서울특별시 성동구 매봉길 48 101",
+    "address": "서울특별시 마포구 홍익로6길 52",
     "rating": 4.5,
     "description": {
-      "en": "A Korean restaurant in Seoul serving high-quality Hanu beef dishes.",
-      "ja": "ソウルで人気のハヌ牛レストラン",
-      "zh": "位于首尔的韩式烤肉餐厅，提供高品质的韩牛肉菜肴",
-      "vi": "Nhà hàng thịt bò Hàn Quốc tại Seoul, phục vụ các món ăn từ thịt bò Hanu chất lượng cao",
-      "id": "Restoran daging sapi Korea di Seoul, menyajikan hidangan daging sapi Hanu berkualitas tinggi"
+      "en": "Korean beef restaurant in Seoul",
+      "ja": "ソウルで韓国牛を食べることができるレストラン",
+      "zh": "位于首尔的韩式烤肉店",
+      "vi": "Nhà hàng thịt bò Hàn Quốc tại Seoul",
+      "id": "Restoran daging sapi Korea di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240625_39/1719277509643gO6oX_JPEG/KakaoTalk_20240625_100254599_03.jpg"
   },
@@ -12727,7 +12728,7 @@
       "province": "seoul"
     },
     "name": "검색 결과",
-    "address": "대한민국 서울특별시 중구 마장로 3 맥스타일 지하 1층",
+    "address": "대한민국 서울특별시 마포구 월드컵로 240",
     "rating": 4,
     "description": {
       "en": "",
@@ -12736,24 +12737,24 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFPwLLOtSMFFtDXWpM33Gq6lZLfr6KbX9iFmYImtFE3N9-2af_l2WmnYVTKxq_Z2rFfOzHYV9uPnnLln7xL34jo3iXs2gIhGyHJJOjrwgW8kQ-ClPOES1zSV06BWMKSdWPVXEhAbTDOEXu=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloRSMex3mJZiHai_RdaGVGkoLWtGERi6FXZsbY3NyokdYI8C7svKJlchn9RaXUhNQAoMhivPthC7i5TqO8aY1sfegY1SMyflS08ZjXjIoBiG3Q1aIROIYDjxfyQaRisTd1PH9NhzyDIO0T=w800-h600-k-no"
   },
   {
     "theme": "hallyu",
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "gangnam"
+      "district": "mapo"
     },
     "name": "K-POP 성지",
-    "address": "서울특별시 강남구 청담동 141-14",
+    "address": "서울특별시 마포구 합정동 366-5",
     "rating": 4.5,
     "description": {
-      "en": "K-POP pilgrimage site in Seoul",
-      "ja": "ソウルK-POP巡礼地",
-      "zh": "首尔K-POP圣地",
-      "vi": "địa điểm hành hương K-POP tại Seoul",
-      "id": "situs ziarah K-POP di Seoul"
+      "en": "A K-POP pilgrimage site in Seoul",
+      "ja": "ソウルにあるK-POPの聖地",
+      "zh": "首尔的K-POP圣地",
+      "vi": "Địa điểm hành hương K-POP tại Seoul",
+      "id": "Situs ziarah K-POP di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20231203_230/1701580351255oQHG2_JPEG/1701579950469.jpg"
   },
@@ -12814,7 +12815,7 @@
       "province": "seoul"
     },
     "name": "검색 결과",
-    "address": "대한민국 서울특별시 서초구 강남대로69길 8",
+    "address": "대한민국 서울특별시 마포구 서교동 448-31 단독건물",
     "rating": 4,
     "description": {
       "en": "",
@@ -12823,7 +12824,7 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnv4BfEJSPMVJ55HF2wyBStSYJ8xN32EBJMrBz01MvKo4Pn_fSRknq22Z2-myCSNTFI6EhvYJyve660oCGKe8CvtpL-8I19VDvoRS4hPOfNUa2bnC7hpjbBdYGyEcFXLGM_G9BiMoTPa3RX=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkGFg5EKBD3y82Mo9prE8VfEIc_askU_UjgmiKB9zJppqCRGff8x83JyTW1jn_wXnG-xIpOUxLFvpg9ABwifzW7ITIp3FieO6DldxB-sS1-4mBiML7hlWoRR5NxqUMa7KXvSDn9G3TiS8KL=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -12833,10 +12834,10 @@
       "district": "yongsan"
     },
     "name": "서울 전통시장",
-    "address": "서울특별시 영등포구 영등포동2가 335",
+    "address": "서울특별시 용산구 효창원로40길 13",
     "rating": 4.5,
     "description": {
-      "en": "Traditional market in Seoul",
+      "en": "Seoul traditional market",
       "ja": "ソウル伝統市場",
       "zh": "首尔传统市场",
       "vi": "Chợ truyền thống Seoul",
@@ -12869,7 +12870,7 @@
       "province": "seoul"
     },
     "name": "검색 결과",
-    "address": "대한민국 서울특별시 종로구 북촌로12길 29-1",
+    "address": "대한민국 서울특별시 강동구 성내동 428-2",
     "rating": 4,
     "description": {
       "en": "",
@@ -12878,7 +12879,7 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxidenL6ayMWoP5uNbVhuGF58C_dgBvkwFxOgeUMZ2SdDOkIYEJn9jMyMznoYcKnFvHn2OKt6NjMsvolGzfihTHzXneIpUyf74joAifpdacRzjYzNXZMwx47Wb2DIdi7-a2WrKsVCg2njc=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksHpij6k7i_JMQPJ1zKHiMyJjGq8FjXnVDIjuQiC0f2y074CGQ8gTbxwVVfvfzhCTZC7QS22XsCZopuNcF_Do08H5ADuT8nWed9_Z2N9plJ5TJHEQhD29unP8_QbYpJh-zL83k=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -12911,8 +12912,8 @@
     "rating": 4.5,
     "description": {
       "en": "Namsan Trail, a scenic path surrounding Namsan Mountain",
-      "ja": "ナムサン둘레ギル（南山の周りの散策道）",
-      "zh": "南山둘레길（南山周围的风景小径）",
+      "ja": "ナムサン둘레ギル（南山の周りの道）",
+      "zh": "南山环山小径",
       "vi": "Đường đi bộ xung quanh Namsan",
       "id": "Jalur Namsan, jalur yang mengelilingi Gunung Namsan"
     },
@@ -12940,17 +12941,17 @@
     "region": {
       "province": "busan",
       "city": null,
-      "district": "busanjin"
+      "district": "saha"
     },
     "name": "부산 국밥 맛집",
-    "address": "부산광역시 부산진구 서면로 10",
+    "address": "부산광역시 사하구 하신번영로157번길 39",
     "rating": 4.5,
     "description": {
-      "en": "A popular Korean restaurant in Busan serving delicious gukbap",
-      "ja": "釜山で人気の韓国料理店。美味しいクッパを提供しています",
-      "zh": "釜山一家受欢迎的韩国餐厅，提供美味的粥饭",
-      "vi": "Nhà hàng Hàn Quốc nổi tiếng ở Busan, phục vụ gukbap ngon",
-      "id": "Restoran Korea yang populer di Busan, menyajikan gukbap yang lezat"
+      "en": "Korean soup restaurant in Busan",
+      "ja": "釜山で韓国スープを食べることができるレストラン",
+      "zh": "位于釜山的韩式汤店",
+      "vi": "Nhà hàng súp Hàn Quốc tại Busan",
+      "id": "Restoran sup Korea di Busan"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240313_293/1710297487780Blqia_JPEG/020.jpg"
   },
@@ -12978,16 +12979,16 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "jongno"
+      "district": "gangnam"
     },
     "name": "서울 스파 마사지",
-    "address": "서울특별시 종로구 동숭3길 6-4",
+    "address": "서울특별시 강남구 논현2동 221-13",
     "rating": 4.5,
     "description": {
       "en": "Seoul spa massage",
       "ja": "ソウル スパ マッサージ",
       "zh": "首尔水疗按摩",
-      "vi": "Phòng xông hơi và mát xa Seoul",
+      "vi": "Phòng xông hơi và mát-xa Seoul",
       "id": "Pijat spa Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260527_227/1779859824677vVg9u_JPEG/KakaoTalk_20260526_152136549.jpg"
@@ -13016,16 +13017,16 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "gangnam"
+      "district": "seocho"
     },
     "name": "강남 피부과 클리닉",
-    "address": "서울특별시 강남구 강남대로 432",
+    "address": "서울특별시 서초구 강남대로69길 8",
     "rating": 4.5,
     "description": {
       "en": "Gangnam skin clinic",
       "ja": "江南皮膚科クリニック",
       "zh": "江南皮肤科诊所",
-      "vi": "Phòng khám da Gangnam",
+      "vi": "Phòng khám da liễu Gangnam",
       "id": "Klinik kulit Gangnam"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260225_182/1772003343382Ypmh4_JPEG/260220_B.%BA%EA%B7%A3%B5%E5_%B3%D7%C0%CC%B9%F6%C7%C3%B7%B9%C0%CC%BD%BA%28model_a%29_720x720_%281%29.jpg"
@@ -13054,10 +13055,10 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "yongsan-gu"
+      "district": "jung-gu"
     },
     "name": "서울 돼지고기 맛집",
-    "address": "서울특별시 용산구 한강대로52길 27",
+    "address": "서울특별시 중구 다산로 149",
     "rating": 4.5,
     "description": {
       "en": "Pork restaurant in Seoul",
@@ -13223,9 +13224,9 @@
     "description": {
       "en": "Massage in Myeong-dong, Seoul",
       "ja": "明洞のマッサージ",
-      "zh": "明洞按摩",
-      "vi": "Massage tại Myeong-dong, Seoul",
-      "id": "Massage di Myeong-dong, Seoul"
+      "zh": "明洞的按摩",
+      "vi": "Mát-xa ở Myeong-dong, Seoul",
+      "id": "Pijat di Myeong-dong, Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260219_156/1771489732301UeQvG_JPEG/KakaoTalk_20260219_172508960.jpg"
   },
@@ -13256,14 +13257,14 @@
       "district": "junggu"
     },
     "name": "명동 K뷰티 쇼핑",
-    "address": "서울특별시 중구 퇴계로 115",
+    "address": "서울특별시 중구 명동 8나길 10",
     "rating": 4.5,
     "description": {
-      "en": "Myeong-dong K-beauty shopping street",
-      "ja": "ミョンドン Kビューティー ショッピング ストリート",
-      "zh": "明洞 K 美容购物街",
-      "vi": "Phố mua sắm K-beauty Myeong-dong",
-      "id": "Jalan belanja K-beauty Myeong-dong"
+      "en": "Myeongdong K-beauty shopping district",
+      "ja": "明洞 Kビューティ ショッピング",
+      "zh": "明洞 K 美容购物",
+      "vi": "Khu mua sắm K-beauty Myeongdong",
+      "id": "Distrik belanja K-beauty Myeongdong"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20230620_85/1687230335274PKIVd_JPEG/K%BA%E4%C6%BC%BC%A5_%BB%E7%BA%B8%C0%CC%C1%A1.jpg"
   },
@@ -13313,15 +13314,110 @@
       "district": "jongno"
     },
     "name": "북촌 한옥마을 체험",
+    "address": "서울특별시 종로구 북촌로12길 24-5",
+    "rating": 4.5,
+    "description": {
+      "en": "Bukchon Hanok Village Experience",
+      "ja": "ブクチョン・ハノク村体験",
+      "zh": "北村韩屋村体验",
+      "vi": "Trải nghiệm làng Hanok Bukchon",
+      "id": "Pengalaman Desa Hanok Bukchon"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20220402_32/1648858600507NB5lH_JPEG/image.jpg"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan",
+      "city": null,
+      "district": "busanjin"
+    },
+    "name": "산반들",
+    "address": "부산광역시 부산진구 전포대로209번길 43",
+    "rating": 4.5,
+    "description": {
+      "en": "A popular restaurant in Busan serving delicious Korean dishes",
+      "ja": "釜山で人気のレストラン。韓国料理を楽しめる",
+      "zh": "釜山一家著名的韩式料理餐厅",
+      "vi": "Nhà hàng nổi tiếng ở Busan, phục vụ các món ăn Hàn Quốc ngon",
+      "id": "Restoran populer di Busan yang menyajikan hidangan Korea yang lezat"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260620_4/1781895567569PKQ3e_JPEG/ChatGPT_Image_2026%B3%E2_6%BF%F9_20%C0%CF_%BF%C0%C0%FC_03_59_08_%283%29.jpg"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan",
+      "city": null,
+      "district": "suyeong"
+    },
+    "name": "광안해변 맛집",
+    "address": "부산광역시 수영구 광안해변로370번길 9-32",
+    "rating": 4.5,
+    "description": {
+      "en": "A restaurant located near Gwangalli Beach in Busan, serving fresh seafood",
+      "ja": "釜山の光安海岸近くにあるレストラン。新鮮な海鮮料理を楽しめる",
+      "zh": "位于釜山光安海滩附近的餐厅，提供新鲜的海鲜",
+      "vi": "Nhà hàng nằm gần Bãi biển Gwangalli ở Busan, phục vụ hải sản tươi sống",
+      "id": "Restoran di dekat Pantai Gwangalli di Busan, menyajikan hidangan laut yang segar"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20230829_137/1693282401170BAq7o_PNG/%B7%CE%B0%ED_%C1%A4%B9%E6%C7%FC.png"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "busan",
+      "city": null,
+      "district": "busanjin"
+    },
+    "name": "서면로 맛집",
+    "address": "부산광역시 부산진구 서면로 10",
+    "rating": 4.5,
+    "description": {
+      "en": "A restaurant located in Seomyeon, Busan, serving a variety of Korean dishes",
+      "ja": "釜山の西面ロにあるレストラン。韓国料理の種類が豊富",
+      "zh": "位于釜山西面路的餐厅，提供多种韩式料理",
+      "vi": "Nhà hàng nằm ở Seomyeon, Busan, phục vụ nhiều món ăn Hàn Quốc",
+      "id": "Restoran di Seomyeon, Busan, menyajikan berbagai hidangan Korea"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "gangnam"
+    },
+    "name": "역삼동 프리미엄스파",
+    "address": "서울특별시 강남구 역삼동 703-2",
+    "rating": 4.5,
+    "description": {
+      "en": "Premium spa in Yeoksam-dong, Gangnam, Seoul",
+      "ja": "江南区驛三洞のプレミアムスパ",
+      "zh": "江南区驛三洞的高级水疗",
+      "vi": "Phòng tắm cao cấp ở Yeoksam-dong, Gangnam, Seoul",
+      "id": "Spa premium di Yeoksam-dong, Gangnam, Seoul"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260206_195/1770352023831WV44k_JPEG/1000012208.jpg"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jongno"
+    },
+    "name": "재동 한옥마을",
     "address": "서울특별시 종로구 재동 54-1",
     "rating": 4.5,
     "description": {
-      "en": "Bukchon Hanok Village experience",
-      "ja": "北村ハノク村体験",
-      "zh": "北村韩屋村体验",
-      "vi": "Trải nghiệm làng Hanok Bukchon",
-      "id": "Pengalaman desa Hanok Bukchon"
+      "en": "Jae-dong Hanok Village",
+      "ja": "재동ハノク村",
+      "zh": "载洞韩屋村",
+      "vi": "Làng Hanok Jae-dong",
+      "id": "Desa Hanok Jae-dong"
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20220402_32/1648858600507NB5lH_JPEG/image.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20240628_264/1719557033764tpCzi_JPEG/DSC08456-%C6%ED%C1%FD_%BA%B9%BB%E7.jpg"
   }
 ]

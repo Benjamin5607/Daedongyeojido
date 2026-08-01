@@ -2,9 +2,11 @@
 /**
  * Generate a blog-style Emily travel illustration for social packs.
  *
- * Primary: NVIDIA NIM FLUX.1-schnell (NVIDIA_API_KEY)
- *   POST https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-schnell
- * Fallback: caller keeps Naver/POI photo and we still write image-prompt.txt
+ * Order:
+ *   1. NVIDIA NIM FLUX.1-schnell when NVIDIA_API_KEY is set
+ *      POST https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-schnell
+ *   2. Free Pollinations FLUX (no key) unless SOCIAL_IMAGE_FALLBACK=none
+ *   3. Caller keeps Naver/POI photo; image-prompt.txt always written
  *
  * Character reference (for docs / manual tools):
  *   scripts/social/assets/emily-reference.png
@@ -24,6 +26,10 @@ const NVIDIA_IMAGE_URL =
   process.env.NVIDIA_IMAGE_API_URL ||
   "https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-schnell";
 
+const POLLINATIONS_BASE =
+  process.env.POLLINATIONS_IMAGE_URL ||
+  "https://image.pollinations.ai/prompt";
+
 const EMILY_CHARACTER = [
   "Emily: young woman with bright blonde voluminous curly coily hair,",
   "large bright blue eyes, thick round black-rimmed glasses,",
@@ -33,10 +39,22 @@ const EMILY_CHARACTER = [
 const STYLE =
   "consistent Pixar / modern 3D animation film still, clean stylized render, soft cinematic lighting, vibrant natural colors, blog travel illustration, Instagram-ready vertical composition, no text, no watermark, no logo, no UI chrome";
 
-function imageGenEnabled() {
+function socialImageGenOn() {
   const flag = (process.env.SOCIAL_IMAGE_GEN || "1").toLowerCase();
-  if (flag === "0" || flag === "false" || flag === "off") return false;
-  return Boolean(process.env.NVIDIA_API_KEY);
+  return !(flag === "0" || flag === "false" || flag === "off");
+}
+
+/** @deprecated use socialImageGenOn — kept for callers expecting imageGenEnabled */
+function imageGenEnabled() {
+  return socialImageGenOn() && Boolean(process.env.NVIDIA_API_KEY);
+}
+
+function fallbackProvider() {
+  const raw = (process.env.SOCIAL_IMAGE_FALLBACK || "pollinations").toLowerCase();
+  if (raw === "0" || raw === "false" || raw === "off" || raw === "none") {
+    return null;
+  }
+  return raw;
 }
 
 function themeSceneHint(theme) {
@@ -83,6 +101,27 @@ function seedFromSlug(slug) {
 }
 
 /**
+ * @param {number} ms
+ * @param {string} label
+ */
+function abortAfter(ms, label) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => {
+    try {
+      ctrl.abort();
+    } catch {
+      /* ignore */
+    }
+  }, ms);
+  if (typeof timer.unref === "function") timer.unref();
+  return {
+    signal: ctrl.signal,
+    clear: () => clearTimeout(timer),
+    timedOutMessage: `${label} timed out after ${ms}ms`,
+  };
+}
+
+/**
  * Build a detailed text prompt for Emily at this place.
  * @param {object} place
  * @param {{ sourceImageUrl?: string|null }} [opts]
@@ -119,6 +158,32 @@ function buildEmilyPrompt(place, opts = {}) {
   ].filter(Boolean);
 
   return lines.join(" ").replace(/\s+/g, " ").trim();
+}
+
+/** Shorter prompt for URL-based providers (length limits). */
+function buildEmilyPromptShort(place) {
+  const nameEn = resolveEnglishName(place);
+  const region = [place.region?.district, place.region?.province]
+    .filter(Boolean)
+    .join(", ");
+  const desc = (resolveDescription(place, "en") || "")
+    .replace(/[^\x20-\x7E]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 90);
+  // English-only + character-first — Pollinations URL models often drop late subjects / non-ASCII.
+  return [
+    "Pixar 3D animated young woman Emily, bright blonde voluminous curly hair, large blue eyes, thick round black rimmed glasses, cute stylized face",
+    `standing in the foreground at ${nameEn}, ${region || "Korea"}, looking joyful`,
+    desc,
+    themeSceneHint(place.theme),
+    "full travel blog illustration, scenic Korean destination background, soft cinematic light, vertical 4:5, no text, no watermark, no logo",
+  ]
+    .filter(Boolean)
+    .join(", ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 850);
 }
 
 /**
@@ -171,30 +236,43 @@ async function generateWithNvidiaFlux(prompt, opts = {}) {
     throw new Error("NVIDIA image gen requires NVIDIA_API_KEY");
   }
 
-  // Portrait-ish for IG feed / blog hero (supported FLUX sizes)
   const width = Number(process.env.NVIDIA_IMAGE_WIDTH) || 896;
   const height = Number(process.env.NVIDIA_IMAGE_HEIGHT) || 1152;
   const steps = Math.min(4, Math.max(1, Number(process.env.NVIDIA_IMAGE_STEPS) || 4));
   const seed = opts.seed ?? 0;
+  const timeoutMs = Number(process.env.NVIDIA_IMAGE_TIMEOUT_MS) || 90_000;
+  const { signal, clear, timedOutMessage } = abortAfter(timeoutMs, "NVIDIA image API");
 
-  const response = await fetch(NVIDIA_IMAGE_URL, {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${apiKey}`,
-      Accept: "application/json",
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      prompt,
-      width,
-      height,
-      seed,
-      steps,
-      cfg_scale: 0,
-      mode: "base",
-      samples: 1,
-    }),
-  });
+  let response;
+  try {
+    response = await fetch(NVIDIA_IMAGE_URL, {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${apiKey}`,
+        Accept: "application/json",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        prompt,
+        width,
+        height,
+        seed,
+        steps,
+        cfg_scale: 0,
+        mode: "base",
+        samples: 1,
+      }),
+      signal,
+    });
+  } catch (err) {
+    const msg =
+      err?.name === "AbortError" || signal.aborted
+        ? timedOutMessage
+        : `NVIDIA image fetch failed: ${String(err.message || err)}`;
+    throw new Error(msg);
+  } finally {
+    clear();
+  }
 
   const bodyText = await response.text();
   if (!response.ok) {
@@ -219,6 +297,63 @@ async function generateWithNvidiaFlux(prompt, opts = {}) {
     buf,
     provider: "nvidia-flux-schnell",
     model: "black-forest-labs/flux.1-schnell",
+    width,
+    height,
+  };
+}
+
+/**
+ * Free Pollinations FLUX (no API key). Good enough blog illustration fallback.
+ * @param {string} shortPrompt
+ * @param {{ seed?: number; width?: number; height?: number }} [opts]
+ */
+async function generateWithPollinations(shortPrompt, opts = {}) {
+  const width = opts.width || Number(process.env.SOCIAL_IMAGE_WIDTH) || 896;
+  const height = opts.height || Number(process.env.SOCIAL_IMAGE_HEIGHT) || 1152;
+  const seed = opts.seed ?? 0;
+  const model = process.env.POLLINATIONS_MODEL || "flux";
+  const timeoutMs = Number(process.env.POLLINATIONS_TIMEOUT_MS) || 120_000;
+
+  const qs = new URLSearchParams({
+    width: String(width),
+    height: String(height),
+    seed: String(seed),
+    nologo: "true",
+    model,
+  });
+  const url = `${POLLINATIONS_BASE}/${encodeURIComponent(shortPrompt)}?${qs}`;
+  const { signal, clear, timedOutMessage } = abortAfter(timeoutMs, "Pollinations");
+
+  let response;
+  try {
+    response = await fetch(url, {
+      headers: {
+        Accept: "image/*,*/*",
+        "User-Agent": "DaedongyeojidoSocialExport/1.0",
+      },
+      redirect: "follow",
+      signal,
+    });
+  } catch (err) {
+    const msg =
+      err?.name === "AbortError" || signal.aborted
+        ? timedOutMessage
+        : `Pollinations fetch failed: ${String(err.message || err)}`;
+    throw new Error(msg);
+  } finally {
+    clear();
+  }
+
+  if (!response.ok) {
+    throw new Error(`Pollinations ${response.status}`);
+  }
+  const buf = Buffer.from(await response.arrayBuffer());
+  if (buf.length < 500) throw new Error("Pollinations returned empty image");
+
+  return {
+    buf,
+    provider: "pollinations-flux",
+    model,
     width,
     height,
   };
@@ -264,17 +399,6 @@ function writeImagePromptFile(packAbs, prompt, opts = {}) {
  *   slug?: string;
  *   sourceImageUrl?: string|null;
  * }} [opts]
- * @returns {Promise<{
- *   ok: boolean;
- *   skipped?: boolean;
- *   reason?: string;
- *   prompt: string;
- *   buf?: Buffer;
- *   provider?: string;
- *   model?: string;
- *   width?: number;
- *   height?: number;
- * }>}
  */
 async function generateEmilyImage(place, opts = {}) {
   const prompt = buildEmilyPrompt(place, {
@@ -285,28 +409,54 @@ async function generateEmilyImage(place, opts = {}) {
     writeImagePromptFile(opts.packAbs, prompt, { referenceHint: true });
   }
 
-  if (!imageGenEnabled()) {
+  if (!socialImageGenOn()) {
     return {
       ok: false,
       skipped: true,
-      reason: process.env.NVIDIA_API_KEY
-        ? "SOCIAL_IMAGE_GEN disabled"
-        : "NVIDIA_API_KEY not set",
+      reason: "SOCIAL_IMAGE_GEN disabled",
       prompt,
     };
   }
 
-  try {
-    const seed = seedFromSlug(opts.slug || place.slug || resolveEnglishName(place));
-    const result = await generateWithNvidiaFlux(prompt, { seed });
-    return { ok: true, prompt, ...result };
-  } catch (err) {
+  const seed = seedFromSlug(opts.slug || place.slug || resolveEnglishName(place));
+  const errors = [];
+
+  if (process.env.NVIDIA_API_KEY) {
+    try {
+      const result = await generateWithNvidiaFlux(prompt, { seed });
+      return { ok: true, prompt, ...result };
+    } catch (err) {
+      errors.push(`nvidia: ${String(err.message || err).slice(0, 200)}`);
+      console.warn(`  · NVIDIA Emily image failed: ${err.message}`);
+    }
+  }
+
+  const fallback = fallbackProvider();
+  if (fallback === "pollinations") {
+    try {
+      const short = buildEmilyPromptShort(place);
+      const result = await generateWithPollinations(short, { seed });
+      return { ok: true, prompt, ...result };
+    } catch (err) {
+      errors.push(`pollinations: ${String(err.message || err).slice(0, 200)}`);
+      console.warn(`  · Pollinations Emily image failed: ${err.message}`);
+    }
+  }
+
+  if (!process.env.NVIDIA_API_KEY && !fallback) {
     return {
       ok: false,
-      reason: String(err.message || err).slice(0, 400),
+      skipped: true,
+      reason: "NVIDIA_API_KEY not set and SOCIAL_IMAGE_FALLBACK=none",
       prompt,
     };
   }
+
+  return {
+    ok: false,
+    reason: errors.join(" | ") || "no image provider succeeded",
+    prompt,
+  };
 }
 
 module.exports = {
@@ -315,8 +465,11 @@ module.exports = {
   EMILY_CHARACTER,
   NVIDIA_IMAGE_URL,
   imageGenEnabled,
+  socialImageGenOn,
   buildEmilyPrompt,
+  buildEmilyPromptShort,
   generateWithNvidiaFlux,
+  generateWithPollinations,
   generateEmilyImage,
   writeImagePromptFile,
   seedFromSlug,

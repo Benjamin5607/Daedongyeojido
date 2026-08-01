@@ -10,18 +10,18 @@
     "updatedAt": "2026-08-01T12:55:18.996Z"
   },
   "captionSource": "local",
-  "is_ai_generated": false,
+  "is_ai_generated": true,
   "caption_ai_generated": false,
-  "image_ai_generated": false,
-  "imageProvider": "poi-download",
-  "imageModel": null,
+  "image_ai_generated": true,
+  "imageProvider": "pollinations-flux",
+  "imageModel": "flux",
   "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
   "suggested_post": {
     "timezone": "Asia/Seoul",
     "localTime": "2026-08-01 19:00",
     "slot": "evening"
   },
-  "alt_text": "해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature",
+  "alt_text": "Emily (3D animated travel character) at 해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature",
   "hashtags": [
     "#Korea",
     "#VisitKorea",
@@ -37,14 +37,14 @@
     "#gyeongnam"
   ],
   "imageFile": "image.jpg",
-  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20240729_181/172225529783838Fo6_JPEG/KakaoTalk_20230904_140829753.jpg",
+  "imageSourceUrl": null,
   "imageContentType": "image/jpeg",
-  "sourceImageSaved": false,
+  "sourceImageSaved": true,
   "emilyReference": "scripts/social/assets/emily-reference.png",
   "placeName": {
     "ko": "해금강",
     "en": "Haegeumgang"
   },
   "descriptionEn": "National scenic islets toured by cruise through the Cross Cave.",
-  "exportedAt": "2026-08-01T13:39:31.197Z"
+  "exportedAt": "2026-08-01T13:50:47.039Z"
 }

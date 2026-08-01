@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T13:46:32.755Z",
+  "updatedAt": "2026-08-01T13:50:47.042Z",
   "items": [
     {
       "id": "sq_20260801134128_1fzpz5",
@@ -45,11 +45,11 @@
       "meta": {
         "packDir": "social-exports/20260801-haegeumgang-nambugmyeon",
         "imageFile": "image.jpg",
-        "is_ai_generated": false,
-        "exportedAt": "2026-08-01T13:39:31.197Z",
-        "alt_text": "해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature",
-        "image_ai_generated": false,
-        "imageProvider": "poi-download"
+        "is_ai_generated": true,
+        "exportedAt": "2026-08-01T13:50:47.039Z",
+        "alt_text": "Emily (3D animated travel character) at 해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature",
+        "image_ai_generated": true,
+        "imageProvider": "pollinations-flux"
       },
       "error": null
     },

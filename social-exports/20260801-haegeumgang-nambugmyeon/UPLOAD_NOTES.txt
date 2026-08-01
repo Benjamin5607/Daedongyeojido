@@ -7,8 +7,8 @@ Manual upload checklist (Instagram / Facebook)
 4. Suggested post time (KST): 2026-08-01 19:00 (evening slot).
 
 AI disclosure:
-  POI photo + local caption template (is_ai_generated: false).
-  See image-prompt.txt to generate an Emily illustration manually.
+  AI-assisted: Emily travel illustration (AI image gen) (is_ai_generated: true).
+  If Meta/IG shows an “AI-generated” checkbox, check it when posting.
 
 5. After posting, optionally mark the queue item published locally,
    or leave it as draft/exported for your own tracking.

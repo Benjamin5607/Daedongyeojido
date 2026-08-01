@@ -29,7 +29,8 @@ npm run social:export -- --id=sq_... --force
 ```
 
 캡션: `NVIDIA_API_KEY`가 있으면 NVIDIA NIM, 없으면 로컬 템플릿.  
-이미지: 같은 키로 **Emily** 여행 일러스트(NVIDIA FLUX.1-schnell)를 우선 생성합니다. 키가 없거나 생성 실패 시 네이버/POI 사진을 쓰고 `image-prompt.txt`를 남겨 수동 생성할 수 있습니다.  
+이미지: 같은 키로 **Emily** 여행 일러스트(NVIDIA FLUX.1-schnell)를 우선 생성합니다. NVIDIA 실패·무키 시 **Pollinations FLUX**(무료, 키 불필요)로 재시도하고, 그것도 실패하면 네이버/POI 사진 + `image-prompt.txt`입니다.  
+`SOCIAL_IMAGE_FALLBACK=none` 이면 Pollinations를 끄고 POI로만 내려갑니다.  
 캡션 또는 일러스트가 AI이면 `meta.json`의 `is_ai_generated: true` (+ `UPLOAD_NOTES.txt` 안내).
 
 캐릭터 레퍼런스: `scripts/social/assets/emily-reference.png` (blonde curls, blue eyes, thick round black glasses, Pixar/3D).
@@ -40,7 +41,9 @@ npm run social:export -- --id=sq_... --force
 NVIDIA_API_KEY=
 # Optional image knobs (defaults are fine):
 # SOCIAL_IMAGE_GEN=1
+# SOCIAL_IMAGE_FALLBACK=pollinations   # or none
 # NVIDIA_IMAGE_API_URL=https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-schnell
+# NVIDIA_IMAGE_TIMEOUT_MS=90000
 # NVIDIA_IMAGE_WIDTH=896
 # NVIDIA_IMAGE_HEIGHT=1152
 # Caption CTA links default to https://daedongyeojido-nine.vercel.app

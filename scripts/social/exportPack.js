@@ -199,7 +199,7 @@ function writeUploadNotes({
   ];
   if (isAiGenerated) {
     const bits = [];
-    if (imageAiGenerated) bits.push("Emily travel illustration (NVIDIA FLUX)");
+    if (imageAiGenerated) bits.push("Emily travel illustration (AI image gen)");
     if (captionAiGenerated) bits.push("caption (NVIDIA NIM)");
     lines.push(
       "AI disclosure:",

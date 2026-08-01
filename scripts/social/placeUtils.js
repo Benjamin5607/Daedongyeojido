@@ -76,11 +76,26 @@ function loadTrends() {
   }
 }
 
+/** Public site origin for caption CTAs / media-proxy links (GitHub homepage). */
+const DEFAULT_SITE_URL = "https://daedongyeojido-nine.vercel.app";
+
 function siteUrl() {
-  return (process.env.SITE_URL || process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").replace(
-    /\/$/,
-    ""
-  );
+  const raw = (
+    process.env.SITE_URL ||
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    DEFAULT_SITE_URL
+  ).replace(/\/$/, "");
+  // Never ship localhost CTAs unless local debug is explicitly opted in.
+  const allowLocal =
+    process.env.ALLOW_LOCALHOST_SITE_URL === "1" ||
+    process.env.ALLOW_LOCALHOST_SITE_URL === "true";
+  if (/localhost|127\.0\.0\.1/i.test(raw) && !allowLocal) {
+    console.warn(
+      `[social] Ignoring local SITE_URL (${raw}); using ${DEFAULT_SITE_URL}. Set ALLOW_LOCALHOST_SITE_URL=1 to keep localhost.`
+    );
+    return DEFAULT_SITE_URL;
+  }
+  return raw;
 }
 
 function placePageUrl(slug) {
@@ -103,6 +118,7 @@ function reviewSnippet(reviewsBySlug, slug, maxLen = 160) {
 module.exports = {
   THEMES,
   ROOT,
+  DEFAULT_SITE_URL,
   PLACES_PATH,
   REVIEWS_PATH,
   TRENDS_PATH,

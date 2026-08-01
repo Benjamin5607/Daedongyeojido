@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260801132842_xqg0t9",
+  "slug": "sanbong-ssambap-okpo-okpo",
+  "theme": "k-food",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
+    "updatedAt": "2026-08-01T12:55:18.996Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "ai_disclosure": "If posting AI-assisted captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-01 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "산봉쌈밥 거제옥포본점 (Sanbong Ssambap Okpo) — okpo, gyeongnam — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20241008_5/1728345954284c6IR4_JPEG/DSC03360.jpg",
+  "imageContentType": "image/jpeg",
+  "placeName": {
+    "ko": "산봉쌈밥 거제옥포본점",
+    "en": "Sanbong Ssambap Okpo"
+  },
+  "descriptionEn": "Organic vegetable ssambap wraps with Geoje-grown greens.",
+  "exportedAt": "2026-08-01T13:28:46.388Z"
+}

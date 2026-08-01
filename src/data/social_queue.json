@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-08-01T13:25:44.321Z",
+  "updatedAt": "2026-08-01T13:28:46.673Z",
   "items": [
+    {
+      "id": "sq_20260801132842_vpki2m",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "haegeumgang-nambugmyeon",
+      "theme": "urban-nature",
+      "caption": "해금강 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/haegeumgang-nambugmyeon\n\nHaegeumgang\nNational scenic islets toured by cruise through the Cross Cave.\n“바다 위의 금강산이라는 말이 딱 맞습니다. 외도 보타니아 가기 전 유람선 코스로 들렀는데, 멀리서 볼 때와 코앞에서 마주할 때의 압도감이 완전히 다릅니다. 깎아지른 듯한 절벽과 푸른 바다의 조화가 예술이에요. 선장님의 맛깔나는 설명 덕분에 보는 재미가 두 배였습니다. 십자동굴 틈새로 …”\nGuide: https://daedongyeojido-nine.vercel.app/places/haegeumgang-nambugmyeon\n🔥 Trend: 거제 야호!\n\nTraveler note: 바다 위의 금강산이라는 말이 딱 맞습니다. 외도 보타니아 가기 전 유람선 코스로 들렀는데, 멀리서 볼 때와 코앞에서 마주할 때의 압도감이 완전히 다릅니다. 깎아지른 듯한 절벽과 푸른 바다의 조화가 예술이에요. 선장님의 맛깔나는 설명 덕분에 보는 재미가 두 배였습니다. 십자동굴 틈새로 …\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20240729_181/172225529783838Fo6_JPEG/KakaoTalk_20230904_140829753.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/haegeumgang-nambugmyeon",
+      "score": 130,
+      "createdAt": "2026-08-01T13:28:42.587Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260801-haegeumgang-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "exportedAt": "2026-08-01T13:28:46.672Z",
+        "alt_text": "해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260801132842_xqg0t9",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "sanbong-ssambap-okpo-okpo",
+      "theme": "k-food",
+      "caption": "산봉쌈밥 거제옥포본점 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/sanbong-ssambap-okpo-okpo\n\nSanbong Ssambap Okpo\nOrganic vegetable ssambap wraps with Geoje-grown greens.\n“한우 국밥 맛있어요.깨끗하고 친절합니다. 맛도 있어요.”\nGuide: https://daedongyeojido-nine.vercel.app/places/sanbong-ssambap-okpo-okpo\n🔥 Trend: 거제 야호!\n\nTraveler note: 한우 국밥 맛있어요.깨끗하고 친절합니다. 맛도 있어요.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20241008_5/1728345954284c6IR4_JPEG/DSC03360.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/sanbong-ssambap-okpo-okpo",
+      "score": 145,
+      "createdAt": "2026-08-01T13:28:42.582Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260801-sanbong-ssambap-okpo-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "exportedAt": "2026-08-01T13:28:46.388Z",
+        "alt_text": "산봉쌈밥 거제옥포본점 (Sanbong Ssambap Okpo) — okpo, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260801132542_3ir0ck",
       "status": "exported",
@@ -8,10 +56,10 @@
       "format": "trend",
       "slug": "oedo-botania-ilwon",
       "theme": "hallyu",
-      "caption": "외도보타니아 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: http://localhost:3000/places/oedo-botania-ilwon\n\nOedo Botania\nWinter Sonata finale filming site with Mediterranean-style gardens.\nGuide: http://localhost:3000/places/oedo-botania-ilwon\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #gyeongnam",
+      "caption": "외도보타니아 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/oedo-botania-ilwon\n\nOedo Botania\nWinter Sonata finale filming site with Mediterranean-style gardens.\nGuide: https://daedongyeojido-nine.vercel.app/places/oedo-botania-ilwon\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #gyeongnam",
       "captionSource": "local",
       "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
-      "mirroredImageUrl": "http://localhost:3000/api/media-proxy/oedo-botania-ilwon",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/oedo-botania-ilwon",
       "score": 155,
       "createdAt": "2026-08-01T13:25:42.983Z",
       "approvedAt": null,

@@ -35,7 +35,11 @@ AI 캡션인 경우 팩의 `meta.json`에 `is_ai_generated: true` 와 `UPLOAD_NO
 
 ```env
 NVIDIA_API_KEY=
-SITE_URL=http://localhost:3000
+# Caption CTA links default to https://daedongyeojido-nine.vercel.app
+# SITE_URL=https://daedongyeojido-nine.vercel.app
+# Local debug only (also set ALLOW_LOCALHOST_SITE_URL=1):
+# SITE_URL=http://localhost:3000
+# ALLOW_LOCALHOST_SITE_URL=1
 ```
 
 ---
@@ -70,7 +74,7 @@ npm run social:approve -- --id=<queue-item-id>
 1. `npm run social:draft` (Meta 토큰 **불필요**)
 2. `social-exports/` + `social_queue.json` 커밋·푸시
 
-선택 secret: `NVIDIA_API_KEY` (캡션 품질), `SITE_URL` (캡션 CTA 링크).
+선택 secret: `NVIDIA_API_KEY` (캡션 품질), `SITE_URL` (캡션 CTA 링크; 미설정 시 `https://daedongyeojido-nine.vercel.app`).
 
 ---
 

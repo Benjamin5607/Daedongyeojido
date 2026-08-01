@@ -1,0 +1,10 @@
+Emily travel illustration prompt
+================================
+
+Use this prompt in NVIDIA FLUX, Midjourney, or similar if auto-generation was skipped.
+
+Character reference (repo):
+  scripts/social/assets/emily-reference.png
+Use the same Emily look: blonde voluminous curls, large blue eyes, thick round black glasses, Pixar/3D style.
+
+Blog-style travel illustration of Emily: young woman with bright blonde voluminous curly coily hair, large bright blue eyes, thick round black-rimmed glasses, youthful expressive friendly face, slightly stylized cute proportions. She is visiting 포로수용소굴구이 (POW Camp Oyster Grill) in gohyeon, geoje, gyeongnam. Theme: k food. Korean restaurant or street-food atmosphere, delicious food on the table or stall. Place feel: Charcoal-grilled oysters near the POW memorial park. Near / at: 21 Gyeryong-ro 7-gil, Gohyeon-dong, Geoje, Gyeongnam. Trending angle: 거제 야호!. Match the real place's POI photo vibe (architecture, colors, setting) without copying it literally. Emily is clearly the focus — curious, joyful travel expression — standing or seated naturally in the scene. Outfit fits the destination (casual travel wear or culturally appropriate attire). consistent Pixar / modern 3D animation film still, clean stylized render, soft cinematic lighting, vibrant natural colors, blog travel illustration, Instagram-ready vertical composition, no text, no watermark, no logo, no UI chrome

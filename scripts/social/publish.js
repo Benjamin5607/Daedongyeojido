@@ -1,11 +1,15 @@
 #!/usr/bin/env node
 /**
- * Publish approved queue items to Instagram + Facebook Page.
- * Cron / CI should only run this — drafts stay human-gated.
+ * Publish approved queue items to Instagram + Facebook Page via Meta Graph API.
  *
- * Usage: npm run social:publish
- *        npm run social:publish -- --dry-run
- *        npm run social:publish -- --limit=1
+ * DEPRECATED for the default workflow — prefer manual upload packs:
+ *   npm run social:draft   → social-exports/<date>-<slug>/
+ *   npm run social:export
+ *   npm run social:open
+ *
+ * To still use the API path (requires META_* secrets):
+ *   npm run social:publish -- --force-meta
+ *   npm run social:publish -- --force-meta --dry-run
  */
 const { listByStatus, updateItem } = require("./queue");
 const { publishCrossPost } = require("./metaClient");
@@ -20,6 +24,23 @@ function parseArgs(argv) {
     else out[arg.slice(2, eq)] = arg.slice(eq + 1);
   }
   return out;
+}
+
+function printManualDefaultMessage() {
+  console.log(`
+social:publish is gated — manual upload packs are the default.
+
+  1. Generate packs:  npm run social:draft
+                      (or npm run social:export)
+  2. Open folder:     npm run social:open
+  3. Upload image.jpg + paste caption.txt on Instagram / Facebook.
+
+Meta Graph API publishing is optional / advanced. To force it:
+  npm run social:publish -- --force-meta
+  npm run social:publish -- --force-meta --dry-run
+
+See docs/meta-setup.md
+`.trim());
 }
 
 async function publishOne(item, { dryRun }) {
@@ -56,16 +77,26 @@ async function publishOne(item, { dryRun }) {
 
 async function main() {
   const args = parseArgs(process.argv.slice(2));
+  const forceMeta = Boolean(args["force-meta"] || args.forceMeta);
+
+  if (!forceMeta) {
+    printManualDefaultMessage();
+    process.exitCode = 0;
+    return;
+  }
+
   const dryRun = Boolean(args["dry-run"] || args.dryRun);
   const limit = Math.max(1, Number(args.limit) || 50);
 
   const approved = listByStatus("approved").slice(0, limit);
   if (approved.length === 0) {
-    console.log("No approved items to publish.");
+    console.log("No approved items to publish via Meta API.");
     return;
   }
 
-  console.log(`Publishing ${approved.length} approved item(s)${dryRun ? " (dry-run)" : ""}…`);
+  console.log(
+    `Publishing ${approved.length} approved item(s) via Meta${dryRun ? " (dry-run)" : ""}…`
+  );
 
   let ok = 0;
   let fail = 0;

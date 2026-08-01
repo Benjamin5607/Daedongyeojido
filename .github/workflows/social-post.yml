@@ -1,4 +1,4 @@
-name: Social post (Meta)
+name: Social drafts (manual upload packs)
 
 on:
   schedule:
@@ -8,20 +8,17 @@ on:
     - cron: "0 10 * * *"
   workflow_dispatch:
     inputs:
-      dry_run:
-        description: "Skip Meta API (dry-run publish)"
+      count:
+        description: "Number of packs to draft (1–4)"
         required: false
-        default: "false"
-        type: choice
-        options:
-          - "false"
-          - "true"
+        default: "2"
+        type: string
 
 permissions:
   contents: write
 
 jobs:
-  publish-approved:
+  draft-and-export:
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
@@ -40,48 +37,67 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Publish approved social queue items
+      - name: Draft places + export upload packs
         env:
-          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
-          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
-          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
-          SITE_URL: ${{ secrets.SITE_URL }}
+          # Optional — captions fall back to local templates when unset
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          SITE_URL: ${{ secrets.SITE_URL }}
         run: |
-          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
-            npm run social:publish -- --dry-run
-          else
-            if [ -z "$META_PAGE_ACCESS_TOKEN" ] || [ -z "$META_IG_USER_ID" ] || [ -z "$META_PAGE_ID" ]; then
-              echo "Meta secrets not configured — skipping publish."
-              echo "Set META_PAGE_ACCESS_TOKEN, META_IG_USER_ID, META_PAGE_ID (and SITE_URL)."
-              exit 0
-            fi
-            npm run social:publish
+          COUNT="${{ github.event.inputs.count }}"
+          if [ -z "$COUNT" ]; then COUNT=2; fi
+          # Clamp 1–4
+          case "$COUNT" in
+            ''|*[!0-9]*) COUNT=2 ;;
+          esac
+          if [ "$COUNT" -lt 1 ]; then COUNT=1; fi
+          if [ "$COUNT" -gt 4 ]; then COUNT=4; fi
+
+          SLOT=auto
+          # Morning cron (UTC 02:00) → morning slot; evening cron → evening
+          if [ "${{ github.event.schedule }}" = "0 2 * * *" ]; then
+            SLOT=morning
+          elif [ "${{ github.event.schedule }}" = "0 10 * * *" ]; then
+            SLOT=evening
           fi
 
-      - name: Commit queue updates if changed
+          echo "Drafting count=$COUNT slot=$SLOT (Meta tokens not required)"
+          npm run social:draft -- --count="$COUNT" --slot="$SLOT"
+
+      - name: Commit packs + queue if changed
         run: |
-          if git diff --quiet -- src/data/social_queue.json; then
-            echo "No social_queue.json changes"
+          if git diff --quiet -- src/data/social_queue.json social-exports \
+            && [ -z "$(git ls-files --others --exclude-standard -- social-exports)" ]; then
+            echo "No social pack/queue changes"
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          MSG="chore(social): update publish queue"
-          QUEUE_FILE="src/data/social_queue.json"
-          cp "$QUEUE_FILE" /tmp/social_queue.generated.json
+          MSG="chore(social): draft manual upload packs"
+          STAGE_DIRS="src/data/social_queue.json social-exports"
+
+          # Snapshot generated artifacts before rebase retries
+          TMPDIR_ART="$(mktemp -d)"
+          cp src/data/social_queue.json "$TMPDIR_ART/social_queue.json"
+          if [ -d social-exports ]; then
+            cp -a social-exports "$TMPDIR_ART/social-exports"
+          fi
 
           for attempt in 1 2 3 4 5; do
             git fetch origin master
             git reset --hard origin/master
-            cp /tmp/social_queue.generated.json "$QUEUE_FILE"
-            if git diff --quiet -- "$QUEUE_FILE"; then
-              echo "Remote already has the same queue; nothing to push."
+            cp "$TMPDIR_ART/social_queue.json" src/data/social_queue.json
+            if [ -d "$TMPDIR_ART/social-exports" ]; then
+              rm -rf social-exports
+              cp -a "$TMPDIR_ART/social-exports" social-exports
+            fi
+
+            git add $STAGE_DIRS
+            if git diff --cached --quiet; then
+              echo "Remote already has the same artifacts; nothing to push."
               exit 0
             fi
-            git add "$QUEUE_FILE"
             git commit -m "$MSG"
             if git push origin HEAD:master; then
               echo "Pushed successfully (attempt ${attempt})"
@@ -90,5 +106,5 @@ jobs:
             echo "Push failed (attempt ${attempt}); retrying…"
             sleep $((attempt * 3))
           done
-          echo "Failed to push queue updates after retries"
+          echo "Failed to push pack updates after retries"
           exit 1

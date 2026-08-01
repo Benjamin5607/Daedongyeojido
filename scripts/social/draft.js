@@ -1,13 +1,15 @@
 #!/usr/bin/env node
 /**
- * Create social draft queue items (default: 2 picks).
+ * Create social draft queue items (default: 2 picks) and export upload packs.
  * Usage: npm run social:draft
  *        npm run social:draft -- --count=1 --slot=morning
+ *        npm run social:draft -- --no-export
  */
 const { pickPlaces } = require("./pickPlaces");
 const { composeCaption } = require("./composeCaption");
 const { loadQueue, addDraft } = require("./queue");
 const { mirroredImageUrl } = require("./placeUtils");
+const { exportItems } = require("./exportPack");
 
 function parseArgs(argv) {
   const out = {};
@@ -24,6 +26,7 @@ async function main() {
   const args = parseArgs(process.argv.slice(2));
   const count = Math.max(1, Math.min(6, Number(args.count) || 2));
   const slot = args.slot || "auto";
+  const noExport = Boolean(args["no-export"] || args.noExport);
 
   const queue = loadQueue();
   const { slot: resolvedSlot, preferredTheme, picks } = pickPlaces({
@@ -62,7 +65,16 @@ async function main() {
     console.log(`  + ${item.id}  ${item.slug}  [${item.format}]  caption=${source}`);
   }
 
-  console.log(`Done. Approve with: npm run social:approve -- --id=${created[0].id}`);
+  if (!noExport) {
+    await exportItems({ items: created, force: true });
+    console.log(
+      `Packs ready under social-exports/. Open notes: npm run social:open`
+    );
+  } else {
+    console.log(
+      `Skipped export. Later: npm run social:export -- --id=${created[0].id}`
+    );
+  }
 }
 
 main().catch((err) => {

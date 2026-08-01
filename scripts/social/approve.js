@@ -29,13 +29,17 @@ function main() {
 
   const id = args.id;
   if (!id) {
-    const drafts = loadQueue().items.filter((i) => i.status === "draft");
+    const queue = loadQueue();
+    const pending = queue.items.filter(
+      (i) => i.status === "draft" || i.status === "exported"
+    );
     console.log("Usage: npm run social:approve -- --id=<id>   or  --all");
-    console.log(`Drafts pending: ${drafts.length}`);
-    for (const d of drafts.slice(0, 20)) {
-      console.log(`  ${d.id}  ${d.slug}  ${d.slot}  ${d.format}`);
+    console.log(`Pending draft/exported: ${pending.length}`);
+    for (const d of pending.slice(0, 20)) {
+      const pack = d.meta?.packDir ? `  pack=${d.meta.packDir}` : "";
+      console.log(`  ${d.id}  ${d.slug}  ${d.status}  ${d.slot}  ${d.format}${pack}`);
     }
-    process.exitCode = drafts.length ? 1 : 0;
+    process.exitCode = pending.length ? 1 : 0;
     return;
   }
 

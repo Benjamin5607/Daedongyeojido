@@ -18,6 +18,8 @@
     "validate-images": "node scripts/validate-place-images.js",
     "build-map-links": "node scripts/build-map-links.mjs",
     "social:draft": "node scripts/social/draft.js",
+    "social:export": "node scripts/social/exportPack.js",
+    "social:open": "node scripts/social/open.js",
     "social:approve": "node scripts/social/approve.js",
     "social:publish": "node scripts/social/publish.js",
     "social:insights": "node scripts/social/insights.js",

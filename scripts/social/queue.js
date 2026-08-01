@@ -1,6 +1,7 @@
 /**
  * social_queue.json read/write helpers.
- * Status flow: draft → approved → published | failed
+ * Status flow: draft → exported → (optional approved) → published | failed
+ * Default path is manual upload packs (social-exports/), not Meta API publish.
  */
 const fs = require("fs");
 const path = require("path");
@@ -101,7 +102,7 @@ function approveAllDrafts() {
   const now = new Date().toISOString();
   let count = 0;
   for (const item of queue.items) {
-    if (item.status !== "draft") continue;
+    if (item.status !== "draft" && item.status !== "exported") continue;
     item.status = "approved";
     item.approvedAt = now;
     item.error = null;

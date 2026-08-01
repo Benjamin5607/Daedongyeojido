@@ -1,0 +1,97 @@
+{
+  "updatedAt": "2026-08-01T12:55:18.996Z",
+  "articleCount": 1,
+  "signals": [
+    {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
+      "score": 100,
+      "regionHints": [
+        "거제",
+        "옥포",
+        "덕포",
+        "고현",
+        "장승포"
+      ],
+      "placeHints": [
+        "모래성포차",
+        "모래성분식",
+        "덕포해수욕장",
+        "덕원해수욕장",
+        "매미성",
+        "평화족발",
+        "산봉쌈밥",
+        "거제케이블카",
+        "해금강",
+        "외도보타니아",
+        "바람의언덕",
+        "학동몽돌",
+        "학동흑진주",
+        "포로수용소",
+        "옥포대첩"
+      ],
+      "theme": "hallyu",
+      "queryCount": 8
+    },
+    {
+      "label": "거제 트렌드",
+      "source": "리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
+      "score": 40,
+      "regionHints": [
+        "거제"
+      ],
+      "placeHints": [],
+      "theme": "k-food",
+      "queryCount": 1
+    }
+  ],
+  "priorityQueries": [
+    {
+      "theme": "k-food",
+      "query": "거제 모래성포차",
+      "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "k-food",
+      "query": "거제 평화족발",
+      "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "k-food",
+      "query": "거제 산봉쌈밥 옥포",
+      "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "urban-nature",
+      "query": "거제 덕포해수욕장",
+      "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "urban-nature",
+      "query": "거제 매미성",
+      "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "urban-nature",
+      "query": "거제 해금강",
+      "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "hallyu",
+      "query": "거제 야호 성지",
+      "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "k-culture",
+      "query": "거제 옥포 맛집",
+      "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "k-food",
+      "query": "거제 맛집",
+      "trendLabel": "거제 트렌드"
+    }
+  ],
+  "matchedExistingCount": 17,
+  "regionBoostCount": 83
+}

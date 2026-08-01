@@ -9,6 +9,8 @@
     "lint": "eslint",
     "crawl": "node scraper/crawler.js",
     "scrape": "node scraper/processor.js",
+    "apply-trends": "node scripts/apply-curated-trends.js",
+    "discover-trends": "node -e \"require('./scraper/trends').buildTrendCrawlPlan(require('./src/data/crawled_places.json')).then(r=>console.log(JSON.stringify(r.snapshot,null,2))).catch(e=>{console.error(e);process.exit(1)})\"",
     "scrape-reviews": "node scripts/scrape-reviews.mjs",
     "seed": "node scripts/build-seed-data.mjs",
     "repair-labels": "node scripts/run-repair-labels.mjs",

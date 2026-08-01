@@ -4,6 +4,10 @@ const { crawlGoogleMaps, mergeAndCleanExisting } = require("./crawler");
 const { nvidiaChatCompletion, DEFAULT_MODEL } = require("./llmClient");
 const { enrichPlaceLocally } = require("./localEnrich");
 const { attachMissingImages } = require("./placeImages");
+const {
+  buildTrendCrawlPlan,
+  applyTrendTagsToIncoming,
+} = require("./trends");
 
 const OUTPUT_PATH = path.join(__dirname, "..", "src", "data", "crawled_places.json");
 const BATCH_SIZE =
@@ -216,16 +220,24 @@ function writePlaces(places) {
 }
 
 async function runPipeline() {
-  console.log("Starting crawl...");
-  const crawled = await crawlGoogleMaps();
+  const existing = readExistingPlaces();
+
+  const { priorityQueries } = await buildTrendCrawlPlan(existing);
+
+  console.log("Starting crawl (trend queries first)...");
+  const crawled = await crawlGoogleMaps({
+    priorityQueries,
+    includeDefaults: true,
+  });
   console.log(`Crawled ${crawled.length} raw places.`);
 
   if (crawled.length === 0) {
     console.warn("No crawl results. Keeping existing JSON unchanged.");
-    return { changed: false, count: readExistingPlaces().length };
+    return { changed: false, count: existing.length };
   }
 
-  const cleanedRaw = mergeAndCleanExisting([], crawled);
+  const taggedRaw = applyTrendTagsToIncoming(crawled, priorityQueries);
+  const cleanedRaw = mergeAndCleanExisting([], taggedRaw);
   console.log("Enriching crawled places...");
   const imageUrlByKey = new Map(
     cleanedRaw
@@ -240,18 +252,41 @@ async function runPipeline() {
     }
   }
 
-  const existing = readExistingPlaces();
-  const merged = mergeExistingCurated(existing, enriched);
-  console.log("Attaching photos for new or missing entries...");
+  // Re-apply trend tags after enrich (LLM may drop unknown fields)
+  const enrichedWithTrends = applyTrendTagsToIncoming(
+    enriched.map((place, index) => ({
+      ...place,
+      query: cleanedRaw[index]?.query,
+      trend: cleanedRaw[index]?.trend || place.trend,
+    })),
+    priorityQueries
+  );
+
+  const merged = mergeExistingCurated(existing, enrichedWithTrends);
+
+  // Sort so trend places are enriched/photographed first
+  merged.sort((a, b) => {
+    const aScore = a.trend ? 1 : 0;
+    const bScore = b.trend ? 1 : 0;
+    return bScore - aScore;
+  });
+
+  console.log("Attaching photos for new, missing, or trend-priority entries...");
   const withPhotos = await attachMissingImages(merged, { delayMs: IMAGE_DELAY_MS });
 
+  // Strip internal flags before write
+  const cleaned = withPhotos.map((place) => {
+    const { forcePhotoRefresh: _f, query: _q, permanentlyClosed: _p, ...rest } = place;
+    return rest;
+  });
+
   const previous = JSON.stringify(existing, null, 2);
-  const next = JSON.stringify(withPhotos, null, 2);
+  const next = JSON.stringify(cleaned, null, 2);
 
-  writePlaces(withPhotos);
-  console.log(`Wrote ${withPhotos.length} places to ${OUTPUT_PATH}`);
+  writePlaces(cleaned);
+  console.log(`Wrote ${cleaned.length} places to ${OUTPUT_PATH}`);
 
-  return { changed: previous !== next, count: withPhotos.length };
+  return { changed: previous !== next, count: cleaned.length };
 }
 
 /**
@@ -268,8 +303,11 @@ function mergeExistingCurated(existing, incoming) {
     const key = `${place.theme}|${normalizeKey(place.name)}`;
     const previous = map.get(key);
     map.set(key, {
+      ...previous,
       ...place,
       imageUrl: place.imageUrl ?? previous?.imageUrl,
+      trend: place.trend ?? previous?.trend,
+      forcePhotoRefresh: place.forcePhotoRefresh || previous?.forcePhotoRefresh,
     });
   }
 

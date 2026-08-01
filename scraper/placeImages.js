@@ -144,7 +144,7 @@ function buildImageSearchQueries(place) {
  * @param {boolean} force
  */
 function needsPhoto(place, force) {
-  if (force) return true;
+  if (force || place.forcePhotoRefresh) return true;
   if (!place.imageUrl) return true;
   return isLowQualityImageUrl(place.imageUrl);
 }
@@ -162,6 +162,11 @@ async function attachMissingImages(places, options = {}) {
   const targets = places
     .map((place, index) => ({ place, index }))
     .filter(({ place }) => needsPhoto(place, force))
+    .sort((a, b) => {
+      const aTrend = a.place.trend || a.place.forcePhotoRefresh ? 1 : 0;
+      const bTrend = b.place.trend || b.place.forcePhotoRefresh ? 1 : 0;
+      return bTrend - aTrend;
+    })
     .slice(0, Number.isFinite(limit) ? limit : places.length);
 
   if (targets.length === 0) {
@@ -213,14 +218,18 @@ async function attachMissingImages(places, options = {}) {
       }
 
       if (result?.imageUrl) {
-        updated[index] = { ...place, imageUrl: result.imageUrl };
+        const { forcePhotoRefresh: _force, ...rest } = place;
+        updated[index] = { ...rest, imageUrl: result.imageUrl };
         attached += 1;
         console.log(`  ✓ ${result.source}`);
       } else {
         failed += 1;
         console.warn("  ✗ no photo found");
+        const { forcePhotoRefresh: _force, ...rest } = updated[index];
         if (place.imageUrl && isLowQualityImageUrl(place.imageUrl)) {
-          const { imageUrl: _removed, ...rest } = updated[index];
+          const { imageUrl: _removed, ...withoutImage } = rest;
+          updated[index] = withoutImage;
+        } else {
           updated[index] = rest;
         }
       }

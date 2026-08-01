@@ -32,6 +32,12 @@ export interface Place {
   /** Naver Map/blog discovery spot — rarely listed on Google Maps */
   localGem?: boolean;
   imageUrl?: string;
+  /** Media / meme-driven travel trend tagging (e.g. 거제 야호!) */
+  trend?: {
+    label: string;
+    source?: string;
+    updatedAt: string;
+  };
 }
 
 export type ReviewSource = "google" | "naver";

@@ -141,11 +141,68 @@ async function extractPlacesFromResults(page, theme, query) {
 }
 
 /**
+ * Normalize crawl options into ordered { theme, query } entries.
+ * Trend / priority queries always run first.
+ * @param {{
+ *   priorityQueries?: { theme: string; query: string }[];
+ *   includeDefaults?: boolean;
+ *   queriesOverride?: string[] | { theme: string; query: string }[];
+ * }=} options
+ * @returns {{ theme: string; query: string }[]}
+ */
+function buildQueryPlan(options = {}) {
+  /** @type {{ theme: string; query: string }[]} */
+  const plan = [];
+  const seen = new Set();
+
+  /**
+   * @param {string} theme
+   * @param {string} query
+   */
+  const push = (theme, query) => {
+    const q = String(query || "").trim();
+    if (!q) return;
+    const key = `${theme}|${q}`;
+    if (seen.has(key)) return;
+    seen.add(key);
+    plan.push({ theme, query: q });
+  };
+
+  for (const item of options.priorityQueries || []) {
+    push(item.theme || "k-food", item.query);
+  }
+
+  if (options.queriesOverride) {
+    for (const item of options.queriesOverride) {
+      if (typeof item === "string") push("k-food", item);
+      else push(item.theme || "k-food", item.query);
+    }
+    return plan;
+  }
+
+  if (options.includeDefaults !== false) {
+    for (const [theme, queries] of Object.entries(SEARCH_QUERIES)) {
+      for (const query of queries) push(theme, query);
+    }
+  }
+
+  return plan;
+}
+
+/**
  * Crawl Google Maps for configured search queries.
- * @param {string[]=} queriesOverride
+ * @param {{
+ *   priorityQueries?: { theme: string; query: string }[];
+ *   includeDefaults?: boolean;
+ *   queriesOverride?: string[] | { theme: string; query: string }[];
+ * } | string[] =} optionsOrOverride
  * @returns {Promise<RawPlace[]>}
  */
-async function crawlGoogleMaps(queriesOverride) {
+async function crawlGoogleMaps(optionsOrOverride) {
+  const options = Array.isArray(optionsOrOverride)
+    ? { queriesOverride: optionsOrOverride, includeDefaults: false }
+    : optionsOrOverride || {};
+
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage({
     locale: "ko-KR",
@@ -155,26 +212,18 @@ async function crawlGoogleMaps(queriesOverride) {
 
   /** @type {RawPlace[]} */
   const collected = [];
+  const queryPlan = buildQueryPlan(options);
 
   try {
-    const queryEntries = queriesOverride
-      ? [{ theme: "k-food", queries: queriesOverride }]
-      : Object.entries(SEARCH_QUERIES).map(([theme, queries]) => ({
-          theme,
-          queries,
-        }));
+    for (const { theme, query } of queryPlan) {
+      console.log(`Searching: [${theme}] ${query}`);
+      const searchUrl = `https://www.google.com/maps/search/${encodeURIComponent(query)}`;
+      await page.goto(searchUrl, { waitUntil: "domcontentloaded", timeout: 60000 });
+      await page.waitForTimeout(2000);
+      await scrollResultsFeed(page);
 
-    for (const entry of queryEntries) {
-      for (const query of entry.queries) {
-        console.log(`Searching: [${entry.theme}] ${query}`);
-        const searchUrl = `https://www.google.com/maps/search/${encodeURIComponent(query)}`;
-        await page.goto(searchUrl, { waitUntil: "domcontentloaded", timeout: 60000 });
-        await page.waitForTimeout(2000);
-        await scrollResultsFeed(page);
-
-        const results = await extractPlacesFromResults(page, entry.theme, query);
-        collected.push(...results);
-      }
+      const results = await extractPlacesFromResults(page, theme, query);
+      collected.push(...results);
     }
   } finally {
     await browser.close();
@@ -224,6 +273,7 @@ function mergeAndCleanExisting(existing = [], fresh = []) {
 
 module.exports = {
   crawlGoogleMaps,
+  buildQueryPlan,
   dedupePlaces,
   mergeAndCleanExisting,
   isPermanentlyClosed,

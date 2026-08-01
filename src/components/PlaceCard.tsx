@@ -68,6 +68,14 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
                 {t.naverLocalBadge}
               </span>
             )}
+            {place.trend && (
+              <span
+                title={place.trend.source || place.trend.label}
+                className="rounded-full bg-amber-600 px-2.5 py-1 text-[10px] font-semibold text-white shadow-sm"
+              >
+                {t.trendBadge}: {place.trend.label}
+              </span>
+            )}
             {regionLabel && (
               <span className="rounded-full bg-[var(--color-ink)]/75 px-2.5 py-1 text-[10px] font-medium text-white shadow-sm backdrop-blur-sm">
                 {regionLabel}

@@ -39,8 +39,8 @@ jobs:
 
       - name: Commit and push if data changed
         run: |
-          if git diff --quiet -- src/data/crawled_places.json; then
-            echo "No changes detected in crawled_places.json"
+          if git diff --quiet -- src/data/crawled_places.json src/data/travel_trends.json; then
+            echo "No changes detected in curated place/trend data"
             exit 0
           fi
 
@@ -48,20 +48,32 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Long scrapes can finish after other commits landed on master.
-          # Put our generated file on top of the latest remote tip, then push with retries.
+          # Put generated files on top of the latest remote tip, then push with retries.
           MSG="Auto-update curated places"
-          DATA_FILE="src/data/crawled_places.json"
-          cp "$DATA_FILE" /tmp/crawled_places.generated.json
+          PLACES_FILE="src/data/crawled_places.json"
+          TRENDS_FILE="src/data/travel_trends.json"
+          cp "$PLACES_FILE" /tmp/crawled_places.generated.json
+          if [ -f "$TRENDS_FILE" ]; then
+            cp "$TRENDS_FILE" /tmp/travel_trends.generated.json
+          else
+            rm -f /tmp/travel_trends.generated.json
+          fi
 
           for attempt in 1 2 3 4 5; do
             git fetch origin master
             git reset --hard origin/master
-            cp /tmp/crawled_places.generated.json "$DATA_FILE"
-            if git diff --quiet -- "$DATA_FILE"; then
-              echo "Remote already has the same places content; nothing to push."
+            cp /tmp/crawled_places.generated.json "$PLACES_FILE"
+            if [ -f /tmp/travel_trends.generated.json ]; then
+              cp /tmp/travel_trends.generated.json "$TRENDS_FILE"
+            fi
+            if git diff --quiet -- "$PLACES_FILE" "$TRENDS_FILE"; then
+              echo "Remote already has the same places/trend content; nothing to push."
               exit 0
             fi
-            git add "$DATA_FILE"
+            git add "$PLACES_FILE"
+            if [ -f "$TRENDS_FILE" ]; then
+              git add "$TRENDS_FILE"
+            fi
             git commit -m "$MSG"
             if git push origin HEAD:master; then
               echo "Pushed successfully (attempt ${attempt})"

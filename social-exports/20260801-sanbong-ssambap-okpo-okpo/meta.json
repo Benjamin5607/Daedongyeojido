@@ -11,7 +11,11 @@
   },
   "captionSource": "local",
   "is_ai_generated": false,
-  "ai_disclosure": "If posting AI-assisted captions, enable the platform AI-generated content label when available.",
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
   "suggested_post": {
     "timezone": "Asia/Seoul",
     "localTime": "2026-08-01 19:00",
@@ -35,10 +39,12 @@
   "imageFile": "image.jpg",
   "imageSourceUrl": "https://ldb-phinf.pstatic.net/20241008_5/1728345954284c6IR4_JPEG/DSC03360.jpg",
   "imageContentType": "image/jpeg",
+  "sourceImageSaved": false,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
   "placeName": {
     "ko": "산봉쌈밥 거제옥포본점",
     "en": "Sanbong Ssambap Okpo"
   },
   "descriptionEn": "Organic vegetable ssambap wraps with Geoje-grown greens.",
-  "exportedAt": "2026-08-01T13:28:46.388Z"
+  "exportedAt": "2026-08-01T13:39:46.698Z"
 }

@@ -1,0 +1,10 @@
+Emily travel illustration prompt
+================================
+
+Use this prompt in NVIDIA FLUX, Midjourney, or similar if auto-generation was skipped.
+
+Character reference (repo):
+  scripts/social/assets/emily-reference.png
+Use the same Emily look: blonde voluminous curls, large blue eyes, thick round black glasses, Pixar/3D style.
+
+Blog-style travel illustration of Emily: young woman with bright blonde voluminous curly coily hair, large bright blue eyes, thick round black-rimmed glasses, youthful expressive friendly face, slightly stylized cute proportions. She is visiting 해금강 (Haegeumgang) in nambugmyeon, geoje, gyeongnam. Theme: urban nature. scenic Korea nature, coast, or urban park overlook, fresh outdoor air. Place feel: National scenic islets toured by cruise through the Cross Cave. Near / at: San 1, Galgots-ri, Nambu-myeon, Geoje, Gyeongnam. Trending angle: 거제 야호!. Match the real place's POI photo vibe (architecture, colors, setting) without copying it literally. Emily is clearly the focus — curious, joyful travel expression — standing or seated naturally in the scene. Outfit fits the destination (casual travel wear or culturally appropriate attire). consistent Pixar / modern 3D animation film still, clean stylized render, soft cinematic lighting, vibrant natural colors, blog travel illustration, Instagram-ready vertical composition, no text, no watermark, no logo, no UI chrome

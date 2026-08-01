@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T13:28:46.673Z",
+  "updatedAt": "2026-08-01T13:39:46.700Z",
   "items": [
     {
       "id": "sq_20260801132842_vpki2m",
@@ -20,8 +20,10 @@
         "packDir": "social-exports/20260801-haegeumgang-nambugmyeon",
         "imageFile": "image.jpg",
         "is_ai_generated": false,
-        "exportedAt": "2026-08-01T13:28:46.672Z",
-        "alt_text": "해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature"
+        "exportedAt": "2026-08-01T13:39:31.197Z",
+        "alt_text": "해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature",
+        "image_ai_generated": false,
+        "imageProvider": "poi-download"
       },
       "error": null
     },
@@ -44,8 +46,10 @@
         "packDir": "social-exports/20260801-sanbong-ssambap-okpo-okpo",
         "imageFile": "image.jpg",
         "is_ai_generated": false,
-        "exportedAt": "2026-08-01T13:28:46.388Z",
-        "alt_text": "산봉쌈밥 거제옥포본점 (Sanbong Ssambap Okpo) — okpo, gyeongnam — k food"
+        "exportedAt": "2026-08-01T13:39:46.698Z",
+        "alt_text": "산봉쌈밥 거제옥포본점 (Sanbong Ssambap Okpo) — okpo, gyeongnam — k food",
+        "image_ai_generated": false,
+        "imageProvider": "poi-download"
       },
       "error": null
     },
@@ -68,8 +72,10 @@
         "packDir": "social-exports/20260801-oedo-botania-ilwon",
         "imageFile": "image.jpg",
         "is_ai_generated": false,
-        "exportedAt": "2026-08-01T13:25:44.320Z",
-        "alt_text": "외도보타니아 (Oedo Botania) — ilwon, gyeongnam — hallyu"
+        "exportedAt": "2026-08-01T13:39:34.408Z",
+        "alt_text": "외도보타니아 (Oedo Botania) — ilwon, gyeongnam — hallyu",
+        "image_ai_generated": false,
+        "imageProvider": "poi-download"
       },
       "error": null
     }

@@ -11,7 +11,11 @@
   },
   "captionSource": "local",
   "is_ai_generated": false,
-  "ai_disclosure": "If posting AI-assisted captions, enable the platform AI-generated content label when available.",
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
   "suggested_post": {
     "timezone": "Asia/Seoul",
     "localTime": "2026-08-01 11:00",
@@ -35,10 +39,12 @@
   "imageFile": "image.jpg",
   "imageSourceUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
   "imageContentType": "image/jpeg",
+  "sourceImageSaved": false,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
   "placeName": {
     "ko": "외도보타니아",
     "en": "Oedo Botania"
   },
   "descriptionEn": "Winter Sonata finale filming site with Mediterranean-style gardens.",
-  "exportedAt": "2026-08-01T13:25:44.320Z"
+  "exportedAt": "2026-08-01T13:39:34.408Z"
 }

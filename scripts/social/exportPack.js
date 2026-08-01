@@ -3,7 +3,10 @@
  * Export upload-ready social packs for manual Instagram/Facebook posting.
  *
  * Each pack under social-exports/<date>-<slug>/:
- *   image.jpg (or .png / .webp)
+ *   image.jpg (or .png / .webp) — Emily illustration when NVIDIA image gen works,
+ *                                 else Naver/POI photo
+ *   source.jpg — original POI photo (when Emily illustration was generated)
+ *   image-prompt.txt — prompt for manual gen / debugging (always written)
  *   caption.txt
  *   meta.json
  *   UPLOAD_NOTES.txt
@@ -24,6 +27,7 @@ const {
 } = require("./placeUtils");
 const { loadQueue, updateItem, findItem } = require("./queue");
 const { buildHashtags } = require("./composeCaption");
+const { generateEmilyImage } = require("./generateEmilyImage");
 
 const EXPORTS_ROOT = path.join(ROOT, "social-exports");
 
@@ -176,7 +180,13 @@ function packDirName(item) {
   return `${stamp}-${slug}`;
 }
 
-function writeUploadNotes({ isAiGenerated, suggested, imageFile }) {
+function writeUploadNotes({
+  isAiGenerated,
+  imageAiGenerated,
+  captionAiGenerated,
+  suggested,
+  imageFile,
+}) {
   const lines = [
     "Manual upload checklist (Instagram / Facebook)",
     "============================================",
@@ -188,16 +198,20 @@ function writeUploadNotes({ isAiGenerated, suggested, imageFile }) {
     "",
   ];
   if (isAiGenerated) {
+    const bits = [];
+    if (imageAiGenerated) bits.push("Emily travel illustration (NVIDIA FLUX)");
+    if (captionAiGenerated) bits.push("caption (NVIDIA NIM)");
     lines.push(
       "AI disclosure:",
-      "  Caption was generated with NVIDIA NIM (is_ai_generated: true).",
+      `  AI-assisted: ${bits.join(" + ") || "yes"} (is_ai_generated: true).`,
       "  If Meta/IG shows an “AI-generated” checkbox, check it when posting.",
       ""
     );
   } else {
     lines.push(
       "AI disclosure:",
-      "  Caption used the local template (is_ai_generated: false).",
+      "  POI photo + local caption template (is_ai_generated: false).",
+      "  See image-prompt.txt to generate an Emily illustration manually.",
       ""
     );
   }
@@ -207,6 +221,69 @@ function writeUploadNotes({ isAiGenerated, suggested, imageFile }) {
     ""
   );
   return lines.join("\n");
+}
+
+/**
+ * Prefer Emily illustration; fall back to Naver/POI download.
+ * Always writes image-prompt.txt into the pack.
+ */
+async function resolvePackVisual(item, place, packAbs) {
+  let source = null;
+  try {
+    source = await resolveAndDownloadImage(item, place);
+  } catch (err) {
+    console.warn(`  · POI image unavailable for ${item.slug}: ${err.message}`);
+  }
+
+  const emily = await generateEmilyImage(place || { slug: item.slug, name: item.slug }, {
+    packAbs,
+    slug: item.slug,
+    sourceImageUrl: source?.sourceUrl || item.imageUrl || place?.imageUrl || null,
+  });
+
+  if (emily.ok && emily.buf) {
+    if (source?.buf) {
+      const sourceExt = source.ext === ".jpg" ? ".jpg" : source.ext;
+      fs.writeFileSync(path.join(packAbs, `source${sourceExt}`), source.buf);
+    }
+    const genExt = detectImageExt(emily.buf, "", "");
+    const imageFile = genExt === ".jpg" ? "image.jpg" : `image${genExt}`;
+    fs.writeFileSync(path.join(packAbs, imageFile), emily.buf);
+    console.log(`  · Emily illustration via ${emily.provider}`);
+    return {
+      imageFile,
+      imageSourceUrl: null,
+      imageContentType: genExt === ".png" ? "image/png" : "image/jpeg",
+      imageProvider: emily.provider,
+      imageModel: emily.model || null,
+      imageAiGenerated: true,
+      sourceSaved: Boolean(source?.buf),
+      prompt: emily.prompt,
+    };
+  }
+
+  if (emily.reason && !emily.skipped) {
+    console.warn(`  · Emily image gen failed (${emily.reason}); using POI photo`);
+  } else if (emily.skipped) {
+    console.log(`  · Emily image skipped (${emily.reason}); using POI photo`);
+  }
+
+  if (!source) {
+    throw new Error(`No image for ${item.slug}`);
+  }
+
+  const imageFile = source.ext === ".jpg" ? "image.jpg" : `image${source.ext}`;
+  fs.writeFileSync(path.join(packAbs, imageFile), source.buf);
+  return {
+    imageFile,
+    imageSourceUrl: source.sourceUrl,
+    imageContentType: source.contentType || null,
+    imageProvider: "poi-download",
+    imageModel: null,
+    imageAiGenerated: false,
+    sourceSaved: false,
+    prompt: emily.prompt,
+  };
 }
 
 /**
@@ -233,19 +310,22 @@ async function exportOne(item, { force = false } = {}) {
 
   fs.mkdirSync(packAbs, { recursive: true });
 
-  const image = await resolveAndDownloadImage(item, place);
-  // Prefer JPEG-friendly filename; keep real extension when not JPEG
-  const imageFile = image.ext === ".jpg" ? "image.jpg" : `image${image.ext}`;
-  fs.writeFileSync(path.join(packAbs, imageFile), image.buf);
+  const visual = await resolvePackVisual(item, place, packAbs);
+  const imageFile = visual.imageFile;
 
   const caption = item.caption || "";
   fs.writeFileSync(path.join(packAbs, "caption.txt"), `${caption.trim()}\n`, "utf8");
 
-  const isAiGenerated = item.captionSource === "nvidia";
+  const captionAiGenerated = item.captionSource === "nvidia";
+  const imageAiGenerated = Boolean(visual.imageAiGenerated);
+  const isAiGenerated = captionAiGenerated || imageAiGenerated;
   const suggested = suggestedPostAt(item.slot, item.createdAt);
-  const altText = place
+  const altBase = place
     ? buildAltText(place)
     : `${item.slug || "Korea travel place"}`;
+  const altText = imageAiGenerated
+    ? `Emily (3D animated travel character) at ${altBase}`.slice(0, 900)
+    : altBase;
 
   const hashtags = place
     ? buildHashtags(place, item.format || "place_card")
@@ -260,14 +340,20 @@ async function exportOne(item, { force = false } = {}) {
     trend: place?.trend || null,
     captionSource: item.captionSource || "local",
     is_ai_generated: isAiGenerated,
+    caption_ai_generated: captionAiGenerated,
+    image_ai_generated: imageAiGenerated,
+    imageProvider: visual.imageProvider,
+    imageModel: visual.imageModel,
     ai_disclosure:
-      "If posting AI-assisted captions, enable the platform AI-generated content label when available.",
+      "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
     suggested_post: suggested,
     alt_text: altText,
     hashtags,
     imageFile,
-    imageSourceUrl: image.sourceUrl,
-    imageContentType: image.contentType || null,
+    imageSourceUrl: visual.imageSourceUrl,
+    imageContentType: visual.imageContentType || null,
+    sourceImageSaved: visual.sourceSaved,
+    emilyReference: "scripts/social/assets/emily-reference.png",
     placeName: place
       ? { ko: resolveNameKo(place), en: resolveEnglishName(place) }
       : null,
@@ -283,7 +369,13 @@ async function exportOne(item, { force = false } = {}) {
 
   fs.writeFileSync(
     path.join(packAbs, "UPLOAD_NOTES.txt"),
-    writeUploadNotes({ isAiGenerated, suggested, imageFile }),
+    writeUploadNotes({
+      isAiGenerated,
+      imageAiGenerated,
+      captionAiGenerated,
+      suggested,
+      imageFile,
+    }),
     "utf8"
   );
 
@@ -295,6 +387,8 @@ async function exportOne(item, { force = false } = {}) {
       packDir: relativeDir,
       imageFile,
       is_ai_generated: isAiGenerated,
+      image_ai_generated: imageAiGenerated,
+      imageProvider: visual.imageProvider,
       exportedAt: meta.exportedAt,
       alt_text: altText,
     },

@@ -39,7 +39,7 @@ jobs:
 
       - name: Draft places + export upload packs
         env:
-          # Optional — captions fall back to local templates when unset
+          # Optional — captions + Emily FLUX illustrations; local/POI fallback when unset
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           # Empty secret → scripts/social/placeUtils.js DEFAULT_SITE_URL
           SITE_URL: ${{ secrets.SITE_URL }}

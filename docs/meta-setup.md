@@ -29,17 +29,32 @@ npm run social:export -- --id=sq_... --force
 ```
 
 캡션: `NVIDIA_API_KEY`가 있으면 NVIDIA NIM, 없으면 로컬 템플릿.  
-AI 캡션인 경우 팩의 `meta.json`에 `is_ai_generated: true` 와 `UPLOAD_NOTES.txt` 안내가 들어갑니다 (앱의 AI 표시 체크박스용).
+이미지: 같은 키로 **Emily** 여행 일러스트(NVIDIA FLUX.1-schnell)를 우선 생성합니다. 키가 없거나 생성 실패 시 네이버/POI 사진을 쓰고 `image-prompt.txt`를 남겨 수동 생성할 수 있습니다.  
+캡션 또는 일러스트가 AI이면 `meta.json`의 `is_ai_generated: true` (+ `UPLOAD_NOTES.txt` 안내).
+
+캐릭터 레퍼런스: `scripts/social/assets/emily-reference.png` (blonde curls, blue eyes, thick round black glasses, Pixar/3D).
 
 로컬 `.env` 예시 (모두 선택):
 
 ```env
 NVIDIA_API_KEY=
+# Optional image knobs (defaults are fine):
+# SOCIAL_IMAGE_GEN=1
+# NVIDIA_IMAGE_API_URL=https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-schnell
+# NVIDIA_IMAGE_WIDTH=896
+# NVIDIA_IMAGE_HEIGHT=1152
 # Caption CTA links default to https://daedongyeojido-nine.vercel.app
 # SITE_URL=https://daedongyeojido-nine.vercel.app
 # Local debug only (also set ALLOW_LOCALHOST_SITE_URL=1):
 # SITE_URL=http://localhost:3000
 # ALLOW_LOCALHOST_SITE_URL=1
+```
+
+PowerShell에서 키만 세션에 넣을 때:
+
+```powershell
+$env:NVIDIA_API_KEY = "nvapi-..."
+npm run social:draft -- --count=1
 ```
 
 ---
@@ -50,9 +65,11 @@ NVIDIA_API_KEY=
 
 | 파일 | 내용 |
 | --- | --- |
-| `image.jpg` (또는 `.png` / `.webp`) | 장소 이미지를 로컬에 미러한 업로드용 파일 |
+| `image.jpg` (또는 `.png` / `.webp`) | Emily 일러스트(우선) 또는 장소 POI 사진 |
+| `source.jpg` | (일러스트 성공 시) 원본 네이버/POI 사진 |
+| `image-prompt.txt` | Emily 씬 프롬프트 (수동 생성·디버그용, 항상 기록) |
 | `caption.txt` | KO + EN + 해시태그 (복붙용) |
-| `meta.json` | slug, theme, trend, 추천 게시 시각(KST), alt_text, `is_ai_generated` |
+| `meta.json` | slug, theme, trend, 추천 게시 시각(KST), alt_text, `is_ai_generated`, `image_ai_generated` |
 | `UPLOAD_NOTES.txt` | 수동 업로드 체크리스트 |
 
 추천 슬롯 (KST): **11:00** (트렌드 우선) · **19:00** (테마 로테이션).
@@ -74,7 +91,7 @@ npm run social:approve -- --id=<queue-item-id>
 1. `npm run social:draft` (Meta 토큰 **불필요**)
 2. `social-exports/` + `social_queue.json` 커밋·푸시
 
-선택 secret: `NVIDIA_API_KEY` (캡션 품질), `SITE_URL` (캡션 CTA 링크; 미설정 시 `https://daedongyeojido-nine.vercel.app`).
+선택 secret: `NVIDIA_API_KEY` (캡션 + Emily 일러스트), `SITE_URL` (캡션 CTA 링크; 미설정 시 `https://daedongyeojido-nine.vercel.app`).
 
 ---
 

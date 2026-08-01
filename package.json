@@ -16,7 +16,12 @@
     "repair-labels": "node scripts/run-repair-labels.mjs",
     "attach-images": "node scripts/attach-place-images.js",
     "validate-images": "node scripts/validate-place-images.js",
-    "build-map-links": "node scripts/build-map-links.mjs"
+    "build-map-links": "node scripts/build-map-links.mjs",
+    "social:draft": "node scripts/social/draft.js",
+    "social:approve": "node scripts/social/approve.js",
+    "social:publish": "node scripts/social/publish.js",
+    "social:insights": "node scripts/social/insights.js",
+    "social:token": "node scripts/social/tokenExchange.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

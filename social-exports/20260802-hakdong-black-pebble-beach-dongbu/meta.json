@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260802011753_ix50x8",
+  "slug": "hakdong-black-pebble-beach-dongbu",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
+    "updatedAt": "2026-08-01T12:55:18.996Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-02 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "학동흑진주몽돌해변 (Hakdong Black Pebble Beach) — dongbu, gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20150831_228/1440992302696jMcSm_JPEG/11491803_0.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "학동흑진주몽돌해변",
+    "en": "Hakdong Black Pebble Beach"
+  },
+  "descriptionEn": "Black pebble beach whose rolling stones are a Korean natural sound.",
+  "exportedAt": "2026-08-02T02:00:21.954Z"
+}

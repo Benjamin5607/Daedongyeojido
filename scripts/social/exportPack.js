@@ -3,10 +3,10 @@
  * Export upload-ready social packs for manual Instagram/Facebook posting.
  *
  * Each pack under social-exports/<date>-<slug>/:
- *   image.jpg (or .png / .webp) — Emily illustration when NVIDIA image gen works,
- *                                 else Naver/POI photo
- *   source.jpg — original POI photo (when Emily illustration was generated)
- *   image-prompt.txt — prompt for manual gen / debugging (always written)
+ *   image.jpg (or .png / .webp) — POI photo by default; Emily img2img when
+ *                                 NVIDIA Kontext (or opt-in Kontext fallback) works
+ *   source.jpg — original Naver/POI photo (always when download succeeds)
+ *   image-prompt.txt — img2img prompt from source.jpg (always written)
  *   caption.txt
  *   meta.json
  *   UPLOAD_NOTES.txt
@@ -199,7 +199,9 @@ function writeUploadNotes({
   ];
   if (isAiGenerated) {
     const bits = [];
-    if (imageAiGenerated) bits.push("Emily travel illustration (AI image gen)");
+    if (imageAiGenerated) {
+      bits.push("Emily travel illustration (img2img from source.jpg)");
+    }
     if (captionAiGenerated) bits.push("caption (NVIDIA NIM)");
     lines.push(
       "AI disclosure:",
@@ -210,8 +212,9 @@ function writeUploadNotes({
   } else {
     lines.push(
       "AI disclosure:",
-      "  POI photo + local caption template (is_ai_generated: false).",
-      "  See image-prompt.txt to generate an Emily illustration manually.",
+      "  Feed image is the real Naver/POI photo (image_ai_generated: false).",
+      "  Optional Emily illustration: run img2img from source.jpg using image-prompt.txt",
+      "  (NVIDIA FLUX Kontext / Midjourney / etc.). Pure text-to-image is not recommended.",
       ""
     );
   }
@@ -224,7 +227,8 @@ function writeUploadNotes({
 }
 
 /**
- * Prefer Emily illustration; fall back to Naver/POI download.
+ * POI photo first (source.jpg + default image.jpg).
+ * Optional Emily img2img from that photo when NVIDIA Kontext / opt-in Kontext works.
  * Always writes image-prompt.txt into the pack.
  */
 async function resolvePackVisual(item, place, packAbs) {
@@ -235,21 +239,26 @@ async function resolvePackVisual(item, place, packAbs) {
     console.warn(`  · POI image unavailable for ${item.slug}: ${err.message}`);
   }
 
+  if (!source) {
+    throw new Error(`No image for ${item.slug}`);
+  }
+
+  const sourceExt = source.ext === ".jpg" ? ".jpg" : source.ext;
+  const sourceFile = `source${sourceExt}`;
+  fs.writeFileSync(path.join(packAbs, sourceFile), source.buf);
+
   const emily = await generateEmilyImage(place || { slug: item.slug, name: item.slug }, {
     packAbs,
     slug: item.slug,
-    sourceImageUrl: source?.sourceUrl || item.imageUrl || place?.imageUrl || null,
+    sourceImageUrl: source.sourceUrl || item.imageUrl || place?.imageUrl || null,
+    sourceBuf: source.buf,
   });
 
   if (emily.ok && emily.buf) {
-    if (source?.buf) {
-      const sourceExt = source.ext === ".jpg" ? ".jpg" : source.ext;
-      fs.writeFileSync(path.join(packAbs, `source${sourceExt}`), source.buf);
-    }
     const genExt = detectImageExt(emily.buf, "", "");
     const imageFile = genExt === ".jpg" ? "image.jpg" : `image${genExt}`;
     fs.writeFileSync(path.join(packAbs, imageFile), emily.buf);
-    console.log(`  · Emily illustration via ${emily.provider}`);
+    console.log(`  · Emily img2img via ${emily.provider} (base ${sourceFile})`);
     return {
       imageFile,
       imageSourceUrl: null,
@@ -257,23 +266,20 @@ async function resolvePackVisual(item, place, packAbs) {
       imageProvider: emily.provider,
       imageModel: emily.model || null,
       imageAiGenerated: true,
-      sourceSaved: Boolean(source?.buf),
+      sourceSaved: true,
       prompt: emily.prompt,
     };
   }
 
   if (emily.reason && !emily.skipped) {
-    console.warn(`  · Emily image gen failed (${emily.reason}); using POI photo`);
+    console.warn(`  · Emily img2img failed (${emily.reason}); using POI photo`);
   } else if (emily.skipped) {
-    console.log(`  · Emily image skipped (${emily.reason}); using POI photo`);
-  }
-
-  if (!source) {
-    throw new Error(`No image for ${item.slug}`);
+    console.log(`  · Emily img2img skipped (${emily.reason}); using POI photo`);
   }
 
   const imageFile = source.ext === ".jpg" ? "image.jpg" : `image${source.ext}`;
   fs.writeFileSync(path.join(packAbs, imageFile), source.buf);
+  console.log(`  · Pack image = POI photo (${sourceFile} → ${imageFile})`);
   return {
     imageFile,
     imageSourceUrl: source.sourceUrl,
@@ -281,7 +287,7 @@ async function resolvePackVisual(item, place, packAbs) {
     imageProvider: "poi-download",
     imageModel: null,
     imageAiGenerated: false,
-    sourceSaved: false,
+    sourceSaved: true,
     prompt: emily.prompt,
   };
 }
@@ -324,7 +330,10 @@ async function exportOne(item, { force = false } = {}) {
     ? buildAltText(place)
     : `${item.slug || "Korea travel place"}`;
   const altText = imageAiGenerated
-    ? `Emily (3D animated travel character) at ${altBase}`.slice(0, 900)
+    ? `Pixar-style travel illustration of ${altBase}, with Emily as a traveler in frame (based on real place photo)`.slice(
+        0,
+        900
+      )
     : altBase;
 
   const hashtags = place

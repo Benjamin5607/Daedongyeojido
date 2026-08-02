@@ -1,0 +1,24 @@
+Emily travel illustration prompt (img2img from source.jpg)
+=========================================================
+
+Use NVIDIA FLUX Kontext, Midjourney --cref/--sref, or similar img2img.
+Base image: source.jpg in this pack (real place photo).
+
+WORKFLOW (recommended):
+  Image-to-image / reference edit from source.jpg (real Naver/POI photo).
+  Keep the same place layout, shoreline, pebbles/terrain, and landmarks.
+  Restyle as bright Pixar/3D travel illustration and add Emily.
+
+Composition lock:
+  - Place ~55–70% of frame (from the photo)
+  - Emily ~20–35% frame height, full/3-4 body, mid-ground
+  - Not a headshot / selfie; not an ant-sized speck
+
+Character reference (repo):
+  scripts/social/assets/emily-reference.png
+  Blonde curly hair, thick round black glasses, cute Pixar face
+
+Negative / avoid:
+  different place, tropical karst, white sand lagoon, portrait, headshot, selfie, extreme close-up, ID photo, tiny distant figure, silhouette only, ant-sized person, deformed face, melted face, mutated, blurry face, asymmetric eyes, gloomy horror, ghost, dark horror mood, extra limbs, watermark, text, logo
+
+Image-to-image edit of the attached real place photo (Naver/POI). Keep the SAME place layout, landmarks, shoreline, terrain materials, and viewpoint from the reference photo — do not invent a different location. Place: Hakdong Black Pebble Beach / 학동흑진주몽돌해변 in dongbu, geoje, gyeongnam. Korean coast or outdoor overlook black pebble beach, dark round mongdol cobble shore (keep pebbles from the photo, NOT sand) rocky Geoje Korea coastline with gentle green hills calm emerald-blue Korean sea Hakdong / Geoje Island Korea — keep this coastline, not tropical Southeast Asia Place description cues: Black pebble beach whose rolling stones are a Korean natural sound. Near: 18-1 Hakdong 6-gil, Dongbu-myeon, Geoje, Gyeongnam restyle as a polished bright Pixar / modern 3D animation film still, cheerful cinematic travel illustration, vibrant natural colors, soft sunny cinematic lighting, clear readable details, Instagram-ready vertical 4:5 when possible, no text, no watermark, no logo, no UI chrome medium-wide cinematic travel frame, recognizable place from the reference photo fills about 55 to 70 percent of the frame, Emily clearly visible at about 20 to 35 percent of frame height, full body or three-quarter figure in foreground or mid-ground, character readable but smaller than the landscape, glasses and curly blonde hair visible Add traveler: Emily, a cute bright cheerful Pixar-style 3D animated young woman traveler, voluminous curly golden-blonde hair, large bright blue eyes, thick perfectly round black-rimmed glasses, clear symmetrical human female face, friendly joyful expression, stylized cute proportions, casual travel outfit. She stands or walks naturally in the mid-ground of this same place so the location stays recognizable. Avoid: inventing a different beach or country, tropical karst lagoons, photorealistic ID photo, passport photo, portrait headshot, selfie, extreme close-up face, giant face, tiny distant ant-sized figure, silhouette only, deformed face, melted face, mutated face, blurry face, asymmetric eyes, extra limbs, gloomy horror mood, dark horror atmosphere, uncanny valley, ghostly translucent person, low quality

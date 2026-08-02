@@ -29,21 +29,28 @@ npm run social:export -- --id=sq_... --force
 ```
 
 캡션: `NVIDIA_API_KEY`가 있으면 NVIDIA NIM, 없으면 로컬 템플릿.  
-이미지: 같은 키로 **Emily** 여행 일러스트(NVIDIA FLUX.1-schnell)를 우선 생성합니다. NVIDIA 실패·무키 시 **Pollinations FLUX**(무료, 키 불필요)로 재시도하고, 그것도 실패하면 네이버/POI 사진 + `image-prompt.txt`입니다.  
-`SOCIAL_IMAGE_FALLBACK=none` 이면 Pollinations를 끄고 POI로만 내려갑니다.  
+이미지(기본): **네이버/POI 실사**를 `source.jpg`와 `image.jpg`로 씁니다(장소 정확도 우선).  
+선택 AI: 같은 키로 **POI 사진 기반 img2img**(NVIDIA FLUX.1-Kontext-dev) — 사진의 장소 레이아웃·몽돌/해안 등을 유지한 채 밝은 Pixar/3D 여행 일러스트로 리스타일하고 Emily(금발 곱슬·둥근 안경)를 미드그라운드(~20–35% 높이)에 넣습니다.  
+순수 text-to-image(가짜 해변/고스트 얼굴)는 **기본 비활성**입니다.  
+`SOCIAL_IMAGE_FALLBACK=none`(기본) → AI 실패·무키면 POI만 사용 + `image-prompt.txt`(수동 img2img용).  
+옵트인: `SOCIAL_IMAGE_FALLBACK=kontext` 로 Pollinations Kontext img2img(공개 이미지 URL 필요).  
 캡션 또는 일러스트가 AI이면 `meta.json`의 `is_ai_generated: true` (+ `UPLOAD_NOTES.txt` 안내).
 
-캐릭터 레퍼런스: `scripts/social/assets/emily-reference.png` (blonde curls, blue eyes, thick round black glasses, Pixar/3D).
+캐릭터 레퍼런스: `scripts/social/assets/emily-reference.png`.
 
 로컬 `.env` 예시 (모두 선택):
 
 ```env
 NVIDIA_API_KEY=
-# Optional image knobs (defaults are fine):
+# Optional image knobs:
 # SOCIAL_IMAGE_GEN=1
-# SOCIAL_IMAGE_FALLBACK=pollinations   # or none
-# NVIDIA_IMAGE_API_URL=https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-schnell
-# NVIDIA_IMAGE_TIMEOUT_MS=90000
+# SOCIAL_IMAGE_FALLBACK=none          # default — POI photo; no pure T2I
+# SOCIAL_IMAGE_FALLBACK=kontext       # optional Pollinations Kontext img2img
+# SOCIAL_IMAGE_RETRIES=2
+# NVIDIA_KONTEXT_API_URL=https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-kontext-dev
+# NVIDIA_KONTEXT_STEPS=30
+# NVIDIA_KONTEXT_CFG=3.5
+# NVIDIA_IMAGE_TIMEOUT_MS=120000
 # NVIDIA_IMAGE_WIDTH=896
 # NVIDIA_IMAGE_HEIGHT=1152
 # Caption CTA links default to https://daedongyeojido-nine.vercel.app
@@ -68,9 +75,9 @@ npm run social:draft -- --count=1
 
 | 파일 | 내용 |
 | --- | --- |
-| `image.jpg` (또는 `.png` / `.webp`) | Emily 일러스트(우선) 또는 장소 POI 사진 |
-| `source.jpg` | (일러스트 성공 시) 원본 네이버/POI 사진 |
-| `image-prompt.txt` | Emily 씬 프롬프트 (수동 생성·디버그용, 항상 기록) |
+| `image.jpg` (또는 `.png` / `.webp`) | 기본=네이버/POI 실사; NVIDIA Kontext img2img 성공 시 Emily 일러스트 |
+| `source.jpg` | 원본 네이버/POI 사진 (다운로드 성공 시 항상) |
+| `image-prompt.txt` | source.jpg 기반 img2img 프롬프트 (수동 도구용, 항상 기록) |
 | `caption.txt` | KO + EN + 해시태그 (복붙용) |
 | `meta.json` | slug, theme, trend, 추천 게시 시각(KST), alt_text, `is_ai_generated`, `image_ai_generated` |
 | `UPLOAD_NOTES.txt` | 수동 업로드 체크리스트 |
@@ -94,7 +101,7 @@ npm run social:approve -- --id=<queue-item-id>
 1. `npm run social:draft` (Meta 토큰 **불필요**)
 2. `social-exports/` + `social_queue.json` 커밋·푸시
 
-선택 secret: `NVIDIA_API_KEY` (캡션 + Emily 일러스트), `SITE_URL` (캡션 CTA 링크; 미설정 시 `https://daedongyeojido-nine.vercel.app`).
+선택 secret: `NVIDIA_API_KEY` (캡션 + Emily **img2img** via FLUX Kontext), `SITE_URL` (캡션 CTA / media-proxy; 미설정 시 `https://daedongyeojido-nine.vercel.app`).
 
 ---
 

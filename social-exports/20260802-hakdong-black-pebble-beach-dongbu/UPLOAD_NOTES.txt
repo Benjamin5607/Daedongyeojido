@@ -7,9 +7,8 @@ Manual upload checklist (Instagram / Facebook)
 4. Suggested post time (KST): 2026-08-02 11:00 (morning slot).
 
 AI disclosure:
-  Feed image is the real Naver/POI photo (image_ai_generated: false).
-  Optional Emily illustration: run img2img from source.jpg using image-prompt.txt
-  (NVIDIA FLUX Kontext / Midjourney / etc.). Pure text-to-image is not recommended.
+  AI-assisted: Emily travel illustration (img2img from source.jpg) (is_ai_generated: true).
+  If Meta/IG shows an “AI-generated” checkbox, check it when posting.
 
 5. After posting, optionally mark the queue item published locally,
    or leave it as draft/exported for your own tracking.

@@ -3,8 +3,8 @@
  * Export upload-ready social packs for manual Instagram/Facebook posting.
  *
  * Each pack under social-exports/<date>-<slug>/:
- *   image.jpg (or .png / .webp) — POI photo by default; Emily img2img when
- *                                 NVIDIA Kontext (or opt-in Kontext fallback) works
+ *   image.jpg (or .png / .webp) — Emily illustration when NVIDIA_API_KEY works
+ *                                 (Kontext img2img or vision+FLUX.1-dev); else POI photo
  *   source.jpg — original Naver/POI photo (always when download succeeds)
  *   image-prompt.txt — img2img prompt from source.jpg (always written)
  *   caption.txt
@@ -227,8 +227,7 @@ function writeUploadNotes({
 }
 
 /**
- * POI photo first (source.jpg + default image.jpg).
- * Optional Emily img2img from that photo when NVIDIA Kontext / opt-in Kontext works.
+ * POI photo → source.jpg; Emily illustration → image.jpg when NVIDIA_API_KEY works.
  * Always writes image-prompt.txt into the pack.
  */
 async function resolvePackVisual(item, place, packAbs) {
@@ -258,7 +257,9 @@ async function resolvePackVisual(item, place, packAbs) {
     const genExt = detectImageExt(emily.buf, "", "");
     const imageFile = genExt === ".jpg" ? "image.jpg" : `image${genExt}`;
     fs.writeFileSync(path.join(packAbs, imageFile), emily.buf);
-    console.log(`  · Emily img2img via ${emily.provider} (base ${sourceFile})`);
+    console.log(
+      `  · Emily illustration via ${emily.provider} (POI base ${sourceFile} → ${imageFile})`
+    );
     return {
       imageFile,
       imageSourceUrl: null,
@@ -272,14 +273,21 @@ async function resolvePackVisual(item, place, packAbs) {
   }
 
   if (emily.reason && !emily.skipped) {
-    console.warn(`  · Emily img2img failed (${emily.reason}); using POI photo`);
+    console.error(
+      `  ✗ Emily illustration FAILED — NOT pretending this is AI. Falling back to raw POI photo.`
+    );
+    console.error(`      reason: ${emily.reason.slice(0, 500)}`);
   } else if (emily.skipped) {
-    console.log(`  · Emily img2img skipped (${emily.reason}); using POI photo`);
+    console.error(
+      `  ✗ Emily illustration SKIPPED (${emily.reason}) — image.jpg will be the raw POI photo (image_ai_generated: false).`
+    );
   }
 
   const imageFile = source.ext === ".jpg" ? "image.jpg" : `image${source.ext}`;
   fs.writeFileSync(path.join(packAbs, imageFile), source.buf);
-  console.log(`  · Pack image = POI photo (${sourceFile} → ${imageFile})`);
+  console.log(
+    `  · Pack image = POI photo fallback (${sourceFile} → ${imageFile}, image_ai_generated: false)`
+  );
   return {
     imageFile,
     imageSourceUrl: source.sourceUrl,

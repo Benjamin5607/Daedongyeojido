@@ -10,18 +10,18 @@
     "updatedAt": "2026-08-01T12:55:18.996Z"
   },
   "captionSource": "local",
-  "is_ai_generated": false,
+  "is_ai_generated": true,
   "caption_ai_generated": false,
-  "image_ai_generated": false,
-  "imageProvider": "poi-download",
-  "imageModel": null,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
   "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
   "suggested_post": {
     "timezone": "Asia/Seoul",
     "localTime": "2026-08-02 11:00",
     "slot": "morning"
   },
-  "alt_text": "학동흑진주몽돌해변 (Hakdong Black Pebble Beach) — dongbu, gyeongnam — urban nature",
+  "alt_text": "Pixar-style travel illustration of 학동흑진주몽돌해변 (Hakdong Black Pebble Beach) — dongbu, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)",
   "hashtags": [
     "#Korea",
     "#VisitKorea",
@@ -37,7 +37,7 @@
     "#gyeongnam"
   ],
   "imageFile": "image.jpg",
-  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20150831_228/1440992302696jMcSm_JPEG/11491803_0.jpg",
+  "imageSourceUrl": null,
   "imageContentType": "image/jpeg",
   "sourceImageSaved": true,
   "emilyReference": "scripts/social/assets/emily-reference.png",
@@ -46,5 +46,5 @@
     "en": "Hakdong Black Pebble Beach"
   },
   "descriptionEn": "Black pebble beach whose rolling stones are a Korean natural sound.",
-  "exportedAt": "2026-08-02T02:00:21.954Z"
+  "exportedAt": "2026-08-02T02:34:15.933Z"
 }

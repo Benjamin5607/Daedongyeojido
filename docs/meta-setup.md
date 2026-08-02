@@ -29,12 +29,12 @@ npm run social:export -- --id=sq_... --force
 ```
 
 캡션: `NVIDIA_API_KEY`가 있으면 NVIDIA NIM, 없으면 로컬 템플릿.  
-이미지(기본): **네이버/POI 실사**를 `source.jpg`와 `image.jpg`로 씁니다(장소 정확도 우선).  
-선택 AI: 같은 키로 **POI 사진 기반 img2img**(NVIDIA FLUX.1-Kontext-dev) — 사진의 장소 레이아웃·몽돌/해안 등을 유지한 채 밝은 Pixar/3D 여행 일러스트로 리스타일하고 Emily(금발 곱슬·둥근 안경)를 미드그라운드(~20–35% 높이)에 넣습니다.  
-순수 text-to-image(가짜 해변/고스트 얼굴)는 **기본 비활성**입니다.  
-`SOCIAL_IMAGE_FALLBACK=none`(기본) → AI 실패·무키면 POI만 사용 + `image-prompt.txt`(수동 img2img용).  
-옵트인: `SOCIAL_IMAGE_FALLBACK=kontext` 로 Pollinations Kontext img2img(공개 이미지 URL 필요).  
-캡션 또는 일러스트가 AI이면 `meta.json`의 `is_ai_generated: true` (+ `UPLOAD_NOTES.txt` 안내).
+이미지(키 있을 때 기본): POI 사진을 `source.jpg`로 저장한 뒤, **Emily Pixar/3D 여행 일러스트**를 `image.jpg`로 생성합니다.  
+1. NVIDIA FLUX.1-Kontext **img2img** (실사진 base64) — self-hosted NIM(`NVIDIA_KONTEXT_API_URL`)에서 동작. 호스티드 `ai.api.nvidia.com` 프리뷰는 `example_id`만 받아 실사진 편집 불가.  
+2. 폴백(호스티드 기본): 비전으로 POI 사진을 읽고 → FLUX.1-dev로 장소 고정 Emily 일러스트 생성.  
+AI 실패·무키면 POI를 `image.jpg`로 복사하되 `image_ai_generated: false`로 명시(+ `image-prompt.txt`).  
+옵트인: `SOCIAL_IMAGE_FALLBACK=kontext` (Pollinations; 공개 URL 필요).  
+캡션 또는 일러스트가 AI이면 `meta.json`의 `is_ai_generated: true`.
 
 캐릭터 레퍼런스: `scripts/social/assets/emily-reference.png`.
 
@@ -43,13 +43,16 @@ npm run social:export -- --id=sq_... --force
 ```env
 NVIDIA_API_KEY=
 # Optional image knobs:
-# SOCIAL_IMAGE_GEN=1
-# SOCIAL_IMAGE_FALLBACK=none          # default — POI photo; no pure T2I
-# SOCIAL_IMAGE_FALLBACK=kontext       # optional Pollinations Kontext img2img
+# SOCIAL_IMAGE_GEN=1                  # default ON when NVIDIA_API_KEY is set
+# SOCIAL_IMAGE_FALLBACK=none          # default
+# SOCIAL_IMAGE_FALLBACK=kontext       # optional Pollinations Kontext
 # SOCIAL_IMAGE_RETRIES=2
-# NVIDIA_KONTEXT_API_URL=https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-kontext-dev
+# NVIDIA_KONTEXT_API_URL=http://localhost:8000/v1/infer   # self-hosted true img2img
+# NVIDIA_KONTEXT_ASPECT=match_input_image
 # NVIDIA_KONTEXT_STEPS=30
 # NVIDIA_KONTEXT_CFG=3.5
+# NVIDIA_IMAGE_API_URL=https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-dev
+# NVIDIA_VISION_MODEL=meta/llama-3.2-11b-vision-instruct
 # NVIDIA_IMAGE_TIMEOUT_MS=120000
 # NVIDIA_IMAGE_WIDTH=896
 # NVIDIA_IMAGE_HEIGHT=1152
@@ -75,7 +78,7 @@ npm run social:draft -- --count=1
 
 | 파일 | 내용 |
 | --- | --- |
-| `image.jpg` (또는 `.png` / `.webp`) | 기본=네이버/POI 실사; NVIDIA Kontext img2img 성공 시 Emily 일러스트 |
+| `image.jpg` (또는 `.png` / `.webp`) | Emily 일러스트(NVIDIA 키 성공 시); 실패 시 POI 실사 |
 | `source.jpg` | 원본 네이버/POI 사진 (다운로드 성공 시 항상) |
 | `image-prompt.txt` | source.jpg 기반 img2img 프롬프트 (수동 도구용, 항상 기록) |
 | `caption.txt` | KO + EN + 해시태그 (복붙용) |
@@ -101,7 +104,7 @@ npm run social:approve -- --id=<queue-item-id>
 1. `npm run social:draft` (Meta 토큰 **불필요**)
 2. `social-exports/` + `social_queue.json` 커밋·푸시
 
-선택 secret: `NVIDIA_API_KEY` (캡션 + Emily **img2img** via FLUX Kontext), `SITE_URL` (캡션 CTA / media-proxy; 미설정 시 `https://daedongyeojido-nine.vercel.app`).
+선택 secret: `NVIDIA_API_KEY` (캡션 + Emily 일러스트: Kontext 또는 vision+FLUX.1-dev), `SITE_URL` (캡션 CTA / media-proxy; 미설정 시 `https://daedongyeojido-nine.vercel.app`).
 
 ---
 

@@ -2,6 +2,1051 @@
   {
     "theme": "k-food",
     "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "gohyeon"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "POW Camp Oyster Grill",
+      "ja": "捕虜収容所カキ焼き",
+      "zh": "战俘营牡蛎烧烤",
+      "vi": "Nướng hàu Khu giam POW",
+      "id": "Panggang Tiram POW Camp",
+      "ko": "포로수용소굴구이"
+    },
+    "address": {
+      "en": "21 Gyeryong-ro 7-gil, Gohyeon-dong, Geoje, Gyeongnam",
+      "ja": "巨濟市 계룡로7길",
+      "zh": "巨济市 계룡로7길 21",
+      "vi": "21 Gyeryong-ro 7-gil, Gohyeon-dong, Geoje, Gyeongnam",
+      "id": "21 Gyeryong-ro 7-gil, Gohyeon-dong, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 계룡로7길 21"
+    },
+    "description": {
+      "en": "Charcoal-grilled oysters near the POW memorial park.",
+      "ja": "捕虜収容所公園近くの炭火カキ焼き。",
+      "zh": "战俘收容所纪念公园附近的炭烤牡蛎。",
+      "vi": "Hàu nướng than gần công viên tưởng niệm POW.",
+      "id": "Tiram panggang arang dekat taman memorial POW."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251125_38/1764034600657qa4M7_JPEG/DSZ_3420.JPG",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "okpo"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Sanbong Ssambap Okpo",
+      "ja": "山봉쌈밥巨濟玉浦本店",
+      "zh": "山봉包饭巨济玉浦本店",
+      "vi": "Sanbong Ssambap Okpo",
+      "id": "Sanbong Ssambap Okpo",
+      "ko": "산봉쌈밥 거제옥포본점"
+    },
+    "address": {
+      "en": "27 Okpo Jungang-ro, Okpo-dong, Geoje, Gyeongnam",
+      "ja": "巨濟市 옥포중앙로",
+      "zh": "巨济市 옥포중앙로 27",
+      "vi": "27 Okpo Jungang-ro, Okpo-dong, Geoje, Gyeongnam",
+      "id": "27 Okpo Jungang-ro, Okpo-dong, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 옥포중앙로 27"
+    },
+    "description": {
+      "en": "Organic vegetable ssambap wraps with Geoje-grown greens.",
+      "ja": "地元有機野菜の쌈밥。",
+      "zh": "当地有机蔬菜包饭。",
+      "vi": "Ssambap rau hữu cơ trồng tại Geoje.",
+      "id": "Ssambap sayuran organik dari Geoje."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20241008_5/1728345954284c6IR4_JPEG/DSC03360.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "ilwon"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Oedo Botania",
+      "ja": "外島ボタニア",
+      "zh": "外岛植物园",
+      "vi": "Oedo Botania",
+      "id": "Oedo Botania",
+      "ko": "외도보타니아"
+    },
+    "address": {
+      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 일운면",
+      "zh": "巨济市 일운면 외도길 17",
+      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 일운면 외도길 17"
+    },
+    "description": {
+      "en": "Winter Sonata finale filming site with Mediterranean-style gardens.",
+      "ja": "冬ソナ最終回のロケ地、地中海風庭園。",
+      "zh": "冬季恋歌大结局取景的地中海风庭园。",
+      "vi": "Bối cảnh đ finale Winter Sonata với vườn Địa Trung Hải.",
+      "id": "Lokasi syuting finale Winter Sonata dengan taman Mediterania."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "ilwon"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Oedo Botania Lee House",
+      "ja": "外島ボタニア・リハウス",
+      "zh": "外岛植物园李之家",
+      "vi": "Lee House Oedo Botania",
+      "id": "Lee House Oedo Botania",
+      "ko": "외도보타니아 리하우스"
+    },
+    "address": {
+      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 일운면",
+      "zh": "巨济市 일운면 외도길 17",
+      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 일운면 외도길 17"
+    },
+    "description": {
+      "en": "Mediterranean exterior and hanok interior from Winter Sonata.",
+      "ja": "外観は地中海、内部は韓屋の冬ソナ名所。",
+      "zh": "外观地中海、内装韩屋的冬季恋歌名所。",
+      "vi": "Ngoại thất Địa Trung Hải, nội thất hanok trong Winter Sonata.",
+      "id": "Eksterior Mediterania dan interior hanok dari Winter Sonata."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "nambugmyeon"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Windy Hill",
+      "ja": "風の丘",
+      "zh": "风之丘",
+      "vi": "Windy Hill",
+      "id": "Windy Hill",
+      "ko": "바람의언덕"
+    },
+    "address": {
+      "en": "14 Dojangpo-gil, Nambu-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 남부면",
+      "zh": "巨济市 남부면 도장포길 14",
+      "vi": "14 Dojangpo-gil, Nambu-myeon, Geoje, Gyeongnam",
+      "id": "14 Dojangpo-gil, Nambu-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 남부면 도장포길 14"
+    },
+    "description": {
+      "en": "Scenic hill featured in Mr. Sunshine and K-drama location tours.",
+      "ja": "ミスター・サンシャイン等のドラマロケ地。",
+      "zh": "《阳光先生》等韩剧取景地。",
+      "vi": "Đồi cảnh quan trong Mr. Sunshine và tour phim Hàn.",
+      "id": "Bukit pemandangan lokasi syuting Mr. Sunshine dan K-drama."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "dongbu"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Deokwon Beach",
+      "ja": "徳元海水浴場",
+      "zh": "德元海水浴场",
+      "vi": "Bãi biển Deokwon",
+      "id": "Pantai Deokwon",
+      "ko": "덕원해수욕장"
+    },
+    "address": {
+      "en": "73 Deokwon-gil, Dongbu-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 동부면",
+      "zh": "巨济市 동부면 덕원길 73",
+      "vi": "73 Deokwon-gil, Dongbu-myeon, Geoje, Gyeongnam",
+      "id": "73 Deokwon-gil, Dongbu-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 동부면 덕원길 73"
+    },
+    "description": {
+      "en": "1 Night 2 Days filming beach with quiet family-friendly sand.",
+      "ja": "1泊2日ロケ地の静かな家族向け海水浴場。",
+      "zh": "两天一夜节目取景的安静家庭海水浴场。",
+      "vi": "Bãi biển quay 1 Night 2 Days yên tĩnh cho gia đình.",
+      "id": "Pantai syuting 1 Night 2 Days yang tenang untuk keluarga."
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnJOjulXTfesuMR0-hOd8bzTyCIX-jXQWdOT9Z8fdizl42-n0hmlO3DNee5IklkA-ESM-wdGowcF4uYnKmOssG-oEjTHkIwvb6sYUSQ785pjWRVhPCNR9ePmBW6H2BHFhUuXE0h5jDWHZg=w800-h600-k-no",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "ilwon"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Oedo Venus Garden",
+      "ja": "外島ビーナスガーデン",
+      "zh": "外岛维纳斯花园",
+      "vi": "Vườn Venus Oedo",
+      "id": "Taman Venus Oedo",
+      "ko": "외도보타니아 비너스가든"
+    },
+    "address": {
+      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 일운면",
+      "zh": "巨济市 일운면 외도길 17",
+      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 일운면 외도길 17"
+    },
+    "description": {
+      "en": "Twelve Venus statues in the garden from Winter Sonata.",
+      "ja": "冬ソナの12体ビーナス像ガーデン。",
+      "zh": "冬季恋歌十二维纳斯像花园。",
+      "vi": "Vườn 12 tượng Venus trong Winter Sonata.",
+      "id": "Taman 12 patung Venus dari Winter Sonata."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "ilwon"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Oedo Second Love Hill",
+      "ja": "外島第2愛の丘",
+      "zh": "外岛第二爱情丘",
+      "vi": "Đồi tình yêu thứ 2 Oedo",
+      "id": "Bukit Cinta Ke-2 Oedo",
+      "ko": "외도보타니아 제2사랑의언덕"
+    },
+    "address": {
+      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 일운면",
+      "zh": "巨济市 일운면 외도길 17",
+      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 일운면 외도길 17"
+    },
+    "description": {
+      "en": "Lookout hill with 300-year sacred tree from drama tours.",
+      "ja": "300年神樹のあるドラマツアー展望丘。",
+      "zh": "有三百年神树的话剧 tour 展望丘。",
+      "vi": "Đồi ngắm cảnh có cây thần 300 năm.",
+      "id": "Bukit panorama dengan pohon suci 300 tahun."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "gohyeon"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Geoje POW Camp Park",
+      "ja": "巨濟捕虜収容所遺跡公園",
+      "zh": "巨济战俘收容所遗址公园",
+      "vi": "Công viên POW Geoje",
+      "id": "Taman POW Geoje",
+      "ko": "거제포로수용소유적공원"
+    },
+    "address": {
+      "en": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
+      "ja": "巨濟市 계룡로",
+      "zh": "巨济市 계룡로 61",
+      "vi": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
+      "id": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 계룡로 61"
+    },
+    "description": {
+      "en": "Living history park on Korea's largest Korean War POW camp site.",
+      "ja": "朝鮮戦争捕虜収容所跡の歴史公園。",
+      "zh": "朝鲜战争战俘营遗址历史公园。",
+      "vi": "Công viên lịch sử trại POW Chiến tranh Triều Tiên.",
+      "id": "Taman sejarah lokasi kamp POW Perang Korea."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "gohyeon"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "POW Camp Museum",
+      "ja": "捕虜収容所遺跡博物館",
+      "zh": "战俘收容所遗址博物馆",
+      "vi": "Bảo tàng POW",
+      "id": "Museum POW",
+      "ko": "포로수용소유적박물관"
+    },
+    "address": {
+      "en": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
+      "ja": "巨濟市 계룡로",
+      "zh": "巨济市 계룡로 61",
+      "vi": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
+      "id": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 계룡로 61"
+    },
+    "description": {
+      "en": "Museum documenting POW life with films and original artifacts.",
+      "ja": "捕虜生活を映像と遺物で展示。",
+      "zh": "以影像与遗物展示战俘生活。",
+      "vi": "Bảo tàng đời sống POW với phim và hiện vật.",
+      "id": "Museum kehidupan POW dengan film dan artefak."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "okpo"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Okpo Great Victory Park",
+      "ja": "玉浦大捷記念公園",
+      "zh": "玉浦大捷纪念公园",
+      "vi": "Công viên Okpo",
+      "id": "Taman Okpo",
+      "ko": "옥포대첩기념공원"
+    },
+    "address": {
+      "en": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
+      "ja": "巨濟市 팔랑포2길",
+      "zh": "巨济市 팔랑포2길 87",
+      "vi": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
+      "id": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 팔랑포2길 87"
+    },
+    "description": {
+      "en": "Memorial to Admiral Yi Sun-sin's first Imjin War victory at Okpo.",
+      "ja": "李舜臣将軍玉浦大捷の記念公園。",
+      "zh": "李舜臣将军玉浦大捷纪念公园。",
+      "vi": "Tưởng niệm chiến thắng Okpo của Đô đốc Yi.",
+      "id": "Peringatan kemenangan Okpo Laksamana Yi."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_226/1441007202798kxPiU_JPEG/116364497038543_0.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "nambugmyeon"
+    },
+    "rating": 4.5,
+    "name": {
+      "en": "Haegeumgang Theme Museum",
+      "ja": "海金剛テーマ博物館",
+      "zh": "海金刚主题博物馆",
+      "vi": "Bảo tàng Haegeumgang",
+      "id": "Museum Haegeumgang",
+      "ko": "해금강테마박물관"
+    },
+    "address": {
+      "en": "120 Haegeumgang-ro, Nambu-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 남부면",
+      "zh": "巨济市 남부면 해금강로 120",
+      "vi": "120 Haegeumgang-ro, Nambu-myeon, Geoje, Gyeongnam",
+      "id": "120 Haegeumgang-ro, Nambu-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 남부면 해금강로 120"
+    },
+    "description": {
+      "en": "Interactive exhibits about the national scenic Haegeumgang islets.",
+      "ja": "国指定名勝海金剛の体験博物館。",
+      "zh": "国家名胜海金刚的体验博物馆。",
+      "vi": "Triển lãm tương tác về quần đảo Haegeumgang.",
+      "id": "Pameran interaktif pulau Haegeumgang."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_70/1441015743532WU5wh_JPEG/SUBMIT_1338260858475_12360135.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "jangmok"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Maemi Castle",
+      "ja": "マミソン",
+      "zh": "梅米城",
+      "vi": "Thành Maemi",
+      "id": "Kastil Maemi",
+      "ko": "매미성"
+    },
+    "address": {
+      "en": "256-5 Oepo-ri, Jangmok-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 장목면",
+      "zh": "巨济市 장목면 외포리 256-5",
+      "vi": "256-5 Oepo-ri, Jangmok-myeon, Geoje, Gyeongnam",
+      "id": "256-5 Oepo-ri, Jangmok-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 장목면 외포리 256-5"
+    },
+    "description": {
+      "en": "Stone wall built by one fisherman after Typhoon Maemi.",
+      "ja": "台風マミ後に一人で築いた石城。",
+      "zh": "台风梅米后一人筑起的石城。",
+      "vi": "Thành đá một ngư dân xây sau bão Maemi.",
+      "id": "Tembok batu dibangun sendiri setelah Topan Maemi."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251002_253/1759385151619lLF2D_JPEG/P1000362.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "okpo"
+    },
+    "rating": 4.4,
+    "name": {
+      "en": "Okpo Victory Memorial Hall",
+      "ja": "玉浦大捷記念館",
+      "zh": "玉浦大捷纪念馆",
+      "vi": "Nhà tưởng niệm Okpo",
+      "id": "Memorial Okpo",
+      "ko": "옥포대첩기념관"
+    },
+    "address": {
+      "en": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
+      "ja": "巨濟市 팔랑포2길",
+      "zh": "巨济市 팔랑포2길 87",
+      "vi": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
+      "id": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 팔랑포2길 87"
+    },
+    "description": {
+      "en": "Indoor exhibits on the 1592 Okpo naval battle.",
+      "ja": "1592年玉浦海戦の室内展示。",
+      "zh": "1592年玉浦海战室内展览。",
+      "vi": "Triển lãm trận hải chiến Okpo 1592.",
+      "id": "Pameran pertempuran laut Okpo 1592."
+    },
+    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FvBt9CN3R89erCDTwVB1nCq0Zvww8zm24_mJbZPhkxdiOEIiqnFw2FyEdohknf9F_Q9gQfSxSjoZBmek7bmmzpA.webp&type=a340",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "nambugmyeon"
+    },
+    "rating": 4.8,
+    "name": {
+      "en": "Haegeumgang",
+      "ja": "海金剛",
+      "zh": "海金刚",
+      "vi": "Haegeumgang",
+      "id": "Haegeumgang",
+      "ko": "해금강"
+    },
+    "address": {
+      "en": "San 1, Galgots-ri, Nambu-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 남부면",
+      "zh": "巨济市 남부면 갈곶리 산1",
+      "vi": "San 1, Galgots-ri, Nambu-myeon, Geoje, Gyeongnam",
+      "id": "San 1, Galgots-ri, Nambu-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 남부면 갈곶리 산1"
+    },
+    "description": {
+      "en": "National scenic islets toured by cruise through the Cross Cave.",
+      "ja": "十字洞窟を通る国指定名勝。",
+      "zh": "穿越十字洞窟的国家名胜。",
+      "vi": "Quần đảo danh thắng du ngoạn qua hang Thập Tự.",
+      "id": "Pulau pemandangan nasional melalui Gua Salib."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "dongbu"
+    },
+    "rating": 4.7,
+    "name": {
+      "en": "Hakdong Black Pebble Beach",
+      "ja": "学洞黒真珠モン돌海",
+      "zh": "学洞黑珍珠鹅卵石海滩",
+      "vi": "Bãi đá Hakdong",
+      "id": "Pantai Kerikil Hakdong",
+      "ko": "학동흑진주몽돌해변"
+    },
+    "address": {
+      "en": "18-1 Hakdong 6-gil, Dongbu-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 동부면",
+      "zh": "巨济市 동부면 학동6길 18-1",
+      "vi": "18-1 Hakdong 6-gil, Dongbu-myeon, Geoje, Gyeongnam",
+      "id": "18-1 Hakdong 6-gil, Dongbu-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 동부면 학동6길 18-1"
+    },
+    "description": {
+      "en": "Black pebble beach whose rolling stones are a Korean natural sound.",
+      "ja": "モン돌の音が響く黒真珠ビーチ。",
+      "zh": "鹅卵石声响的黑珍珠海滩。",
+      "vi": "Bãi đá đen với tiếng sỏi cuộn nổi tiếng.",
+      "id": "Pantai kerikil hitam dengan suara batu bergulir."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_228/1440992302696jMcSm_JPEG/11491803_0.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "dongbu"
+    },
+    "rating": 4.6,
+    "name": {
+      "en": "Geoje Cable Car",
+      "ja": "巨濟ケーブルカー",
+      "zh": "巨济缆车",
+      "vi": "Cáp treo Geoje",
+      "id": "Kereta Gantung Geoje",
+      "ko": "거제케이블카"
+    },
+    "address": {
+      "en": "288 Geoje Jungang-ro, Dongbu-myeon, Geoje, Gyeongnam",
+      "ja": "巨濟市 거제중앙로",
+      "zh": "巨济市 거제중앙로 288",
+      "vi": "288 Geoje Jungang-ro, Dongbu-myeon, Geoje, Gyeongnam",
+      "id": "288 Geoje Jungang-ro, Dongbu-myeon, Geoje, Gyeongnam",
+      "ko": "경상남도 거제시 거제중앙로 288"
+    },
+    "description": {
+      "en": "1.56 km panorama cable car with crystal glass-floor cabins.",
+      "ja": "全長1.56kmのクリスタルキャビン。",
+      "zh": "全长1.56公里水晶底缆车。",
+      "vi": "Cáp treo 1,56 km với cabin đáy kính.",
+      "id": "Kereta gantung 1,56 km dengan kabin lantai kaca."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260419_39/1776570625866ImNni_JPEG/007-5.jpg",
+    "trend": {
+      "label": "거제 야호!",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "updatedAt": "2026-08-02T05:28:20.271Z"
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "서울특별시",
+      "city": "중구"
+    },
+    "name": "하남돼지집동대문점",
+    "address": "서울특별시 중구 을지로43길 9 1층",
+    "rating": 4.5,
+    "description": {
+      "en": "A popular pork restaurant in Seoul, located in the Jung-gu district",
+      "ja": "ソウル中区にある人気の豚肉レストラン",
+      "zh": "一个位于首尔中区的热门猪肉餐厅",
+      "vi": "Nhà hàng thịt lợn nổi tiếng ở Seoul, nằm ở quận Jung",
+      "id": "Restoran daging babi populer di Seoul, terletak di distrik Jung"
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfbEmLV7iyZIRYrw9M-mqPhnhTcHVhi5NeYLrECDAQCuGCdA_ocTdQX82FYmHnd040oxH6ej7cjEHP6s11tTWGEGq6drfu7j0V1rmrxtaCVVpDrD6hvwNdq52aY3PNsFq8zfxGQEwunlxN=w800-h600-k-no",
+    "trend": {
+      "label": "거제 음식",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "gyeongnam"
+    },
+    "name": "검색 결과",
+    "address": "대한민국 경상남도 거제시 계룡로 132 1층",
+    "rating": 4,
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4HZ2Sj6ke_Ji1OOB1BcFxTyCb1IEMqhSS3TXu0r5e3Rgoh-NlMpjJXGxCyjPCEAbxKiT79yXp6OUYWWCmk8odmg35YMfd8atn3R6YZAEOHrGW8B0yjXlPbMtCIjYRY84_S_mmcVMk83A=w800-h600-k-no",
+    "trend": {
+      "label": "거제 야호 맛집",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    }
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "yongsan"
+    },
+    "name": "서울 돼지고기 맛집",
+    "address": "서울특별시 용산구 한강대로52길 27",
+    "rating": 4.5,
+    "description": {
+      "en": "Pork restaurant in Seoul",
+      "ja": "ソウルで人気の豚肉レストラン",
+      "zh": "首尔猪肉餐厅",
+      "vi": "Nhà hàng thịt lợn ở Seoul",
+      "id": "Restoran daging babi di Seoul"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251223_12/1766465054437g40JH_JPEG/%BD%E6%B3%D7%C0%CF.jpg",
+    "trend": {
+      "label": "거제 음식",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시",
+      "district": "장승포동"
+    },
+    "name": "거제 해금강",
+    "address": "경상남도 거제시 장승포동 685-1",
+    "rating": 4.5,
+    "description": {
+      "en": "A popular tourist destination in Geoje, South Gyeongsang Province",
+      "ja": "慶尚南道 거제市の人気の観光地",
+      "zh": "位于庆尚南道거제市的一处热门旅游目的地",
+      "vi": "Điểm du lịch nổi tiếng ở Geoje, tỉnh Nam Gyeongsang",
+      "id": "Tujuan wisata populer di Geoje, Provinsi Gyeongsang Selatan"
+    },
+    "trend": {
+      "label": "거제 야호!",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20211220_51/16399770229078o4ct_JPEG/1.jpg"
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시",
+      "district": "남부면"
+    },
+    "name": "거제 야호 성지",
+    "address": "경상남도 거제시 남부면 저구리 450-1",
+    "rating": 4.5,
+    "description": {
+      "en": "A famous spot for Hallyu fans in Geoje",
+      "ja": "ハルユーファンにとって有名なスポット",
+      "zh": "一个著名的哈韩粉丝景点",
+      "vi": "Một địa điểm nổi tiếng với fan Hallyu",
+      "id": "Tempat terkenal bagi penggemar Hallyu"
+    },
+    "trend": {
+      "label": "거제 야호!",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190816_197/1565964670835IFSz1_JPEG/RQHwnWK67cVXB6sfepbLTNA9.jpg"
+  },
+  {
+    "theme": "k-culture",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시",
+      "district": "옥포"
+    },
+    "name": "거제 옥포 맛집",
+    "address": "경상남도 거제시 옥포동 533-14",
+    "rating": 4.5,
+    "description": {
+      "en": "A popular food destination in Geoje, South Gyeongsang Province",
+      "ja": "慶尚南道 거제시의 인기 음식 지대",
+      "zh": "位于庆尚南道的食物天堂",
+      "vi": "Điểm đến ẩm thực nổi tiếng ở Geoje, tỉnh Nam Gyeongsang",
+      "id": "Tujuan makanan populer di Geoje, Provinsi Gyeongsang Selatan"
+    },
+    "trend": {
+      "label": "거제 야호!",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20220316_174/16474011292264OU2d_JPEG/Screenshot_20220316-110648_NAVER.jpg"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시",
+      "district": "일운면"
+    },
+    "name": "거제 야호 맛집",
+    "address": "경상남도 거제시 일운면 지세포해안로 12",
+    "rating": 4.5,
+    "description": {
+      "en": "A popular restaurant in Geoje, known for its delicious food",
+      "ja": "거제에서 유명한 음식점",
+      "zh": "거제에서 맛있는 음식을 제공하는 음식점",
+      "vi": "Nhà hàng nổi tiếng ở Geoje, được biết đến với món ăn ngon",
+      "id": "Restoran populer di Geoje, dikenal dengan makanannya yang lezat"
+    },
+    "trend": {
+      "label": "거제 야호 맛집",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250908_24/1757311202525S5BW6_JPEG/1000065249.jpg"
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시"
+    },
+    "name": "거제시",
+    "address": "경상남도 거제시",
+    "rating": 4.5,
+    "description": {
+      "en": "Geoje City, a popular destination for Hallyu fans",
+      "ja": "ハルユファンにとって人気の目的地、거제市",
+      "zh": "거제市，韩流粉丝的热门目的地",
+      "vi": "Thành phố Geoje, điểm đến phổ biến cho người hâm mộ Hallyu",
+      "id": "Kota Geoje, tujuan populer bagi penggemar Hallyu"
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9P4zam-TBDZvtKQEAB5acFVvOrcFMto9UFo5S6rqBYNahX6X_xA5D4jxG3C0e6VPuUIFdwTkdJ_EIO3RJZNNhLf0cWMyAyuFRIFsPw-hInThbxR5YfraeTWAtYqDAwB78MFUB=w800-h600-k-no",
+    "trend": {
+      "label": "거제 야호 맛집",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시"
+    },
+    "name": "거제 관광",
+    "address": "대한민국 경상남도 거제시",
+    "rating": 4.5,
+    "description": {
+      "en": "Geoje city tourism",
+      "ja": "キョンサン南道市観光",
+      "zh": "거제市旅游",
+      "vi": "Du lịch thành phố Geoje",
+      "id": "Pariwisata kota Geoje"
+    },
+    "trend": {
+      "label": "거제 관광",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20231123_290/1700716960165xk5JV_JPEG/20231117_100051.jpg"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시",
+      "district": "남부면"
+    },
+    "name": "바람의 언덕",
+    "address": "대한민국 경상남도 거제시 남부면 갈곶리",
+    "rating": 4.5,
+    "description": {
+      "en": "Hill of Wind",
+      "ja": "風の丘",
+      "zh": "风之丘",
+      "vi": "Đồi gió",
+      "id": "Bukit Angin"
+    },
+    "trend": {
+      "label": "거제 관광",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시",
+      "district": "일운면"
+    },
+    "name": "거제씨월드",
+    "address": "경상남도 거제시 일운면 지세포해안로 15",
+    "rating": 4.5,
+    "description": {
+      "en": "Geoje Sea World is a popular tourist destination",
+      "ja": "거제シー월드는人気の観光地です",
+      "zh": "거제海洋世界是热门的旅游目的地",
+      "vi": "Geoje Sea World là điểm đến du lịch phổ biến",
+      "id": "Geoje Sea World adalah tujuan wisata populer"
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlF1TknmghGTxye0ejzI5_FeIAkzMPz-HQdPUG-Jhzwwogcmgu3dmFDVpd23jpB71xX-S4ioxvczg6obgBkEgeiq4R2LCRwYG6JgCuaJw2tncGJQn8JXnBAkfkmzJOuB0rhu7E=w800-h600-k-no",
+    "trend": {
+      "label": "거제 관광",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    }
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시",
+      "district": "하청면"
+    },
+    "name": "거제맹종죽 테마파크",
+    "address": "경상남도 거제시 하청면 거제북로 700",
+    "rating": 4.5,
+    "description": {
+      "en": "Geoje Mengjungjuk Theme Park is a fun destination for families",
+      "ja": "거제맹종죽テーマパークは家族向けの楽しい目的地です",
+      "zh": "거제맹종죽主题公园是家庭的有趣目的地",
+      "vi": "Công viên chủ đề Geoje Mengjungjuk là điểm đến thú vị cho gia đình",
+      "id": "Taman Tema Geoje Mengjungjuk adalah tujuan wisata menyenangkan untuk keluarga"
+    },
+    "trend": {
+      "label": "거제 트렌드",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20240630_89/1719759411048giwsa_JPEG/1719550477872.jpg"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시",
+      "district": "장목면"
+    },
+    "name": "매미성",
+    "address": "경상남도 거제시 장목면 복항길",
+    "rating": 4.5,
+    "description": {
+      "en": "Maemiseong is a scenic spot with beautiful natural surroundings",
+      "ja": "매미성は美しい自然の環境を持つ風景のスポットです",
+      "zh": "매미성是拥有美丽自然环境的风景区",
+      "vi": "Maemiseong là điểm đến với cảnh quan thiên nhiên đẹp",
+      "id": "Maemiseong adalah tempat dengan pemandangan alam yang indah"
+    },
+    "trend": {
+      "label": "거제 트렌드",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190731_65/1564566001529jdXsK_JPEG/VV3qSbEGjINj8UTsyhZ31uuG.jpg"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시"
+    },
+    "name": "거제도 포로수용소 유적공원",
+    "address": "대한민국 경상남도 거제시 계룡로 61",
+    "rating": 4.5,
+    "description": {
+      "en": "Geoje Prison Camp Historic Park",
+      "ja": "거제収容所歴史公園",
+      "zh": "거제拘留所历史公园",
+      "vi": "Công viên Lịch sử Trại giam Geoje",
+      "id": "Taman Sejarah Penjara Geoje"
+    },
+    "trend": {
+      "label": "거제 트렌드",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시"
+    },
+    "name": "거제 음식점",
+    "address": "대한민국 경상남도 거제시 장평로 65 더킹마트 1층",
+    "rating": 4.5,
+    "description": {
+      "en": "Geoje Food Restaurant",
+      "ja": "거제食事店",
+      "zh": "거제餐厅",
+      "vi": "Nhà hàng Thực phẩm Geoje",
+      "id": "Restoran Makanan Geoje"
+    },
+    "trend": {
+      "label": "거제 트렌드",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250607_3/1749262287429wEsyz_JPEG/KakaoTalk_Photo_2025-06-07-11-06-33_008.jpeg"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시"
+    },
+    "name": "거제 음식",
+    "address": "경상남도 거제시 거제면 서정리 734-19",
+    "rating": 4.5,
+    "description": {
+      "en": "A popular food destination in Geoje, South Gyeongsang Province",
+      "ja": "慶尚南道 거제시の人気の食事の目的地",
+      "zh": "一个位于庆尚南道거제市的热门美食目的地",
+      "vi": "Một điểm đến ẩm thực nổi tiếng ở Geoje, tỉnh Nam Gyeongsang",
+      "id": "Tujuan makanan populer di Geoje, Provinsi Gyeongsang Selatan"
+    },
+    "trend": {
+      "label": "거제 음식",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250607_3/1749262287429wEsyz_JPEG/KakaoTalk_Photo_2025-06-07-11-06-33_008.jpeg"
+  },
+  {
+    "theme": "k-food",
+    "region": {
+      "province": "경상남도",
+      "city": "거제시"
+    },
+    "name": "거제도생선구이간장게장",
+    "address": "경상남도 거제시 고현항4길 17",
+    "rating": 4.5,
+    "description": {
+      "en": "A seafood restaurant in Geoje, South Gyeongsang Province, specializing in grilled and braised dishes",
+      "ja": "慶尚南道 거제市の海鮮レストラン、焼きおよび煮込み料理を専門とする",
+      "zh": "一个位于庆尚南道거제市的海鲜餐厅，专门从事烧烤和炖煮菜肴",
+      "vi": "Nhà hàng hải sản ở Geoje, tỉnh Nam Gyeongsang, chuyên về các món nướng và hầm",
+      "id": "Restoran seafood di Geoje, Provinsi Gyeongsang Selatan, khusus untuk hidangan panggang dan rebus"
+    },
+    "trend": {
+      "label": "거제 음식",
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-02T07:10:56.616Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250930_90/17592243171074n5NW_GIF/GIF-2.gif"
+  },
+  {
+    "theme": "k-food",
+    "region": {
       "province": "seoul",
       "district": "jongno"
     },
@@ -9398,45 +10443,7 @@
       "vi": "Quán hải sản nổi tiếng với lẩu hải sản và galbi jjim.",
       "id": "Institusi seafood Geoje terkenal haemul stew dan haemul galbi jjim."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=http%3A%2F%2Ftoptmaptile2.tmap.co.kr%2Ftms%2F1.0.0%2Fhd_tile%2F15%2F28092%2F19774.png%3FbizAppId%3D14ad4467-ceb7-46e8-a21c-87ae55c52a22%3Fv%3DRelease1.18.25&type=a340"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "gohyeon"
-    },
-    "rating": 4.5,
-    "name": {
-      "en": "POW Camp Oyster Grill",
-      "ja": "捕虜収容所カキ焼き",
-      "zh": "战俘营牡蛎烧烤",
-      "vi": "Nướng hàu Khu giam POW",
-      "id": "Panggang Tiram POW Camp",
-      "ko": "포로수용소굴구이"
-    },
-    "address": {
-      "en": "21 Gyeryong-ro 7-gil, Gohyeon-dong, Geoje, Gyeongnam",
-      "ja": "巨濟市 계룡로7길",
-      "zh": "巨济市 계룡로7길 21",
-      "vi": "21 Gyeryong-ro 7-gil, Gohyeon-dong, Geoje, Gyeongnam",
-      "id": "21 Gyeryong-ro 7-gil, Gohyeon-dong, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 계룡로7길 21"
-    },
-    "description": {
-      "en": "Charcoal-grilled oysters near the POW memorial park.",
-      "ja": "捕虜収容所公園近くの炭火カキ焼き。",
-      "zh": "战俘收容所纪念公园附近的炭烤牡蛎。",
-      "vi": "Hàu nướng than gần công viên tưởng niệm POW.",
-      "id": "Tiram panggang arang dekat taman memorial POW."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20251125_38/1764034600657qa4M7_JPEG/DSZ_3420.JPG",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk9ivQeUbEazJWHn9hBNOF-iZnPjlvxxSoHOTywWHn7z_VfLunMjDIVTokYtHa9qPksUP1H6uycZlw8xyM0eL8YgVHi4tp19H8KlRvm-BTCBu9DY0bjPf8or2TYXuaDYvwerVt4MQ=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -9469,7 +10476,7 @@
       "vi": "Mì kalguksu thủ công nước dùng đậm đà được xếp hàng buổi trưa.",
       "id": "Kalguksu potong tangan kuah kaya yang antre saat makan siang."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250601_139/174877366048106juN_JPEG/KakaoTalk_20250601_093548929_08.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljJHjmDNV8Gpxh-LolBTUqmAb6k5IWn5lOIhZyozUnvK0R7QGRXVGGsP-E2aRRCJenmUiLjXTqkz0SZ6CQ70cqS8GXvBsfplSpATkO8HVF-SRbaldPR51zdMWcaCxZzdym-aA5=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -9502,7 +10509,7 @@
       "vi": "Cơm lúa mạch nồi đá kèm banchan theo mùa ở trung tâm Gohyeon.",
       "id": "Boribap panci batu dengan banchan musiman di pusat Gohyeon."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20200720_47/15952191910702QI6y_JPEG/CQLFOWT4_jb4wfPLh5tLz4cK.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnVrURpMKvd3-9e1zJAgff0ULlhK0NtK342lMoTveCheWTS-6BYxy97LuiUCALrdlS670EeqGGXEpGpQ7kMcS_5GuCcpJEBZbIThtsB6wzLQZ8NI4IPN3jNttVRae4JrZHcPpuGZoLi7Fct=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -9535,7 +10542,7 @@
       "vi": "Set duruchigi cay nổi tiếng trên chương trình ẩm thực Hàn.",
       "id": "Set duruchigi pedas yang pernah ditampilkan di acara makanan Korea."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20191112_61/1573537704166k6ur4_JPEG/HxolvOAyow6l2EwC0ixoXSiY.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk71dQQnH2Fe1Cmdmi-fb1djs2dH_Luz2atXOaHWYeZp7_IM-msKWf4fciDRgzIRV5kSHt0kl-B122b4zZUWDBOs1IfM9NCSnYsi2IVLc2YTa3BFOduWp9Wri-ITYj3M6DYiKdQvdadtzDp=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -9568,45 +10575,7 @@
       "vi": "Cá nướng lò củi và hàu bên cảng Okpo.",
       "id": "Ikan panggang tungku kayu dan tiram di pelabuhan Okpo."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20251020_237/1760943364002L3EM6_JPEG/1000012642.jpg"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "okpo"
-    },
-    "rating": 4.5,
-    "name": {
-      "en": "Sanbong Ssambap Okpo",
-      "ja": "山봉쌈밥巨濟玉浦本店",
-      "zh": "山봉包饭巨济玉浦本店",
-      "vi": "Sanbong Ssambap Okpo",
-      "id": "Sanbong Ssambap Okpo",
-      "ko": "산봉쌈밥 거제옥포본점"
-    },
-    "address": {
-      "en": "27 Okpo Jungang-ro, Okpo-dong, Geoje, Gyeongnam",
-      "ja": "巨濟市 옥포중앙로",
-      "zh": "巨济市 옥포중앙로 27",
-      "vi": "27 Okpo Jungang-ro, Okpo-dong, Geoje, Gyeongnam",
-      "id": "27 Okpo Jungang-ro, Okpo-dong, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 옥포중앙로 27"
-    },
-    "description": {
-      "en": "Organic vegetable ssambap wraps with Geoje-grown greens.",
-      "ja": "地元有機野菜の쌈밥。",
-      "zh": "当地有机蔬菜包饭。",
-      "vi": "Ssambap rau hữu cơ trồng tại Geoje.",
-      "id": "Ssambap sayuran organik dari Geoje."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20241008_5/1728345954284c6IR4_JPEG/DSC03360.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxP-G4y0S021JdCCss8rYN2QoCAA_X3qn7d4AIolTt_5aLTeCjFRUbVGwWjJX3e4mHfKOA1IsRoIDl0Uaw4clPDgdK1PDALYpH2J_J-Q6trclr8518tgyavDd9S_Cc98kbJgjE=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -9639,7 +10608,7 @@
       "vi": "Gukbap hàu Geoje tươi mỗi ngày.",
       "id": "Gukbap tiram Geoje segar harian."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=http%3A%2F%2Ftong.visitkorea.or.kr%2Fcms%2Fresource%2F28%2F2857028_image2_1.jpg&type=a340"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190114_139/15474730548131Qnh9_JPEG/2Kf8kCAiSSuYamjDMU2u0RYC.jpg"
   },
   {
     "theme": "k-food",
@@ -9672,7 +10641,7 @@
       "vi": "Mì kalguksu hải sản địa phương với hẹ.",
       "id": "Kalguksu haemul dengan daun kucai."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Ftong.visitkorea.or.kr%2Fcms%2Fresource%2F14%2F2893814_image2_1.jpg&type=a340"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20241109_181/17311636588231pygK_JPEG/1000011306.jpg"
   },
   {
     "theme": "k-food",
@@ -9705,7 +10674,7 @@
       "vi": "Jajangmyeon cổ điển khu chợ Gohyeon.",
       "id": "Jajangmyeon klasik area pasar Gohyeon."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Ftong.visitkorea.or.kr%2Fcms%2Fresource%2F81%2F2914481_image2_1.jpg&type=a340"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn0kZrJRzcNpbjI2zuSupiX3eQkeMbOuGWj8RKKzxATj5gDDIw36wiWIuxxUyfDuupOWydJgOT7S23Wi3P64LUG2C0QGQjiBljkrpyjnDYWv6SxCQbEOMWDJGz-6yuSIxnN5SK2=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -9738,7 +10707,7 @@
       "vi": "Cơm Hàn gia đình được công nhân đóng tàu tin dùng.",
       "id": "Masakan Korea rumahan favorit pekerja galangan kapal."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20190614_257/1560470118430LNBqs_JPEG/W4UuveWIEjfLCn_qFOYgZ_3k.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20200312_219/15840153229088bBDj_JPEG/Zvtq8P_8KAkafSEqW3g2AVwe.jpg"
   },
   {
     "theme": "k-food",
@@ -9837,7 +10806,7 @@
       "vi": "Hải sản sống và nướng từ tàu cá Jangmok.",
       "id": "Seafood mentah dan panggang dari kapal nelayan Jangmok."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250204_161/17386473214986j8wY_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%284%29.png"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250902_153/1756806315187NLtHE_JPEG/KakaoTalk_20250902_153953096.jpg"
   },
   {
     "theme": "k-food",
@@ -9870,7 +10839,7 @@
       "vi": "Quán cá nướng và lẩu hải sản lâu đời.",
       "id": "Institusi ikan bakar dan haemul jeongol."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20240206_259/1707182499261F0yqu_JPEG/%C1%F6%C1%DF%C7%D8%BD%E6%B3%D7%C0%CF1.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9P4zam-TBDZvtKQEAB5acFVvOrcFMto9UFo5S6rqBYNahX6X_xA5D4jxG3C0e6VPuUIFdwTkdJ_EIO3RJZNNhLf0cWMyAyuFRIFsPw-hInThbxR5YfraeTWAtYqDAwB78MFUB=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -9903,7 +10872,7 @@
       "vi": "Đĩa hàu nướng theo mùa ở trung tâm Gohyeon.",
       "id": "Piring tiram panggang musiman di pusat Gohyeon."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20240103_237/1704247267056PPtV0_JPEG/IMG_2121.jpeg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20170203_219/1486087131692wBdzb_JPEG/186153508871230_0.jpg"
   },
   {
     "theme": "k-food",
@@ -9936,7 +10905,7 @@
       "vi": "Set cơm Hàn đầy đặn cạnh Saengsaengi.",
       "id": "Set makanan Korea porsi besar di sebelah Saengsaengi."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20230419_114/16818776641333ujza_JPEG/Screenshot_20230419_131332_Instagram.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXH-s_zyvrx3wtO8hLdZ-7blJMEmcgzzIxJclqH4uI2Ir6SNKK838ylC-f5Oq4JSzGM3ZEUDu9CI6IwFdCSuscKCZsnYxdBaYE4UrQnwwtWaw0ud6-rMKFuxC5DKvk6eKgmBmnAw=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -9969,7 +10938,7 @@
       "vi": "Thịt nướng và stew porsi lớn gần bến Gohyeon.",
       "id": "BBQ dan stew porsi besar dekat terminal Gohyeon."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20230414_79/1681453412739nHGH0_JPEG/20230414_152232.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlzSIOQK5jZaFtbkC73b9LU098QdKHG5YLMvczlzhbw8BzlHEghwtBwVaLZobxaqqiqHERrJqGLp9ITl89Pcj46j-iwbYiYzWeUyvyXEb2IlRXY3YJ-NVjeYLNCd02AXzS-17Ij=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -10003,158 +10972,6 @@
       "id": "Kafe bukit dengan view kincir angin dekat Windy Hill."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20250428_258/1745841000837OcTRv_JPEG/1000093530.jpg"
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "ilwon"
-    },
-    "rating": 4.8,
-    "name": {
-      "en": "Oedo Botania",
-      "ja": "外島ボタニア",
-      "zh": "外岛植物园",
-      "vi": "Oedo Botania",
-      "id": "Oedo Botania",
-      "ko": "외도보타니아"
-    },
-    "address": {
-      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 일운면",
-      "zh": "巨济市 일운면 외도길 17",
-      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 일운면 외도길 17"
-    },
-    "description": {
-      "en": "Winter Sonata finale filming site with Mediterranean-style gardens.",
-      "ja": "冬ソナ最終回のロケ地、地中海風庭園。",
-      "zh": "冬季恋歌大结局取景的地中海风庭园。",
-      "vi": "Bối cảnh đ finale Winter Sonata với vườn Địa Trung Hải.",
-      "id": "Lokasi syuting finale Winter Sonata dengan taman Mediterania."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "ilwon"
-    },
-    "rating": 4.7,
-    "name": {
-      "en": "Oedo Botania Lee House",
-      "ja": "外島ボタニア・リハウス",
-      "zh": "外岛植物园李之家",
-      "vi": "Lee House Oedo Botania",
-      "id": "Lee House Oedo Botania",
-      "ko": "외도보타니아 리하우스"
-    },
-    "address": {
-      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 일운면",
-      "zh": "巨济市 일운면 외도길 17",
-      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 일운면 외도길 17"
-    },
-    "description": {
-      "en": "Mediterranean exterior and hanok interior from Winter Sonata.",
-      "ja": "外観は地中海、内部は韓屋の冬ソナ名所。",
-      "zh": "外观地中海、内装韩屋的冬季恋歌名所。",
-      "vi": "Ngoại thất Địa Trung Hải, nội thất hanok trong Winter Sonata.",
-      "id": "Eksterior Mediterania dan interior hanok dari Winter Sonata."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "nambugmyeon"
-    },
-    "rating": 4.7,
-    "name": {
-      "en": "Windy Hill",
-      "ja": "風の丘",
-      "zh": "风之丘",
-      "vi": "Windy Hill",
-      "id": "Windy Hill",
-      "ko": "바람의언덕"
-    },
-    "address": {
-      "en": "14 Dojangpo-gil, Nambu-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 남부면",
-      "zh": "巨济市 남부면 도장포길 14",
-      "vi": "14 Dojangpo-gil, Nambu-myeon, Geoje, Gyeongnam",
-      "id": "14 Dojangpo-gil, Nambu-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 남부면 도장포길 14"
-    },
-    "description": {
-      "en": "Scenic hill featured in Mr. Sunshine and K-drama location tours.",
-      "ja": "ミスター・サンシャイン等のドラマロケ地。",
-      "zh": "《阳光先生》等韩剧取景地。",
-      "vi": "Đồi cảnh quan trong Mr. Sunshine và tour phim Hàn.",
-      "id": "Bukit pemandangan lokasi syuting Mr. Sunshine dan K-drama."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "dongbu"
-    },
-    "rating": 4.5,
-    "name": {
-      "en": "Deokwon Beach",
-      "ja": "徳元海水浴場",
-      "zh": "德元海水浴场",
-      "vi": "Bãi biển Deokwon",
-      "id": "Pantai Deokwon",
-      "ko": "덕원해수욕장"
-    },
-    "address": {
-      "en": "73 Deokwon-gil, Dongbu-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 동부면",
-      "zh": "巨济市 동부면 덕원길 73",
-      "vi": "73 Deokwon-gil, Dongbu-myeon, Geoje, Gyeongnam",
-      "id": "73 Deokwon-gil, Dongbu-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 동부면 덕원길 73"
-    },
-    "description": {
-      "en": "1 Night 2 Days filming beach with quiet family-friendly sand.",
-      "ja": "1泊2日ロケ地の静かな家族向け海水浴場。",
-      "zh": "两天一夜节目取景的安静家庭海水浴场。",
-      "vi": "Bãi biển quay 1 Night 2 Days yên tĩnh cho gia đình.",
-      "id": "Pantai syuting 1 Night 2 Days yang tenang untuk keluarga."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150901_266/1441039014440wc3aw_JPEG/157155538766148_0.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
   },
   {
     "theme": "hallyu",
@@ -10220,7 +11037,7 @@
       "vi": "Trạm xe làng trong Hospital Playlist.",
       "id": "Halte bus desa lokasi syuting Hospital Playlist."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGS_Ok-ALq5dQlo3q7KNNqbVx7Q6Y6Iyav739woDXQJWHtFsbsUO_Mbd7OwJopQt1FSuk82QOSv2KCOhtWCTDNWiNODa2XsLuogbXOX-5E84xG_wKxlSPglb4i2c0DfpuM9MsEI=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmO3xWdLO20d5cUXiyN0Sc9RpkfnFGK5FMErOZAnYQ2y8m6xevAr8hKaSDm2wqJuLmKdBERQslgfAz-ox9VNoIQydyS0Uqu5eTjw4LWb7I_l5aoJcbZJOqnyuznEa00SQkCt3Cs=w800-h600-k-no"
   },
   {
     "theme": "hallyu",
@@ -10352,83 +11169,7 @@
       "vi": "Bến xe xuất hiện trong cảnh phố Hospital Playlist.",
       "id": "Terminal bus latar drama Hospital Playlist."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20260623_258/1782211374487ezC4u_JPEG/%C7%C1%B8%AE5_iPad_1.jpg"
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "ilwon"
-    },
-    "rating": 4.6,
-    "name": {
-      "en": "Oedo Venus Garden",
-      "ja": "外島ビーナスガーデン",
-      "zh": "外岛维纳斯花园",
-      "vi": "Vườn Venus Oedo",
-      "id": "Taman Venus Oedo",
-      "ko": "외도보타니아 비너스가든"
-    },
-    "address": {
-      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 일운면",
-      "zh": "巨济市 일운면 외도길 17",
-      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 일운면 외도길 17"
-    },
-    "description": {
-      "en": "Twelve Venus statues in the garden from Winter Sonata.",
-      "ja": "冬ソナの12体ビーナス像ガーデン。",
-      "zh": "冬季恋歌十二维纳斯像花园。",
-      "vi": "Vườn 12 tượng Venus trong Winter Sonata.",
-      "id": "Taman 12 patung Venus dari Winter Sonata."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "ilwon"
-    },
-    "rating": 4.5,
-    "name": {
-      "en": "Oedo Second Love Hill",
-      "ja": "外島第2愛の丘",
-      "zh": "外岛第二爱情丘",
-      "vi": "Đồi tình yêu thứ 2 Oedo",
-      "id": "Bukit Cinta Ke-2 Oedo",
-      "ko": "외도보타니아 제2사랑의언덕"
-    },
-    "address": {
-      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 일운면",
-      "zh": "巨济市 일운면 외도길 17",
-      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 일운면 외도길 17"
-    },
-    "description": {
-      "en": "Lookout hill with 300-year sacred tree from drama tours.",
-      "ja": "300年神樹のあるドラマツアー展望丘。",
-      "zh": "有三百年神树的话剧 tour 展望丘。",
-      "vi": "Đồi ngắm cảnh có cây thần 300 năm.",
-      "id": "Bukit panorama dengan pohon suci 300 tahun."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260722_19/17847133332349Bqcl_JPEG/%C6%FA%B4%F5%BA%ED8_%BB%E7%C0%FC%BF%B9%BE%E0_%B0%C5%C1%A6%B0%ED%C7%F6%C1%F7%BF%B5%C1%A1.jpg"
   },
   {
     "theme": "hallyu",
@@ -10494,7 +11235,7 @@
       "vi": "Làng nông thôn trong arc quê hương Hospital Playlist.",
       "id": "Desa pedesaan arc kampung halaman Hospital Playlist."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldqJhsO27reRfnkguo2nVtphQM5764C6F5XVqxd1pIRpRXXvgOpsiIsd4vFT15EIqPQ0q-BLAzFxX89aGD1yFx8QhNN2UkZfZqI2ycTNdhOTAbNzyDU-CZr4625YeVgQ_OCRty=w800-h600-k-no"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20230530_5/1685426816176CVFip_JPEG/IMG_1634.jpeg"
   },
   {
     "theme": "hallyu",
@@ -10560,7 +11301,7 @@
       "vi": "Vùng biển đảo quay cảnh Hospital Playlist.",
       "id": "Perairan pulau syuting drama laut Geoje."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Ftong.visitkorea.or.kr%2Fcms%2Fresource%2F23%2F2755823_image2_1.jpg&type=a340"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlb7XKc9dLcIJXIIkNc586ATeLJS0Pvbe_rZCmA1Z5G3ccSI1Ox874DNqjWLdbLu-qMF06-qieAdpjko9fqsn5W-CNhW-jtVJIoLkuPUYhj7N4s-wWfJBoZPSrhQ_JrIlxlerl8=w800-h600-k-no"
   },
   {
     "theme": "hallyu",
@@ -10593,7 +11334,7 @@
       "vi": "Vịnh yên tĩnh trong phim và variety Geoje.",
       "id": "Teluk tenang latar drama dan variety Geoje."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2Ll5jwTrIHZzCpvQ_yCT8PGK1C7BC7ypjymxAPVGZXOxnr8Jpy7ISw8kg-5w3IGsfsXxLLr17sdif-jGEOHcj4tMjJ6OOe0xqPTy0yDwnTaV0BlCLwurU3kjVaV7ebhTk5_ca=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxvcV1GvGkhIPid5BaPp1UY_Jy3K_kfHs_n1hMkn0Q18CPPMP9KFg-K1MzqMAK8Max7XJHKHEttO9-dliaOCWdESv_B0VHA-yMEPMmlM9a1WvGY0uilwcmQcAP_yPb7R9YBO9Z=w800-h600-k-no"
   },
   {
     "theme": "hallyu",
@@ -10692,7 +11433,7 @@
       "vi": "Suối đô thị xuất hiện trong phim quay tại Geoje.",
       "id": "Sungai perkotaan dalam B-roll K-drama Geoje."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250425_78/1745546220603nXUxQ_JPEG/KakaoTalk_20250425_104445437.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/proxy/U0SSkQHsLR52Lph6ZHbHuNcFewiLGiMypDF5HJ0p-GigmL5VYHV8F-Y7b3fe7EFPzGlNBlF3BoijbTZgzZAE_OWq7nL9dxe5EuR_trvnCuYX70NfN_biHj9tWNcc7-x2jQ1nwRMjITtgs7cR2yakMNFu2kmEdQ=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -10791,7 +11532,7 @@
       "vi": "Spa mặt và body được chứng nhận R4U.",
       "id": "Perawatan wajah dan body bersertifikat R4U."
     },
-    "imageUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250312_262%2F17417384105737JjFX_JPEG%2F1000013226.jpg&type=a340"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWliLgQbPzAXujy1rxoTIS6UYOh0v3J7TNNEt1NKTYQqLENC2KUpwQDMlClrkXFCu6VurrisMnXIhrtUsn3LkCAhB_tkmbtozRNfOB2r9dLkKCTbtSjH-Dv-hBuekNRm583u09bBlVXzcbNn=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -10824,7 +11565,7 @@
       "vi": "Studio làm đẹp yên tĩnh cho facial ampoule.",
       "id": "Studio estetika tenang untuk facial ampoule."
     },
-    "imageUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20260402_237%2F1775119218170ugkpf_JPEG%2F15270.jpg&type=a340"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260331_132/1774937664726nUGOu_PNG/13942.png"
   },
   {
     "theme": "k-beauty",
@@ -10857,7 +11598,7 @@
       "vi": "Tiệm nail nổi tiếng có ghế pedicure recliner.",
       "id": "Salon nail populer dengan kursi pedicure recliner."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF26HqY0WNV2ReZrX9D50gDETedA4uN_HVnaswonLlnOsVgPSZiYSUXc7N3sdSVWDXycqVr9K7mBgYcPX00GmW7BlVkeGwH8yLIiKjj_2tSVXp3JfdY1eeUikPiREuVAVIZMwkSNA=w408-h306-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYz1QFTMkqKjbndbtdfZErwL7ZlwIQ9GmaSlGL0_CY1ADzJfU4f67FCWSLO0JXzUZCYQA8khS-2DJazfqwfp1pB4U16kDhxHJ9sYGwpCQLKCpzbI9QjB1YyGuf-R7nyzpIPXMriw=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -10890,7 +11631,7 @@
       "vi": "Salon tóc theo hẹn với thuốc perm và nhuộm cao cấp.",
       "id": "Salon rambut janji dengan produk perm dan warna premium."
     },
-    "imageUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250517_107%2F1747443242606LBYQq_JPEG%2F%25B6%25F3%25BF%25F2hair.jpg&type=a340"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLHcOGHNVnzbhOsg3JIkGdU5ROMhI24XU1YAcZ-uakKCwrmXomMvEQa80WDbkRX6BV-XWttnEw_7-88VjLuYFB2mcB7JAT06vM3NGekNcZ4rDp7eI1wnApteYy-qFJkUDcxUbAkn6cf28=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -10923,7 +11664,7 @@
       "vi": "Salon cắt tóc gần chợ Gohyeon.",
       "id": "Salon potong rambut dekat pasar Gohyeon."
     },
-    "imageUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20260219_157%2F17714944425914oHQA_JPEG%2F1000013861.jpg&type=a340"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260115_14/17684718226124koRS_JPEG/1000012526.jpg"
   },
   {
     "theme": "k-beauty",
@@ -10956,7 +11697,7 @@
       "vi": "Chuỗi K-beauty mỹ phẩm và chăm sóc da.",
       "id": "Toko rantai K-beauty untuk skincare dan makeup."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Ftong.visitkorea.or.kr%2Fcms%2Fresource%2F17%2F4023617_image2_1.jpg&type=a340"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20240502_253/1714624699603B91Vb_JPEG/BAB3_1.jpg"
   },
   {
     "theme": "k-beauty",
@@ -11022,7 +11763,7 @@
       "vi": "Olive Young trong trung tâm thương mại D-Cube.",
       "id": "Olive Young di department store D-Cube."
     },
-    "imageUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240313_224%2F17103087775131ztdr_JPEG%2F%25B5%25F0%25C5%25A5%25BA%25EA%25B0%25C5%25C1%25A6%25C1%25A1.jpeg&type=a340"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20240313_224/17103087775131ztdr_JPEG/%B5%F0%C5%A5%BA%EA%B0%C5%C1%A6%C1%A1.jpeg"
   },
   {
     "theme": "k-beauty",
@@ -11055,7 +11796,7 @@
       "vi": "Olive Young gần khu suối nước biển để mua skincare.",
       "id": "Olive Young dekat distrik spa laut untuk skincare."
     },
-    "imageUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20260213_63%2F177094453453906ol2_JPEG%2FBA4B_1.jpg&type=a340"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260213_63/177094453453906ol2_JPEG/BA4B_1.jpg"
   },
   {
     "theme": "k-beauty",
@@ -11121,7 +11862,7 @@
       "vi": "Lẩu vịt thảo dược trong khu Geoje Sea Spa.",
       "id": "Hot pot bebek herbal di Geoje Sea Spa."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20200511_225/1589194461159sGkE4_JPEG/AhOzapKF6_oDXVrA3tmvZVq4.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4wIZgduomE9hne2KGvJ4FsjbkUCAqmTN-n-cW48wpeTlDfFg78bDVhOmFaG5l0HSSsmv9e8hdFC6TLT_RkEuBlmzwLlBCqWBa43Lcz7puHHwMns-azsJnhiIpNbQjKAKWziohqgNkPS9z=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -11154,7 +11895,7 @@
       "vi": "Nhà hàng hanjeongsik trong khu Geoje Sea Spa.",
       "id": "Restoran hanjeongsik di kompleks Geoje Sea Spa."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20230211_77/1676041204957R87rB_JPEG/KakaoTalk_20230210_235807727_12.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8eT7kXNsjAH99wb3Uda5yN0UuLCSDvMHEDKQU9WlfSN_K9i-wcBz_tO5-wXjOupyNo8sBX7nAlXBBWk2eav8tgIgB-BdJJjyICLRD0_Xsr0Zs9oLL_knnFjWNCMNLgFzJz5pmMA=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -11219,7 +11960,7 @@
       "vi": "Cửa hàng K-beauty gần đài tưởng niệm Okpo.",
       "id": "Toko K-beauty dekat memorial Okpo."
     },
-    "imageUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20251117_132%2F1763339052236ksBlR_JPEG%2FBAAD_1.jpg&type=a340"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251117_132/1763339052236ksBlR_JPEG/BAAD_1.jpg"
   },
   {
     "theme": "k-beauty",
@@ -11318,7 +12059,7 @@
       "vi": "Salon nhỏ gần cảng và bãi Gujora.",
       "id": "Salon kecil dekat pelabuhan Gujora."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlgSybfrtC01iouqRBTJD9miof0sHZh8Gd2Nyz5UKt5h0vHrH_4C8ICaKmh99kI2qbAzVR9w_vXHo4qCmbP2YdDN32swVAUN0MfJ8KxzGU7CKVSQaFk6BGomvj78cGQrK1kz2QM=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkX88Tf2N3NyYRgZ97aUQnNj1Je2xF0ZGQeG2VQvLDCW5Y40OzpLTSAhkOYnuWHJduPMSMguAyaTWLPBHzBn8DWgpnppvQxOzoa4phO1C3FCTEZRROihXqkNgaZFHIY1SBHAixizJHjNpY=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -11352,120 +12093,6 @@
       "id": "Barbershop tradisional di pemandian pria."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20250115_252/1736894385795ln0nB_JPEG/KakaoTalk_20241014_113930552_02.jpg"
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "gohyeon"
-    },
-    "rating": 4.7,
-    "name": {
-      "en": "Geoje POW Camp Park",
-      "ja": "巨濟捕虜収容所遺跡公園",
-      "zh": "巨济战俘收容所遗址公园",
-      "vi": "Công viên POW Geoje",
-      "id": "Taman POW Geoje",
-      "ko": "거제포로수용소유적공원"
-    },
-    "address": {
-      "en": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
-      "ja": "巨濟市 계룡로",
-      "zh": "巨济市 계룡로 61",
-      "vi": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
-      "id": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 계룡로 61"
-    },
-    "description": {
-      "en": "Living history park on Korea's largest Korean War POW camp site.",
-      "ja": "朝鮮戦争捕虜収容所跡の歴史公園。",
-      "zh": "朝鲜战争战俘营遗址历史公园。",
-      "vi": "Công viên lịch sử trại POW Chiến tranh Triều Tiên.",
-      "id": "Taman sejarah lokasi kamp POW Perang Korea."
-    },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fcdn.tourtoctoc.com%2Fnews%2Fphoto%2F202601%2F11617_64941_031.jpg&type=f54_54",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "gohyeon"
-    },
-    "rating": 4.6,
-    "name": {
-      "en": "POW Camp Museum",
-      "ja": "捕虜収容所遺跡博物館",
-      "zh": "战俘收容所遗址博物馆",
-      "vi": "Bảo tàng POW",
-      "id": "Museum POW",
-      "ko": "포로수용소유적박물관"
-    },
-    "address": {
-      "en": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
-      "ja": "巨濟市 계룡로",
-      "zh": "巨济市 계룡로 61",
-      "vi": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
-      "id": "61 Gyeryong-ro, Gohyeon-dong, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 계룡로 61"
-    },
-    "description": {
-      "en": "Museum documenting POW life with films and original artifacts.",
-      "ja": "捕虜生活を映像と遺物で展示。",
-      "zh": "以影像与遗物展示战俘生活。",
-      "vi": "Bảo tàng đời sống POW với phim và hiện vật.",
-      "id": "Museum kehidupan POW dengan film dan artefak."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "okpo"
-    },
-    "rating": 4.6,
-    "name": {
-      "en": "Okpo Great Victory Park",
-      "ja": "玉浦大捷記念公園",
-      "zh": "玉浦大捷纪念公园",
-      "vi": "Công viên Okpo",
-      "id": "Taman Okpo",
-      "ko": "옥포대첩기념공원"
-    },
-    "address": {
-      "en": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
-      "ja": "巨濟市 팔랑포2길",
-      "zh": "巨济市 팔랑포2길 87",
-      "vi": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
-      "id": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 팔랑포2길 87"
-    },
-    "description": {
-      "en": "Memorial to Admiral Yi Sun-sin's first Imjin War victory at Okpo.",
-      "ja": "李舜臣将軍玉浦大捷の記念公園。",
-      "zh": "李舜臣将军玉浦大捷纪念公园。",
-      "vi": "Tưởng niệm chiến thắng Okpo của Đô đốc Yi.",
-      "id": "Peringatan kemenangan Okpo Laksamana Yi."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_226/1441007202798kxPiU_JPEG/116364497038543_0.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
   },
   {
     "theme": "k-culture",
@@ -11531,45 +12158,7 @@
       "vi": "Di sản đóng tàu và văn hóa ngư dân.",
       "id": "Warisan galangan kapal dan budaya nelayan."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250412_142/1744432913362Dt9Bh_JPEG/1000058732.jpg"
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "nambugmyeon"
-    },
-    "rating": 4.5,
-    "name": {
-      "en": "Haegeumgang Theme Museum",
-      "ja": "海金剛テーマ博物館",
-      "zh": "海金刚主题博物馆",
-      "vi": "Bảo tàng Haegeumgang",
-      "id": "Museum Haegeumgang",
-      "ko": "해금강테마박물관"
-    },
-    "address": {
-      "en": "120 Haegeumgang-ro, Nambu-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 남부면",
-      "zh": "巨济市 남부면 해금강로 120",
-      "vi": "120 Haegeumgang-ro, Nambu-myeon, Geoje, Gyeongnam",
-      "id": "120 Haegeumgang-ro, Nambu-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 남부면 해금강로 120"
-    },
-    "description": {
-      "en": "Interactive exhibits about the national scenic Haegeumgang islets.",
-      "ja": "国指定名勝海金剛の体験博物館。",
-      "zh": "国家名胜海金刚的体验博物馆。",
-      "vi": "Triển lãm tương tác về quần đảo Haegeumgang.",
-      "id": "Pameran interaktif pulau Haegeumgang."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_70/1441015743532WU5wh_JPEG/SUBMIT_1338260858475_12360135.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldME13nH6vG37CUxfMKcJMBNuRbVPWnM4qaYTwOAerwKwEA1BLSSrJuGDKAd3ILMBKUPcB9ZiNBOcBvMc7vDiX3Y6VP1urpTRhXGpXeansuuTrwa4wxvFHGMo5k_uU3vwjfocA=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -11635,7 +12224,7 @@
       "vi": "Triển lãm hòa giải trong công viên POW.",
       "id": "Pameran rekonsiliasi di taman POW."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQBXzXp4f8HXIi4_AK9XIxXXdZfMBx14HsolxIDQKhV62O-_w3AWMksGHem00zaZghQoD0MhzHBFGt5v5lBwZeHYIReGOiJAPrqutT30xlg05yTZaBMvjixQNV4285MWe-HMGD=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldME13nH6vG37CUxfMKcJMBNuRbVPWnM4qaYTwOAerwKwEA1BLSSrJuGDKAd3ILMBKUPcB9ZiNBOcBvMc7vDiX3Y6VP1urpTRhXGpXeansuuTrwa4wxvFHGMo5k_uU3vwjfocA=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -11668,7 +12257,7 @@
       "vi": "Vách biển gắn truyền thuyết dân gian Geoje.",
       "id": "Tebing pantai dengan legenda rakyat Geoje."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20190328_284/1553767726031na7ka_JPEG/QABl1WqNckvgPnr6bhm03ptM.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260702_166/1782946190048eJ6qB_JPEG/20220425_173011.jpg"
   },
   {
     "theme": "k-culture",
@@ -11701,7 +12290,7 @@
       "vi": "Trưng bày đời sống ngư dân bên nhà văn hóa biển.",
       "id": "Pameran kehidupan nelayan di samping balai laut."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPz8OJFKi8TpncCck2ayMoVkWmGhzysKye8sOvY64pdm-Otwk1zeMW8EjLJQuFBpKHXcPB87GCl8458nobIEVruhUF25IyrYdxGjul7Fj8iRPINnX-nva_3yseD8AWrqEldTzg=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldME13nH6vG37CUxfMKcJMBNuRbVPWnM4qaYTwOAerwKwEA1BLSSrJuGDKAd3ILMBKUPcB9ZiNBOcBvMc7vDiX3Y6VP1urpTRhXGpXeansuuTrwa4wxvFHGMo5k_uU3vwjfocA=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -11766,44 +12355,6 @@
       "zh": "德元海水浴场附近的梁城遗迹。",
       "vi": "Di tích thành Gabe gần bãi Deokwon.",
       "id": "Reruntuhan benteng Gabe dekat Pantai Deokwon."
-    }
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "jangmok"
-    },
-    "rating": 4.6,
-    "name": {
-      "en": "Maemi Castle",
-      "ja": "マミソン",
-      "zh": "梅米城",
-      "vi": "Thành Maemi",
-      "id": "Kastil Maemi",
-      "ko": "매미성"
-    },
-    "address": {
-      "en": "256-5 Oepo-ri, Jangmok-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 장목면",
-      "zh": "巨济市 장목면 외포리 256-5",
-      "vi": "256-5 Oepo-ri, Jangmok-myeon, Geoje, Gyeongnam",
-      "id": "256-5 Oepo-ri, Jangmok-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 장목면 외포리 256-5"
-    },
-    "description": {
-      "en": "Stone wall built by one fisherman after Typhoon Maemi.",
-      "ja": "台風マミ後に一人で築いた石城。",
-      "zh": "台风梅米后一人筑起的石城。",
-      "vi": "Thành đá một ngư dân xây sau bão Maemi.",
-      "id": "Tembok batu dibangun sendiri setelah Topan Maemi."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20190731_65/1564566001529jdXsK_JPEG/VV3qSbEGjINj8UTsyhZ31uuG.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
     }
   },
   {
@@ -11968,7 +12519,7 @@
       "vi": "Làng chài với tour thuyền và bữa dân gian.",
       "id": "Desa nelayan dengan tur perahu dan makanan tradisional."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Ftong.visitkorea.or.kr%2Fcms%2Fresource%2F39%2F3521039_image2_1.jpg&type=a340"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkX88Tf2N3NyYRgZ97aUQnNj1Je2xF0ZGQeG2VQvLDCW5Y40OzpLTSAhkOYnuWHJduPMSMguAyaTWLPBHzBn8DWgpnppvQxOzoa4phO1C3FCTEZRROihXqkNgaZFHIY1SBHAixizJHjNpY=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -12000,120 +12551,6 @@
       "zh": "举办地方文化讲座的市立图书馆。",
       "vi": "Thư viện với giảng văn hóa địa phương.",
       "id": "Perpustakaan dengan kuliah budaya lokal."
-    }
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "okpo"
-    },
-    "rating": 4.4,
-    "name": {
-      "en": "Okpo Victory Memorial Hall",
-      "ja": "玉浦大捷記念館",
-      "zh": "玉浦大捷纪念馆",
-      "vi": "Nhà tưởng niệm Okpo",
-      "id": "Memorial Okpo",
-      "ko": "옥포대첩기념관"
-    },
-    "address": {
-      "en": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
-      "ja": "巨濟市 팔랑포2길",
-      "zh": "巨济市 팔랑포2길 87",
-      "vi": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
-      "id": "87 Pallangpo 2-gil, Okpo-dong, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 팔랑포2길 87"
-    },
-    "description": {
-      "en": "Indoor exhibits on the 1592 Okpo naval battle.",
-      "ja": "1592年玉浦海戦の室内展示。",
-      "zh": "1592年玉浦海战室内展览。",
-      "vi": "Triển lãm trận hải chiến Okpo 1592.",
-      "id": "Pameran pertempuran laut Okpo 1592."
-    },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FvBt9CN3R89erCDTwVB1nCq0Zvww8zm24_mJbZPhkxdiOEIiqnFw2FyEdohknf9F_Q9gQfSxSjoZBmek7bmmzpA.webp&type=a340",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "urban-nature",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "nambugmyeon"
-    },
-    "rating": 4.8,
-    "name": {
-      "en": "Haegeumgang",
-      "ja": "海金剛",
-      "zh": "海金刚",
-      "vi": "Haegeumgang",
-      "id": "Haegeumgang",
-      "ko": "해금강"
-    },
-    "address": {
-      "en": "San 1, Galgots-ri, Nambu-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 남부면",
-      "zh": "巨济市 남부면 갈곶리 산1",
-      "vi": "San 1, Galgots-ri, Nambu-myeon, Geoje, Gyeongnam",
-      "id": "San 1, Galgots-ri, Nambu-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 남부면 갈곶리 산1"
-    },
-    "description": {
-      "en": "National scenic islets toured by cruise through the Cross Cave.",
-      "ja": "十字洞窟を通る国指定名勝。",
-      "zh": "穿越十字洞窟的国家名胜。",
-      "vi": "Quần đảo danh thắng du ngoạn qua hang Thập Tự.",
-      "id": "Pulau pemandangan nasional melalui Gua Salib."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20240729_181/172225529783838Fo6_JPEG/KakaoTalk_20230904_140829753.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "urban-nature",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "dongbu"
-    },
-    "rating": 4.7,
-    "name": {
-      "en": "Hakdong Black Pebble Beach",
-      "ja": "学洞黒真珠モン돌海",
-      "zh": "学洞黑珍珠鹅卵石海滩",
-      "vi": "Bãi đá Hakdong",
-      "id": "Pantai Kerikil Hakdong",
-      "ko": "학동흑진주몽돌해변"
-    },
-    "address": {
-      "en": "18-1 Hakdong 6-gil, Dongbu-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 동부면",
-      "zh": "巨济市 동부면 학동6길 18-1",
-      "vi": "18-1 Hakdong 6-gil, Dongbu-myeon, Geoje, Gyeongnam",
-      "id": "18-1 Hakdong 6-gil, Dongbu-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 동부면 학동6길 18-1"
-    },
-    "description": {
-      "en": "Black pebble beach whose rolling stones are a Korean natural sound.",
-      "ja": "モン돌の音が響く黒真珠ビーチ。",
-      "zh": "鹅卵石声响的黑珍珠海滩。",
-      "vi": "Bãi đá đen với tiếng sỏi cuộn nổi tiếng.",
-      "id": "Pantai kerikil hitam dengan suara batu bergulir."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_228/1440992302696jMcSm_JPEG/11491803_0.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
     }
   },
   {
@@ -12191,44 +12628,6 @@
     },
     "rating": 4.6,
     "name": {
-      "en": "Geoje Cable Car",
-      "ja": "巨濟ケーブルカー",
-      "zh": "巨济缆车",
-      "vi": "Cáp treo Geoje",
-      "id": "Kereta Gantung Geoje",
-      "ko": "거제케이블카"
-    },
-    "address": {
-      "en": "288 Geoje Jungang-ro, Dongbu-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 거제중앙로",
-      "zh": "巨济市 거제중앙로 288",
-      "vi": "288 Geoje Jungang-ro, Dongbu-myeon, Geoje, Gyeongnam",
-      "id": "288 Geoje Jungang-ro, Dongbu-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 거제중앙로 288"
-    },
-    "description": {
-      "en": "1.56 km panorama cable car with crystal glass-floor cabins.",
-      "ja": "全長1.56kmのクリスタルキャビン。",
-      "zh": "全长1.56公里水晶底缆车。",
-      "vi": "Cáp treo 1,56 km với cabin đáy kính.",
-      "id": "Kereta gantung 1,56 km dengan kabin lantai kaca."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20260419_39/1776570625866ImNni_JPEG/007-5.jpg",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
-      "updatedAt": "2026-08-01T12:55:18.996Z"
-    }
-  },
-  {
-    "theme": "urban-nature",
-    "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "dongbu"
-    },
-    "rating": 4.6,
-    "name": {
       "en": "Yunseul Observatory",
       "ja": "윤슬展望台",
       "zh": "粼粼展望台",
@@ -12284,7 +12683,7 @@
       "vi": "Bãi đá yên bên cảng Gujora.",
       "id": "Pantai kerikil tenang di pelabuhan Gujora."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FdGR8WmfFacJfWP-Ix4Gkj8cAUPPzBqIl3JsMj_2nU6cHI89GhmqPsgOO4s8r6zgkWq8mStktQQB7CLh1eSx1NA.webp&type=a340"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkX88Tf2N3NyYRgZ97aUQnNj1Je2xF0ZGQeG2VQvLDCW5Y40OzpLTSAhkOYnuWHJduPMSMguAyaTWLPBHzBn8DWgpnppvQxOzoa4phO1C3FCTEZRROihXqkNgaZFHIY1SBHAixizJHjNpY=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -12383,7 +12782,7 @@
       "vi": "Bãi biển yên bờ tây hướng Gajodo.",
       "id": "Pantai tenang pantai barat menuju Gajodo."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20180808_48/1533693141192UQuxs_JPEG/9wLmoSI_oY2t8Htgyxm6_tQX.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkX88Tf2N3NyYRgZ97aUQnNj1Je2xF0ZGQeG2VQvLDCW5Y40OzpLTSAhkOYnuWHJduPMSMguAyaTWLPBHzBn8DWgpnppvQxOzoa4phO1C3FCTEZRROihXqkNgaZFHIY1SBHAixizJHjNpY=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -12449,7 +12848,7 @@
       "vi": "Vịnh đá ẩn trên cung đường ven biển nam.",
       "id": "Teluk kerikil tersembunyi di jalan pesisir selatan."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150901_47/1441045557691ScXlc_JPEG/157155537065743_0.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlHks1wmHbP0tvSNhdpIqchZ26dAXOJVDHUg5i0TDHsFQ-GZAH6K8-6ZqWad2gsOef5SiQy9bVJuuL91qgAoDwv1FVpKcBWJWCzZ6xxpR7Fq-w4_ZIXv9hTxk_RWOBQio8O9ikK=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -12482,7 +12881,7 @@
       "vi": "Bãi cát rộng dưới vách làng Myeongsa.",
       "id": "Pantai pasir lebar di bawah tebing desa Myeongsa."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150901_256/1441045560166N0qOT_JPEG/157155537065523_0.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSyRMbuMJ-cxZUs1MnFHMIBMZZGqI2f5XwrQeARPBpngj-hStAnsrj28Axj0I71fVBoSyJBTUanr30VtH76c46M4TxaPBgBVEGtwZ0mYY7eN7f0oX9kMx0CVdNGqbviN3sjUygXg=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -12515,7 +12914,7 @@
       "vi": "Công viên sinh thái ven suối gần Hakdong.",
       "id": "Taman ekologi tepi sungai dekat Hakdong."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_8/1441007214037p2edE_JPEG/11622423_0.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20220216_137/1644992029220Pa2A4_JPEG/org_e450d8617a3afb15_1636011656000.JPG"
   },
   {
     "theme": "urban-nature",
@@ -12680,7 +13079,7 @@
       "vi": "Đảo nhỏ đi bộ ven biển gần Wahyeon.",
       "id": "Pulau kecil jalan pesisir dekat Wahyeon."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150901_101/1441064596564dcxjY_JPEG/157155537258693_0.jpg"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwUGZd5bo9WLw6H4LBadjXRr74sLSY9ca1XtX_wvNkCUKpcW0AqmASWbkJQdos6vpfn62tPGbaknLe_EaYI1G7s5RrIumcI9yIUDp9g65K-noo2ksNXcL1C7WxqfF0DAH2H7J4=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -12714,25 +13113,6 @@
       "id": "Jembatan laut menghubungkan Geoje dan Busan."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20200424_285/1587655969432KgkrB_JPEG/64tHsS-OFsdbaEvzKwP12zzX.jpg"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "jung"
-    },
-    "name": "하남돼지집동대문점",
-    "address": "서울특별시 중구 을지로43길 9 1층",
-    "rating": 4.5,
-    "description": {
-      "en": "Pork restaurant in Jung district, Seoul",
-      "ja": "中区の豚肉レストラン",
-      "zh": "中区猪肉餐厅",
-      "vi": "Nhà hàng thịt lợn ở quận Jung",
-      "id": "Restoran daging babi di distrik Jung"
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfbEmLV7iyZIRYrw9M-mqPhnhTcHVhi5NeYLrECDAQCuGCdA_ocTdQX82FYmHnd040oxH6ej7cjEHP6s11tTWGEGq6drfu7j0V1rmrxtaCVVpDrD6hvwNdq52aY3PNsFq8zfxGQEwunlxN=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -12774,36 +13154,19 @@
   {
     "theme": "k-food",
     "region": {
-      "province": "busan"
-    },
-    "name": "검색 결과",
-    "address": "대한민국 부산광역시 수영구 광안해변로370번길 9-32",
-    "rating": 4,
-    "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZlIhNQggWMPhA27AQj9Cw6NYsPBcJN-Qn8sd5oP3QQ7xr1Vxr_uTSwsTGnuZe4W5O6WGnNEXeqZpWwmyWB9wUDfud9o5SYlbX95_-8-7fCtCcGhue-yKHzVx9kg6O2O9m4VFqYNH4LWHh=w800-h600-k-no"
-  },
-  {
-    "theme": "k-food",
-    "region": {
       "province": "seoul",
       "city": null,
-      "district": "mapo"
+      "district": "seongdonggu"
     },
     "name": "서울 한우 맛집",
-    "address": "서울특별시 마포구 홍익로6길 52",
+    "address": "서울특별시 성동구 매봉길 48 101",
     "rating": 4.5,
     "description": {
-      "en": "Korean beef restaurant in Seoul",
-      "ja": "ソウルで韓国牛を食べることができるレストラン",
-      "zh": "位于首尔的韩式烤肉店",
-      "vi": "Nhà hàng thịt bò Hàn Quốc tại Seoul",
-      "id": "Restoran daging sapi Korea di Seoul"
+      "en": "A Korean restaurant in Seoul serving high-quality hanu",
+      "ja": "ソウルで韓国最高級のハヌを提供する韓国料理店",
+      "zh": "位于首尔的韩国餐厅，提供高品质的韩牛",
+      "vi": "Nhà hàng Hàn Quốc tại Seoul, phục vụ thịt bò Hàn Quốc chất lượng cao",
+      "id": "Restoran Korea di Seoul, menyajikan daging sapi korea berkualitas tinggi"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240625_39/1719277509643gO6oX_JPEG/KakaoTalk_20240625_100254599_03.jpg"
   },
@@ -12829,10 +13192,10 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "mapo"
+      "district": "mapo-gu"
     },
     "name": "K-POP 성지",
-    "address": "서울특별시 마포구 합정동 366-5",
+    "address": "서울특별시 마포구 월드컵로 240",
     "rating": 4.5,
     "description": {
       "en": "A K-POP pilgrimage site in Seoul",
@@ -12916,13 +13279,13 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "yongsan"
+      "district": "jongno"
     },
     "name": "서울 전통시장",
-    "address": "서울특별시 용산구 효창원로40길 13",
+    "address": "서울특별시 종로구 자하문로15길 18",
     "rating": 4.5,
     "description": {
-      "en": "Seoul traditional market",
+      "en": "Traditional market in Seoul",
       "ja": "ソウル伝統市場",
       "zh": "首尔传统市场",
       "vi": "Chợ truyền thống Seoul",
@@ -12941,7 +13304,7 @@
     "address": "서울특별시 은평구 불광동 번지 1층 310-11",
     "rating": 4.5,
     "description": {
-      "en": "Traditional market in Seoul",
+      "en": "A traditional market in Seoul",
       "ja": "ソウル伝統市場",
       "zh": "首尔传统市场",
       "vi": "Chợ truyền thống Seoul",
@@ -12977,11 +13340,11 @@
     "address": "서울특별시 종로구 북촌로12길 24-5",
     "rating": 4.5,
     "description": {
-      "en": "Bukchon Hanok Village is a traditional Korean village in Seoul, offering a glimpse into the country's rich cultural heritage.",
-      "ja": "北村ハノク村は、ソウルにある伝統的な韓国村で、韓国の豊かな文化遺産を垣間見ることができます。",
-      "zh": "北村韩屋村是首尔的一座传统韩国村庄，提供了对韩国丰富文化遗产的洞察。",
-      "vi": "Làng Hanok Bukchon là một ngôi làng truyền thống của Hàn Quốc ở Seoul, cung cấp cái nhìn sâu sắc về di sản văn hóa phong phú của đất nước.",
-      "id": "Desa Hanok Bukchon adalah sebuah desa tradisional Korea di Seoul, menawarkan wawasan tentang warisan budaya Korea yang kaya."
+      "en": "A traditional Korean village in Seoul",
+      "ja": "ソウル北村韓屋村",
+      "zh": "首尔北村韩屋村",
+      "vi": "Làng nhà truyền thống Hàn Quốc ở Seoul",
+      "id": "Kampung tradisional Korea di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20251027_180/1761560165318yHAQJ_JPEG/%BA%CF%C3%CC%B9%E6%B9%AE%BD%C3%B0%A3%C1%A6%C7%D1%BE%C8%B3%BB2_%B1%B9%B9%AE.jpg"
   },
@@ -12997,10 +13360,10 @@
     "rating": 4.5,
     "description": {
       "en": "Namsan Trail, a scenic path surrounding Namsan Mountain",
-      "ja": "ナムサン둘레ギル（南山の周りの道）",
-      "zh": "南山环山小径",
-      "vi": "Đường đi bộ xung quanh Namsan",
-      "id": "Jalur Namsan, jalur yang mengelilingi Gunung Namsan"
+      "ja": "ナムサン둘레ギル、ナムサン山を囲む風景の道",
+      "zh": "南山둘레길，南山山周围的风景小径",
+      "vi": "Đường mòn Namsan, một con đường cảnh quan xung quanh Núi Namsan",
+      "id": "Jejak Namsan, jalur pemandangan di sekitar Gunung Namsan"
     },
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsZN6_zJJhN5pQacId48g4UxfEV7657Q8FfRKe5tU1_ilfMkIhwVxmxNP2jfo2lbFqEqJVHryjE7ki-Ec_GANkRK-XZinZhZEaezF8u0x5TpS-sEGFgdX5P8xzF-22xXCLj5h7=w408-h306-k-no"
   },
@@ -13026,17 +13389,17 @@
     "region": {
       "province": "busan",
       "city": null,
-      "district": "saha"
+      "district": "dong"
     },
     "name": "부산 국밥 맛집",
-    "address": "부산광역시 사하구 하신번영로157번길 39",
+    "address": "부산광역시 동구 중앙대로209번길 12",
     "rating": 4.5,
     "description": {
-      "en": "Korean soup restaurant in Busan",
-      "ja": "釜山で韓国スープを食べることができるレストラン",
-      "zh": "位于釜山的韩式汤店",
-      "vi": "Nhà hàng súp Hàn Quốc tại Busan",
-      "id": "Restoran sup Korea di Busan"
+      "en": "A popular Korean restaurant in Busan serving delicious gukbap.",
+      "ja": "釜山で人気の韓国料理店。美味しいクッパを提供しています。",
+      "zh": "釜山一家受欢迎的韩国餐厅，提供美味的粥饭。",
+      "vi": "Nhà hàng Hàn Quốc nổi tiếng ở Busan, phục vụ gukbap ngon.",
+      "id": "Restoran Korea yang populer di Busan, menyajikan gukbap yang lezat."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240313_293/1710297487780Blqia_JPEG/020.jpg"
   },
@@ -13070,11 +13433,11 @@
     "address": "서울특별시 강남구 논현2동 221-13",
     "rating": 4.5,
     "description": {
-      "en": "Seoul spa massage",
-      "ja": "ソウル スパ マッサージ",
-      "zh": "首尔水疗按摩",
-      "vi": "Phòng xông hơi và mát-xa Seoul",
-      "id": "Pijat spa Seoul"
+      "en": "Spa and massage in Seoul",
+      "ja": "ソウルでのスパとマッサージ",
+      "zh": "首尔水疗和按摩",
+      "vi": "Thiền đường và xoa bóp tại Seoul",
+      "id": "Spa dan pijat di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260527_227/1779859824677vVg9u_JPEG/KakaoTalk_20260526_152136549.jpg"
   },
@@ -13134,25 +13497,6 @@
       "id": "Ini adalah pasar tradisional Korea yang terletak di Distrik Mapo, Seoul, menawarkan pengalaman belanja yang unik."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260625_25/1782371731070zV445_JPEG/IMG_1337.jpg"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "jung-gu"
-    },
-    "name": "서울 돼지고기 맛집",
-    "address": "서울특별시 중구 다산로 149",
-    "rating": 4.5,
-    "description": {
-      "en": "Pork restaurant in Seoul",
-      "ja": "ソウルで人気の豚肉レストラン",
-      "zh": "首尔猪肉餐厅",
-      "vi": "Nhà hàng thịt lợn ở Seoul",
-      "id": "Restoran daging babi di Seoul"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20251223_12/1766465054437g40JH_JPEG/%BD%E6%B3%D7%C0%CF.jpg"
   },
   {
     "theme": "k-food",
@@ -13282,17 +13626,17 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "mapo"
+      "district": "gangnam-gu"
     },
     "name": "스파 마사지",
-    "address": "서울특별시 마포구 서교동 448-31",
+    "address": "서울특별시 강남구 논현로175길 69",
     "rating": 4.5,
     "description": {
-      "en": "Spa and massage in Seoul",
-      "ja": "ソウルスパとマッサージ",
-      "zh": "首尔水疗和按摩",
-      "vi": "spa và massage tại Seoul",
-      "id": "spa dan massage di Seoul"
+      "en": "A spa and massage spot in Seoul",
+      "ja": "ソウルにあるスパとマッサージの施設",
+      "zh": "首尔的水疗和按摩店",
+      "vi": "Địa điểm spa và massage tại Seoul",
+      "id": "Tempat spa dan massage di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20251010_133/176010141060124vpQ_GIF/%C1%A6%B8%F1_%BE%F8%B4%C2_%B5%F0%C0%DA%C0%CE_%285%29.gif"
   },
@@ -13339,15 +13683,15 @@
     "region": {
       "province": "seoul",
       "city": null,
-      "district": "junggu"
+      "district": "jongno"
     },
     "name": "명동 K뷰티 쇼핑",
-    "address": "서울특별시 중구 명동 8나길 10",
+    "address": "서울특별시 중구 명동8나길 10",
     "rating": 4.5,
     "description": {
       "en": "Myeongdong K-beauty shopping district",
-      "ja": "明洞 Kビューティ ショッピング",
-      "zh": "明洞 K 美容购物",
+      "ja": "明洞Kビューティショッピング",
+      "zh": "明洞K美妆购物区",
       "vi": "Khu mua sắm K-beauty Myeongdong",
       "id": "Distrik belanja K-beauty Myeongdong"
     },
@@ -13497,12 +13841,50 @@
     "address": "서울특별시 종로구 재동 54-1",
     "rating": 4.5,
     "description": {
-      "en": "Jae-dong Hanok Village",
-      "ja": "재동ハノク村",
-      "zh": "载洞韩屋村",
-      "vi": "Làng Hanok Jae-dong",
-      "id": "Desa Hanok Jae-dong"
+      "en": "A traditional Korean village in Seoul",
+      "ja": "ソウル재동韓屋村",
+      "zh": "首尔재동韩屋村",
+      "vi": "Làng nhà truyền thống Hàn Quốc ở Seoul",
+      "id": "Kampung tradisional Korea di Seoul"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240628_264/1719557033764tpCzi_JPEG/DSC08456-%C6%ED%C1%FD_%BA%B9%BB%E7.jpg"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "jung-gu"
+    },
+    "name": "미래빌딩 스파 마사지",
+    "address": "서울특별시 중구 명동7길 8",
+    "rating": 4.5,
+    "description": {
+      "en": "Spa and massage services in Myeong-dong, Seoul",
+      "ja": "ソウルミョンドンエリアのスパ＆マッサージ",
+      "zh": "首尔明洞区的水疗和按摩服务",
+      "vi": "Dịch vụ spa và massage tại Myeong-dong, Seoul",
+      "id": "Layanan spa dan massage di Myeong-dong, Seoul"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260201_124/1769899096432E2col_JPEG/%C4%AB%BF%EE%C5%CD.jpg"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": null,
+      "district": "gangnam-gu"
+    },
+    "name": "강남 BLS클리닉",
+    "address": "서울특별시 강남구 강남대로 432",
+    "rating": 4.5,
+    "description": {
+      "en": "BLS clinic in Gangnam, Seoul",
+      "ja": "ソウル江南エリアのBLSクリニック",
+      "zh": "首尔江南区的BLS诊所",
+      "vi": "Phòng khám BLS tại Gangnam, Seoul",
+      "id": "Klinik BLS di Gangnam, Seoul"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260225_182/1772003343382Ypmh4_JPEG/260220_B.%BA%EA%B7%A3%B5%E5_%B3%D7%C0%CC%B9%F6%C7%C3%B7%B9%C0%CC%BD%BA%28model_a%29_720x720_%281%29.jpg"
   }
 ]

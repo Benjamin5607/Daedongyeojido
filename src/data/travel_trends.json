@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-01T12:55:18.996Z",
-  "articleCount": 1,
+  "updatedAt": "2026-08-02T05:28:20.271Z",
+  "articleCount": 12,
   "signals": [
     {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림 · 1위 유재석, 2위 김종국…'리센느' 역주행에 덩달아 예능인 브랜드평판. · ‘남자 리센느’는 누가 될까…중소 보이그룹, 컴백보다 어려운 ‘발견... · 신수정 거제시의원, \"'거제야호' 관심을 거제 관광 경쟁력으로 연결해야. · 리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 ' · 리센느 원이, 뜬금 일진설 '빛삭'..담임교사 해명 \"학생회 임원도 하던 · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
       "score": 100,
       "regionHints": [
         "거제",
@@ -34,8 +34,63 @@
       "queryCount": 8
     },
     {
+      "label": "거제 야호",
+      "source": "신수정 거제시의원",
+      "score": 80,
+      "regionHints": [
+        "거제"
+      ],
+      "placeHints": [],
+      "theme": "k-culture",
+      "queryCount": 1
+    },
+    {
+      "label": "거제 야호 맛집",
+      "source": "스페셜리포트",
+      "score": 70,
+      "regionHints": [
+        "거제"
+      ],
+      "placeHints": [],
+      "theme": "k-food",
+      "queryCount": 1
+    },
+    {
+      "label": "리센느 거제",
+      "source": "리센느 원",
+      "score": 60,
+      "regionHints": [
+        "거제"
+      ],
+      "placeHints": [],
+      "theme": "hallyu",
+      "queryCount": 1
+    },
+    {
+      "label": "거제 관광",
+      "source": "신수정 거제시의원",
+      "score": 50,
+      "regionHints": [
+        "거제"
+      ],
+      "placeHints": [],
+      "theme": "urban-nature",
+      "queryCount": 1
+    },
+    {
       "label": "거제 트렌드",
-      "source": "리센느 거제 야호 열풍… 덕포·옥포 성지 관광객 몰려",
+      "source": "한은진 거제시의원 \"여성친화도시 조성 다시 출발해야\"새 창 열림",
+      "score": 40,
+      "regionHints": [
+        "거제"
+      ],
+      "placeHints": [],
+      "theme": "hallyu",
+      "queryCount": 1
+    },
+    {
+      "label": "거제 음식",
+      "source": "임팩트비즈니스 인사이트",
       "score": 40,
       "regionHints": [
         "거제"
@@ -87,9 +142,34 @@
       "trendLabel": "거제 야호!"
     },
     {
+      "theme": "k-culture",
+      "query": "거제 야호",
+      "trendLabel": "거제 야호"
+    },
+    {
       "theme": "k-food",
-      "query": "거제 맛집",
+      "query": "거제 야호 맛집",
+      "trendLabel": "거제 야호 맛집"
+    },
+    {
+      "theme": "hallyu",
+      "query": "리센느 거제",
+      "trendLabel": "리센느 거제"
+    },
+    {
+      "theme": "urban-nature",
+      "query": "거제 관광",
+      "trendLabel": "거제 관광"
+    },
+    {
+      "theme": "urban-nature",
+      "query": "거제 관광지",
       "trendLabel": "거제 트렌드"
+    },
+    {
+      "theme": "k-food",
+      "query": "거제 음식",
+      "trendLabel": "거제 음식"
     }
   ],
   "matchedExistingCount": 17,

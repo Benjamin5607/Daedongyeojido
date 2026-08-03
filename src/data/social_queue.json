@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-02T02:34:15.934Z",
+  "updatedAt": "2026-08-03T13:03:13.391Z",
   "items": [
+    {
+      "id": "sq_20260803125757_x2g5j0",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "yongsan",
+      "theme": "k-food",
+      "caption": "서울에서 맛있는 돼지고기를 즐길 수 있는 곳, 서울 돼지고기 맛집! \nThis pork restaurant in Seoul is a must-visit for Korean food lovers. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #seoul \nhttps://daedongyeojido-nine.vercel.app/places/yongsan",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251223_12/1766465054437g40JH_JPEG/%BD%E6%B3%D7%C0%CF.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/yongsan",
+      "score": 145,
+      "createdAt": "2026-08-03T12:57:57.679Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260803-yongsan",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-03T13:03:13.391Z",
+        "alt_text": "서울 돼지고기 맛집 — yongsan, seoul — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260803125611_ed2gxz",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-17",
+      "theme": "k-food",
+      "caption": "서울에서 맛있는 돼지국밥을 즐길 수 있는 하남돼지집동대문점! \n중구에 위치한 이곳은 서울 맛집으로 유명합니다. \nA popular pork restaurant in Seoul, located in the Jung-gu district, known for its delicious pork dishes.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #서울맛집\nhttps://daedongyeojido-nine.vercel.app/places/place-17",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfbEmLV7iyZIRYrw9M-mqPhnhTcHVhi5NeYLrECDAQCuGCdA_ocTdQX82FYmHnd040oxH6ej7cjEHP6s11tTWGEGq6drfu7j0V1rmrxtaCVVpDrD6hvwNdq52aY3PNsFq8zfxGQEwunlxN=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-17",
+      "score": 145,
+      "createdAt": "2026-08-03T12:56:11.877Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260803-place-17",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-03T13:00:19.551Z",
+        "alt_text": "하남돼지집동대문점 — 서울특별시 — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260802021503_fi35zt",
       "status": "exported",

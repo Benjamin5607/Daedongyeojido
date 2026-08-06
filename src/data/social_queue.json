@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-05T12:06:31.150Z",
+  "updatedAt": "2026-08-06T04:57:11.312Z",
   "items": [
+    {
+      "id": "sq_20260806045622_iel1qd",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "haegeumgang-theme-museum-nambugmyeon",
+      "theme": "k-culture",
+      "caption": "해금강테마박물관 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/haegeumgang-theme-museum-nambugmyeon\n\nHaegeumgang Theme Museum\nInteractive exhibits about the national scenic Haegeumgang islets.\nGuide: https://daedongyeojido-nine.vercel.app/places/haegeumgang-theme-museum-nambugmyeon\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_70/1441015743532WU5wh_JPEG/SUBMIT_1338260858475_12360135.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/haegeumgang-theme-museum-nambugmyeon",
+      "score": 152,
+      "createdAt": "2026-08-06T04:56:22.447Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260806-haegeumgang-theme-museum-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-06T04:57:11.312Z",
+        "alt_text": "Pixar-style travel illustration of 해금강테마박물관 (Haegeumgang Theme Museum) — nambugmyeon, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260806045551_9vwouk",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-29",
+      "theme": "urban-nature",
+      "caption": "매미성 — 「거제 트렌드」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-29\n\n매미성\nMaemiseong is a scenic spot with beautiful natural surroundings\nGuide: https://daedongyeojido-nine.vercel.app/places/place-29\n🔥 Trend: 거제 트렌드\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제트렌드 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190731_65/1564566001529jdXsK_JPEG/VV3qSbEGjINj8UTsyhZ31uuG.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-29",
+      "score": 152,
+      "createdAt": "2026-08-06T04:55:51.412Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260806-place-29",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-06T04:56:42.932Z",
+        "alt_text": "Pixar-style travel illustration of 매미성 — 장목면, 경상남도 — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260805120528_e3rmp0",
       "status": "exported",

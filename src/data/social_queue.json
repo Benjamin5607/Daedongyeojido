@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-06T04:57:11.312Z",
+  "updatedAt": "2026-08-06T12:11:26.744Z",
   "items": [
+    {
+      "id": "sq_20260806120457_6ahsr4",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "deokwon-beach-dongbu",
+      "theme": "hallyu",
+      "caption": "덕원해수욕장에서 즐기는 한려수도 바다! \n조용한 가족 해수욕장에서 편안한 휴식을 즐길 수 있습니다. \nVisit Deokwon Beach in Dongbu, Geoje, a filming location of 1 Night 2 Days, and enjoy the quiet family-friendly sand. \n#한국여행 #대동여지도 #거제야호 #TravelTrend #Korea #VisitKorea #Hallyu #KDrama #한류 #KoreaTravel #gyeongnam #Daedongyeojido \nhttps://daedongyeojido-nine.vercel.app/places/deokwon-beach-dongbu",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnJOjulXTfesuMR0-hOd8bzTyCIX-jXQWdOT9Z8fdizl42-n0hmlO3DNee5IklkA-ESM-wdGowcF4uYnKmOssG-oEjTHkIwvb6sYUSQ785pjWRVhPCNR9ePmBW6H2BHFhUuXE0h5jDWHZg=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/deokwon-beach-dongbu",
+      "score": 127,
+      "createdAt": "2026-08-06T12:04:57.944Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260806-deokwon-beach-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-06T12:11:26.744Z",
+        "alt_text": "덕원해수욕장 (Deokwon Beach) — dongbu, gyeongnam — hallyu"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260806120404_6nqljz",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-32",
+      "theme": "k-food",
+      "caption": "거제 음식 — 「거제 음식」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-32\n\n거제 음식\nA popular food destination in Geoje, South Gyeongsang Province\nGuide: https://daedongyeojido-nine.vercel.app/places/place-32\n🔥 Trend: 거제 음식\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250607_3/1749262287429wEsyz_JPEG/KakaoTalk_Photo_2025-06-07-11-06-33_008.jpeg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-32",
+      "score": 145,
+      "createdAt": "2026-08-06T12:04:04.302Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260806-place-32",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-06T12:08:11.811Z",
+        "alt_text": "거제 음식 — 경상남도 — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260806045622_iel1qd",
       "status": "exported",

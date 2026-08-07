@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260807105712_11cpj9",
+  "slug": "place-23",
+  "theme": "k-food",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호 맛집",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-02T07:10:56.616Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-07 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "거제 야호 맛집 — 일운면, 경상남도 — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#거제야호맛집",
+    "#TravelTrend",
+    "#"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20250908_24/1757311202525S5BW6_JPEG/1000065249.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제 야호 맛집",
+    "en": "거제 야호 맛집"
+  },
+  "descriptionEn": "A popular restaurant in Geoje, known for its delicious food",
+  "exportedAt": "2026-08-07T11:05:13.505Z"
+}

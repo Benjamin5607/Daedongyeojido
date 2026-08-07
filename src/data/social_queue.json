@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-07T04:25:13.871Z",
+  "updatedAt": "2026-08-07T11:07:35.848Z",
   "items": [
+    {
+      "id": "sq_20260807110213_zn6ptm",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "tongdosa-temple",
+      "theme": "urban-nature",
+      "caption": "경상남도 양산시 통도사로 108\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/tongdosa-temple\n\nTongdosa Temple\nAncient temple forest locals hike on weekday mornings — trail notes on Naver hiking blogs, not Google.\nGuide: https://daedongyeojido-nine.vercel.app/places/tongdosa-temple\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20160104_222/1451872482626b84QL_JPEG/176054508461501_0.jpeg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/tongdosa-temple",
+      "score": 76,
+      "createdAt": "2026-08-07T11:02:13.404Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260807-tongdosa-temple",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-07T11:07:35.847Z",
+        "alt_text": "경상남도 양산시 통도사로 108 (Tongdosa Temple) — 통도사, gyeongnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260807105712_11cpj9",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-23",
+      "theme": "k-food",
+      "caption": "거제 야호 맛집 — 「거제 야호 맛집」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-23\n\n거제 야호 맛집\nA popular restaurant in Geoje, known for its delicious food\nGuide: https://daedongyeojido-nine.vercel.app/places/place-23\n🔥 Trend: 거제 야호 맛집\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호맛집 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250908_24/1757311202525S5BW6_JPEG/1000065249.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-23",
+      "score": 145,
+      "createdAt": "2026-08-07T10:57:12.611Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260807-place-23",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-07T11:05:13.505Z",
+        "alt_text": "거제 야호 맛집 — 일운면, 경상남도 — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260807042019_yk1dry",
       "status": "exported",

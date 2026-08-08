@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-07T11:07:35.848Z",
+  "updatedAt": "2026-08-08T03:23:18.474Z",
   "items": [
+    {
+      "id": "sq_20260808032251_jgky42",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "gyeongnam",
+      "theme": "k-food",
+      "caption": "경남 맛집을 찾고 계세요? 거제 야호 맛집으로 알려진 이곳은 4점의 높은 평가를 받았습니다. 다양한 한국 음식을 맛볼 수 있는 곳입니다. \nLooking for a great place to eat in Gyeongnam? This spot is known for being one of the best in Geoje, with a 4-star rating. You can try a variety of Korean foods here. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호맛집 #TravelTrend #gyeongnam \nhttps://daedongyeojido-nine.vercel.app/places/gyeongnam",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4HZ2Sj6ke_Ji1OOB1BcFxTyCb1IEMqhSS3TXu0r5e3Rgoh-NlMpjJXGxCyjPCEAbxKiT79yXp6OUYWWCmk8odmg35YMfd8atn3R6YZAEOHrGW8B0yjXlPbMtCIjYRY84_S_mmcVMk83A=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/gyeongnam",
+      "score": 147,
+      "createdAt": "2026-08-08T03:22:51.241Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260808-gyeongnam",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-08T03:23:18.473Z",
+        "alt_text": "검색 결과 — gyeongnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260808032102_ikkggr",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-28",
+      "theme": "urban-nature",
+      "caption": "거제맹종죽 테마파크 — 「거제 트렌드」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-28\n\n거제맹종죽 테마파크\nGeoje Mengjungjuk Theme Park is a fun destination for families\nGuide: https://daedongyeojido-nine.vercel.app/places/place-28\n🔥 Trend: 거제 트렌드\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제트렌드 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20240630_89/1719759411048giwsa_JPEG/1719550477872.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-28",
+      "score": 152,
+      "createdAt": "2026-08-08T03:21:02.657Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260808-place-28",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-08T03:23:09.687Z",
+        "alt_text": "Pixar-style travel illustration of 거제맹종죽 테마파크 — 하청면, 경상남도 — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260807110213_zn6ptm",
       "status": "exported",

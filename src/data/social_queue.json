@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-08T03:23:18.474Z",
+  "updatedAt": "2026-08-08T10:37:33.579Z",
   "items": [
+    {
+      "id": "sq_20260808103702_mplw56",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-22",
+      "theme": "k-culture",
+      "caption": "거제 옥포 맛집에서 한국의 맛을 느껴보세요. 옥포의 맛집은 거제를 대표하는 음식점으로 많은 사람들이 찾는 곳입니다. \nExperience the taste of Korea at Geoje Okpo's popular food destination. As a renowned eatery in Geoje, Okpo, it's a must-visit for many.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #거제야호 #TravelTrend #Foodie #KFood\nhttps://daedongyeojido-nine.vercel.app/places/place-22",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20220316_174/16474011292264OU2d_JPEG/Screenshot_20220316-110648_NAVER.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-22",
+      "score": 127,
+      "createdAt": "2026-08-08T10:37:02.449Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260808-place-22",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-08T10:37:33.579Z",
+        "alt_text": "Pixar-style travel illustration of 거제 옥포 맛집 — 옥포, 경상남도 — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260808103356_n64xby",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-30",
+      "theme": "urban-nature",
+      "caption": "거제도의 아픈 역사, 포로수용소 유적공원을 방문해 보세요. 경상남도 거제시의 이 곳은 도시와 자연이 공존하는 공간으로, 과거의 아픔을 기억하며 힐링할 수 있는 곳입니다.\nVisit Geoje Prison Camp Historic Park, a historic site in Geoje City, South Gyeongsang Province, where the city and nature coexist. Remember the past and heal here.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제트렌드 #TravelTrend #UrbanNature\nhttps://daedongyeojido-nine.vercel.app/places/place-30",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-30",
+      "score": 127,
+      "createdAt": "2026-08-08T10:33:56.424Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260808-place-30",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-08T10:37:14.570Z",
+        "alt_text": "Pixar-style travel illustration of 거제도 포로수용소 유적공원 — 경상남도 — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260808032251_jgky42",
       "status": "exported",

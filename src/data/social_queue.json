@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-09T03:26:14.501Z",
+  "updatedAt": "2026-08-09T10:40:43.281Z",
   "items": [
+    {
+      "id": "sq_20260809104006_roxlrq",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "suyeong",
+      "theme": "k-food",
+      "caption": "부산 수영구에서 맛있는 국밥을 즐길 수 있는 곳입니다. \nBusan's Suyeong district is home to this popular Korean restaurant serving delicious gukbap. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #busan \nhttps://daedongyeojido-nine.vercel.app/places/suyeong",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaeYQvFsLi012q7NqSfho2h8C29Gem94k3V5T1MWDAVuz-4JahhwJNoB0JBZHHZv3-4qOEiAzSYVD-QVHOd5yj56mYoi7ydUw7UFLeZ2G_M1jJuwK_mNOHLmHABC9McUvi_BkOgw=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/suyeong",
+      "score": 145,
+      "createdAt": "2026-08-09T10:40:06.855Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260809-suyeong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-09T10:40:43.280Z",
+        "alt_text": "Pixar-style travel illustration of 부산 국밥 맛집 — suyeong, busan — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260809103915_cbcgwu",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "jung-gu",
+      "theme": "k-food",
+      "caption": "서울 돼지고기 맛집 — 「거제 음식」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/jung-gu\n\n서울 돼지고기 맛집\nPork restaurant in Seoul\n“肉很好吃！而且還有幫忙烤的服務很讚！”\nGuide: https://daedongyeojido-nine.vercel.app/places/jung-gu\n🔥 Trend: 거제 음식\n\nTraveler note: 肉很好吃！而且還有幫忙烤的服務很讚！\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #seoul",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251223_12/1766465054437g40JH_JPEG/%BD%E6%B3%D7%C0%CF.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/jung-gu",
+      "score": 145,
+      "createdAt": "2026-08-09T10:39:15.576Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260809-jung-gu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-09T10:40:30.288Z",
+        "alt_text": "서울 돼지고기 맛집 — jung-gu, seoul — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260809032544_hg9bjx",
       "status": "exported",

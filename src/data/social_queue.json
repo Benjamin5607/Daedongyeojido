@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-08T10:37:33.579Z",
+  "updatedAt": "2026-08-09T03:26:14.501Z",
   "items": [
+    {
+      "id": "sq_20260809032544_hg9bjx",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-21",
+      "theme": "hallyu",
+      "caption": "거제 야호 성지에서 한류의 매력을 느껴보세요. \nA famous spot for Hallyu fans in Geoje. \n#한국여행 #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #Korea #VisitKorea\nhttps://daedongyeojido-nine.vercel.app/places/place-21",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190816_197/1565964670835IFSz1_JPEG/RQHwnWK67cVXB6sfepbLTNA9.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-21",
+      "score": 152,
+      "createdAt": "2026-08-09T03:25:44.370Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260809-place-21",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-09T03:26:14.501Z",
+        "alt_text": "Pixar-style travel illustration of 거제 야호 성지 — 남부면, 경상남도 — hallyu, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260809032440_56qh9p",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-20",
+      "theme": "urban-nature",
+      "caption": "거제 해금강은 경상남도 거제시 장승포동에 위치한 도시와 자연이 어우러진 공간입니다. 이곳은 거제 야호!의 중심지로 많은 관광객들이 찾는 곳입니다. \nGeoje Haegumgang is a popular tourist destination in Geoje, South Gyeongsang Province, where city and nature blend together. It's a hub for the Geoje Ya Ho! trend, attracting many visitors. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend \nhttps://daedongyeojido-nine.vercel.app/places/place-20",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20211220_51/16399770229078o4ct_JPEG/1.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-20",
+      "score": 152,
+      "createdAt": "2026-08-09T03:24:40.757Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260809-place-20",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-09T03:25:59.518Z",
+        "alt_text": "Pixar-style travel illustration of 거제 해금강 — 장승포동, 경상남도 — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260808103702_mplw56",
       "status": "exported",

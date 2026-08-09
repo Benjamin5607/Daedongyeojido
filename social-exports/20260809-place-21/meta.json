@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260809032544_hg9bjx",
+  "slug": "place-21",
+  "theme": "hallyu",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-02T07:10:56.616Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-09 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of 거제 야호 성지 — 남부면, 경상남도 — hallyu, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#Hallyu",
+    "#KDrama",
+    "#한류",
+    "#KoreaTravel",
+    "#거제야호",
+    "#TravelTrend",
+    "#"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제 야호 성지",
+    "en": "거제 야호 성지"
+  },
+  "descriptionEn": "A famous spot for Hallyu fans in Geoje",
+  "exportedAt": "2026-08-09T03:26:14.501Z"
+}

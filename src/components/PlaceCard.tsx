@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   getPlaceMapLinks,
 } from "@/lib/mapLinks";
@@ -11,6 +11,8 @@ import { formatPlaceRegion } from "@/lib/regions";
 import { StarRating } from "@/components/StarRating";
 import { useLanguage } from "@/context/LanguageContext";
 
+const LOCAL_STORAGE_KEY = "daedongyeojido_planner";
+
 interface PlaceCardProps {
   place: IndexedPlace;
   compact?: boolean;
@@ -19,6 +21,52 @@ interface PlaceCardProps {
 export function PlaceCard({ place, compact = false }: PlaceCardProps) {
   const { locale, t } = useLanguage();
   const [imageFailed, setImageFailed] = useState(false);
+  const [isInPlanner, setIsInPlanner] = useState(false);
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
+      if (saved) {
+        const parsed = JSON.parse(saved) as string[][];
+        if (Array.isArray(parsed)) {
+          setIsInPlanner(parsed.some((day) => day.includes(place.slug)));
+        }
+      }
+    } catch {}
+  }, [place.slug]);
+
+  const handleTogglePlanner = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+
+    try {
+      const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
+      let parsed: string[][] = [[]];
+      if (saved) {
+        const decoded = JSON.parse(saved) as string[][];
+        if (Array.isArray(decoded) && decoded.length > 0) {
+          parsed = decoded;
+        }
+      }
+
+      const alreadyAdded = parsed.some((day) => day.includes(place.slug));
+      let next: string[][] = [];
+
+      if (alreadyAdded) {
+        next = parsed.map((day) => day.filter((slug) => slug !== place.slug));
+        setIsInPlanner(false);
+      } else {
+        if (parsed.length === 0) parsed = [[]];
+        parsed[0] = [...parsed[0], place.slug];
+        next = parsed;
+        setIsInPlanner(true);
+      }
+
+      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(next));
+    } catch (err) {
+      console.error(err);
+    }
+  };
 
   const nameKo = resolveKoreanField(place.name);
   const localizedName = resolveLocalizedField(place.name, locale);
@@ -59,6 +107,18 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
             }}
             className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
           />
+          <button
+            type="button"
+            onClick={handleTogglePlanner}
+            aria-label={isInPlanner ? t.removeFromPlanner : t.addToPlanner}
+            className={`absolute bottom-3 right-3 z-10 flex h-9 w-9 items-center justify-center rounded-full shadow-md transition hover:scale-110 active:scale-95 border ${
+              isInPlanner
+                ? "bg-emerald-600 border-emerald-600 text-white hover:bg-emerald-700"
+                : "bg-white/90 border-stone-200 text-stone-600 hover:bg-white"
+            }`}
+          >
+            <span aria-hidden>{isInPlanner ? "❤️" : "🤍"}</span>
+          </button>
           <div className="absolute left-3 top-3">
             <StarRating rating={place.rating} size="sm" showValue={false} />
           </div>

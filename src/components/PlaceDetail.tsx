@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { PageShell } from "@/components/PageShell";
 import { PlaceCard } from "@/components/PlaceCard";
 import { ReviewList } from "@/components/ReviewList";
@@ -14,6 +14,8 @@ import { resolveLocalizedField, resolveKoreanField } from "@/lib/i18n";
 import { formatPlaceRegion } from "@/lib/regions";
 import { useLanguage } from "@/context/LanguageContext";
 
+const LOCAL_STORAGE_KEY = "daedongyeojido_planner";
+
 interface PlaceDetailProps {
   place: IndexedPlace;
 }
@@ -21,7 +23,50 @@ interface PlaceDetailProps {
 export function PlaceDetail({ place }: PlaceDetailProps) {
   const { locale, t } = useLanguage();
   const [imageFailed, setImageFailed] = useState(false);
+  const [isInPlanner, setIsInPlanner] = useState(false);
   const related = getRelatedPlaces(place);
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
+      if (saved) {
+        const parsed = JSON.parse(saved) as string[][];
+        if (Array.isArray(parsed)) {
+          setIsInPlanner(parsed.some((day) => day.includes(place.slug)));
+        }
+      }
+    } catch {}
+  }, [place.slug]);
+
+  const handleTogglePlanner = () => {
+    try {
+      const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
+      let parsed: string[][] = [[]];
+      if (saved) {
+        const decoded = JSON.parse(saved) as string[][];
+        if (Array.isArray(decoded) && decoded.length > 0) {
+          parsed = decoded;
+        }
+      }
+
+      const alreadyAdded = parsed.some((day) => day.includes(place.slug));
+      let next: string[][] = [];
+
+      if (alreadyAdded) {
+        next = parsed.map((day) => day.filter((slug) => slug !== place.slug));
+        setIsInPlanner(false);
+      } else {
+        if (parsed.length === 0) parsed = [[]];
+        parsed[0] = [...parsed[0], place.slug];
+        next = parsed;
+        setIsInPlanner(true);
+      }
+
+      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(next));
+    } catch (err) {
+      console.error(err);
+    }
+  };
 
   const nameKo = resolveKoreanField(place.name);
   const localizedName = resolveLocalizedField(place.name, locale);
@@ -111,6 +156,18 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
             <p className="text-sm text-[var(--color-muted)]">{address}</p>
 
             <div className="flex flex-col gap-2 sm:flex-row">
+              <button
+                type="button"
+                onClick={handleTogglePlanner}
+                className={`inline-flex flex-1 items-center justify-center gap-1.5 rounded-xl px-4 py-3 text-sm font-semibold transition shadow-sm ${
+                  isInPlanner
+                    ? "bg-emerald-600 hover:bg-emerald-700 text-white"
+                    : "bg-white border border-stone-300 text-stone-700 hover:bg-stone-50"
+                }`}
+              >
+                <span>{isInPlanner ? "❤️" : "🤍"}</span>
+                {isInPlanner ? t.addedToPlanner : t.addToPlanner}
+              </button>
               <a
                 href={naverMapUrl}
                 target="_blank"

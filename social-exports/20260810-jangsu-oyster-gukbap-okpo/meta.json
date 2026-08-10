@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260810034917_0tvn8j",
+  "slug": "jangsu-oyster-gukbap-okpo",
+  "theme": "k-food",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 음식",
+    "source": "리센느",
+    "updatedAt": "2026-08-09T03:42:05.962Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-10 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "장수굴국밥 (Jangsu Oyster Gukbap) — okpo, gyeongnam — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#거제음식",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20190114_139/15474730548131Qnh9_JPEG/2Kf8kCAiSSuYamjDMU2u0RYC.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "장수굴국밥",
+    "en": "Jangsu Oyster Gukbap"
+  },
+  "descriptionEn": "Daily-fresh Geoje oysters in a clean, savory gukbap bowl.",
+  "exportedAt": "2026-08-10T03:50:15.703Z"
+}

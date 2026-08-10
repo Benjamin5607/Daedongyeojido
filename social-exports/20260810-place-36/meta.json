@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260810034750_0n433q",
+  "slug": "place-36",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 야호 숙소",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-09T05:25:20.329Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": true,
+  "caption_ai_generated": false,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-10 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of 거제 야호 숙소 — 장목면, 경상남도 — urban nature, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제야호숙소",
+    "#TravelTrend",
+    "#"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제 야호 숙소",
+    "en": "거제 야호 숙소"
+  },
+  "descriptionEn": "A cozy accommodation in Geoje, perfect for a relaxing getaway",
+  "exportedAt": "2026-08-10T03:49:46.483Z"
+}

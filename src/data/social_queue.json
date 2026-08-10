@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-09T10:40:43.281Z",
+  "updatedAt": "2026-08-10T03:50:15.704Z",
   "items": [
+    {
+      "id": "sq_20260810034917_0tvn8j",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "jangsu-oyster-gukbap-okpo",
+      "theme": "k-food",
+      "caption": "거제의 신선한굴을 즐길 수 있는 곳, 장수굴국밥! \nClean and savory gukbap bowl filled with daily-fresh Geoje oysters. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #gyeongnam \nhttps://daedongyeojido-nine.vercel.app/places/jangsu-oyster-gukbap-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190114_139/15474730548131Qnh9_JPEG/2Kf8kCAiSSuYamjDMU2u0RYC.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/jangsu-oyster-gukbap-okpo",
+      "score": 151,
+      "createdAt": "2026-08-10T03:49:17.620Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260810-jangsu-oyster-gukbap-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-10T03:50:15.703Z",
+        "alt_text": "장수굴국밥 (Jangsu Oyster Gukbap) — okpo, gyeongnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260810034750_0n433q",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-36",
+      "theme": "urban-nature",
+      "caption": "거제 야호 숙소 — 「거제 야호 숙소」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-36\n\n거제 야호 숙소\nA cozy accommodation in Geoje, perfect for a relaxing getaway\nGuide: https://daedongyeojido-nine.vercel.app/places/place-36\n🔥 Trend: 거제 야호 숙소\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호숙소 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20241126_64/1732600784527vIGAf_JPEG/11.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-36",
+      "score": 152,
+      "createdAt": "2026-08-10T03:47:50.160Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260810-place-36",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-10T03:49:46.483Z",
+        "alt_text": "Pixar-style travel illustration of 거제 야호 숙소 — 장목면, 경상남도 — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260809104006_roxlrq",
       "status": "exported",

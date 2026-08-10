@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-10T03:50:15.704Z",
+  "updatedAt": "2026-08-10T11:15:58.198Z",
   "items": [
+    {
+      "id": "sq_20260810111038_04ct9z",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "seoul",
+      "theme": "k-food",
+      "caption": "서울에서 맛있는 거제 음식을 즐겨보세요. \nDiscover the taste of Geoje food in Seoul. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend \nhttps://daedongyeojido-nine.vercel.app/places/seoul",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250724_272/1753337762155U8336_PNG/%C7%C1%B7%CE%C7%CA_%BB%E7%C1%F8.png",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seoul",
+      "score": 140,
+      "createdAt": "2026-08-10T11:10:38.328Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260810-seoul",
+        "imageFile": "image.png",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-10T11:15:58.197Z",
+        "alt_text": "검색 결과 — seoul — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260810110926_jqyd3v",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-37",
+      "theme": "k-food",
+      "caption": "거제 국밥, 경상남도 거제시의 맛집입니다. \nGeoje Gukbap Restaurant, a must-visit in Geoje City, South Gyeongsang Province.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제트렌드 #TravelTrend #거제시 #국밥\nhttps://daedongyeojido-nine.vercel.app/places/place-37",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20220406_106/1649228827290FCW5d_JPEG/20220406_160600.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-37",
+      "score": 145,
+      "createdAt": "2026-08-10T11:09:26.829Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260810-place-37",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-10T11:13:24.419Z",
+        "alt_text": "거제 국밥 — 경상남도 — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260810034917_0tvn8j",
       "status": "exported",

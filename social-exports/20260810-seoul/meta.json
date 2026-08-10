@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260810111038_04ct9z",
+  "slug": "seoul",
+  "theme": "k-food",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 음식",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-09T05:25:20.329Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-10 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "검색 결과 — seoul — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#거제음식",
+    "#TravelTrend",
+    "#seoul"
+  ],
+  "imageFile": "image.png",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20250724_272/1753337762155U8336_PNG/%C7%C1%B7%CE%C7%CA_%BB%E7%C1%F8.png",
+  "imageContentType": "image/png",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "검색 결과",
+    "en": "검색 결과"
+  },
+  "descriptionEn": "",
+  "exportedAt": "2026-08-10T11:15:58.197Z"
+}

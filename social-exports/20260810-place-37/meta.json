@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260810110926_jqyd3v",
+  "slug": "place-37",
+  "theme": "k-food",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 트렌드",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-09T05:25:20.329Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-10 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "거제 국밥 — 경상남도 — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#거제트렌드",
+    "#TravelTrend",
+    "#"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20220406_106/1649228827290FCW5d_JPEG/20220406_160600.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제 국밥",
+    "en": "거제 국밥"
+  },
+  "descriptionEn": "Geoje Gukbap Restaurant",
+  "exportedAt": "2026-08-10T11:13:24.419Z"
+}

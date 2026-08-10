@@ -11,6 +11,7 @@ const NAV_LINKS = [
   { href: "/themes/hallyu", labelKey: "navHallyu" as const },
   { href: "/themes/k-culture", labelKey: "navCulture" as const },
   { href: "/regions", labelKey: "navRegions" as const },
+  { href: "/planner", labelKey: "navPlanner" as const },
 ];
 
 export function Navbar() {

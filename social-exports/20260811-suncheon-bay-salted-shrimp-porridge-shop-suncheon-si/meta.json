@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260811105742_j1yb4c",
+  "slug": "suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+  "theme": "k-food",
+  "format": "series",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": true,
+  "caption_ai_generated": false,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-11 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Pixar-style travel illustration of Suncheon Bay Salted Shrimp Porridge Shop — suncheon-si, jeonnam — k food, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#jeonnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Suncheon Bay Salted Shrimp Porridge Shop",
+    "en": "Suncheon Bay Salted Shrimp Porridge Shop"
+  },
+  "descriptionEn": "Salted-shrimp porridge before the wetland tourists wake — ranked on Naver Map, not Google food lists.",
+  "exportedAt": "2026-08-11T10:58:16.052Z"
+}

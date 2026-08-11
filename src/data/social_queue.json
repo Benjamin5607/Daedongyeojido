@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-11T03:29:43.141Z",
+  "updatedAt": "2026-08-11T10:58:16.053Z",
   "items": [
+    {
+      "id": "sq_20260811105742_j1yb4c",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "theme": "k-food",
+      "caption": "Suncheon Bay Salted Shrimp Porridge Shop\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si\n\nSuncheon Bay Salted Shrimp Porridge Shop\nSalted-shrimp porridge before the wetland tourists wake — ranked on Naver Map, not Google food lists.\n“습지가 건조했음 습지인데 겨울이라 그런지 순천만건지 라 불러야 할 정도로 칠게와 짱둥어는 없었고 건조함에 갈대밭 산책만 했다 순천갈대밭숲이다 해야 맞을듯”\nGuide: https://daedongyeojido-nine.vercel.app/places/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si\n\nTraveler note: 습지가 건조했음 습지인데 겨울이라 그런지 순천만건지 라 불러야 할 정도로 칠게와 짱둥어는 없었고 건조함에 갈대밭 산책만 했다 순천갈대밭숲이다 해야 맞을듯\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260412_30/1776002899195qrlYw_JPEG/KakaoTalk_20260312_153759613_18.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "score": 94,
+      "createdAt": "2026-08-11T10:57:42.098Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260811-suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-11T10:58:16.052Z",
+        "alt_text": "Pixar-style travel illustration of Suncheon Bay Salted Shrimp Porridge Shop — suncheon-si, jeonnam — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260811105241_h418lh",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "theme": "k-food",
+      "caption": "Tongyeong Chungmu Kimbap Back Alley\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/tongyeong-chungmu-kimbap-back-alley-bongpyeong\n\nTongyeong Chungmu Kimbap Back Alley\nRadish-heavy Chungmu kimbap locals eat dockside — pinned on Naver seafood blogs, not Google fish markets.\n“충무김밥에 가성비라는 표현이 가능한 맛집. 추천합니다.”\nGuide: https://daedongyeojido-nine.vercel.app/places/tongyeong-chungmu-kimbap-back-alley-bongpyeong\n\nTraveler note: 충무김밥에 가성비라는 표현이 가능한 맛집. 추천합니다.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_282/1441021614858MOy5P_JPEG/11694124_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "score": 94,
+      "createdAt": "2026-08-11T10:52:41.322Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260811-tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-11T10:57:59.181Z",
+        "alt_text": "Tongyeong Chungmu Kimbap Back Alley — bongpyeong, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260811032904_xgfw6y",
       "status": "exported",

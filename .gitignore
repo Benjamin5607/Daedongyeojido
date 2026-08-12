@@ -41,3 +41,6 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
+
+# social exports (generated manual upload packs)
+/social-exports

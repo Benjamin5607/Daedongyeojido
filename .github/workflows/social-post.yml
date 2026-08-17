@@ -96,7 +96,12 @@ jobs:
               cp -a "$TMPDIR_ART/social-exports" social-exports
             fi
 
-            git add $STAGE_DIRS
+            # Force add social-exports because it's ignored in .gitignore
+            git add src/data/social_queue.json
+            if [ -d social-exports ]; then
+              git add -f social-exports
+            fi
+            
             if git diff --cached --quiet; then
               echo "Remote already has the same artifacts; nothing to push."
               exit 0

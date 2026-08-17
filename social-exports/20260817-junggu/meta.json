@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260817103553_kfp4e7",
+  "slug": "junggu",
+  "theme": "k-food",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 트렌드",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-16T05:13:48.216Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-17 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "서울 돼지고기 맛집 — junggu, seoul — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#거제트렌드",
+    "#TravelTrend",
+    "#seoul"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20251223_12/1766465054437g40JH_JPEG/%BD%E6%B3%D7%C0%CF.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "서울 돼지고기 맛집",
+    "en": "서울 돼지고기 맛집"
+  },
+  "descriptionEn": "Pork restaurant in Seoul",
+  "exportedAt": "2026-08-17T10:40:02.000Z"
+}

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-17T10:40:35.583Z",
+  "updatedAt": "2026-08-18T02:56:58.361Z",
   "items": [
+    {
+      "id": "sq_20260818025622_3ot58n",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-41",
+      "theme": "k-culture",
+      "caption": "모래성분식 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-41\n\n모래성분식\nA restaurant with a beautiful ocean view in Deokpo-dong, Geoje\nGuide: https://daedongyeojido-nine.vercel.app/places/place-41\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260524_8/1779610268305FXo03_JPEG/1000034889.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-41",
+      "score": 152,
+      "createdAt": "2026-08-18T02:56:22.807Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260818-place-41",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-18T02:56:58.361Z",
+        "alt_text": "Pixar-style travel illustration of 모래성분식 — 덕포동, 경상남도 — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260818025122_3agddk",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "haegeumgang-nambugmyeon",
+      "theme": "urban-nature",
+      "caption": "해금강 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/haegeumgang-nambugmyeon\n\nHaegeumgang\nNational scenic islets toured by cruise through the Cross Cave.\n“주말에 방문하였습니다. 바다의 금강산이라 불리는 해금강은 수직 해식절벽과 주상절리, 십자동굴이 어우러진 거제 대표 국가지정유산입니다. 진나라 서불이 불로초를 찾으러 왔다 전해질 만큼 신비로운 역사성을 간직한 지형학적 요충지이기도 합니다. 해안 기암괴석과 바다가 어우러진 대자연의 위용을…”\nGuide: https://daedongyeojido-nine.vercel.app/places/haegeumgang-nambugmyeon\n🔥 Trend: 거제 야호!\n\nTraveler note: 주말에 방문하였습니다. 바다의 금강산이라 불리는 해금강은 수직 해식절벽과 주상절리, 십자동굴이 어우러진 거제 대표 국가지정유산입니다. 진나라 서불이 불로초를 찾으러 왔다 전해질 만큼 신비로운 역사성을 간직한 지형학적 요충지이기도 합니다. 해안 기암괴석과 바다가 어우러진 대자연의 위용을…\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/haegeumgang-nambugmyeon",
+      "score": 155,
+      "createdAt": "2026-08-18T02:51:22.015Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260818-haegeumgang-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-18T02:56:43.022Z",
+        "alt_text": "Pixar-style travel illustration of 해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260817103932_pcx4b4",
       "status": "exported",

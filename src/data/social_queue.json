@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-20T02:54:43.094Z",
+  "updatedAt": "2026-08-20T10:37:02.074Z",
   "items": [
+    {
+      "id": "sq_20260820103431_704kdg",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "hakdong-black-pebble-beach-dongbu",
+      "theme": "urban-nature",
+      "caption": "거제의 학동흑진주몽돌해변은 도시와 자연이 어우러진 아름다운 곳입니다. 바다의 소리와 함께 굴렁거리는 돌들로 이루어진 이 해변은 한국의 자연을 느낄 수 있는 곳입니다.\nHakdong Black Pebble Beach in Geoje is a beautiful urban-nature spot. The rolling stones on the beach create a soothing Korean natural sound. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam \nhttps://daedongyeojido-nine.vercel.app/places/hakdong-black-pebble-beach-dongbu",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_228/1440992302696jMcSm_JPEG/11491803_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/hakdong-black-pebble-beach-dongbu",
+      "score": 129,
+      "createdAt": "2026-08-20T10:34:31.025Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260820-hakdong-black-pebble-beach-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-20T10:37:02.073Z",
+        "alt_text": "Pixar-style travel illustration of 학동흑진주몽돌해변 (Hakdong Black Pebble Beach) — dongbu, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260820103100_aabuf4",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-31",
+      "theme": "k-food",
+      "caption": "거제 음식점에서 맛있는 한식을 즐기세요. 항상 오는 곳이지만 언제나 너무 친절하시고 맛있어요.\nEnjoy delicious Korean food at Geoje Food Restaurant. Always a pleasure to visit, with friendly service and great taste.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제트렌드 #TravelTrend #거제시 #경상남도\nhttps://daedongyeojido-nine.vercel.app/places/place-31",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250607_3/1749262287429wEsyz_JPEG/KakaoTalk_Photo_2025-06-07-11-06-33_008.jpeg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-31",
+      "score": 145,
+      "createdAt": "2026-08-20T10:31:00.395Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260820-place-31",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-20T10:36:29.884Z",
+        "alt_text": "Pixar-style travel illustration of 거제 음식점 — 경상남도 — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260820025408_kxmnph",
       "status": "exported",

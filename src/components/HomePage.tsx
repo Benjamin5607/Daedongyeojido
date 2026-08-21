@@ -15,6 +15,7 @@ import {
 } from "@/lib/places";
 import { collectRegionOptions, getRegionLabel, type RegionFilterState } from "@/lib/regions";
 import { THEMES, type ThemeId } from "@/types";
+import { useVisitorCounter } from "@/lib/useVisitorCounter";
 
 const initialRegionFilter: RegionFilterState = {
   province: undefined,
@@ -42,6 +43,7 @@ const FEATURED_PROVINCES = [
 
 export function HomePage() {
   const { locale, t } = useLanguage();
+  const visitorStats = useVisitorCounter();
   const [regionFilter, setRegionFilter] =
     useState<RegionFilterState>(initialRegionFilter);
   const places = getAllPlaces();
@@ -91,6 +93,32 @@ export function HomePage() {
               </dd>
             </div>
           </dl>
+
+          {/* Visitor Stats Counter Widgets */}
+          {visitorStats && (
+            <div className="mt-6 max-w-lg rounded-2xl bg-stone-900 text-stone-100 px-6 py-4 shadow-md flex items-center justify-between border border-stone-800">
+              <div className="text-center flex-1">
+                <span className="text-[10px] uppercase tracking-wider text-stone-400 font-bold block">{t.todayVisitors}</span>
+                <span className="font-mono text-xl font-extrabold text-emerald-400 mt-1 block">
+                  {visitorStats.today.toLocaleString()}
+                </span>
+              </div>
+              <div className="h-8 w-px bg-stone-800 shrink-0 mx-4" />
+              <div className="text-center flex-1">
+                <span className="text-[10px] uppercase tracking-wider text-stone-400 font-bold block">{t.monthlyVisitors}</span>
+                <span className="font-mono text-xl font-extrabold text-stone-100 mt-1 block">
+                  {visitorStats.month.toLocaleString()}
+                </span>
+              </div>
+              <div className="h-8 w-px bg-stone-800 shrink-0 mx-4" />
+              <div className="text-center flex-1">
+                <span className="text-[10px] uppercase tracking-wider text-stone-400 font-bold block">{t.totalVisitors}</span>
+                <span className="font-mono text-xl font-extrabold text-amber-500 mt-1 block">
+                  {visitorStats.total.toLocaleString()}
+                </span>
+              </div>
+            </div>
+          )}
         </div>
       </section>
 

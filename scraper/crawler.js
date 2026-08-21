@@ -239,9 +239,27 @@ async function crawlGoogleMaps(optionsOrOverride) {
  */
 function dedupePlaces(places) {
   const seen = new Set();
+  
+  // Safeguard: Drop abstract/generic noun queries that pollute database integrity
+  const FORBIDDEN_REGEX = /(관광|여행|음식|맛집|트렌드|명소|핫플|핫플레이스|지역)$/;
+  const GENTRIFIED_WORDS = ["거제 관광", "거제 여행", "거제 음식", "거제 맛집", "거제 트렌드", "제주 관광", "서울 맛집", "부산 맛집", "인기 관광지"];
+  
   return places.filter((place) => {
     if (place.permanentlyClosed) {
       console.log(`Removing permanently closed place: ${place.name}`);
+      return false;
+    }
+
+    const name = String(place.name || "").trim();
+    
+    // Safety check against generic titles
+    if (name === "검색 결과" || name === "Search Results" || name.includes("")) {
+      console.log(`[security] Dropping garbage POI entry titled "검색 결과": ${name}`);
+      return false;
+    }
+    
+    if (GENTRIFIED_WORDS.includes(name) || FORBIDDEN_REGEX.test(name)) {
+      console.log(`[security] Dropping vague generic POI entry: "${name}"`);
       return false;
     }
 

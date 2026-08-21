@@ -28,6 +28,7 @@ Rules:
 - Only include destination/place travel trends (not politics/finance).
 - Prefer concrete place or district names over vague category words.
 - queries must be Korean Google Maps-searchable (real place or area + category).
+- STRICT FORBIDDEN TERMS in queries and placeHints: Never use generic/abstract noun phrases like "거제 관광", "거제 여행", "거제 음식", "거제 맛집", "거제 트렌드", "제주 관광", "서울 맛집" as specific place/query entries. They are too generic and pollute search indices. Each query must target an actual, searchable shop/spot (e.g., "거제 모래성포차", "양양 서피비치").
 - Max 5 items. JSON array only.`;
 
 /**
@@ -77,6 +78,10 @@ function extractTrendsLocally(articles) {
     if (cityMatch && /(핫플|성지|야호|성지순례|급상승|관광객)/.test(text)) {
       const city = cityMatch[1];
       const label = `${city} 트렌드`;
+      
+      // Defend against creating generic queries that don't match specific POIs
+      // Do not add broad terms like "도시 맛집" or "도시 관광지" - only use pre-validated curated trends,
+      // or concrete LLM-guided POIs.
       if (!byLabel.has(label)) {
         byLabel.set(label, {
           label,
@@ -84,12 +89,7 @@ function extractTrendsLocally(articles) {
           regionHints: [city],
           placeHints: [],
           theme: /맛집|포차|국밥|갈비/.test(text) ? "k-food" : "hallyu",
-          queries: [
-            {
-              theme: /맛집|포차|국밥|갈비/.test(text) ? "k-food" : "urban-nature",
-              query: `${city} ${/맛집|포차/.test(text) ? "맛집" : "관광지"}`,
-            },
-          ],
+          queries: [], // Empty queries to prevent scraping vague "city + 맛집" broad queries
           score: 40,
         });
       }
@@ -108,16 +108,41 @@ function normalizeLlmTrend(item) {
   const row = /** @type {Record<string, unknown>} */ (item);
   const label = String(row.label || "").trim();
   if (!label) return null;
+  
+  // Blacklist of forbidden vague abstract noun patterns to protect database integrity
+  const FORBIDDEN_REGEX = /(관광|여행|음식|맛집|트렌드|명소|핫플|핫플레이스|지역)$/;
+  const GENTRIFIED_WORDS = ["거제 관광", "거제 여행", "거제 음식", "거제 맛집", "거제 트렌드", "제주 관광", "서울 맛집", "부산 맛집", "인기 관광지"];
+
   const queries = Array.isArray(row.queries)
     ? row.queries
         .map((q) => {
           if (!q || typeof q !== "object") return null;
           const theme = String(/** @type {any} */ (q).theme || "k-food");
           const query = String(/** @type {any} */ (q).query || "").trim();
+          
           if (!query) return null;
+          
+          // Drop broad matching queries that yield garbage POIs
+          if (GENTRIFIED_WORDS.includes(query) || FORBIDDEN_REGEX.test(query)) {
+            console.log(`[security] Dropping forbidden/vague query: "${query}"`);
+            return null;
+          }
+          
           return { theme, query };
         })
         .filter(Boolean)
+    : [];
+
+  const placeHints = Array.isArray(row.placeHints)
+    ? row.placeHints
+        .map(String)
+        .filter((h) => {
+          const trimmed = h.trim();
+          if (GENTRIFIED_WORDS.includes(trimmed) || FORBIDDEN_REGEX.test(trimmed)) {
+            return false;
+          }
+          return trimmed.length >= 2;
+        })
     : [];
 
   return {
@@ -126,7 +151,7 @@ function normalizeLlmTrend(item) {
     regionHints: Array.isArray(row.regionHints)
       ? row.regionHints.map(String)
       : [],
-    placeHints: Array.isArray(row.placeHints) ? row.placeHints.map(String) : [],
+    placeHints,
     theme: String(row.theme || "hallyu"),
     queries: /** @type {{ theme: string; query: string }[]} */ (queries),
     score: Number(row.score) || 50,

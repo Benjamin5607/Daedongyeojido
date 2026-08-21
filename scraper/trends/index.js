@@ -154,18 +154,31 @@ function applyTrendTagsToIncoming(places, priorityQueries) {
   );
   const now = new Date().toISOString();
 
-  return places.map((place) => {
-    const label = place.query && byQuery.get(place.query);
-    if (!label) return place;
-    return {
-      ...place,
-      trend: {
-        label,
-        source: "trend-crawl",
-        updatedAt: now,
-      },
-    };
-  });
+  // Safeguard: Drop abstract/generic noun queries that pollute database integrity
+  const FORBIDDEN_REGEX = /(관광|여행|음식|맛집|트렌드|명소|핫플|핫플레이스|지역)$/;
+  const GENTRIFIED_WORDS = ["거제 관광", "거제 여행", "거제 음식", "거제 맛집", "거제 트렌드", "제주 관광", "서울 맛집", "부산 맛집", "인기 관광지"];
+
+  return places
+    .filter((place) => {
+      const name = typeof place.name === "string" ? place.name : (place.name.ko || place.name.en || "");
+      if (GENTRIFIED_WORDS.includes(name) || FORBIDDEN_REGEX.test(name)) {
+        console.log(`[security] Filtered out generic/forbidden POI entry from crawled list: "${name}"`);
+        return false;
+      }
+      return true;
+    })
+    .map((place) => {
+      const label = place.query && byQuery.get(place.query);
+      if (!label) return place;
+      return {
+        ...place,
+        trend: {
+          label,
+          source: "trend-crawl",
+          updatedAt: now,
+        },
+      };
+    });
 }
 
 module.exports = {

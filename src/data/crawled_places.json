@@ -669,52 +669,6 @@
     }
   },
   {
-    "theme": "k-food",
-    "region": {
-      "province": "busan"
-    },
-    "name": "검색 결과",
-    "address": "대한민국 부산광역시 사하구 하신번영로157번길 39",
-    "rating": 4,
-    "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmzN9b2Cn2NkvA5yRl-dVoUGA24eaRqeEM_GKwi9vCXJIY61o6tJTlgRgAp54Vs_dz1v6SVaPJ0vb8O32kVaqLHtrR9h0XakAA_vQOp9ytIaHZ-1HgXwQZ59x2e_eKh8qgo-P6ceU_OLYQ=w800-h600-k-no",
-    "trend": {
-      "label": "거제 트렌드",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    }
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "junggu"
-    },
-    "name": "서울 돼지고기 맛집",
-    "address": "서울특별시 중구 다산로 149",
-    "rating": 4.5,
-    "description": {
-      "en": "Pork restaurant in Seoul",
-      "ja": "ソウルで人気の豚肉レストラン",
-      "zh": "首尔猪肉餐厅",
-      "vi": "Nhà hàng thịt lợn ở Seoul",
-      "id": "Restoran daging babi di Seoul"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20251223_12/1766465054437g40JH_JPEG/%BD%E6%B3%D7%C0%CF.jpg",
-    "trend": {
-      "label": "거제 트렌드",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    }
-  },
-  {
     "theme": "urban-nature",
     "region": {
       "province": "경상남도",
@@ -737,123 +691,6 @@
       "updatedAt": "2026-08-16T05:13:48.216Z"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20210806_256/1628212825847tAeLT_JPEG/%BF%DC%B5%B5_%C5%AC%B8%B0%BA%BB_0506_01.mp4_20210806_101457.640.jpg"
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "일운면"
-    },
-    "name": "거제 야호 성지",
-    "address": "경상남도 거제시 일운면 지세포리",
-    "rating": 4.5,
-    "description": {
-      "en": "Geojeyaho Holy Land is a famous filming location in Geoje, South Gyeongsang Province.",
-      "ja": "거제 야호 성지는、慶尚南道 거제市にある有名なロケ地です。",
-      "zh": "거제 야호 성지는位于庆尚南道거제市的一处著名的拍摄地。",
-      "vi": "Geojeyaho Holy Land là một địa điểm quay phim nổi tiếng ở Geoje, tỉnh Nam Gyeongsang.",
-      "id": "Geojeyaho Holy Land adalah sebuah lokasi syuting terkenal di Geoje, Provinsi Gyeongsang Selatan."
-    },
-    "trend": {
-      "label": "거제 야호!",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20190816_197/1565964670835IFSz1_JPEG/RQHwnWK67cVXB6sfepbLTNA9.jpg"
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "옥포동"
-    },
-    "name": "거제 옥포 맛집",
-    "address": "경상남도 거제시 옥포동 533-14",
-    "rating": 4.5,
-    "description": {
-      "en": "A popular food destination in Okpo-dong, Geoje",
-      "ja": "オクポ洞の有名な食べ物の目的地",
-      "zh": " 거제 옥포 맛집",
-      "vi": "Điểm đến ẩm thực nổi tiếng ở Okpo-dong, Geoje",
-      "id": "Tujuan makanan populer di Okpo-dong, Geoje"
-    },
-    "trend": {
-      "label": "거제 야호!",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250908_24/1757311202525S5BW6_JPEG/1000065249.jpg"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시"
-    },
-    "name": "거제 야호 맛집",
-    "address": "경상남도 거제시 장평로 65 더킹마트 1층",
-    "rating": 4.5,
-    "description": {
-      "en": "A popular restaurant in Geoje, South Gyeongsang Province",
-      "ja": "慶尚南道 거제の人気レストラン",
-      "zh": "位于庆尚南道거제的热门餐厅",
-      "vi": "Nhà hàng nổi tiếng ở Geoje, tỉnh Nam Gyeongsang",
-      "id": "Restoran populer di Geoje, Provinsi Gyeongsang Selatan"
-    },
-    "trend": {
-      "label": "거제 야호 맛집",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250908_24/1757311202525S5BW6_JPEG/1000065249.jpg"
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시"
-    },
-    "name": "거제시",
-    "address": "경상남도 거제시",
-    "rating": 4.5,
-    "description": {
-      "en": "Geoje City, a popular destination for Hallyu fans",
-      "ja": "ハルユファンにとって人気の目的地、거제市",
-      "zh": "거제市，韩流粉丝的热门目的地",
-      "vi": "Thành phố Geoje, điểm đến phổ biến cho người hâm mộ Hallyu",
-      "id": "Kota Geoje, tujuan populer bagi penggemar Hallyu"
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9P4zam-TBDZvtKQEAB5acFVvOrcFMto9UFo5S6rqBYNahX6X_xA5D4jxG3C0e6VPuUIFdwTkdJ_EIO3RJZNNhLf0cWMyAyuFRIFsPw-hInThbxR5YfraeTWAtYqDAwB78MFUB=w800-h600-k-no",
-    "trend": {
-      "label": "거제 야호 맛집",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-02T07:10:56.616Z"
-    }
-  },
-  {
-    "theme": "urban-nature",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시"
-    },
-    "name": "거제 관광",
-    "address": "대한민국 경상남도 거제시",
-    "rating": 4.5,
-    "description": {
-      "en": "Geoje city tourism",
-      "ja": "キョンサン南道市観光",
-      "zh": "거제市旅游",
-      "vi": "Du lịch thành phố Geoje",
-      "id": "Pariwisata kota Geoje"
-    },
-    "trend": {
-      "label": "거제 관광",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-02T07:10:56.616Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20240828_107/1724804297647TnVd6_JPEG/KakaoTalk_20240810_153417349__.jpg"
   },
   {
     "theme": "urban-nature",
@@ -1033,30 +870,6 @@
     }
   },
   {
-    "theme": "k-food",
-    "region": {
-      "province": "busan",
-      "city": null,
-      "district": "busanjin"
-    },
-    "name": "부산 국밥 맛집",
-    "address": "부산광역시 부산진구 서면로 10",
-    "rating": 4.5,
-    "description": {
-      "en": "A popular spot for gukbap in Busan, with a cozy atmosphere.",
-      "ja": "釜山で人気のクッパスポット。アットホームな雰囲気で楽しめます。",
-      "zh": "釜山一家著名的牛肉汤饭店，拥有温馨的氛围。",
-      "vi": "Địa điểm nổi tiếng cho gukbap ở Busan, với không gian ấm cúng.",
-      "id": "Tempat makan gukbap terkenal di Busan, dengan suasana yang nyaman."
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaeYQvFsLi012q7NqSfho2h8C29Gem94k3V5T1MWDAVuz-4JahhwJNoB0JBZHHZv3-4qOEiAzSYVD-QVHOd5yj56mYoi7ydUw7UFLeZ2G_M1jJuwK_mNOHLmHABC9McUvi_BkOgw=w800-h600-k-no",
-    "trend": {
-      "label": "거제 음식",
-      "source": "리센느",
-      "updatedAt": "2026-08-09T03:42:05.962Z"
-    }
-  },
-  {
     "theme": "urban-nature",
     "region": {
       "province": "경상남도",
@@ -1102,50 +915,6 @@
       "updatedAt": "2026-08-09T05:25:20.329Z"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20220406_106/1649228827290FCW5d_JPEG/20220406_160600.jpg"
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "seoul"
-    },
-    "name": "검색 결과",
-    "address": "대한민국 서울특별시 마포구 합정동 366-5",
-    "rating": 4,
-    "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUv58PY97PfOKSfOwQE-pgSkF2LX07Rj8uZaBMbAXDaG_zBCe6MrYvlmfvgvfQ1beJc8ijvc7rK67-o-vnGDh0OsmZtNBt7OncKbM14v0hIBY0BiCqd2vHdCYaoFiYK8M8EXPxDWTuhU8d=w800-h600-k-no",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    }
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "seoul"
-    },
-    "name": "검색 결과",
-    "address": "대한민국 서울특별시 종로구 북촌로12길 24-5",
-    "rating": 4,
-    "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMwUTjSd-re_J2IiS-KcCq4aqabq2e4bcS19l-WuOjMR8pR2TJCzgcfWo_Q6mNaofYrJXEJqiTJYbfVr3PEMtIW5dKyvMy1vEEvdMRvSGuX4DiN8Y0keYyutaeLp4OwMpXLkJEGo-BE1v_=w800-h600-k-no",
-    "trend": {
-      "label": "거제 야호!",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    }
   },
   {
     "theme": "k-culture",
@@ -1194,73 +963,6 @@
       "updatedAt": "2026-08-16T05:13:48.216Z"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260524_8/1779610268305FXo03_JPEG/1000034889.jpg"
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "gyeongnam"
-    },
-    "name": "야호",
-    "address": "대한민국 경상남도 거제시 연초면 오비리 183-11",
-    "rating": 4,
-    "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
-    },
-    "trend": {
-      "label": "거제 야호",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20210527_246/1622097460599WLK2A_JPEG/k9SwdaCMEm1TkgN5nojVrsyS.jpeg.jpg"
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "gyeongnam"
-    },
-    "name": "거제시리",
-    "address": "대한민국 경상남도 거제시 사등면 성포리 351-40",
-    "rating": 4,
-    "description": {
-      "en": "거제시리 — a spot surfaced from Naver/Google local discovery.",
-      "ja": "거제시리 — a spot surfaced from Naver/Google local discovery.",
-      "zh": "거제시리 — a spot surfaced from Naver/Google local discovery.",
-      "vi": "거제시리 — a spot surfaced from Naver/Google local discovery.",
-      "id": "거제시리 — a spot surfaced from Naver/Google local discovery."
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnE3YuoPC4zlKmL_zwmmWaDF4ZdUpJSJ0zTyFhebDR-0BH3S9EbR-y9hzNinpuJ6J-FTYEHkUbmBUUntCJYCIqJ7jhHLLYyMEqnw32Q_tBBDNlLdAE5CbzZRywX_hcVityj1SIXMXKf9bkR=w800-h600-k-no",
-    "trend": {
-      "label": "거제 야호",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    }
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시"
-    },
-    "name": "거제 맛집",
-    "address": "경상남도 거제시 덕포5길 33 1층,2층",
-    "rating": 4.5,
-    "description": {
-      "en": "A popular restaurant in Geoje, South Gyeongsang Province",
-      "ja": "경상남도 거제시의 인기 레스토랑",
-      "zh": "位于韩国南部庆尚南道的热门餐厅",
-      "vi": "Nhà hàng nổi tiếng ở Geoje, tỉnh Nam Gyeongsang",
-      "id": "Restoran populer di Geoje, Provinsi Gyeongsang Selatan"
-    },
-    "trend": {
-      "label": "거제 야호 맛집",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-16T05:13:48.216Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250607_3/1749262287429wEsyz_JPEG/KakaoTalk_Photo_2025-06-07-11-06-33_008.jpeg"
   },
   {
     "theme": "urban-nature",
@@ -13361,25 +13063,6 @@
     }
   },
   {
-    "theme": "k-food",
-    "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "seongdonggu"
-    },
-    "name": "서울 한우 맛집",
-    "address": "서울특별시 성동구 매봉길 48 101",
-    "rating": 4.5,
-    "description": {
-      "en": "A Korean restaurant in Seoul serving high-quality hanu",
-      "ja": "ソウルで韓国最高級のハヌを提供する韓国料理店",
-      "zh": "位于首尔的韩国餐厅，提供高品质的韩牛",
-      "vi": "Nhà hàng Hàn Quốc tại Seoul, phục vụ thịt bò Hàn Quốc chất lượng cao",
-      "id": "Restoran Korea di Seoul, menyajikan daging sapi korea berkualitas tinggi"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20240625_39/1719277509643gO6oX_JPEG/KakaoTalk_20240625_100254599_03.jpg"
-  },
-  {
     "theme": "hallyu",
     "region": {
       "province": "seoul",
@@ -13448,42 +13131,6 @@
       "id": ""
     },
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4srjjJwOe1TEMoyju6eVxZcMTq--mse4gUxD5OT1GZSSc6rGvnDwdjYvZzVy8FylJsT0eepx7ZZI4GjgnsN9xI0NIrTBRXVpyGRP1fcTRyXv8ZLG8AdvFFLsrhpD8vTCps18lQdsp2tAn=w408-h307-k-no"
-  },
-  {
-    "theme": "k-beauty",
-    "region": {
-      "province": "seoul"
-    },
-    "name": "검색 결과",
-    "address": "대한민국 서울특별시 중구 명동길 53",
-    "rating": 4,
-    "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
-    },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh7F8cN1g78zV1BCPJw0DfXOLOdIu0I7fq3v2mwDw7xfCo4q0zPp56S5evDT1g8XKgQP0j5H03aMwbQ1W6-occz4wCdfsvcwHkWPGNnLE5t8T-75psCzyvjN1y0eFTMUh5io-XI2_x6lB_=w800-h600-k-no"
-  },
-  {
-    "theme": "k-culture",
-    "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "jongno"
-    },
-    "name": "서울 전통시장",
-    "address": "서울특별시 종로구 청계천로 88",
-    "rating": 4.5,
-    "description": {
-      "en": "Seoul traditional market",
-      "ja": "ソウル伝統市場",
-      "zh": "首尔传统市场",
-      "vi": "Chợ truyền thống Seoul",
-      "id": "Pasar tradisional Seoul"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250116_94/1736989015029xrXeU_JPEG/%BB%E7%B7%AF%B0%A1_%B4%EB%C7%A5%BB%E7%C1%F82%28%BA%B8%C1%A4%29.jpg"
   },
   {
     "theme": "k-culture",
@@ -13653,25 +13300,6 @@
       "id": "Ini adalah pasar tradisional Korea yang terletak di Distrik Mapo, Seoul, menawarkan pengalaman belanja yang unik."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260625_25/1782371731070zV445_JPEG/IMG_1337.jpg"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "junggu"
-    },
-    "name": "다산로 돼지고기 맛집",
-    "address": "서울특별시 중구 다산로 232",
-    "rating": 4.5,
-    "description": {
-      "en": "A tasty pork restaurant in Seoul",
-      "ja": "ソウルでおいしい豚肉レストラン",
-      "zh": "首尔美味的猪肉餐厅",
-      "vi": "Nhà hàng thịt lợn ngon ở Seoul",
-      "id": "Restoran daging babi yang lezat di Seoul"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20220802_101/1659370765037AXLjm_JPEG/DD07CF1D-8EA2-4102-909C-B1733368C6E8.jpeg"
   },
   {
     "theme": "k-beauty",
@@ -13930,44 +13558,6 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20260620_4/1781895567569PKQ3e_JPEG/ChatGPT_Image_2026%B3%E2_6%BF%F9_20%C0%CF_%BF%C0%C0%FC_03_59_08_%283%29.jpg"
   },
   {
-    "theme": "k-food",
-    "region": {
-      "province": "busan",
-      "city": null,
-      "district": "suyeong"
-    },
-    "name": "광안해변 맛집",
-    "address": "부산광역시 수영구 광안해변로370번길 9-32",
-    "rating": 4.5,
-    "description": {
-      "en": "A restaurant located near Gwangalli Beach in Busan, serving fresh seafood",
-      "ja": "釜山の光安海岸近くにあるレストラン。新鮮な海鮮料理を楽しめる",
-      "zh": "位于釜山光安海滩附近的餐厅，提供新鲜的海鲜",
-      "vi": "Nhà hàng nằm gần Bãi biển Gwangalli ở Busan, phục vụ hải sản tươi sống",
-      "id": "Restoran di dekat Pantai Gwangalli di Busan, menyajikan hidangan laut yang segar"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20230829_137/1693282401170BAq7o_PNG/%B7%CE%B0%ED_%C1%A4%B9%E6%C7%FC.png"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "busan",
-      "city": null,
-      "district": "busanjin"
-    },
-    "name": "서면로 맛집",
-    "address": "부산광역시 부산진구 서면로 10",
-    "rating": 4.5,
-    "description": {
-      "en": "A restaurant located on Seomyeon-ro in Busan",
-      "ja": "釜山の서면로にあるレストラン",
-      "zh": "位于釜山西面路的餐厅",
-      "vi": "Nhà hàng nằm trên đường Seomyeon-ro ở Busan",
-      "id": "Restoran di Seomyeon-ro, Busan"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png"
-  },
-  {
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
@@ -14042,25 +13632,6 @@
       "id": "Klinik BLS Gangnam"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260225_182/1772003343382Ypmh4_JPEG/260220_B.%BA%EA%B7%A3%B5%E5_%B3%D7%C0%CC%B9%F6%C7%C3%B7%B9%C0%CC%BD%BA%28model_a%29_720x720_%281%29.jpg"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "yeongdeungpo-gu"
-    },
-    "name": "한우 맛집",
-    "address": "서울특별시 영등포구 여의대방로67길 9 지하 1층",
-    "rating": 4.5,
-    "description": {
-      "en": "Korean beef restaurant in Yeouido, Seoul",
-      "ja": "ソウル汝矣島にある韓国牛レストラン",
-      "zh": "位于首尔汝矣岛的韩式牛肉餐厅",
-      "vi": "Nhà hàng thịt bò Hàn Quốc ở Yeouido, Seoul",
-      "id": "Restoran daging sapi Korea di Yeouido, Seoul"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20260701_230/1782912350664WYu98_JPEG/IMG_8788.jpg"
   },
   {
     "theme": "k-beauty",

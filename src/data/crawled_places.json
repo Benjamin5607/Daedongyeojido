@@ -977,52 +977,6 @@
       "province": "경상남도",
       "city": "거제시"
     },
-    "name": "거제 음식점",
-    "address": "대한민국 경상남도 거제시 장평로 65 더킹마트 1층",
-    "rating": 4.5,
-    "description": {
-      "en": "Geoje Food Restaurant",
-      "ja": "거제食事店",
-      "zh": "거제餐厅",
-      "vi": "Nhà hàng Thực phẩm Geoje",
-      "id": "Restoran Makanan Geoje"
-    },
-    "trend": {
-      "label": "거제 트렌드",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-02T07:10:56.616Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250607_3/1749262287429wEsyz_JPEG/KakaoTalk_Photo_2025-06-07-11-06-33_008.jpeg"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시"
-    },
-    "name": "거제 음식",
-    "address": "경상남도 거제시 거제면 서정리 734-19",
-    "rating": 4.5,
-    "description": {
-      "en": "A popular food destination in Geoje, South Gyeongsang Province",
-      "ja": "慶尚南道 거제시の人気の食事の目的地",
-      "zh": "一个位于庆尚南道거제市的热门美食目的地",
-      "vi": "Một điểm đến ẩm thực nổi tiếng ở Geoje, tỉnh Nam Gyeongsang",
-      "id": "Tujuan makanan populer di Geoje, Provinsi Gyeongsang Selatan"
-    },
-    "trend": {
-      "label": "거제 음식",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-02T07:10:56.616Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250607_3/1749262287429wEsyz_JPEG/KakaoTalk_Photo_2025-06-07-11-06-33_008.jpeg"
-  },
-  {
-    "theme": "k-food",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시"
-    },
     "name": "거제도생선구이간장게장",
     "address": "경상남도 거제시 고현항4길 17",
     "rating": 4.5,

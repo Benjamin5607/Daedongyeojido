@@ -69,6 +69,7 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
   };
 
   const nameKo = resolveKoreanField(place.name);
+  const nameEn = typeof place.name === "string" ? place.name : place.name.en;
   const localizedName = resolveLocalizedField(place.name, locale);
   const address = resolveLocalizedField(place.address, locale);
   const description =
@@ -128,8 +129,13 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
               <h1 className="font-serif text-3xl font-semibold text-[var(--color-ink)] sm:text-4xl">
                 {nameKo}
               </h1>
-              {localizedName !== nameKo && (
-                <p className="mt-1 text-base text-[var(--color-muted)]">
+              {nameEn && nameEn !== nameKo && (
+                <p className="text-sm font-semibold text-stone-400 font-sans tracking-wide mt-1">
+                  {nameEn}
+                </p>
+              )}
+              {locale !== "en" && localizedName !== nameKo && localizedName !== nameEn && (
+                <p className="mt-1.5 text-base text-[var(--color-muted)]">
                   {localizedName}
                 </p>
               )}

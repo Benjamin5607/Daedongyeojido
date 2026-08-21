@@ -69,6 +69,7 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
   };
 
   const nameKo = resolveKoreanField(place.name);
+  const nameEn = typeof place.name === "string" ? place.name : place.name.en;
   const localizedName = resolveLocalizedField(place.name, locale);
   const address = resolveLocalizedField(place.address, locale);
   const description =
@@ -152,7 +153,12 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
               {nameKo}
             </h3>
           </Link>
-          {localizedName !== nameKo && (
+          {nameEn && nameEn !== nameKo && (
+            <p className="text-[11px] font-medium text-stone-400 font-sans tracking-wide mt-0.5">
+              {nameEn}
+            </p>
+          )}
+          {locale !== "en" && localizedName !== nameKo && localizedName !== nameEn && (
             <p className="mt-0.5 text-xs text-[var(--color-muted)]">{localizedName}</p>
           )}
           <div className="mt-2">

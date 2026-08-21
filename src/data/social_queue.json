@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-21T02:59:18.831Z",
+  "updatedAt": "2026-08-21T10:34:20.858Z",
   "items": [
+    {
+      "id": "sq_20260821103334_gk76m2",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "pow-camp-museum-gohyeon",
+      "theme": "k-culture",
+      "caption": "거제의 역사와 문화를 깊이 있게 경험하고 싶다면 포로수용소유적박물관을 방문해 보세요. 이곳은 전쟁의 참혹함과 당시 포로들이 겪었던 어려움을 생생하게 보여줍니다. \nThe POW Camp Museum in Geoje is a must-visit for those interested in history and culture. With its themed exhibits and original artifacts, it provides a unique glimpse into the lives of POWs during the war.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam \nhttps://daedongyeojido-nine.vercel.app/places/pow-camp-museum-gohyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/pow-camp-museum-gohyeon",
+      "score": 128,
+      "createdAt": "2026-08-21T10:33:34.597Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260821-pow-camp-museum-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-21T10:34:20.857Z",
+        "alt_text": "포로수용소유적박물관 (POW Camp Museum) — gohyeon, gyeongnam — k culture"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260821103222_vsces4",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-42",
+      "theme": "k-food",
+      "caption": "거제시에서 맛있는 음식을 즐길 수 있는 곳, 거제 맛집! \n경상남도 거제시의 인기 음식점에서 다양한 한국 음식을 맛보세요. \nA popular restaurant in Geoje, South Gyeongsang Province, offering a variety of Korean dishes.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호맛집 #TravelTrend #Foodie \nhttps://daedongyeojido-nine.vercel.app/places/place-42",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250607_3/1749262287429wEsyz_JPEG/KakaoTalk_Photo_2025-06-07-11-06-33_008.jpeg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-42",
+      "score": 145,
+      "createdAt": "2026-08-21T10:32:22.269Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260821-place-42",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-21T10:33:56.588Z",
+        "alt_text": "Pixar-style travel illustration of 거제 맛집 — 경상남도 — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260821025733_k76dnq",
       "status": "exported",

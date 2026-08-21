@@ -136,7 +136,12 @@ function PlannerContent() {
       }
       return day;
     });
-    saveToLocal(next);
+    
+    // Immediately save and force render update
+    setSchedule(next);
+    if (!isSharedView) {
+      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(next));
+    }
   };
 
   const handleShareTrip = () => {

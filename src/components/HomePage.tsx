@@ -100,7 +100,7 @@ export function HomePage() {
             </div>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img 
-              src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdaedongyeojido-nine.vercel.app&count_bg=%2316a34a&title_bg=%231c1917&icon=&icon_color=%23E6E6E6&title=hits&edge_flat=false" 
+              src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fdaedongyeojido-nine.vercel.app&label=hits&color=%2316a34a" 
               alt="Hits Counter" 
               className="h-6 object-contain"
             />

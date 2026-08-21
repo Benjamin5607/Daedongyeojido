@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260821025418_9r1omv",
+  "slug": "geoje-pow-camp-park-gohyeon",
+  "theme": "k-culture",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느, 섭외 못해서 안달인데..막상 나왔더니 토크 금지령(놀토)새 창  · 리센느 '놀토' 출격…04년생 원이, 막내 제나에 \"너 몇년생이야\"새 창 · ‘1박 2일’ 김종민 “이런 규칙 왜 만든 거야”새 창 열림 · 日아이돌이 애국가, 日엔 한국인 북적…‘노재팬’ 사라진 광복절새 창 열림 · ‘덕연이 딸’ 리센느 원이, 더 핫한 母 인기에 어질..“피부과 목격담. · 리센느 원이, 태연 성공한 덕후 “아이돌계 이미자” 신동엽 비유 ‘폭.. · 리센느 원이 “엄마가 더 연예인 돼, 피부과 다녀갔다고 올라와” (놀토. · 리센느 원이 “소고기 부위 가격 상관없이 항시 먹어 인기 실감” (놀토. · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+    "updatedAt": "2026-08-16T03:02:39.154Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-21 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of 거제포로수용소유적공원 (Geoje POW Camp Park) — gohyeon, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제포로수용소유적공원",
+    "en": "Geoje POW Camp Park"
+  },
+  "descriptionEn": "Living history park on Korea's largest Korean War POW camp site.",
+  "exportedAt": "2026-08-21T02:58:18.000Z"
+}

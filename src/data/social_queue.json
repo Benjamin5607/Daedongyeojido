@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-21T10:34:20.858Z",
+  "updatedAt": "2026-08-22T02:51:43.825Z",
   "items": [
+    {
+      "id": "sq_20260822025003_txxaju",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-19",
+      "theme": "urban-nature",
+      "caption": "바람의 언덕은 경상남도 거제시 남부면에 위치한 아름다운 언덕입니다. 도시와 자연이 어우러진 이곳은 여행객들에게 평화로운 휴식을 제공합니다.\nBaramui Eundeok, or Hill of Wind, is a scenic hill in Nam-myeon, Geoje-si, Gyeongsangnam-do. This urban-nature blend offers a peaceful getaway for travelers. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #옥포 #TravelTrend #경상남도 #거제시 \nhttps://daedongyeojido-nine.vercel.app/places/place-19",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-19",
+      "score": 152,
+      "createdAt": "2026-08-22T02:50:03.322Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260822-place-19",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-22T02:51:43.824Z",
+        "alt_text": "Pixar-style travel illustration of 바람의 언덕 — 남부면, 경상남도 — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260822024719_3bcv2m",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "okpo-great-victory-park-okpo",
+      "theme": "k-culture",
+      "caption": "옥포대첩기념공원은 임진왜란 당시 이순신 장군의 첫 번째 승리를 기념하기 위해 조성된 공원입니다. 거제도 옥포에 위치해 있는 이 공원은 한국 문화와 역사에 관심이 있는 사람들에게 추천할 만한 곳입니다.\nOkpo Great Victory Park is a memorial to Admiral Yi Sun-sin's first victory in the Imjin War. Located in Okpo, Geoje, it's a must-visit for those interested in Korean culture and history. \n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam\nhttps://daedongyeojido-nine.vercel.app/places/okpo-great-victory-park-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_226/1441007202798kxPiU_JPEG/116364497038543_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/okpo-great-victory-park-okpo",
+      "score": 153,
+      "createdAt": "2026-08-22T02:47:19.421Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260822-okpo-great-victory-park-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-22T02:51:04.470Z",
+        "alt_text": "Pixar-style travel illustration of 옥포대첩기념공원 (Okpo Great Victory Park) — okpo, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260821103334_gk76m2",
       "status": "exported",

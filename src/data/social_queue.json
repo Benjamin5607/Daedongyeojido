@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-23T03:05:53.496Z",
+  "updatedAt": "2026-08-23T10:34:51.897Z",
   "items": [
+    {
+      "id": "sq_20260823103247_9xzw2m",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-29",
+      "theme": "k-culture",
+      "caption": "모래성분식 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-29\n\n모래성분식\nA restaurant with a beautiful ocean view in Deokpo-dong, Geoje\nGuide: https://daedongyeojido-nine.vercel.app/places/place-29\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260524_8/1779610268305FXo03_JPEG/1000034889.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-29",
+      "score": 127,
+      "createdAt": "2026-08-23T10:32:47.903Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260823-place-29",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-23T10:34:51.896Z",
+        "alt_text": "Pixar-style travel illustration of 모래성분식 — 덕포동, 경상남도 — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260823102747_6gklgm",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "geoje-cable-car-dongbu",
+      "theme": "urban-nature",
+      "caption": "거제 케이블카에서 바라보는 경남의 아름다운 풍경을 즐기세요. \n거제 케이블카는 1.56km의 파노라마 케이블카로, 크리스탈 유리 바닥의 객실을 갖추고 있어 하늘과 바다를 한 눈에 볼 수 있습니다. \n오후 6시 30분 이후에 방문하시면 더욱 멋진 풍경을 감상하실 수 있습니다.\nEnglish: Enjoy the beautiful scenery of Gyeongnam at Geoje Cable Car. \nThe 1.56 km panorama cable car features crystal glass-floor cabins, offering a breathtaking view of the sky and sea. \nVisit after 6:30 PM for an even more stunning experience.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam \nhttps://daedongyeojido-nine.vercel.app/places/geoje-cable-car-dongbu",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260419_39/1776570625866ImNni_JPEG/007-5.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-cable-car-dongbu",
+      "score": 128,
+      "createdAt": "2026-08-23T10:27:47.123Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260823-geoje-cable-car-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-23T10:34:28.290Z",
+        "alt_text": "거제케이블카 (Geoje Cable Car) — dongbu, gyeongnam — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260823030404_jxc5os",
       "status": "exported",

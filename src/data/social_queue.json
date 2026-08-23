@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-22T10:31:47.950Z",
+  "updatedAt": "2026-08-23T03:05:53.496Z",
   "items": [
+    {
+      "id": "sq_20260823030404_jxc5os",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-30",
+      "theme": "urban-nature",
+      "caption": "옥포 대중탕 — 「거제 야호 맛집」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-30\n\n옥포 대중탕\nA sauna and public bathhouse in Okpo, Geoje, South Gyeongsang Province\nGuide: https://daedongyeojido-nine.vercel.app/places/place-30\n🔥 Trend: 거제 야호 맛집\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호맛집 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20171029_37/1509275019327O29KX_JPEG/u8VuIxTihWCfpFTS629Uc30C.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-30",
+      "score": 152,
+      "createdAt": "2026-08-23T03:04:04.813Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260823-place-30",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-23T03:05:53.495Z",
+        "alt_text": "Pixar-style travel illustration of 옥포 대중탕 — 옥포동, 경상남도 — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260823025904_2rw3aq",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "maemi-castle-jangmok",
+      "theme": "k-culture",
+      "caption": "매미성 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/maemi-castle-jangmok\n\nMaemi Castle\nStone wall built by one fisherman after Typhoon Maemi.\nGuide: https://daedongyeojido-nine.vercel.app/places/maemi-castle-jangmok\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251002_253/1759385151619lLF2D_JPEG/P1000362.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/maemi-castle-jangmok",
+      "score": 153,
+      "createdAt": "2026-08-23T02:59:04.023Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260823-maemi-castle-jangmok",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-23T03:04:30.689Z",
+        "alt_text": "Pixar-style travel illustration of 매미성 (Maemi Castle) — jangmok, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260822103100_apktk9",
       "status": "exported",

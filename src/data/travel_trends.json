@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-16T03:02:39.154Z",
+  "updatedAt": "2026-08-23T03:03:10.421Z",
   "articleCount": 12,
   "signals": [
     {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 리센느, 섭외 못해서 안달인데..막상 나왔더니 토크 금지령(놀토)새 창  · 리센느 '놀토' 출격…04년생 원이, 막내 제나에 \"너 몇년생이야\"새 창 · ‘1박 2일’ 김종민 “이런 규칙 왜 만든 거야”새 창 열림 · 日아이돌이 애국가, 日엔 한국인 북적…‘노재팬’ 사라진 광복절새 창 열림 · ‘덕연이 딸’ 리센느 원이, 더 핫한 母 인기에 어질..“피부과 목격담. · 리센느 원이, 태연 성공한 덕후 “아이돌계 이미자” 신동엽 비유 ‘폭.. · 리센느 원이 “엄마가 더 연예인 돼, 피부과 다녀갔다고 올라와” (놀토. · 리센느 원이 “소고기 부위 가격 상관없이 항시 먹어 인기 실감” (놀토. · ‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리... · [전원생활 8월호] 대중탕·소셜 사우나…목욕의 재발견새 창 열림 · 손나은 \"'김부장 야~호' 포즈, 사실 잘 몰라…이대휘 덕에 MZ됐다\"  · [임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기새",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
       "score": 100,
       "regionHints": [
         "거제",
@@ -34,80 +34,102 @@
       "queryCount": 8
     },
     {
-      "label": "거제 야호",
-      "source": "리센느",
-      "score": 80,
+      "label": "양양 서피비치",
+      "source": "이슈현장",
+      "score": 90,
       "regionHints": [
-        "거제"
+        "양양"
       ],
       "placeHints": [
-        "리센느"
-      ],
-      "theme": "k-culture",
-      "queryCount": 1
-    },
-    {
-      "label": "거제 야호 맛집",
-      "source": "스페셜리",
-      "score": 70,
-      "regionHints": [
-        "거제"
-      ],
-      "placeHints": [
-        "거제 야호 맛집"
-      ],
-      "theme": "k-food",
-      "queryCount": 1
-    },
-    {
-      "label": "옥포",
-      "source": "전원생활",
-      "score": 60,
-      "regionHints": [
-        "옥포"
-      ],
-      "placeHints": [
-        "대중탕"
+        "서피비치"
       ],
       "theme": "urban-nature",
       "queryCount": 1
     },
     {
-      "label": "거제 모래성포차",
-      "source": "놀토",
-      "score": 50,
+      "label": "거제 야호",
+      "source": "다스",
+      "score": 80,
       "regionHints": [
         "거제"
       ],
       "placeHints": [
         "모래성포차"
       ],
+      "theme": "k-culture",
+      "queryCount": 1
+    },
+    {
+      "label": "리센느 거제",
+      "source": "포켓몬 카드",
+      "score": 70,
+      "regionHints": [
+        "거제"
+      ],
+      "placeHints": [
+        "센트레빌 아스테리움 거제"
+      ],
+      "theme": "k-culture",
+      "queryCount": 1
+    },
+    {
+      "label": "양양 하조대",
+      "source": "이슈현장",
+      "score": 60,
+      "regionHints": [
+        "양양"
+      ],
+      "placeHints": [
+        "하조대 보행로"
+      ],
+      "theme": "urban-nature",
+      "queryCount": 1
+    },
+    {
+      "label": "청정원",
+      "source": "호밍스 초간편 국물요리",
+      "score": 50,
+      "regionHints": [
+        "강원"
+      ],
+      "placeHints": [
+        "청정원"
+      ],
       "theme": "k-food",
       "queryCount": 1
     },
     {
       "label": "거제 트렌드",
-      "source": "리센느, 섭외 못해서 안달인데..막상 나왔더니 토크 금지령(놀토)새 창 열림",
+      "source": "다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창 열림",
       "score": 40,
       "regionHints": [
         "거제"
       ],
       "placeHints": [],
       "theme": "hallyu",
-      "queryCount": 1
+      "queryCount": 0
     },
     {
-      "label": "거제 리센느",
-      "source": "신동엽",
+      "label": "양양 트렌드",
+      "source": "[이슈현장] '20년 방치' 양양 하조대 보행로 정비 착수새 창 열림",
       "score": 40,
       "regionHints": [
-        "거제"
+        "양양"
       ],
-      "placeHints": [
-        "리센느"
+      "placeHints": [],
+      "theme": "hallyu",
+      "queryCount": 0
+    },
+    {
+      "label": "제주 트렌드",
+      "source": "어디서나 고개만 들면 후지산이 한눈에···시즈오카서 외치다 '후지 야...새 창 열림",
+      "score": 40,
+      "regionHints": [
+        "제주"
       ],
-      "theme": "k-culture",
-      "queryCount": 1
+      "placeHints": [],
+      "theme": "hallyu",
+      "queryCount": 0
     }
   ],
   "priorityQueries": [
@@ -152,26 +174,31 @@
       "trendLabel": "거제 야호!"
     },
     {
+      "theme": "urban-nature",
+      "query": "양양 서피비치",
+      "trendLabel": "양양 서피비치"
+    },
+    {
       "theme": "k-culture",
-      "query": "거제 리센느",
+      "query": "거제 모래성포차",
       "trendLabel": "거제 야호"
     },
     {
+      "theme": "k-culture",
+      "query": "센트레빌 아스테리움 거제",
+      "trendLabel": "리센느 거제"
+    },
+    {
+      "theme": "urban-nature",
+      "query": "양양 하조대 보행로",
+      "trendLabel": "양양 하조대"
+    },
+    {
       "theme": "k-food",
-      "query": "거제 야호 맛집",
-      "trendLabel": "거제 야호 맛집"
-    },
-    {
-      "theme": "urban-nature",
-      "query": "옥포 대중탕",
-      "trendLabel": "옥포"
-    },
-    {
-      "theme": "urban-nature",
-      "query": "거제 관광지",
-      "trendLabel": "거제 트렌드"
+      "query": "청정원 호밍스 초간편 국물요리",
+      "trendLabel": "청정원"
     }
   ],
   "matchedExistingCount": 21,
-  "regionBoostCount": 95
+  "regionBoostCount": 91
 }

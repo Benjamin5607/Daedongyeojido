@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-24T03:08:55.531Z",
+  "updatedAt": "2026-08-24T10:49:14.046Z",
   "items": [
+    {
+      "id": "sq_20260824104359_teo575",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "haegeumgang-theme-museum-nambugmyeon",
+      "theme": "k-culture",
+      "caption": "해금강테마박물관은 거제도에서 경험할 수 있는 한국의 아름다운 문화를 소개합니다. 이곳에서는 해금강의 아름다운 풍경을 감상할 수 있는 인터랙티브 전시회를 즐길 수 있습니다.\nHaegeumgang Theme Museum introduces the beautiful culture of Korea in Geoje Island. The museum features interactive exhibits about the national scenic Haegeumgang islets.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam \nhttps://daedongyeojido-nine.vercel.app/places/haegeumgang-theme-museum-nambugmyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_70/1441015743532WU5wh_JPEG/SUBMIT_1338260858475_12360135.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/haegeumgang-theme-museum-nambugmyeon",
+      "score": 127,
+      "createdAt": "2026-08-24T10:43:59.654Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260824-haegeumgang-theme-museum-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-24T10:49:14.045Z",
+        "alt_text": "해금강테마박물관 (Haegeumgang Theme Museum) — nambugmyeon, gyeongnam — k culture"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260824104158_72yo6g",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "place-18",
+      "theme": "urban-nature",
+      "caption": "거제 해금강 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-18\n\n거제 해금강\nGeojehaegumgang is a popular tourist destination in Geoje, South Gyeongsang Province.\nGuide: https://daedongyeojido-nine.vercel.app/places/place-18\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20210806_256/1628212825847tAeLT_JPEG/%BF%DC%B5%B5_%C5%AC%B8%B0%BA%BB_0506_01.mp4_20210806_101457.640.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-18",
+      "score": 127,
+      "createdAt": "2026-08-24T10:41:58.760Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260824-place-18",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-24T10:46:31.963Z",
+        "alt_text": "거제 해금강 — 장승포동, 경상남도 — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260824030145_clej9l",
       "status": "exported",

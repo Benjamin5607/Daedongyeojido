@@ -1,0 +1,14 @@
+Manual upload checklist (Instagram / Facebook)
+============================================
+
+1. Open image.jpg and upload as a feed photo.
+2. Paste caption.txt into the caption field (KO block first, then EN + hashtags).
+3. Set alt text from meta.json → alt_text (accessibility).
+4. Suggested post time (KST): 2026-08-25 19:00 (evening slot).
+
+AI disclosure:
+  AI-assisted: Emily travel illustration (img2img from source.jpg) + caption (NVIDIA NIM) (is_ai_generated: true).
+  If Meta/IG shows an “AI-generated” checkbox, check it when posting.
+
+5. After posting, optionally mark the queue item published locally,
+   or leave it as draft/exported for your own tracking.

@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260827201002_gc7u0l",
+  "slug": "yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+  "theme": "k-food",
+  "format": "series",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": true,
+  "caption_ai_generated": false,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-27 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Pixar-style travel illustration of Yeongwol Buckwheat Makguksu Corner — yeongwol-eup, gangwon — k food, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#gangwon"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Yeongwol Buckwheat Makguksu Corner",
+    "en": "Yeongwol Buckwheat Makguksu Corner"
+  },
+  "descriptionEn": "Hand-cut buckwheat noodles in a garage-turned-kitchen — Naver reviewers swear by it; Google has no menu.",
+  "exportedAt": "2026-08-27T20:10:56.326Z"
+}

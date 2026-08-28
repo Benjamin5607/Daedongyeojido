@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-27T20:10:56.327Z",
+  "updatedAt": "2026-08-28T13:35:02.357Z",
   "items": [
+    {
+      "id": "sq_20260828132937_i2dh0r",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "suncheon-bay-reed-hidden-boardwalk-suncheon-si",
+      "theme": "urban-nature",
+      "caption": "Suncheon Bay Reed Hidden Boardwalk\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/suncheon-bay-reed-hidden-boardwalk-suncheon-si\n\nSuncheon Bay Reed Hidden Boardwalk\nUnmarked reed boardwalk locals prefer over tourist routes — pinned on Naver ecology blogs, not Google wetlands.\n“Very pretty scenery.”\nGuide: https://daedongyeojido-nine.vercel.app/places/suncheon-bay-reed-hidden-boardwalk-suncheon-si\n\nTraveler note: Very pretty scenery.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #jeonnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260412_30/1776002899195qrlYw_JPEG/KakaoTalk_20260312_153759613_18.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/suncheon-bay-reed-hidden-boardwalk-suncheon-si",
+      "score": 76,
+      "createdAt": "2026-08-28T13:29:37.960Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260828-suncheon-bay-reed-hidden-boardwalk-suncheon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-28T13:35:02.356Z",
+        "alt_text": "Suncheon Bay Reed Hidden Boardwalk — suncheon-si, jeonnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260828132937_kttyyb",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "theme": "k-food",
+      "caption": "Tongyeong Chungmu Kimbap Back Alley\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/tongyeong-chungmu-kimbap-back-alley-bongpyeong\n\nTongyeong Chungmu Kimbap Back Alley\nRadish-heavy Chungmu kimbap locals eat dockside — pinned on Naver seafood blogs, not Google fish markets.\n“싱싱힌 남해해산물”\nGuide: https://daedongyeojido-nine.vercel.app/places/tongyeong-chungmu-kimbap-back-alley-bongpyeong\n\nTraveler note: 싱싱힌 남해해산물\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_282/1441021614858MOy5P_JPEG/11694124_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "score": 76,
+      "createdAt": "2026-08-28T13:29:37.868Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260828-tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-28T13:32:03.652Z",
+        "alt_text": "Tongyeong Chungmu Kimbap Back Alley — bongpyeong, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260827201002_gc7u0l",
       "status": "exported",

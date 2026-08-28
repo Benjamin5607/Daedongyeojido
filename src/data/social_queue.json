@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-28T13:35:02.357Z",
+  "updatedAt": "2026-08-28T21:13:59.595Z",
   "items": [
+    {
+      "id": "sq_20260828210718_c3ipo1",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "namwon-chunhyang-gukbap-backstreet-namwon-si",
+      "theme": "k-food",
+      "caption": "Namwon Chunhyang Gukbap Backstreet\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/namwon-chunhyang-gukbap-backstreet-namwon-si\n\nNamwon Chunhyang Gukbap Backstreet\nLocals skip tourist strips for this gukbap backstreet — Naver Map ratings only, not Google lists.\n“Namwon Station – A Welcoming Gateway to the Cultural City of Jeollabuk-do Namwon Station, located in Namwon City, Jeollabuk-do, serves as a central transportat…”\nGuide: https://daedongyeojido-nine.vercel.app/places/namwon-chunhyang-gukbap-backstreet-namwon-si\n\nTraveler note: Namwon Station – A Welcoming Gateway to the Cultural City of Jeollabuk-do Namwon Station, located in Namwon City, Jeollabuk-do, serves as a central transportat…\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonbuk",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250328_11/17431268478575ocDv_JPEG/%BF%F9%B3%B2%BD%D3.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/namwon-chunhyang-gukbap-backstreet-namwon-si",
+      "score": 94,
+      "createdAt": "2026-08-28T21:07:18.145Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260828-namwon-chunhyang-gukbap-backstreet-namwon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-28T21:13:59.594Z",
+        "alt_text": "Namwon Chunhyang Gukbap Backstreet — namwon-si, jeonbuk — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260828210718_re08dh",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "theme": "k-food",
+      "caption": "Suncheon Bay Salted Shrimp Porridge Shop\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si\n\nSuncheon Bay Salted Shrimp Porridge Shop\nSalted-shrimp porridge before the wetland tourists wake — ranked on Naver Map, not Google food lists.\n“Very pretty scenery.”\nGuide: https://daedongyeojido-nine.vercel.app/places/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si\n\nTraveler note: Very pretty scenery.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260412_30/1776002899195qrlYw_JPEG/KakaoTalk_20260312_153759613_18.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "score": 94,
+      "createdAt": "2026-08-28T21:07:18.074Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260828-suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-28T21:10:45.933Z",
+        "alt_text": "Suncheon Bay Salted Shrimp Porridge Shop — suncheon-si, jeonnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260828132937_i2dh0r",
       "status": "exported",

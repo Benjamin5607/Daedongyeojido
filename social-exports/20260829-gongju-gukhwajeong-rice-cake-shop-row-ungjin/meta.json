@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260829145628_sgwr6l",
+  "slug": "gongju-gukhwajeong-rice-cake-shop-row-ungjin",
+  "theme": "k-food",
+  "format": "series",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-29 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Gongju Gukhwajeong Rice Cake Shop Row — ungjin, chungnam — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#chungnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=1200&q=80",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Gongju Gukhwajeong Rice Cake Shop Row",
+    "en": "Gongju Gukhwajeong Rice Cake Shop Row"
+  },
+  "descriptionEn": "Centuries-old rice cake shops on a quiet lane — Naver food heritage posts, not Google bakeries.",
+  "exportedAt": "2026-08-29T15:02:32.392Z"
+}

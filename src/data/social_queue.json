@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-29T08:30:48.238Z",
+  "updatedAt": "2026-08-29T15:02:32.393Z",
   "items": [
+    {
+      "id": "sq_20260829145628_sgwr6l",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "gongju-gukhwajeong-rice-cake-shop-row-ungjin",
+      "theme": "k-food",
+      "caption": "Gongju Gukhwajeong Rice Cake Shop Row\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/gongju-gukhwajeong-rice-cake-shop-row-ungjin\n\nGongju Gukhwajeong Rice Cake Shop Row\nCenturies-old rice cake shops on a quiet lane — Naver food heritage posts, not Google bakeries.\n“공주에 온김에 유명 하다고 해서 먹어본 알밤모찌. 쑥개떡. 약식 알밤모찌는 예상한 맛 난 오히려 약식과 쑥개떡이 더 맛있었음”\nGuide: https://daedongyeojido-nine.vercel.app/places/gongju-gukhwajeong-rice-cake-shop-row-ungjin\n\nTraveler note: 공주에 온김에 유명 하다고 해서 먹어본 알밤모찌. 쑥개떡. 약식 알밤모찌는 예상한 맛 난 오히려 약식과 쑥개떡이 더 맛있었음\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #chungnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkoZDz_f24pVH8x85pNm_7ZmAuLQri83xJNjYMdpaYwC3I8YAKf4oiin07sG_-BFQp3tnr_HLmPjeOG2ytJJamqW_ur94qHOLlOQxFJpbD17Che8K3TAkc6SfihTy76SoKRZYtQj0aGKgdU=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/gongju-gukhwajeong-rice-cake-shop-row-ungjin",
+      "score": 94,
+      "createdAt": "2026-08-29T14:56:28.564Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260829-gongju-gukhwajeong-rice-cake-shop-row-ungjin",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-29T15:02:32.392Z",
+        "alt_text": "Gongju Gukhwajeong Rice Cake Shop Row — ungjin, chungnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260829145628_97m7te",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "jecheon-medicinal-herb-baeksuk-house-jecheon-si",
+      "theme": "k-food",
+      "caption": "Jecheon Medicinal Herb Baeksuk House\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/jecheon-medicinal-herb-baeksuk-house-jecheon-si\n\nJecheon Medicinal Herb Baeksuk House\nSlow-simmered chicken with mountain herbs — a Naver wellness blog staple, absent from Google restaurant search.\n“축제때못가봐서 친구와방문했는데 친구들과같이힐링하면서 내년에다시오길약속하면서~~~ 다시재방문 이곳저곳잘돌아보고왔네요”\nGuide: https://daedongyeojido-nine.vercel.app/places/jecheon-medicinal-herb-baeksuk-house-jecheon-si\n\nTraveler note: 축제때못가봐서 친구와방문했는데 친구들과같이힐링하면서 내년에다시오길약속하면서~~~ 다시재방문 이곳저곳잘돌아보고왔네요\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #chungbuk",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260519_174/1779158991088Bh3Ve_JPEG/%BD%BA%C5%A9%B8%B0%BC%A6_2021-12-29_%BF%C0%C0%FC_11.24.40.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/jecheon-medicinal-herb-baeksuk-house-jecheon-si",
+      "score": 94,
+      "createdAt": "2026-08-29T14:56:28.484Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260829-jecheon-medicinal-herb-baeksuk-house-jecheon-si",
+        "imageFile": "image.png",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-29T14:58:58.560Z",
+        "alt_text": "Jecheon Medicinal Herb Baeksuk House — jecheon-si, chungbuk — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260829082334_43dgt7",
       "status": "exported",

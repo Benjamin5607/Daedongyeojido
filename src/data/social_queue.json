@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-28T21:13:59.595Z",
+  "updatedAt": "2026-08-29T08:30:48.238Z",
   "items": [
+    {
+      "id": "sq_20260829082334_43dgt7",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "mungyeong-omija-valley-syrup-shop-mungyeong-si",
+      "theme": "k-food",
+      "caption": "Mungyeong Omija Valley Syrup Shop\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/mungyeong-omija-valley-syrup-shop-mungyeong-si\n\nMungyeong Omija Valley Syrup Shop\nHomemade omija syrup and mountain-herb drinks — pinned on Naver foraging blogs, not Google cafes.\n“무더위에 겨울느낌~”\nGuide: https://daedongyeojido-nine.vercel.app/places/mungyeong-omija-valley-syrup-shop-mungyeong-si\n\nTraveler note: 무더위에 겨울느낌~\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongbuk",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnB_S02JyiWtDki_J2z-Maxtx-0OQmsm2UxmnvgMUDRkOo0gFzlcyDISifOxDTchDazZHX2bfYVFKrn7t7RgRCFZl58ZMmY_qzgsw2MCG7EqjrVlxksoalujPg0eMF31KaxTo7_=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/mungyeong-omija-valley-syrup-shop-mungyeong-si",
+      "score": 76,
+      "createdAt": "2026-08-29T08:23:34.565Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260829-mungyeong-omija-valley-syrup-shop-mungyeong-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-29T08:30:48.236Z",
+        "alt_text": "Mungyeong Omija Valley Syrup Shop — mungyeong-si, gyeongbuk — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260829082334_6jaf8r",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "tongdosa-temple",
+      "theme": "urban-nature",
+      "caption": "경상남도 양산시 통도사로 108\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/tongdosa-temple\n\nTongdosa Temple\nAncient temple forest locals hike on weekday mornings — trail notes on Naver hiking blogs, not Google.\nGuide: https://daedongyeojido-nine.vercel.app/places/tongdosa-temple\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20160104_222/1451872482626b84QL_JPEG/176054508461501_0.jpeg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/tongdosa-temple",
+      "score": 76,
+      "createdAt": "2026-08-29T08:23:34.460Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260829-tongdosa-temple",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-29T08:27:23.466Z",
+        "alt_text": "경상남도 양산시 통도사로 108 (Tongdosa Temple) — 통도사, gyeongnam — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260828210718_c3ipo1",
       "status": "exported",

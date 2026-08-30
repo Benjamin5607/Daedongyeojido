@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260830144220_dy9f1h",
+  "slug": "byeollae-dolsot-bibimbap-house-byeollae",
+  "theme": "k-food",
+  "format": "series",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": true,
+  "caption_ai_generated": false,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-30 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Pixar-style travel illustration of Byeollae Dolsot Bibimbap House — byeollae, gyeonggi — k food, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#gyeonggi"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Byeollae Dolsot Bibimbap House",
+    "en": "Byeollae Dolsot Bibimbap House"
+  },
+  "descriptionEn": "Family-run dolsot bibimbap spot known only through Naver blog roundups of new-town hidden eats.",
+  "exportedAt": "2026-08-30T14:42:41.952Z"
+}

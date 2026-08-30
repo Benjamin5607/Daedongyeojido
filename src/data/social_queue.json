@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-29T15:02:32.393Z",
+  "updatedAt": "2026-08-30T14:43:14.620Z",
   "items": [
+    {
+      "id": "sq_20260830144220_mleet3",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "yeosu-dolsan-bridge-dawn-raw-fish-alley-dolsan",
+      "theme": "k-food",
+      "caption": "Yeosu Dolsan Bridge Dawn Raw Fish Alley\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/yeosu-dolsan-bridge-dawn-raw-fish-alley-dolsan\n\nYeosu Dolsan Bridge Dawn Raw Fish Alley\nFishermen sell dawn-caught sashimi from garage stalls — Naver seafood blogs only, not Google fish markets.\n“1984年に開通した麗水の市街地と突山島を結ぶ全長約450mの斜張橋です。麗水を代表するランドマークの一つで、昼間の海の景色はもちろん、夜景の美しさで特に有名です。 夜になるとカラフルなLED照明でライトアップされ、麗水港とともに幻想的な景色を楽しめます。橋のたもとにある突山公園の展望台からは、橋全体と港を見渡せるた…”\nGuide: https://daedongyeojido-nine.vercel.app/places/yeosu-dolsan-bridge-dawn-raw-fish-alley-dolsan\n\nTraveler note: 1984年に開通した麗水の市街地と突山島を結ぶ全長約450mの斜張橋です。麗水を代表するランドマークの一つで、昼間の海の景色はもちろん、夜景の美しさで特に有名です。 夜になるとカラフルなLED照明でライトアップされ、麗水港とともに幻想的な景色を楽しめます。橋のたもとにある突山公園の展望台からは、橋全体と港を見渡せるた…\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkoifASuuUfdErTMoYB8KYUu6E6yKm_LidtqQns86kKgcGZaotcHfft0T_9Hvy9xVVim9W5mvgRSs3Cx6Q9xjz0hJSpsIq3-dBQSflipbW22GMWCvzpB6TlYW9rZY9OUy8hBRhF=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/yeosu-dolsan-bridge-dawn-raw-fish-alley-dolsan",
+      "score": 93,
+      "createdAt": "2026-08-30T14:42:20.527Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260830-yeosu-dolsan-bridge-dawn-raw-fish-alley-dolsan",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-08-30T14:43:14.618Z",
+        "alt_text": "Yeosu Dolsan Bridge Dawn Raw Fish Alley — dolsan, jeonnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260830144220_dy9f1h",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "byeollae-dolsot-bibimbap-house-byeollae",
+      "theme": "k-food",
+      "caption": "Byeollae Dolsot Bibimbap House\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/byeollae-dolsot-bibimbap-house-byeollae\n\nByeollae Dolsot Bibimbap House\nFamily-run dolsot bibimbap spot known only through Naver blog roundups of new-town hidden eats.\n“굴림만두전골 주문했는데, 만두도 맛있고 샤브칼국수도 맛있었어요!! 후식으로 슬러시랑 뻥튀기까지 제공되서 좋아요 👍”\nGuide: https://daedongyeojido-nine.vercel.app/places/byeollae-dolsot-bibimbap-house-byeollae\n\nTraveler note: 굴림만두전골 주문했는데, 만두도 맛있고 샤브칼국수도 맛있었어요!! 후식으로 슬러시랑 뻥튀기까지 제공되서 좋아요 👍\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeonggi",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20241209_38/1733725429602qOGqi_JPEG/1000001972.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/byeollae-dolsot-bibimbap-house-byeollae",
+      "score": 94,
+      "createdAt": "2026-08-30T14:42:20.331Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260830-byeollae-dolsot-bibimbap-house-byeollae",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-08-30T14:42:41.952Z",
+        "alt_text": "Pixar-style travel illustration of Byeollae Dolsot Bibimbap House — byeollae, gyeonggi — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260829145628_sgwr6l",
       "status": "exported",

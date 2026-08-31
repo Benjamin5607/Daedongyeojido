@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260831172447_dpczfx",
+  "slug": "yeongju-punggi-ginseng-chicken-baeksuk-house-punggi",
+  "theme": "k-food",
+  "format": "place_card",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-08-31 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Yeongju Punggi Ginseng Chicken Baeksuk House — punggi, gyeongbuk — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#gyeongbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20190523_35/1558601935885SQ5qg_JPEG/BUcO2FqYHhsMyP_v4YhuzRVg.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Yeongju Punggi Ginseng Chicken Baeksuk House",
+    "en": "Yeongju Punggi Ginseng Chicken Baeksuk House"
+  },
+  "descriptionEn": "Ginseng-chicken baeksuk in a mountain village kitchen — Naver wellness food blogs, not Google restaurants.",
+  "exportedAt": "2026-08-31T17:33:27.492Z"
+}

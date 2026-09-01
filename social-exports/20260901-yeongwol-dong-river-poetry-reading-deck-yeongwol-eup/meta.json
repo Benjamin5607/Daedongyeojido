@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260901065613_02swcn",
+  "slug": "yeongwol-dong-river-poetry-reading-deck-yeongwol-eup",
+  "theme": "k-culture",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-01 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Yeongwol Dong River Poetry Reading Deck — yeongwol-eup, gangwon — k culture",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#gangwon"
+  ],
+  "imageFile": "image.png",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20190323_73/15533478432718qkh6_PNG/saemakgol_naver_SAEMAKGOL-17.png",
+  "imageContentType": "image/png",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Yeongwol Dong River Poetry Reading Deck",
+    "en": "Yeongwol Dong River Poetry Reading Deck"
+  },
+  "descriptionEn": "Riverside deck where locals host monthly poetry nights — calendar on Naver cafés, not Google culture calendars.",
+  "exportedAt": "2026-09-01T07:05:12.922Z"
+}

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-01T07:05:12.923Z",
+  "updatedAt": "2026-09-01T14:41:09.835Z",
   "items": [
+    {
+      "id": "sq_20260901143311_sf9f8q",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "wongok-halmae-jjambbong-alley-wongok",
+      "theme": "k-food",
+      "caption": "Wongok Halmae Jjambbong Alley\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/wongok-halmae-jjambbong-alley-wongok\n\nWongok Halmae Jjambbong Alley\nBack-alley jjambbong shops locals queue for after work — find them via Naver Map blog reviews, rarely on Google Maps.\nGuide: https://daedongyeojido-nine.vercel.app/places/wongok-halmae-jjambbong-alley-wongok\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeonggi",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLcgrK2D7XtGH4zyGyV8LHtilP41bpO12adJdlgo9cCNuojcaanqKrh3J91iKughUQV6AKTmcQpr8FS-qWc3QLm5PZO90RdetLXqNIfU5j9nmAmtCeKeNl29BOo7IYLrAE76U=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/wongok-halmae-jjambbong-alley-wongok",
+      "score": 93,
+      "createdAt": "2026-09-01T14:33:11.584Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260901-wongok-halmae-jjambbong-alley-wongok",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-01T14:41:09.834Z",
+        "alt_text": "Wongok Halmae Jjambbong Alley — wongok, gyeonggi — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260901143311_jt21bw",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "sanbong-ssambap-okpo-okpo",
+      "theme": "k-food",
+      "caption": "산봉쌈밥 거제옥포본점 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/sanbong-ssambap-okpo-okpo\n\nSanbong Ssambap Okpo\nOrganic vegetable ssambap wraps with Geoje-grown greens.\n“한우 국밥 맛있어요.깨끗하고 친절합니다. 맛도 있어요.”\nGuide: https://daedongyeojido-nine.vercel.app/places/sanbong-ssambap-okpo-okpo\n🔥 Trend: 거제 야호!\n\nTraveler note: 한우 국밥 맛있어요.깨끗하고 친절합니다. 맛도 있어요.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20241008_5/1728345954284c6IR4_JPEG/DSC03360.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/sanbong-ssambap-okpo-okpo",
+      "score": 145,
+      "createdAt": "2026-09-01T14:33:11.415Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260901-sanbong-ssambap-okpo-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-01T14:37:39.448Z",
+        "alt_text": "산봉쌈밥 거제옥포본점 (Sanbong Ssambap Okpo) — okpo, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260901065613_02swcn",
       "status": "exported",

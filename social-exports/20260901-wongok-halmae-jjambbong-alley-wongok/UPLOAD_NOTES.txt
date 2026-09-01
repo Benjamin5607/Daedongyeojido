@@ -1,0 +1,15 @@
+Manual upload checklist (Instagram / Facebook)
+============================================
+
+1. Open image.jpg and upload as a feed photo.
+2. Paste caption.txt into the caption field (KO block first, then EN + hashtags).
+3. Set alt text from meta.json → alt_text (accessibility).
+4. Suggested post time (KST): 2026-09-01 19:00 (evening slot).
+
+AI disclosure:
+  Feed image is the real Naver/POI photo (image_ai_generated: false).
+  Optional Emily illustration: run img2img from source.jpg using image-prompt.txt
+  (NVIDIA FLUX Kontext / Midjourney / etc.). Pure text-to-image is not recommended.
+
+5. After posting, optionally mark the queue item published locally,
+   or leave it as draft/exported for your own tracking.

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-01T14:41:09.835Z",
+  "updatedAt": "2026-09-02T14:11:46.673Z",
   "items": [
+    {
+      "id": "sq_20260902140725_cwdnww",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "windy-hill-nambugmyeon",
+      "theme": "hallyu",
+      "caption": "바람의언덕 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/windy-hill-nambugmyeon\n\nWindy Hill\nScenic hill featured in Mr. Sunshine and K-drama location tours.\n“풍차도 이국적이지만 더 멋진 오션뷰”\nGuide: https://daedongyeojido-nine.vercel.app/places/windy-hill-nambugmyeon\n🔥 Trend: 거제 야호!\n\nTraveler note: 풍차도 이국적이지만 더 멋진 오션뷰\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/windy-hill-nambugmyeon",
+      "score": 129,
+      "createdAt": "2026-09-02T14:07:25.343Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260902-windy-hill-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-02T14:11:46.672Z",
+        "alt_text": "Pixar-style travel illustration of 바람의언덕 (Windy Hill) — nambugmyeon, gyeongnam — hallyu, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260902140725_0qbsuo",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "pow-camp-oyster-grill-gohyeon",
+      "theme": "k-food",
+      "caption": "포로수용소굴구이 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/pow-camp-oyster-grill-gohyeon\n\nPOW Camp Oyster Grill\nCharcoal-grilled oysters near the POW memorial park.\n“오래전 들렀던 곳. 굴구이 처음 먹어본 곳. 사장님이 택배로 보내주시기도 한다 했었는데. 지금도 건강히 잘 계신지 모르겠네.”\nGuide: https://daedongyeojido-nine.vercel.app/places/pow-camp-oyster-grill-gohyeon\n🔥 Trend: 거제 야호!\n\nTraveler note: 오래전 들렀던 곳. 굴구이 처음 먹어본 곳. 사장님이 택배로 보내주시기도 한다 했었는데. 지금도 건강히 잘 계신지 모르겠네.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251125_38/1764034600657qa4M7_JPEG/DSZ_3420.JPG",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/pow-camp-oyster-grill-gohyeon",
+      "score": 145,
+      "createdAt": "2026-09-02T14:07:25.123Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260902-pow-camp-oyster-grill-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-02T14:10:05.117Z",
+        "alt_text": "포로수용소굴구이 (POW Camp Oyster Grill) — gohyeon, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260901143311_sf9f8q",
       "status": "exported",

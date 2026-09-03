@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260903141049_dpir0c",
+  "slug": "sangdang-gopchang-alley-sangdang",
+  "theme": "k-food",
+  "format": "place_card",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-03 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Sangdang Gopchang Alley — sangdang, chungbuk — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#chungbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=1200&q=80",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Sangdang Gopchang Alley",
+    "en": "Sangdang Gopchang Alley"
+  },
+  "descriptionEn": "Late-night gopchang grills behind the university — ranked on Naver Map foodie lists, not Google Michelin.",
+  "exportedAt": "2026-09-03T14:12:00.308Z"
+}

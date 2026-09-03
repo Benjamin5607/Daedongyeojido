@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-03T06:39:26.259Z",
+  "updatedAt": "2026-09-03T14:12:00.310Z",
   "items": [
+    {
+      "id": "sq_20260903141049_dpir0c",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "sangdang-gopchang-alley-sangdang",
+      "theme": "k-food",
+      "caption": "Sangdang Gopchang Alley\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/sangdang-gopchang-alley-sangdang\n\nSangdang Gopchang Alley\nLate-night gopchang grills behind the university — ranked on Naver Map foodie lists, not Google Michelin.\n“非常適合戸外踏青/登山健行等活動~很放鬆”\nGuide: https://daedongyeojido-nine.vercel.app/places/sangdang-gopchang-alley-sangdang\n\nTraveler note: 非常適合戸外踏青/登山健行等活動~很放鬆\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #chungbuk",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHpDgaQBLzgb-WiQ2_QlCpEjkOdHGriNS1Reb379ZrQHm9ZHouvoYEFWcSSaBYHghmbxcSiGn4UFBnpHj9mjb4g0bc6cCszZrOziNuFokiCvLDCTdKKabVIMBM1s5z0BnopKJOZxMwqvd5=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/sangdang-gopchang-alley-sangdang",
+      "score": 93,
+      "createdAt": "2026-09-03T14:10:49.921Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260903-sangdang-gopchang-alley-sangdang",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-03T14:12:00.308Z",
+        "alt_text": "Sangdang Gopchang Alley — sangdang, chungbuk — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260903141049_q6fbax",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "hakdong-black-pebble-beach-dongbu",
+      "theme": "urban-nature",
+      "caption": "학동흑진주몽돌해변 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/hakdong-black-pebble-beach-dongbu\n\nHakdong Black Pebble Beach\nBlack pebble beach whose rolling stones are a Korean natural sound.\n“Постоянно сюда гоняю на выходных.”\nGuide: https://daedongyeojido-nine.vercel.app/places/hakdong-black-pebble-beach-dongbu\n🔥 Trend: 거제 야호!\n\nTraveler note: Постоянно сюда гоняю на выходных.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_228/1440992302696jMcSm_JPEG/11491803_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/hakdong-black-pebble-beach-dongbu",
+      "score": 129,
+      "createdAt": "2026-09-03T14:10:49.743Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260903-hakdong-black-pebble-beach-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-03T14:11:04.834Z",
+        "alt_text": "Pixar-style travel illustration of 학동흑진주몽돌해변 (Hakdong Black Pebble Beach) — dongbu, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260903063825_lbu0j3",
       "status": "exported",

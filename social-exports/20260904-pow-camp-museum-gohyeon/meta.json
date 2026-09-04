@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260904140203_hrpui4",
+  "slug": "pow-camp-museum-gohyeon",
+  "theme": "k-culture",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
+    "updatedAt": "2026-08-23T03:03:10.421Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": true,
+  "caption_ai_generated": false,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-04 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Pixar-style travel illustration of 포로수용소유적박물관 (POW Camp Museum) — gohyeon, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "포로수용소유적박물관",
+    "en": "POW Camp Museum"
+  },
+  "descriptionEn": "Museum documenting POW life with films and original artifacts.",
+  "exportedAt": "2026-09-04T14:02:31.019Z"
+}

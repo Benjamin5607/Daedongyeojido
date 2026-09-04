@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-03T14:12:00.310Z",
+  "updatedAt": "2026-09-04T06:44:13.698Z",
   "items": [
+    {
+      "id": "sq_20260904064355_frf3bk",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "place-24",
+      "theme": "k-food",
+      "caption": "거제도생선구이간장게장 — 「거제 음식」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/place-24\n\n거제도생선구이간장게장\nA seafood restaurant in Geoje, South Gyeongsang Province, specializing in grilled and braised dishes\nGuide: https://daedongyeojido-nine.vercel.app/places/place-24\n🔥 Trend: 거제 음식\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250930_90/17592243171074n5NW_GIF/GIF-2.gif",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/place-24",
+      "score": 132,
+      "createdAt": "2026-09-04T06:43:55.363Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260904-place-24",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-04T06:44:13.695Z",
+        "alt_text": "거제도생선구이간장게장 — 경상남도 — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260904064355_plw1q4",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-pow-camp-park-gohyeon",
+      "theme": "k-culture",
+      "caption": "거제포로수용소유적공원 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-park-gohyeon\n\nGeoje POW Camp Park\nLiving history park on Korea's largest Korean War POW camp site.\nGuide: https://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-park-gohyeon\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-pow-camp-park-gohyeon",
+      "score": 154,
+      "createdAt": "2026-09-04T06:43:55.295Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260904-geoje-pow-camp-park-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-04T06:44:10.923Z",
+        "alt_text": "Pixar-style travel illustration of 거제포로수용소유적공원 (Geoje POW Camp Park) — gohyeon, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260903141049_dpir0c",
       "status": "exported",

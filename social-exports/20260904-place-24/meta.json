@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260904064355_frf3bk",
+  "slug": "place-24",
+  "theme": "k-food",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 음식",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-02T07:10:56.616Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-04 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "거제도생선구이간장게장 — 경상남도 — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#거제음식",
+    "#TravelTrend",
+    "#"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20250930_90/17592243171074n5NW_GIF/GIF-2.gif",
+  "imageContentType": "image/gif",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제도생선구이간장게장",
+    "en": "거제도생선구이간장게장"
+  },
+  "descriptionEn": "A seafood restaurant in Geoje, South Gyeongsang Province, specializing in grilled and braised dishes",
+  "exportedAt": "2026-09-04T06:44:13.695Z"
+}

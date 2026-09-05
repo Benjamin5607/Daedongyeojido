@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260905062800_wx3rly",
+  "slug": "place-19",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "옥포",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-16T05:13:48.216Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-05 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "바람의 언덕 — 남부면, 경상남도 — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#옥포",
+    "#TravelTrend",
+    "#"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "바람의 언덕",
+    "en": "바람의 언덕"
+  },
+  "descriptionEn": "A scenic hill with a beautiful view of the surrounding area",
+  "exportedAt": "2026-09-05T06:35:32.955Z"
+}

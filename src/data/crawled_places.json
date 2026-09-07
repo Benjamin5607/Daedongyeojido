@@ -648,10 +648,17 @@
   {
     "theme": "k-food",
     "region": {
-      "province": "서울특별시",
-      "city": "중구"
+      "province": "seoul",
+      "city": "jung"
     },
-    "name": "하남돼지집동대문점",
+    "name": {
+      "ko": "하남돼지집동대문점",
+      "en": "Hanam Pig House Dongdaemun",
+      "ja": "Hanam Pig House Dongdaemun",
+      "zh": "Hanam Pig House Dongdaemun",
+      "vi": "Hanam Pig House Dongdaemun",
+      "id": "Hanam Pig House Dongdaemun"
+    },
     "address": "서울특별시 중구 을지로43길 9 1층",
     "rating": 4.5,
     "description": {
@@ -671,11 +678,18 @@
   {
     "theme": "urban-nature",
     "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "장승포동"
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "jangseungpo"
     },
-    "name": "거제 해금강",
+    "name": {
+      "ko": "거제 해금강",
+      "en": "Geoje Haegeumgang",
+      "ja": "Geoje Haegeumgang",
+      "zh": "Geoje Haegeumgang",
+      "vi": "Geoje Haegeumgang",
+      "id": "Geoje Haegeumgang"
+    },
     "address": "경상남도 거제시 장승포동 685-1",
     "rating": 4.5,
     "description": {
@@ -695,11 +709,18 @@
   {
     "theme": "urban-nature",
     "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "남부면"
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "nambugmyeon"
     },
-    "name": "바람의 언덕",
+    "name": {
+      "ko": "바람의 언덕",
+      "en": "Windy Hill",
+      "ja": "Windy Hill",
+      "zh": "Windy Hill",
+      "vi": "Windy Hill",
+      "id": "Windy Hill"
+    },
     "address": "경상남도 거제시 남부면 갈곶리",
     "rating": 4.5,
     "description": {
@@ -719,11 +740,18 @@
   {
     "theme": "urban-nature",
     "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "일운면"
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "ilwon"
     },
-    "name": "거제씨월드",
+    "name": {
+      "ko": "거제씨월드",
+      "en": "Geoje Sea World",
+      "ja": "Geoje Sea World",
+      "zh": "Geoje Sea World",
+      "vi": "Geoje Sea World",
+      "id": "Geoje Sea World"
+    },
     "address": "경상남도 거제시 일운면 지세포해안로 15",
     "rating": 4.5,
     "description": {
@@ -743,11 +771,18 @@
   {
     "theme": "urban-nature",
     "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "하청면"
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "hacheong"
     },
-    "name": "거제맹종죽 테마파크",
+    "name": {
+      "ko": "거제맹종죽 테마파크",
+      "en": "Geoje Maengjong Bamboo Theme Park",
+      "ja": "Geoje Maengjong Bamboo Theme Park",
+      "zh": "Geoje Maengjong Bamboo Theme Park",
+      "vi": "Geoje Maengjong Bamboo Theme Park",
+      "id": "Geoje Maengjong Bamboo Theme Park"
+    },
     "address": "경상남도 거제시 하청면 거제북로 700",
     "rating": 4.5,
     "description": {
@@ -769,8 +804,15 @@
     "region": {
       "province": "gyeongnam"
     },
-    "name": "매미성",
-    "address": "대한민국 경상남도 거제시 장목면 복항길",
+    "name": {
+      "ko": "매미성",
+      "en": "Maemiseong Fortress",
+      "ja": "Maemiseong Fortress",
+      "zh": "Maemiseong Fortress",
+      "vi": "Maemiseong Fortress",
+      "id": "Maemiseong Fortress"
+    },
+    "address": "경상남도 거제시 장목면 복항길",
     "rating": 4,
     "description": {
       "en": "",
@@ -791,8 +833,15 @@
     "region": {
       "province": "gyeongnam"
     },
-    "name": "거제도 포로수용소 유적공원",
-    "address": "대한민국 경상남도 거제시 계룡로 61",
+    "name": {
+      "ko": "거제도 포로수용소 유적공원",
+      "en": "Geoje POW Camp Historic Park",
+      "ja": "Geoje POW Camp Historic Park",
+      "zh": "Geoje POW Camp Historic Park",
+      "vi": "Geoje POW Camp Historic Park",
+      "id": "Geoje POW Camp Historic Park"
+    },
+    "address": "경상남도 거제시 계룡로 61",
     "rating": 4,
     "description": {
       "en": "",
@@ -811,10 +860,17 @@
   {
     "theme": "k-food",
     "region": {
-      "province": "경상남도",
-      "city": "거제시"
+      "province": "gyeongnam",
+      "city": "geoje"
     },
-    "name": "거제도생선구이간장게장",
+    "name": {
+      "ko": "거제도생선구이간장게장",
+      "en": "Geoje Grilled Fish & Soy Crab",
+      "ja": "Geoje Grilled Fish & Soy Crab",
+      "zh": "Geoje Grilled Fish & Soy Crab",
+      "vi": "Geoje Grilled Fish & Soy Crab",
+      "id": "Geoje Grilled Fish & Soy Crab"
+    },
     "address": "경상남도 거제시 고현항4길 17",
     "rating": 4.5,
     "description": {
@@ -870,37 +926,20 @@
     }
   },
   {
-    "theme": "urban-nature",
-    "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "장목면"
-    },
-    "name": "거제 야호 숙소",
-    "address": "경상남도 거제시 장목면 거제북로 2501-40",
-    "rating": 4.5,
-    "description": {
-      "en": "A cozy accommodation in Geoje, perfect for a relaxing getaway",
-      "ja": "ジョージのコージーな宿泊施設、リラックスのための完璧な逃げ道",
-      "zh": "一个位于거제的舒适住宿，非常适合放松休闲",
-      "vi": "Một nơi lưu trú thoải mái ở Geoje, hoàn hảo cho một chuyến đi nghỉ ngơi",
-      "id": "Akomodasi yang nyaman di Geoje, sangat cocok untuk liburan"
-    },
-    "trend": {
-      "label": "거제 야호 숙소",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-09T05:25:20.329Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20241126_64/1732600784527vIGAf_JPEG/11.jpg"
-  },
-  {
     "theme": "k-food",
     "region": {
-      "province": "경상남도",
-      "city": "거제시"
+      "province": "gyeongnam",
+      "city": "geoje"
     },
-    "name": "거제 국밥",
-    "address": "대한민국 경상남도 거제시 상동5길 12 주1동 1층",
+    "name": {
+      "ko": "거제 국밥",
+      "en": "Geoje Gukbap",
+      "ja": "Geoje Gukbap",
+      "zh": "Geoje Gukbap",
+      "vi": "Geoje Gukbap",
+      "id": "Geoje Gukbap"
+    },
+    "address": "경상남도 거제시 상동5길 12 주1동 1층",
     "rating": 4.5,
     "description": {
       "en": "Geoje Gukbap Restaurant",
@@ -919,11 +958,18 @@
   {
     "theme": "k-culture",
     "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "동부면"
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "dongbu"
     },
-    "name": "노자산 제2전망대",
+    "name": {
+      "ko": "노자산 제2전망대",
+      "en": "Nojasan 2nd Observatory",
+      "ja": "Nojasan 2nd Observatory",
+      "zh": "Nojasan 2nd Observatory",
+      "vi": "Nojasan 2nd Observatory",
+      "id": "Nojasan 2nd Observatory"
+    },
     "address": "경상남도 거제시 동부면 부춘리 산34-12",
     "rating": 4.5,
     "description": {
@@ -943,11 +989,18 @@
   {
     "theme": "k-culture",
     "region": {
-      "province": "경상남도",
-      "city": "거제시",
+      "province": "gyeongnam",
+      "city": "geoje",
       "district": "덕포동"
     },
-    "name": "모래성분식",
+    "name": {
+      "ko": "모래성분식",
+      "en": "Moraeseong Bunsik",
+      "ja": "Moraeseong Bunsik",
+      "zh": "Moraeseong Bunsik",
+      "vi": "Moraeseong Bunsik",
+      "id": "Moraeseong Bunsik"
+    },
     "address": "경상남도 거제시 덕포동 365-2 103호 오션뷰",
     "rating": 4.5,
     "description": {
@@ -967,11 +1020,18 @@
   {
     "theme": "urban-nature",
     "region": {
-      "province": "경상남도",
-      "city": "거제시",
-      "district": "옥포동"
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "okpo"
     },
-    "name": "옥포 대중탕",
+    "name": {
+      "ko": "옥포 대중탕",
+      "en": "Okpo Public Bathhouse",
+      "ja": "Okpo Public Bathhouse",
+      "zh": "Okpo Public Bathhouse",
+      "vi": "Okpo Public Bathhouse",
+      "id": "Okpo Public Bathhouse"
+    },
     "address": "경상남도 거제시 옥포동 542-2번지 옥포 24호 사우나 5층",
     "rating": 4.5,
     "description": {
@@ -993,30 +1053,15 @@
     "region": {
       "province": "gyeongnam"
     },
-    "name": "야호",
-    "address": "대한민국 경상남도 거제시 연초면 오비리 183-11",
-    "rating": 4,
-    "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
+    "name": {
+      "ko": "매미성",
+      "en": "Maemiseong Fortress",
+      "ja": "Maemiseong Fortress",
+      "zh": "Maemiseong Fortress",
+      "vi": "Maemiseong Fortress",
+      "id": "Maemiseong Fortress"
     },
-    "trend": {
-      "label": "거제 야호!",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-23T03:55:29.361Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20210527_246/1622097460599WLK2A_JPEG/k9SwdaCMEm1TkgN5nojVrsyS.jpeg.jpg"
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "gyeongnam"
-    },
-    "name": "매미성",
-    "address": "대한민국 경상남도 거제시 장목면 복항길",
+    "address": "경상남도 거제시 장목면 복항길",
     "rating": 4,
     "description": {
       "en": "",
@@ -1037,8 +1082,15 @@
     "region": {
       "province": "gyeongnam"
     },
-    "name": "외도 보타니아",
-    "address": "대한민국 경상남도 거제시 일운면 외도길 17 외도해상농원",
+    "name": {
+      "ko": "외도 보타니아",
+      "en": "Oedo Botania",
+      "ja": "Oedo Botania",
+      "zh": "Oedo Botania",
+      "vi": "Oedo Botania",
+      "id": "Oedo Botania"
+    },
+    "address": "경상남도 거제시 일운면 외도길 17 외도해상농원",
     "rating": 4,
     "description": {
       "en": "",
@@ -1059,8 +1111,15 @@
     "region": {
       "province": "gyeongnam"
     },
-    "name": "거제씨월드",
-    "address": "대한민국 경상남도 거제시 일운면 지세포해안로 15",
+    "name": {
+      "ko": "거제씨월드",
+      "en": "Geoje Sea World",
+      "ja": "Geoje Sea World",
+      "zh": "Geoje Sea World",
+      "vi": "Geoje Sea World",
+      "id": "Geoje Sea World"
+    },
+    "address": "경상남도 거제시 일운면 지세포해안로 15",
     "rating": 4,
     "description": {
       "en": "",
@@ -1088,7 +1147,8 @@
       "ja": "広蔵市場",
       "zh": "广藏市场",
       "vi": "Chợ Gwangjang",
-      "id": "Pasar Gwangjang"
+      "id": "Pasar Gwangjang",
+      "ko": "Gwangjang Market"
     },
     "address": {
       "en": "88 Changgyeonggung-ro, Jongno-gu, Seoul",
@@ -1118,7 +1178,8 @@
       "ja": "メイプルツリーハウス 梨泰院",
       "zh": "Maple Tree House 梨泰院店",
       "vi": "Maple Tree House Itaewon",
-      "id": "Maple Tree House Itaewon"
+      "id": "Maple Tree House Itaewon",
+      "ko": "Maple Tree House Itaewon"
     },
     "address": {
       "en": "49 Itaewon-ro 27-gil, Yongsan-gu, Seoul",
@@ -1148,7 +1209,8 @@
       "ja": "通仁市場",
       "zh": "通仁市场",
       "vi": "Chợ Tongin",
-      "id": "Pasar Tongin"
+      "id": "Pasar Tongin",
+      "ko": "Tongin Market"
     },
     "address": {
       "en": "18 Tongin-dong, Jongno-gu, Seoul",
@@ -1178,7 +1240,8 @@
       "ja": "明洞餃子",
       "zh": "明洞饺子",
       "vi": "Myeongdong Kyoja",
-      "id": "Myeongdong Kyoja"
+      "id": "Myeongdong Kyoja",
+      "ko": "Myeongdong Kyoja"
     },
     "address": {
       "en": "29 Myeongdong 10-gil, Jung-gu, Seoul",
@@ -1208,7 +1271,8 @@
       "ja": "HYBE INSIGHT",
       "zh": "HYBE INSIGHT",
       "vi": "HYBE Insight",
-      "id": "HYBE Insight"
+      "id": "HYBE Insight",
+      "ko": "HYBE Insight"
     },
     "address": {
       "en": "42 Hangang-daero, Yongsan-gu, Seoul",
@@ -1238,7 +1302,8 @@
       "ja": "SMTOWN COEX Artium",
       "zh": "SMTOWN COEX Artium",
       "vi": "SMTOWN COEX Artium",
-      "id": "SMTOWN COEX Artium"
+      "id": "SMTOWN COEX Artium",
+      "ko": "SMTOWN COEX Artium"
     },
     "address": {
       "en": "513 Yeongdong-daero, Gangnam-gu, Seoul",
@@ -1268,7 +1333,8 @@
       "ja": "K-STAR ROAD",
       "zh": "K-STAR ROAD",
       "vi": "K-Star Road",
-      "id": "K-Star Road"
+      "id": "K-Star Road",
+      "ko": "K-Star Road"
     },
     "address": {
       "en": "407 Apgujeong-ro, Gangnam-gu, Seoul",
@@ -1297,7 +1363,8 @@
       "ja": "弘大プレイグラウンド",
       "zh": "弘大 Playground",
       "vi": "Hongdae Playground",
-      "id": "Hongdae Playground"
+      "id": "Hongdae Playground",
+      "ko": "Hongdae Playground"
     },
     "address": {
       "en": "Hongik University area, Mapo-gu, Seoul",
@@ -1327,7 +1394,8 @@
       "ja": "雪花秀フラッグシップストア",
       "zh": "雪花秀旗舰店",
       "vi": "Cửa hàng flagship Sulwhasoo",
-      "id": "Toko Flagship Sulwhasoo"
+      "id": "Toko Flagship Sulwhasoo",
+      "ko": "Sulwhasoo Flagship Store"
     },
     "address": {
       "en": "18 Dosan-daero 45-gil, Jung-gu, Seoul",
@@ -1357,7 +1425,8 @@
       "ja": "オリーブヤング 明洞タウン",
       "zh": "Olive Young 明洞 Town",
       "vi": "Olive Young Myeongdong Town",
-      "id": "Olive Young Myeongdong Town"
+      "id": "Olive Young Myeongdong Town",
+      "ko": "Olive Young Myeongdong Town"
     },
     "address": {
       "en": "52 Myeongdong-gil, Jung-gu, Seoul",
@@ -1387,7 +1456,8 @@
       "ja": "AHCスパ 江南",
       "zh": "AHC Spa 江南",
       "vi": "AHC Spa Gangnam",
-      "id": "AHC Spa Gangnam"
+      "id": "AHC Spa Gangnam",
+      "ko": "AHC Spa Gangnam"
     },
     "address": {
       "en": "Teheran-ro, Gangnam-gu, Seoul",
@@ -1417,7 +1487,8 @@
       "ja": "イニスフリー 弘大旗艦店",
       "zh": "Innisfree 弘大旗舰店",
       "vi": "Innisfree Flagship Hongdae",
-      "id": "Innisfree Flagship Hongdae"
+      "id": "Innisfree Flagship Hongdae",
+      "ko": "Innisfree Flagship Hongdae"
     },
     "address": {
       "en": "Hongdae shopping street, Mapo-gu, Seoul",
@@ -1447,7 +1518,8 @@
       "ja": "景福宮",
       "zh": "景福宫",
       "vi": "Cung Gyeongbokgung",
-      "id": "Istana Gyeongbokgung"
+      "id": "Istana Gyeongbokgung",
+      "ko": "Gyeongbokgung Palace"
     },
     "address": {
       "en": "161 Sajik-ro, Jongno-gu, Seoul",
@@ -1477,7 +1549,8 @@
       "ja": "北村韓屋村",
       "zh": "北村韩屋村",
       "vi": "Làng Hanok Bukchon",
-      "id": "Desa Hanok Bukchon"
+      "id": "Desa Hanok Bukchon",
+      "ko": "Bukchon Hanok Village"
     },
     "address": {
       "en": "Gyedong-gil, Jongno-gu, Seoul",
@@ -1507,7 +1580,8 @@
       "ja": "国立中央博物館",
       "zh": "国立中央博物馆",
       "vi": "Bảo tàng Quốc gia Hàn Quốc",
-      "id": "Museum Nasional Korea"
+      "id": "Museum Nasional Korea",
+      "ko": "National Museum of Korea"
     },
     "address": {
       "en": "137 Seobinggo-ro, Yongsan-gu, Seoul",
@@ -1537,7 +1611,8 @@
       "ja": "昌徳宮",
       "zh": "昌德宫",
       "vi": "Cung Changdeokgung",
-      "id": "Istana Changdeokgung"
+      "id": "Istana Changdeokgung",
+      "ko": "Changdeokgung Palace"
     },
     "address": {
       "en": "99 Yulgok-ro, Jongno-gu, Seoul",
@@ -1567,7 +1642,8 @@
       "ja": "清渓川",
       "zh": "清溪川",
       "vi": "Suối Cheonggyecheon",
-      "id": "Aliran Cheonggyecheon"
+      "id": "Aliran Cheonggyecheon",
+      "ko": "Cheonggyecheon Stream"
     },
     "address": {
       "en": "Cheonggyecheon-ro, Jung-gu, Seoul",
@@ -1597,7 +1673,8 @@
       "ja": "南山公園",
       "zh": "南山公园",
       "vi": "Công viên Namsan",
-      "id": "Taman Namsan"
+      "id": "Taman Namsan",
+      "ko": "Namsan Park"
     },
     "address": {
       "en": "231 Samil-daero, Jung-gu, Seoul",
@@ -1627,7 +1704,8 @@
       "ja": "漢江公園 汝矣島",
       "zh": "汉江公园 汝矣岛",
       "vi": "Công viên Hangang Yeouido",
-      "id": "Taman Hangang Yeouido"
+      "id": "Taman Hangang Yeouido",
+      "ko": "Hangang Park Yeouido"
     },
     "address": {
       "en": "Yeouido Hangang Park, Yeongdeungpo-gu, Seoul",
@@ -1657,7 +1735,8 @@
       "ja": "北漢山国立公園",
       "zh": "北汉山国立公园",
       "vi": "Vườn quốc gia Bukhansan",
-      "id": "Taman Nasional Bukhansan"
+      "id": "Taman Nasional Bukhansan",
+      "ko": "Bukhansan National Park"
     },
     "address": {
       "en": "Bukhansan-ro, Seodaemun-gu, Seoul",
@@ -1687,7 +1766,8 @@
       "ja": "チャガルチ市場",
       "zh": "札嘎其市场",
       "vi": "Chợ cá Jagalchi",
-      "id": "Pasar Ikan Jagalchi"
+      "id": "Pasar Ikan Jagalchi",
+      "ko": "Jagalchi Fish Market"
     },
     "address": {
       "en": "52 Jagalchihaean-ro, Jung-gu, Busan",
@@ -1717,7 +1797,8 @@
       "ja": "BIFF広場",
       "zh": "BIFF广场",
       "vi": "Quảng trường BIFF",
-      "id": "Alun-alun BIFF"
+      "id": "Alun-alun BIFF",
+      "ko": "BIFF Square"
     },
     "address": {
       "en": "40 BIFF-gil, Jung-gu, Busan",
@@ -1747,7 +1828,8 @@
       "ja": "国際市場",
       "zh": "国际市场",
       "vi": "Chợ Gukje",
-      "id": "Pasar Gukje"
+      "id": "Pasar Gukje",
+      "ko": "Gukje Market"
     },
     "address": {
       "en": "38 Gukje Market-ro, Jung-gu, Busan",
@@ -1777,7 +1859,8 @@
       "ja": "ミルク水辺カフェ通り",
       "zh": "Millak 水边咖啡街",
       "vi": "Phố cafe ven biển Millak",
-      "id": "Jalan Kafe Tepi Laut Millak"
+      "id": "Jalan Kafe Tepi Laut Millak",
+      "ko": "Millak Waterfront Cafe Street"
     },
     "address": {
       "en": "Millak-dong, Suyeong-gu, Busan",
@@ -1807,7 +1890,8 @@
       "ja": "釜山シネマセンター",
       "zh": "釜山电影中心",
       "vi": "Trung tâm Điện ảnh Busan",
-      "id": "Busan Cinema Center"
+      "id": "Busan Cinema Center",
+      "ko": "Busan Cinema Center"
     },
     "address": {
       "en": "1467 U-dong, Haeundae-gu, Busan",
@@ -1837,7 +1921,8 @@
       "ja": "海雲台ブルーラインパーク",
       "zh": "海云台 Blueline 公园",
       "vi": "Haeundae Blueline Park",
-      "id": "Haeundae Blueline Park"
+      "id": "Haeundae Blueline Park",
+      "ko": "Haeundae Blueline Park Beach Train"
     },
     "address": {
       "en": "Haeundae Beach, Busan",
@@ -1867,7 +1952,8 @@
       "ja": "甘川文化村",
       "zh": "甘川文化村",
       "vi": "Làng văn hóa Gamcheon",
-      "id": "Desa Budaya Gamcheon"
+      "id": "Desa Budaya Gamcheon",
+      "ko": "Gamcheon Culture Village"
     },
     "address": {
       "en": "203 Gamnae 2-ro, Saha-gu, Busan",
@@ -1897,7 +1983,8 @@
       "ja": "40段文化通り",
       "zh": "40台阶文化街",
       "vi": "Phố văn hóa 40 bậc thang",
-      "id": "Jalan Budaya 40 Tangga"
+      "id": "Jalan Budaya 40 Tangga",
+      "ko": "40 Steps Culture Street"
     },
     "address": {
       "en": "40 Steps area, Jung-gu, Busan",
@@ -1927,7 +2014,8 @@
       "ja": "スパランド センタムシティ",
       "zh": "Spa Land Centum City",
       "vi": "Spa Land Centum City",
-      "id": "Spa Land Centum City"
+      "id": "Spa Land Centum City",
+      "ko": "Spa Land Centum City"
     },
     "address": {
       "en": "35 Centumnam-daero, Haeundae-gu, Busan",
@@ -1957,7 +2045,8 @@
       "ja": "新世界センタムシティ ビューティーフロア",
       "zh": "新世界 Centum 美妆层",
       "vi": "Tầng mỹ phẩm Shinsegae Centum",
-      "id": "Lantai Kecantikan Shinsegae Centum"
+      "id": "Lantai Kecantikan Shinsegae Centum",
+      "ko": "Shinsegae Centum City Beauty Floor"
     },
     "address": {
       "en": "Shinsegae Centum City, Haeundae-gu, Busan",
@@ -1987,7 +2076,8 @@
       "ja": "オリーブヤング 南浦",
       "zh": "Olive Young 南浦",
       "vi": "Olive Young Nampo",
-      "id": "Olive Young Nampo"
+      "id": "Olive Young Nampo",
+      "ko": "Olive Young Nampo"
     },
     "address": {
       "en": "Nampo-dong, Jung-gu, Busan",
@@ -2017,7 +2107,8 @@
       "ja": "クラブD オアシススパ 海雲台",
       "zh": "ClubD Oasis Spa 海云台",
       "vi": "ClubD Oasis Spa Haeundae",
-      "id": "ClubD Oasis Spa Haeundae"
+      "id": "ClubD Oasis Spa Haeundae",
+      "ko": "ClubD Oasis Spa Haeundae"
     },
     "address": {
       "en": "Haeundae-ro, Haeundae-gu, Busan",
@@ -2047,7 +2138,8 @@
       "ja": "梵魚寺",
       "zh": "梵鱼寺",
       "vi": "Chùa Beomeosa",
-      "id": "Kuil Beomeosa"
+      "id": "Kuil Beomeosa",
+      "ko": "Beomeosa Temple"
     },
     "address": {
       "en": "546 Cheongnyong-dong, Geumjeong-gu, Busan",
@@ -2077,7 +2169,8 @@
       "ja": "海東龍宮寺",
       "zh": "海东龙宫寺",
       "vi": "Chùa Haedong Yonggungsa",
-      "id": "Kuil Haedong Yonggungsa"
+      "id": "Kuil Haedong Yonggungsa",
+      "ko": "Haedong Yonggungsa Temple"
     },
     "address": {
       "en": "86 Yonggung-gil, Gijang-eup, Busan",
@@ -2107,7 +2200,8 @@
       "ja": "甘川文化村ミュージアム通り",
       "zh": "甘川文化村博物馆巷",
       "vi": "Hẻm bảo tàng Gamcheon",
-      "id": "Gang Museum Gamcheon"
+      "id": "Gang Museum Gamcheon",
+      "ko": "Gamcheon Culture Village Museum Alley"
     },
     "address": {
       "en": "Gamcheon-dong, Saha-gu, Busan",
@@ -2137,7 +2231,8 @@
       "ja": "釜山近代歴史館",
       "zh": "釜山近代历史馆",
       "vi": "Bảo tàng Lịch sử Hiện đại Busan",
-      "id": "Museum Sejarah Modern Busan"
+      "id": "Museum Sejarah Modern Busan",
+      "ko": "Busan Modern History Museum"
     },
     "address": {
       "en": "104 Sinseon-ro, Yeongdo-gu, Busan",
@@ -2167,7 +2262,8 @@
       "ja": "海雲台海水浴場",
       "zh": "海云台海水浴场",
       "vi": "Bãi biển Haeundae",
-      "id": "Pantai Haeundae"
+      "id": "Pantai Haeundae",
+      "ko": "Haeundae Beach"
     },
     "address": {
       "en": "264 Haeundaehaebyeon-ro, Haeundae-gu, Busan",
@@ -2197,7 +2293,8 @@
       "ja": "太宗台",
       "zh": "太宗台",
       "vi": "Công viên Taejongdae",
-      "id": "Taman Taejongdae"
+      "id": "Taman Taejongdae",
+      "ko": "Taejongdae Resort Park"
     },
     "address": {
       "en": "24 Jeonmang-ro, Yeongdo-gu, Busan",
@@ -2227,7 +2324,8 @@
       "ja": "冬柏島",
       "zh": "冬柏岛",
       "vi": "Đảo Dongbaekseom",
-      "id": "Pulau Dongbaekseom"
+      "id": "Pulau Dongbaekseom",
+      "ko": "Dongbaekseom Island"
     },
     "address": {
       "en": "Dongbaek-ro, Haeundae-gu, Busan",
@@ -2257,7 +2355,8 @@
       "ja": "イギデ海岸散策路",
       "zh": "二妓台海岸散步路",
       "vi": "Lối đi bộ ven biển Igidae",
-      "id": "Jalan Pesisir Igidae"
+      "id": "Jalan Pesisir Igidae",
+      "ko": "Igidae Coastal Walk"
     },
     "address": {
       "en": "Igidae, Nam-gu, Busan",
@@ -2287,7 +2386,8 @@
       "ja": "東門市場",
       "zh": "东门市场",
       "vi": "Chợ Dongmun",
-      "id": "Pasar Dongmun"
+      "id": "Pasar Dongmun",
+      "ko": "Dongmun Market"
     },
     "address": {
       "en": "20 Gwandeok-ro, Jeju-si",
@@ -2317,7 +2417,8 @@
       "ja": "黒豚通り",
       "zh": "黑猪街",
       "vi": "Phố thịt heo đen",
-      "id": "Jalan Daging Babi Hitam"
+      "id": "Jalan Daging Babi Hitam",
+      "ko": "Black Pork Street"
     },
     "address": {
       "en": "Geonip-dong, Jeju-si",
@@ -2347,7 +2448,8 @@
       "ja": "西帰浦毎日オルレ市場",
       "zh": "西归浦每日偶来市场",
       "vi": "Chợ Maeil Olle Seogwipo",
-      "id": "Pasar Maeil Olle Seogwipo"
+      "id": "Pasar Maeil Olle Seogwipo",
+      "ko": "Seogwipo Maeil Olle Market"
     },
     "address": {
       "en": "Seogwipo-si, Jeju",
@@ -2378,7 +2480,8 @@
       "ja": "涯月ハンダム海岸カフェ通り",
       "zh": "涯月翰林海岸咖啡街",
       "vi": "Phố cafe ven biển Aewol Handam",
-      "id": "Jalan Kafe Pesisir Aewol Handam"
+      "id": "Jalan Kafe Pesisir Aewol Handam",
+      "ko": "Aewol Handam Coastal Cafe Street"
     },
     "address": {
       "en": "Aewol-eup, Jeju-si",
@@ -2408,7 +2511,8 @@
       "ja": "カメリアヒル",
       "zh": "Camellia Hill",
       "vi": "Camellia Hill",
-      "id": "Camellia Hill"
+      "id": "Camellia Hill",
+      "ko": "Camellia Hill"
     },
     "address": {
       "en": "166 Byeongak-ro, Jeju-si",
@@ -2439,7 +2543,8 @@
       "ja": "涯月レインボー海岸道路",
       "zh": "涯月彩虹海岸路",
       "vi": "Đường ven biển Rainbow Aewol",
-      "id": "Jalan Pesisir Rainbow Aewol"
+      "id": "Jalan Pesisir Rainbow Aewol",
+      "ko": "Aewol Rainbow Coastal Road"
     },
     "address": {
       "en": "Aewol-eup, Jeju-si",
@@ -2469,7 +2574,8 @@
       "ja": "スピリテッドガーデン",
       "zh": "Spirited Garden",
       "vi": "Spirited Garden",
-      "id": "Spirited Garden"
+      "id": "Spirited Garden",
+      "ko": "Spirited Garden"
     },
     "address": {
       "en": "645 Seogwang-ro, Jeju-si",
@@ -2500,7 +2606,8 @@
       "ja": "涉地可支",
       "zh": "涉地可支",
       "vi": "Seopjikoji",
-      "id": "Seopjikoji"
+      "id": "Seopjikoji",
+      "ko": "Seopjikoji"
     },
     "address": {
       "en": "Seopjikoji, Seogwipo-si",
@@ -2530,7 +2637,8 @@
       "ja": "イニスフリー 済州ハウス",
       "zh": "Innisfree 济州 House",
       "vi": "Innisfree Jeju House",
-      "id": "Innisfree Jeju House"
+      "id": "Innisfree Jeju House",
+      "ko": "Innisfree Jeju House"
     },
     "address": {
       "en": "1235 Seogwang-ro, Jeju-si",
@@ -2560,7 +2668,8 @@
       "ja": "オソルロック茶博物館",
       "zh": "Osulloc 茶博物馆",
       "vi": "Bảo tàng Trà Osulloc",
-      "id": "Museum Teh Osulloc"
+      "id": "Museum Teh Osulloc",
+      "ko": "Osulloc Tea Museum"
     },
     "address": {
       "en": "Andeok-myeon, Jeju-si",
@@ -2590,7 +2699,8 @@
       "ja": "山房山 炭酸泉",
       "zh": "山房山 碳酸温泉",
       "vi": "Suối nước nóng Sanbangsan",
-      "id": "Pemandian Air Panas Sanbangsan"
+      "id": "Pemandian Air Panas Sanbangsan",
+      "ko": "Sanbangsan Carbonated Hot Spring"
     },
     "address": {
       "en": "Sanbangsan-ro, Seogwipo-si",
@@ -2620,7 +2730,8 @@
       "ja": "カメリアヒル スパガーデン",
       "zh": "Camellia Hill Spa Garden",
       "vi": "Camellia Hill Spa Garden",
-      "id": "Camellia Hill Spa Garden"
+      "id": "Camellia Hill Spa Garden",
+      "ko": "Camellia Hill Spa Garden"
     },
     "address": {
       "en": "166 Byeongak-ro, Jeju-si",
@@ -2651,7 +2762,8 @@
       "ja": "済州民俗村",
       "zh": "济州民俗村",
       "vi": "Làng dân gian Jeju",
-      "id": "Desa Rakyat Jeju"
+      "id": "Desa Rakyat Jeju",
+      "ko": "Jeju Folk Village"
     },
     "address": {
       "en": "Pyoseon-ri, Seogwipo-si",
@@ -2681,7 +2793,8 @@
       "ja": "海女博物館",
       "zh": "海女博物馆",
       "vi": "Bảo tàng Haenyeo",
-      "id": "Museum Haenyeo"
+      "id": "Museum Haenyeo",
+      "ko": "Haenyeo Museum"
     },
     "address": {
       "en": "Haenyeo-ro, Jeju-si",
@@ -2712,7 +2825,8 @@
       "ja": "城山日出峰",
       "zh": "城山日出峰",
       "vi": "Seongsan Ilchulbong",
-      "id": "Seongsan Ilchulbong"
+      "id": "Seongsan Ilchulbong",
+      "ko": "Seongsan Ilchulbong"
     },
     "address": {
       "en": "Seongsan-ri, Seogwipo-si",
@@ -2742,7 +2856,8 @@
       "ja": "龍頭岩",
       "zh": "龙头岩",
       "vi": "Đá Yongduam",
-      "id": "Batu Yongduam"
+      "id": "Batu Yongduam",
+      "ko": "Yongduam Rock"
     },
     "address": {
       "en": "Yongdam-ro, Jeju-si",
@@ -2772,7 +2887,8 @@
       "ja": "漢拏山国立公園",
       "zh": "汉拿山国立公园",
       "vi": "Vườn quốc gia Hallasan",
-      "id": "Taman Nasional Hallasan"
+      "id": "Taman Nasional Hallasan",
+      "ko": "Hallasan National Park"
     },
     "address": {
       "en": "Hallasan-ro, Jeju-si",
@@ -2803,7 +2919,8 @@
       "ja": "万丈窟",
       "zh": "万丈窟",
       "vi": "Hang Manjanggul",
-      "id": "Gua Manjanggul"
+      "id": "Gua Manjanggul",
+      "ko": "Manjanggul Cave"
     },
     "address": {
       "en": "Gujwa-eup, Jeju-si",
@@ -2833,7 +2950,8 @@
       "ja": "天地淵滝",
       "zh": "天地渊瀑布",
       "vi": "Thác Cheonjiyeon",
-      "id": "Air Terjun Cheonjiyeon"
+      "id": "Air Terjun Cheonjiyeon",
+      "ko": "Cheonjiyeon Waterfall"
     },
     "address": {
       "en": "Cheonji-dong, Seogwipo-si",
@@ -2863,7 +2981,8 @@
       "ja": "西帰浦オルレコース",
       "zh": "西归浦 Olle 步道",
       "vi": "Đoạn Olle Seogwipo",
-      "id": "Jalur Olle Seogwipo"
+      "id": "Jalur Olle Seogwipo",
+      "ko": "Seogwipo Olle Trail Section"
     },
     "address": {
       "en": "Seogwipo Olle, Seogwipo-si",
@@ -2894,7 +3013,8 @@
       "ja": "水原カルビ通り",
       "zh": "水原排骨街",
       "vi": "Phố galbi Suwon",
-      "id": "Jalan Galbi Suwon"
+      "id": "Jalan Galbi Suwon",
+      "ko": "Suwon Galbi Street"
     },
     "address": {
       "en": "Paldal-gu, Suwon",
@@ -2924,7 +3044,8 @@
       "ja": "坡州長湍大豆村",
       "zh": "坡州长湍大豆村",
       "vi": "Làng đậu nành Jangdan Paju",
-      "id": "Desa Kedelai Jangdan Paju"
+      "id": "Desa Kedelai Jangdan Paju",
+      "ko": "Paju Jangdan Soybean Village"
     },
     "address": {
       "en": "Jangdan-myeon, Paju",
@@ -2954,7 +3075,8 @@
       "ja": "加平タッカルビ通り",
       "zh": "加平辣炒鸡街",
       "vi": "Phố dakgalbi Gapyeong",
-      "id": "Jalan Dakgalbi Gapyeong"
+      "id": "Jalan Dakgalbi Gapyeong",
+      "ko": "Gapyeong Dakgalbi Street"
     },
     "address": {
       "en": "Gapyeong-eup, Gapyeong",
@@ -2984,7 +3106,8 @@
       "ja": "利川米文化館",
       "zh": "利川米文化馆",
       "vi": "Trung tâm Văn hóa Gạo Icheon",
-      "id": "Pusat Budaya Beras Icheon"
+      "id": "Pusat Budaya Beras Icheon",
+      "ko": "Icheon Rice Cultural Center"
     },
     "address": {
       "en": "Icheon-si, Gyeonggi",
@@ -3014,7 +3137,8 @@
       "ja": "韓国民俗村",
       "zh": "韩国民俗村",
       "vi": "Làng Dân gian Hàn Quốc",
-      "id": "Desa Rakyat Korea"
+      "id": "Desa Rakyat Korea",
+      "ko": "Korean Folk Village"
     },
     "address": {
       "en": "90 Minsokchon-ro, Yongin",
@@ -3044,7 +3168,8 @@
       "ja": "エバーランド",
       "zh": "爱宝乐园",
       "vi": "Công viên Everland",
-      "id": "Taman Everland"
+      "id": "Taman Everland",
+      "ko": "Everland Theme Park"
     },
     "address": {
       "en": "199 Everland-ro, Yongin",
@@ -3074,7 +3199,8 @@
       "ja": "ヘイリ芸術村",
       "zh": "Heyri 艺术村",
       "vi": "Thung lũng nghệ thuật Heyri",
-      "id": "Lembah Seni Heyri"
+      "id": "Lembah Seni Heyri",
+      "ko": "Heyri Art Valley"
     },
     "address": {
       "en": "Heyri-ro, Paju",
@@ -3104,7 +3230,8 @@
       "ja": "プチフランス",
       "zh": "小法国",
       "vi": "Petite France",
-      "id": "Petite France"
+      "id": "Petite France",
+      "ko": "Petite France"
     },
     "address": {
       "en": "1063 Hoban-ro, Gapyeong",
@@ -3134,7 +3261,8 @@
       "ja": "アモーレパシフィック ビューティーパーク",
       "zh": "爱茉莉太平洋 Beauty Park",
       "vi": "Amore Pacific Beauty Park",
-      "id": "Amore Pacific Beauty Park"
+      "id": "Amore Pacific Beauty Park",
+      "ko": "Amore Pacific Beauty Park"
     },
     "address": {
       "en": "Yongin-si, Gyeonggi",
@@ -3165,7 +3293,8 @@
       "ja": "オリーブヤング 水原駅",
       "zh": "Olive Young 水原站",
       "vi": "Olive Young Ga Suwon",
-      "id": "Olive Young Stasiun Suwon"
+      "id": "Olive Young Stasiun Suwon",
+      "ko": "Olive Young Suwon Station"
     },
     "address": {
       "en": "Paldal-gu, Suwon",
@@ -3195,7 +3324,8 @@
       "ja": "利川陶芸スパ体験",
       "zh": "利川陶瓷 Spa 体验",
       "vi": "Trải nghiệm Spa Gốm Icheon",
-      "id": "Pengalaman Spa Keramik Icheon"
+      "id": "Pengalaman Spa Keramik Icheon",
+      "ko": "Icheon Ceramics Spa Experience"
     },
     "address": {
       "en": "Icheon-si, Gyeonggi",
@@ -3225,7 +3355,8 @@
       "ja": "坡州アウトレット ビューティーエリア",
       "zh": "坡州奥特莱斯美妆区",
       "vi": "Khu mỹ phẩm Outlet Paju",
-      "id": "Distrik Kecantikan Outlet Paju"
+      "id": "Distrik Kecantikan Outlet Paju",
+      "ko": "Paju Outlet Beauty District"
     },
     "address": {
       "en": "Paju-si, Gyeonggi",
@@ -3256,7 +3387,8 @@
       "ja": "水原華城",
       "zh": "水原华城",
       "vi": "Pháo đài Hwaseong Suwon",
-      "id": "Benteng Hwaseong Suwon"
+      "id": "Benteng Hwaseong Suwon",
+      "ko": "Suwon Hwaseong Fortress"
     },
     "address": {
       "en": "910 Jeongjo-ro, Paldal-gu, Suwon",
@@ -3286,7 +3418,8 @@
       "ja": "龍仁民俗村 公演",
       "zh": "龙仁民俗村 演出",
       "vi": "Biểu diễn Làng Dân gian Yongin",
-      "id": "Pertunjukan Desa Rakyat Yongin"
+      "id": "Pertunjukan Desa Rakyat Yongin",
+      "ko": "Yongin Korean Folk Village Performances"
     },
     "address": {
       "en": "90 Minsokchon-ro, Yongin",
@@ -3316,7 +3449,8 @@
       "ja": "利川陶磁器村",
       "zh": "利川陶瓷村",
       "vi": "Làng Gốm Icheon",
-      "id": "Desa Keramik Icheon"
+      "id": "Desa Keramik Icheon",
+      "ko": "Icheon Ceramics Village"
     },
     "address": {
       "en": "Sindun-myeon, Icheon",
@@ -3347,7 +3481,8 @@
       "ja": "臨津閣平和公園",
       "zh": "临津阁和平公园",
       "vi": "Công viên Hòa bình Imjingak",
-      "id": "Taman Perdamaian Imjingak"
+      "id": "Taman Perdamaian Imjingak",
+      "ko": "Imjingak Peace Park"
     },
     "address": {
       "en": "Imjingak-ro, Paju",
@@ -3377,7 +3512,8 @@
       "ja": "ナミ島",
       "zh": "南怡岛",
       "vi": "Đảo Nami",
-      "id": "Pulau Nami"
+      "id": "Pulau Nami",
+      "ko": "Nami Island"
     },
     "address": {
       "en": "1 Namisum-gil, Gapyeong",
@@ -3407,7 +3543,8 @@
       "ja": "晨静樹木園",
       "zh": "晨静树木园",
       "vi": "Vườn Morning Calm",
-      "id": "Garden of Morning Calm"
+      "id": "Garden of Morning Calm",
+      "ko": "Garden of Morning Calm"
     },
     "address": {
       "en": "432 Sumogwon-ro, Gapyeong",
@@ -3437,7 +3574,8 @@
       "ja": "清平湖",
       "zh": "清平湖",
       "vi": "Hồ Cheongpyeong",
-      "id": "Danau Cheongpyeong"
+      "id": "Danau Cheongpyeong",
+      "ko": "Cheongpyeong Lake"
     },
     "address": {
       "en": "Cheongpyeong-myeon, Gapyeong",
@@ -3467,7 +3605,8 @@
       "ja": "エバーランド ローズガーデン",
       "zh": "爱宝乐园玫瑰园",
       "vi": "Vườn hồng Everland",
-      "id": "Taman Mawar Everland"
+      "id": "Taman Mawar Everland",
+      "ko": "Everland Rose Garden"
     },
     "address": {
       "en": "199 Everland-ro, Yongin",
@@ -3497,7 +3636,8 @@
       "ja": "江陵草堂純豆腐村",
       "zh": "江陵草堂纯豆腐村",
       "vi": "Làng soondubu Chodang Gangneung",
-      "id": "Desa Soondubu Chodang Gangneung"
+      "id": "Desa Soondubu Chodang Gangneung",
+      "ko": "Gangneung Chodang Soondubu Village"
     },
     "address": {
       "en": "Chodang-dong, Gangneung",
@@ -3527,7 +3667,8 @@
       "ja": "春川タッカルビ通り",
       "zh": "春川辣炒鸡街",
       "vi": "Phố dakgalbi Chuncheon",
-      "id": "Jalan Dakgalbi Chuncheon"
+      "id": "Jalan Dakgalbi Chuncheon",
+      "ko": "Chuncheon Dakgalbi Street"
     },
     "address": {
       "en": "Myeongdong-gil, Chuncheon",
@@ -3557,7 +3698,8 @@
       "ja": "束草 アバイ純豆腐村",
       "zh": "束草 Abai 纯豆腐村",
       "vi": "Làng sundubu Abai Sokcho",
-      "id": "Desa Sundubu Abai Sokcho"
+      "id": "Desa Sundubu Abai Sokcho",
+      "ko": "Sokcho Abai Sundubu Village"
     },
     "address": {
       "en": "Abai Village, Sokcho",
@@ -3587,7 +3729,8 @@
       "ja": "平昌韓牛市場",
       "zh": "平昌韩牛市集",
       "vi": "Chợ hanwoo Pyeongchang",
-      "id": "Pasar Hanwoo Pyeongchang"
+      "id": "Pasar Hanwoo Pyeongchang",
+      "ko": "Pyeongchang Hanwoo Market"
     },
     "address": {
       "en": "Pyeongchang-eup, Pyeongchang",
@@ -3617,7 +3760,8 @@
       "ja": "BTSバス停 馬房浦",
       "zh": "BTS 公交站 马房浦",
       "vi": "Trạm xe buýt BTS Maengbang",
-      "id": "Halte Bus BTS Maengbang"
+      "id": "Halte Bus BTS Maengbang",
+      "ko": "BTS Bus Stop Maengbang Beach"
     },
     "address": {
       "en": "Maengbang Beach, Gangneung",
@@ -3647,7 +3791,8 @@
       "ja": "注文津防波堤",
       "zh": "注文津防波堤",
       "vi": "Đê chắn sóng Jumunjin",
-      "id": "Pemecah Gelombang Jumunjin"
+      "id": "Pemecah Gelombang Jumunjin",
+      "ko": "Jumunjin Beach Breakwater"
     },
     "address": {
       "en": "Jumunjin, Gangneung",
@@ -3677,7 +3822,8 @@
       "ja": "安木コーヒー通り",
       "zh": "安木咖啡街",
       "vi": "Phố cafe Anmok",
-      "id": "Jalan Kafe Anmok"
+      "id": "Jalan Kafe Anmok",
+      "ko": "Anmok Coffee Street"
     },
     "address": {
       "en": "Anmok-dong, Gangneung",
@@ -3707,7 +3853,8 @@
       "ja": "アルペンシアリゾート",
       "zh": "Alpensia 度假村",
       "vi": "Alpensia Resort",
-      "id": "Alpensia Resort"
+      "id": "Alpensia Resort",
+      "ko": "Alpensia Resort"
     },
     "address": {
       "en": "325 Solbong-ro, Pyeongchang",
@@ -3737,7 +3884,8 @@
       "ja": "O2リゾートスパ 平昌",
       "zh": "O2 Resort Spa 平昌",
       "vi": "O2 Resort Spa Pyeongchang",
-      "id": "O2 Resort Spa Pyeongchang"
+      "id": "O2 Resort Spa Pyeongchang",
+      "ko": "O2 Resort Spa Pyeongchang"
     },
     "address": {
       "en": "O2 Valley, Pyeongchang",
@@ -3767,7 +3915,8 @@
       "ja": "安木スパ通り",
       "zh": "安木 Spa 街",
       "vi": "Phố spa Anmok",
-      "id": "Jalan Spa Anmok"
+      "id": "Jalan Spa Anmok",
+      "ko": "Anmok Spa Street"
     },
     "address": {
       "en": "Anmok-dong, Gangneung",
@@ -3797,7 +3946,8 @@
       "ja": "春川ビューティー通り",
       "zh": "春川美妆街",
       "vi": "Phố mỹ phẩm Chuncheon",
-      "id": "Jalan Kecantikan Chuncheon"
+      "id": "Jalan Kecantikan Chuncheon",
+      "ko": "Chuncheon Beauty Street"
     },
     "address": {
       "en": "Jungang-ro, Chuncheon",
@@ -3827,7 +3977,8 @@
       "ja": "雪岳山 温泉スパ",
       "zh": "雪岳山 温泉 Spa",
       "vi": "Spa suối nóng Seoraksan",
-      "id": "Spa Pemandian Seoraksan"
+      "id": "Spa Pemandian Seoraksan",
+      "ko": "Seoraksan Hot Springs Spa"
     },
     "address": {
       "en": "Seoraksan-ro, Sokcho",
@@ -3857,7 +4008,8 @@
       "ja": "オジュクheon",
       "zh": "乌竹轩",
       "vi": "Nhà Ojukheon",
-      "id": "Rumah Ojukheon"
+      "id": "Rumah Ojukheon",
+      "ko": "Ojukheon House"
     },
     "address": {
       "en": "24 Yulgok-ro, Gangneung",
@@ -3887,7 +4039,8 @@
       "ja": "船橋庄",
       "zh": "船桥庄",
       "vi": "Nhà Seongyojang",
-      "id": "Rumah Seongyojang"
+      "id": "Rumah Seongyojang",
+      "ko": "Seongyojang House"
     },
     "address": {
       "en": "Gangneung-si, Gangwon",
@@ -3917,7 +4070,8 @@
       "ja": "春川人形劇場",
       "zh": "春川木偶剧场",
       "vi": "Nhà hát múa rối Chuncheon",
-      "id": "Teater Boneka Chuncheon"
+      "id": "Teater Boneka Chuncheon",
+      "ko": "Chuncheon Puppet Theater"
     },
     "address": {
       "en": "Jungang-ro, Chuncheon",
@@ -3947,7 +4101,8 @@
       "ja": "洛山寺",
       "zh": "洛山寺",
       "vi": "Chùa Naksansa",
-      "id": "Kuil Naksansa"
+      "id": "Kuil Naksansa",
+      "ko": "Naksansa Temple"
     },
     "address": {
       "en": "100 Naksansa-ro, Yangyang",
@@ -3977,7 +4132,8 @@
       "ja": "雪岳山国立公園",
       "zh": "雪岳山国立公园",
       "vi": "Vườn quốc gia Seoraksan",
-      "id": "Taman Nasional Seoraksan"
+      "id": "Taman Nasional Seoraksan",
+      "ko": "Seoraksan National Park"
     },
     "address": {
       "en": "Seoraksan-ro, Sokcho",
@@ -4007,7 +4163,8 @@
       "ja": "五台山国立公園",
       "zh": "五台山国立公园",
       "vi": "Vườn quốc gia Odaesan",
-      "id": "Taman Nasional Odaesan"
+      "id": "Taman Nasional Odaesan",
+      "ko": "Odaesan National Park"
     },
     "address": {
       "en": "Jinbu-myeon, Pyeongchang",
@@ -4037,7 +4194,8 @@
       "ja": "鏡浦海水浴場",
       "zh": "镜浦海水浴场",
       "vi": "Bãi biển Gyeongpo",
-      "id": "Pantai Gyeongpo"
+      "id": "Pantai Gyeongpo",
+      "ko": "Gyeongpo Beach"
     },
     "address": {
       "en": "Gyeongpo-ro, Gangneung",
@@ -4067,7 +4225,8 @@
       "ja": "大関嶺羊牧場",
       "zh": "大关岭羊牧场",
       "vi": "Trang trại cừu Daegwallyeong",
-      "id": "Peternakan Domba Daegwallyeong"
+      "id": "Peternakan Domba Daegwallyeong",
+      "ko": "Daegwallyeong Sheep Farm"
     },
     "address": {
       "en": "Daegwallyeong-myeon, Pyeongchang",
@@ -4097,7 +4256,8 @@
       "ja": "安東チムダク通り",
       "zh": "安东炖鸡街",
       "vi": "Phố jjimdak Andong",
-      "id": "Jalan Jjimdak Andong"
+      "id": "Jalan Jjimdak Andong",
+      "ko": "Andong Jjimdak Alley"
     },
     "address": {
       "en": "Andong Old Market, Andong",
@@ -4126,7 +4286,8 @@
       "ja": "慶州黄南パン通り",
       "zh": "庆州黄南面包街",
       "vi": "Phố bánh Hwangnam Gyeongju",
-      "id": "Jalan Roti Hwangnam Gyeongju"
+      "id": "Jalan Roti Hwangnam Gyeongju",
+      "ko": "Gyeongju Hwangnam Bread Street"
     },
     "address": {
       "en": "Hwangnam-dong, Gyeongju",
@@ -4156,7 +4317,8 @@
       "ja": "竹島市場",
       "zh": "竹岛市场",
       "vi": "Chợ Jukdo Pohang",
-      "id": "Pasar Jukdo Pohang"
+      "id": "Pasar Jukdo Pohang",
+      "ko": "Jukdo Market Pohang"
     },
     "address": {
       "en": "Jukdo-dong, Pohang",
@@ -4186,7 +4348,8 @@
       "ja": "慶州伝統酒通り",
       "zh": "庆州传统酒街",
       "vi": "Phố rượu truyền thống Gyeongju",
-      "id": "Jalan Minuman Tradisional Gyeongju"
+      "id": "Jalan Minuman Tradisional Gyeongju",
+      "ko": "Gyeongju Traditional Liquor Street"
     },
     "address": {
       "en": "Gyeongju-si, Gyeongbuk",
@@ -4217,7 +4380,8 @@
       "ja": "河回マスク祭会場",
       "zh": "河回面具节会场",
       "vi": "Sân lễ hội mặt nạ Hahoe",
-      "id": "Lokasi Festival Topeng Hahoe"
+      "id": "Lokasi Festival Topeng Hahoe",
+      "ko": "Andong Hahoe Mask Festival Site"
     },
     "address": {
       "en": "Hahoe Folk Village, Andong",
@@ -4247,7 +4411,8 @@
       "ja": "仏国寺 ドラマロケ地",
       "zh": "佛国寺 韩剧取景地",
       "vi": "Khu quay phim Bulguksa",
-      "id": "Lokasi Syuting Bulguksa"
+      "id": "Lokasi Syuting Bulguksa",
+      "ko": "Bulguksa Drama Filming Grounds"
     },
     "address": {
       "en": "Bulguksa-ro, Gyeongju",
@@ -4277,7 +4442,8 @@
       "ja": "善徳女王ロケ村",
       "zh": "善德女王取景村",
       "vi": "Làng quay phim Queen Seondeok",
-      "id": "Desa Syuting Queen Seondeok"
+      "id": "Desa Syuting Queen Seondeok",
+      "ko": "Queen Seondeok Filming Village"
     },
     "address": {
       "en": "Gyeongju-si, Gyeongbuk",
@@ -4307,7 +4473,8 @@
       "ja": "安東国際マスクダンスフェスティバル",
       "zh": "安东国际面具舞节",
       "vi": "Lễ hội múa mặt nạ quốc tế Andong",
-      "id": "Festival Tarian Topeng Internasional Andong"
+      "id": "Festival Tarian Topeng Internasional Andong",
+      "ko": "Andong International Maskdance Festival"
     },
     "address": {
       "en": "Andong-si, Gyeongbuk",
@@ -4337,7 +4504,8 @@
       "ja": "慶州ヒルトンスパ",
       "zh": "庆州希尔顿 Spa",
       "vi": "Spa Hilton Gyeongju",
-      "id": "Spa Hilton Gyeongju"
+      "id": "Spa Hilton Gyeongju",
+      "ko": "Gyeongju Spa Hilton"
     },
     "address": {
       "en": "644 Sinpyeong-dong, Gyeongju",
@@ -4367,7 +4535,8 @@
       "ja": "安東韓紙ビューティー工房",
       "zh": "安东韩纸美容工坊",
       "vi": "Xưởng làm đẹp giấy Hanji Andong",
-      "id": "Workshop Kecantikan Hanji Andong"
+      "id": "Workshop Kecantikan Hanji Andong",
+      "ko": "Andong Hanji Beauty Workshop"
     },
     "address": {
       "en": "Andong Hanji Theme Park, Andong",
@@ -4397,7 +4566,8 @@
       "ja": "浦項スパバレー",
       "zh": "浦项 Spa Valley",
       "vi": "Pohang Spa Valley",
-      "id": "Pohang Spa Valley"
+      "id": "Pohang Spa Valley",
+      "ko": "Pohang Spa Valley"
     },
     "address": {
       "en": "Pohang-si, Gyeongbuk",
@@ -4427,7 +4597,8 @@
       "ja": "慶州韓方ビューティー",
       "zh": "庆州韩方美容",
       "vi": "Làm đẹp y học cổ truyền Gyeongju",
-      "id": "Kecantikan Pengobatan Oriental Gyeongju"
+      "id": "Kecantikan Pengobatan Oriental Gyeongju",
+      "ko": "Gyeongju Oriental Medicine Beauty"
     },
     "address": {
       "en": "Gyeongju-si, Gyeongbuk",
@@ -4458,7 +4629,8 @@
       "ja": "河回民俗村",
       "zh": "安东河回民俗村",
       "vi": "Làng dân gian Hahoe Andong",
-      "id": "Desa Rakyat Hahoe Andong"
+      "id": "Desa Rakyat Hahoe Andong",
+      "ko": "Andong Hahoe Folk Village"
     },
     "address": {
       "en": "1867 Jongga-gil, Pungcheon-myeon, Andong",
@@ -4488,7 +4660,8 @@
       "ja": "仏国寺",
       "zh": "佛国寺",
       "vi": "Chùa Bulguksa",
-      "id": "Kuil Bulguksa"
+      "id": "Kuil Bulguksa",
+      "ko": "Bulguksa Temple"
     },
     "address": {
       "en": "385 Bulguksa-ro, Gyeongju",
@@ -4518,7 +4691,8 @@
       "ja": "石窟庵",
       "zh": "石窟庵",
       "vi": "Hang Seokguram",
-      "id": "Gua Seokguram"
+      "id": "Gua Seokguram",
+      "ko": "Seokguram Grotto"
     },
     "address": {
       "en": "874-1 Bulguksa-ro, Gyeongju",
@@ -4549,7 +4723,8 @@
       "ja": "良洞民俗村",
       "zh": "良洞民俗村",
       "vi": "Làng dân gian Yangdong",
-      "id": "Desa Rakyat Yangdong"
+      "id": "Desa Rakyat Yangdong",
+      "ko": "Yangdong Folk Village"
     },
     "address": {
       "en": "Yangdong-myeon, Gyeongju",
@@ -4580,7 +4755,8 @@
       "ja": "普門湖リゾート",
       "zh": "普门湖度假村",
       "vi": "Khu nghỉ dưỡng hồ Bomun",
-      "id": "Resort Danau Bomun"
+      "id": "Resort Danau Bomun",
+      "ko": "Bomun Lake Resort"
     },
     "address": {
       "en": "544 Bomun-ro, Gyeongju",
@@ -4610,7 +4786,8 @@
       "ja": "瞻星台",
       "zh": "瞻星台",
       "vi": "Đài thiên văn Cheomseongdae",
-      "id": "Observatorium Cheomseongdae"
+      "id": "Observatorium Cheomseongdae",
+      "ko": "Cheomseongdae Observatory"
     },
     "address": {
       "en": "839-1 Inwang-dong, Gyeongju",
@@ -4640,7 +4817,8 @@
       "ja": "호미곶 日の出広場",
       "zh": "虎尾岬 日出广场",
       "vi": "Quảng trường bình minh Homigot",
-      "id": "Alun-alun Matahari Terbit Homigot"
+      "id": "Alun-alun Matahari Terbit Homigot",
+      "ko": "호미곶 日の出広場"
     },
     "address": {
       "en": "Homigot, Pohang",
@@ -4670,7 +4848,8 @@
       "ja": "周王山国立公園",
       "zh": "周王山国立公园",
       "vi": "Vườn quốc gia Juwangsan",
-      "id": "Taman Nasional Juwangsan"
+      "id": "Taman Nasional Juwangsan",
+      "ko": "Juwangsan National Park"
     },
     "address": {
       "en": "Juwangsan-ro, Cheongsong",
@@ -4701,7 +4880,8 @@
       "ja": "全州ビビンバ通り",
       "zh": "全州拌饭街",
       "vi": "Phố Bibimbap Jeonju",
-      "id": "Jalan Bibimbap Jeonju"
+      "id": "Jalan Bibimbap Jeonju",
+      "ko": "Jeonju Bibimbap Street"
     },
     "address": {
       "en": "Gyeonggijeon-gil, Wansan-gu, Jeonju",
@@ -4732,7 +4912,8 @@
       "ja": "全州南部市場",
       "zh": "全州南部市场",
       "vi": "Chợ Nambu Jeonju",
-      "id": "Pasar Nambu Jeonju"
+      "id": "Pasar Nambu Jeonju",
+      "ko": "Jeonju Nambu Market"
     },
     "address": {
       "en": "Nambu Market, Jeonju",
@@ -4762,7 +4943,8 @@
       "ja": "全州コングナムルクッパ通り",
       "zh": "全州豆芽汤饭街",
       "vi": "Phố kongnamul gukbap Jeonju",
-      "id": "Jalan Kongnamul Gukbap Jeonju"
+      "id": "Jalan Kongnamul Gukbap Jeonju",
+      "ko": "Jeonju Kongnamul Gukbap Alley"
     },
     "address": {
       "en": "Jeonju-si, Jeonbuk",
@@ -4792,7 +4974,8 @@
       "ja": "全州マッコリタウン",
       "zh": "全州马格利 Town",
       "vi": "Jeonju Makgeolli Town",
-      "id": "Jeonju Makgeolli Town"
+      "id": "Jeonju Makgeolli Town",
+      "ko": "Jeonju Makgeolli Town"
     },
     "address": {
       "en": "Hanok Village area, Jeonju",
@@ -4822,7 +5005,8 @@
       "ja": "全州映画通り",
       "zh": "全州电影街",
       "vi": "Phố phim Jeonju",
-      "id": "Jalan Film Jeonju"
+      "id": "Jalan Film Jeonju",
+      "ko": "Jeonju Film Commission Street"
     },
     "address": {
       "en": "Film Street, Jeonju",
@@ -4852,7 +5036,8 @@
       "ja": "慶基殿 ドラマロケ地",
       "zh": "庆基殿 韩剧取景地",
       "vi": "Địa điểm quay phim Gyeonggijeon",
-      "id": "Lokasi Syuting Gyeonggijeon"
+      "id": "Lokasi Syuting Gyeonggijeon",
+      "ko": "Gyeonggijeon Shrine Drama Site"
     },
     "address": {
       "en": "Gyeonggijeon-gil, Jeonju",
@@ -4883,7 +5068,8 @@
       "ja": "全州韓屋村 ドラマ路地",
       "zh": "全州韩屋村 韩剧巷",
       "vi": "Hẻm drama Hanok Jeonju",
-      "id": "Gang Drama Hanok Jeonju"
+      "id": "Gang Drama Hanok Jeonju",
+      "ko": "Jeonju Hanok Village Drama Alley"
     },
     "address": {
       "en": "Gyodong Hanok Village, Jeonju",
@@ -4913,7 +5099,8 @@
       "ja": "ジャマン壁画村",
       "zh": "Jaman 壁画村",
       "vi": "Làng bích họa Jaman",
-      "id": "Desa Mural Jaman"
+      "id": "Desa Mural Jaman",
+      "ko": "Jaman Mural Village"
     },
     "address": {
       "en": "Jaman-dong, Jeonju",
@@ -4943,7 +5130,8 @@
       "ja": "全州韓方博物館",
       "zh": "全州韩方博物馆",
       "vi": "Bảo tàng Y học Cổ truyền Jeonju",
-      "id": "Museum Pengobatan Oriental Jeonju"
+      "id": "Museum Pengobatan Oriental Jeonju",
+      "ko": "Jeonju Oriental Medicine Museum"
     },
     "address": {
       "en": "Jeonju-si, Jeonbuk",
@@ -4973,7 +5161,8 @@
       "ja": "全州韓紙コスメ工房",
       "zh": "全州韩纸化妆品工坊",
       "vi": "Xưởng mỹ phẩm giấy Hanji Jeonju",
-      "id": "Workshop Kosmetik Hanji Jeonju"
+      "id": "Workshop Kosmetik Hanji Jeonju",
+      "ko": "Jeonju Hanji Cosmetic Workshop"
     },
     "address": {
       "en": "Hanok Village, Jeonju",
@@ -5004,7 +5193,8 @@
       "ja": "徳津公園スパエリア",
       "zh": "德津公园 Spa 区",
       "vi": "Khu spa Công viên Deokjin",
-      "id": "Distrik Spa Taman Deokjin"
+      "id": "Distrik Spa Taman Deokjin",
+      "ko": "Deokjin Park Spa District"
     },
     "address": {
       "en": "Deokjin-gu, Jeonju",
@@ -5034,7 +5224,8 @@
       "ja": "オリーブヤング 全州",
       "zh": "Olive Young 全州",
       "vi": "Olive Young Jeonju",
-      "id": "Olive Young Jeonju"
+      "id": "Olive Young Jeonju",
+      "ko": "Olive Young Jeonju"
     },
     "address": {
       "en": "Jeonju-si, Jeonbuk",
@@ -5065,7 +5256,8 @@
       "ja": "全州韓屋村",
       "zh": "全州韩屋村",
       "vi": "Làng Hanok Jeonju",
-      "id": "Desa Hanok Jeonju"
+      "id": "Desa Hanok Jeonju",
+      "ko": "Jeonju Hanok Village"
     },
     "address": {
       "en": "99 Girin-daero, Wansan-gu, Jeonju",
@@ -5095,7 +5287,8 @@
       "ja": "慶基殿",
       "zh": "庆基殿",
       "vi": "Đền thờ Gyeonggijeon",
-      "id": "Kuil Gyeonggijeon"
+      "id": "Kuil Gyeonggijeon",
+      "ko": "Gyeonggijeon Shrine"
     },
     "address": {
       "en": "Gyeonggijeon-gil, Jeonju",
@@ -5125,7 +5318,8 @@
       "ja": "全州伝統酒博物館",
       "zh": "全州传统酒博物馆",
       "vi": "Bảo tàng Rượu Truyền thống Jeonju",
-      "id": "Museum Minuman Tradisional Jeonju"
+      "id": "Museum Minuman Tradisional Jeonju",
+      "ko": "Jeonju Traditional Wine Museum"
     },
     "address": {
       "en": "Jeonju-si, Jeonbuk",
@@ -5155,7 +5349,8 @@
       "ja": "全州史庫",
       "zh": "全州史库",
       "vi": "Lưu trữ Sago Jeonju",
-      "id": "Arsip Sago Jeonju"
+      "id": "Arsip Sago Jeonju",
+      "ko": "Jeonju Sago Archives"
     },
     "address": {
       "en": "Jeonju-si, Jeonbuk",
@@ -5186,7 +5381,8 @@
       "ja": "徳津公園",
       "zh": "德津公园",
       "vi": "Công viên Deokjin",
-      "id": "Taman Deokjin"
+      "id": "Taman Deokjin",
+      "ko": "Deokjin Park"
     },
     "address": {
       "en": "Deokjin-gu, Jeonju",
@@ -5216,7 +5412,8 @@
       "ja": "マイサン道立公園",
       "zh": "马耳山道立公园",
       "vi": "Công viên Maisan",
-      "id": "Taman Maisan"
+      "id": "Taman Maisan",
+      "ko": "Maisan Provincial Park"
     },
     "address": {
       "en": "Jinan-gun, Jeonbuk",
@@ -5247,7 +5444,8 @@
       "ja": "完山公園",
       "zh": "完山公园",
       "vi": "Công viên Wansan",
-      "id": "Taman Wansan"
+      "id": "Taman Wansan",
+      "ko": "Wansan Park"
     },
     "address": {
       "en": "Wansan-gu, Jeonju",
@@ -5277,7 +5475,8 @@
       "ja": "茂朱九千洞渓谷",
       "zh": "茂朱九千洞溪谷",
       "vi": "Thung lũng Gucheondong Muju",
-      "id": "Lembah Gucheondong Muju"
+      "id": "Lembah Gucheondong Muju",
+      "ko": "Muju Gucheondong Valley"
     },
     "address": {
       "en": "Gucheondong, Muju",
@@ -5308,7 +5507,8 @@
       "ja": "ワンゴクハルメチャンポン横丁",
       "zh": "旺谷奶奶海鲜面巷",
       "vi": "Hẻm mì jjambbong Halmae Wongok",
-      "id": "Gang Jjambbong Halmae Wongok"
+      "id": "Gang Jjambbong Halmae Wongok",
+      "ko": "Wongok Halmae Jjambbong Alley"
     },
     "address": {
       "en": "Wongok-dong, Danwon-gu, Ansan",
@@ -5340,7 +5540,8 @@
       "ja": "オイド早朝魚市場路地",
       "zh": "乌耳岛清晨鱼市巷",
       "vi": "Hẻm chợ cá bình minh Oido",
-      "id": "Gang Pasar Ikan Fajar Oido"
+      "id": "Gang Pasar Ikan Fajar Oido",
+      "ko": "Oido Dawn Fish Market Alley"
     },
     "address": {
       "en": "Oido-dong, Siheung",
@@ -5372,7 +5573,8 @@
       "ja": "別内石鍋ビビンバ家",
       "zh": "别内石锅拌饭家",
       "vi": "Quán bibimbap nồi đá Byeollae",
-      "id": "Rumah Bibimbap Dolsot Byeollae"
+      "id": "Rumah Bibimbap Dolsot Byeollae",
+      "ko": "Byeollae Dolsot Bibimbap House"
     },
     "address": {
       "en": "Byeollae-dong, Namyangju",
@@ -5404,7 +5606,8 @@
       "ja": "大野味肉汁飯朝の路地",
       "zh": "大野味肉汁饭晨巷",
       "vi": "Hẻm gukbap sáng Daeyami",
-      "id": "Gang Gukbap Pagi Daeyami"
+      "id": "Gang Gukbap Pagi Daeyami",
+      "ko": "Daeyami Gukbap Morning Alley"
     },
     "address": {
       "en": "Daeyami-dong, Gunpo",
@@ -5436,7 +5639,8 @@
       "ja": "東灘インディー映画カフェ通り",
       "zh": "东滩独立电影咖啡馆街",
       "vi": "Dãy cafe phim indie Dongtan",
-      "id": "Deretan Kafe Film Indie Dongtan"
+      "id": "Deretan Kafe Film Indie Dongtan",
+      "ko": "Dongtan Indie Film Cafe Row"
     },
     "address": {
       "en": "Bongdam-eup, Hwaseong",
@@ -5468,7 +5672,8 @@
       "ja": "一山ウェブトゥーン路地スタジオ",
       "zh": "一山网漫巷工作室",
       "vi": "Xưởng webtoon hẻm Ilsan",
-      "id": "Studio Webtoon Gang Ilsan"
+      "id": "Studio Webtoon Gang Ilsan",
+      "ko": "Ilsan Webtoon Alley Studios"
     },
     "address": {
       "en": "Ilsan-dong, Goyang",
@@ -5500,7 +5705,8 @@
       "ja": "議政府ブデチゲ裏ロケ路地",
       "zh": "议政府部队锅取景后巷",
       "vi": "Ngõ quay phim budaejjigae Uijeongbu",
-      "id": "Gang Lokasi Syuting Budaejjigae Uijeongbu"
+      "id": "Gang Lokasi Syuting Budaejjigae Uijeongbu",
+      "ko": "Uijeongbu Budaejjigae Backlot Lane"
     },
     "address": {
       "en": "Uijeongbu-dong, Uijeongbu",
@@ -5532,7 +5738,8 @@
       "ja": "楊平川辺ドラマ撮影スポット",
       "zh": "杨平江畔剧集取景点",
       "vi": "Điểm chụp phim bên sông Yangpyeong",
-      "id": "Spot Foto Drama Tepi Sungai Yangpyeong"
+      "id": "Spot Foto Drama Tepi Sungai Yangpyeong",
+      "ko": "Yangpyeong Riverside Drama Photo Spot"
     },
     "address": {
       "en": "Yangpyeong-eup, Yangpyeong",
@@ -5564,7 +5771,8 @@
       "ja": "驪州陶土フェイシャルサロン",
       "zh": "骊州陶土面部护理沙龙",
       "vi": "Salon facial đất sét Yeoju",
-      "id": "Salon Facial Tanah Liat Yeoju"
+      "id": "Salon Facial Tanah Liat Yeoju",
+      "ko": "Yeoju Ceramic Clay Facial Salon"
     },
     "address": {
       "en": "Yeoju-si, Gyeonggi",
@@ -5596,7 +5804,8 @@
       "ja": "抱川ハーブバレー肌ラボ",
       "zh": "抱川香草谷护肤实验室",
       "vi": "Phòng lab da thung lũng thảo mộc Pocheon",
-      "id": "Lab Kulit Lembah Herbal Pocheon"
+      "id": "Lab Kulit Lembah Herbal Pocheon",
+      "ko": "Pocheon Herb Valley Skin Lab"
     },
     "address": {
       "en": "Soheul-myeon, Pocheon",
@@ -5628,7 +5837,8 @@
       "ja": "富川中洞コスメ工房",
       "zh": "富川中洞化妆品工坊",
       "vi": "Xưởng mỹ phẩm Jungdong Bucheon",
-      "id": "Workshop Kosmetik Jungdong Bucheon"
+      "id": "Workshop Kosmetik Jungdong Bucheon",
+      "ko": "Bucheon Jungdong Cosmetics Workshop"
     },
     "address": {
       "en": "Jung-dong, Bucheon",
@@ -5660,7 +5870,8 @@
       "ja": "光明洞窟街スパフェイシャルバー",
       "zh": "光明洞窟街 Spa 面部吧",
       "vi": "Quầy facial spa khu hang động Gwangmyeong",
-      "id": "Bar Facial Spa Distrik Gua Gwangmyeong"
+      "id": "Bar Facial Spa Distrik Gua Gwangmyeong",
+      "ko": "Gwangmyeong Cave District Spa Facial Bar"
     },
     "address": {
       "en": "Gwangmyeong-dong, Gwangmyeong",
@@ -5692,7 +5903,8 @@
       "ja": "ノゴク韓屋工芸工房",
       "zh": "鲁谷韩屋工艺工坊",
       "vi": "Xưởng thủ công hanok Nogok",
-      "id": "Workshop Kerajinan Hanok Nogok"
+      "id": "Workshop Kerajinan Hanok Nogok",
+      "ko": "Nogok Hanok Craft Workshop"
     },
     "address": {
       "en": "Nogok-myeon, Yangju",
@@ -5723,7 +5935,8 @@
       "ja": "地下市場文化ウォーク",
       "zh": "地下市场文化漫步",
       "vi": "Đi bộ văn hóa chợ ngầm Jiha",
-      "id": "Jalan Budaya Pasar Bawah Tanah Jiha"
+      "id": "Jalan Budaya Pasar Bawah Tanah Jiha",
+      "ko": "Jiha Underground Market Culture Walk"
     },
     "address": {
       "en": "Jiha-dong, Dongducheon",
@@ -5755,7 +5968,8 @@
       "ja": "議旺鉄道村手工芸市",
       "zh": "义旺铁道村手工艺市集",
       "vi": "Hội chợ thủ công làng đường sắt Uiwang",
-      "id": "Pasar Kerajinan Desa Rel Uiwang"
+      "id": "Pasar Kerajinan Desa Rel Uiwang",
+      "ko": "Uiwang Rail Village Handicraft Fair"
     },
     "address": {
       "en": "Burim-dong, Uiwang",
@@ -5787,7 +6001,8 @@
       "ja": "愛妓峰農楽サークル庭",
       "zh": "爱妓峰农乐圈子庭院",
       "vi": "Sân tròn trống dân gian Aegibong",
-      "id": "Halaman Lingkaran Drum Rakyat Aegibong"
+      "id": "Halaman Lingkaran Drum Rakyat Aegibong",
+      "ko": "Aegibong Folk Drum Circle Yard"
     },
     "address": {
       "en": "Tongjin-dong, Gimpo",
@@ -5819,7 +6034,8 @@
       "ja": "松山近所グリーントレイル",
       "zh": "松山社区绿道",
       "vi": "Đường mòn xanh khu phố Songsan",
-      "id": "Jalur Hijau Lingkungan Songsan"
+      "id": "Jalur Hijau Lingkungan Songsan",
+      "ko": "Songsan Neighborhood Green Trail"
     },
     "address": {
       "en": "Songsan-dong, Hwaseong",
@@ -5851,7 +6067,8 @@
       "ja": "漢灘江隠れ川辺トレイル",
       "zh": "汉滩江隐秘江畔步道",
       "vi": "Đường ven sông ẩn Hantan",
-      "id": "Jalur Tepi Sungai Tersembunyi Hantan"
+      "id": "Jalur Tepi Sungai Tersembunyi Hantan",
+      "ko": "Hantan River Hidden Riverside Trail"
     },
     "address": {
       "en": "Yeoncheon-eup, Yeoncheon",
@@ -5883,7 +6100,8 @@
       "ja": "峨嵯山尾根近所道",
       "zh": "峨嵯山山脊社区步道",
       "vi": "Đường đồi Achasan khu dân cư",
-      "id": "Jalur Lingkungan Punggung Achasan"
+      "id": "Jalur Lingkungan Punggung Achasan",
+      "ko": "Achasan Ridge Neighborhood Path"
     },
     "address": {
       "en": "Guri-dong, Guri",
@@ -5915,7 +6133,8 @@
       "ja": "設城貯水池朝の散歩道",
       "zh": "设城水库晨间步道",
       "vi": "Đường đi sáng hồ chứa Seolseong",
-      "id": "Jalan Pagi Waduk Seolseong"
+      "id": "Jalan Pagi Waduk Seolseong",
+      "ko": "Seolseong Reservoir Morning Walk"
     },
     "address": {
       "en": "Seolseong-dong, Icheon",
@@ -5947,7 +6166,8 @@
       "ja": "武石スンデ横丁",
       "zh": "武石血肠巷",
       "vi": "Hẻm sundae Musil",
-      "id": "Gang Sundae Musil"
+      "id": "Gang Sundae Musil",
+      "ko": "Musil Sundae Alley"
     },
     "address": {
       "en": "Musil-dong, Wonju",
@@ -5979,7 +6199,8 @@
       "ja": "洪川トウキ鍋家",
       "zh": "洪川土当归锅家",
       "vi": "Quán lẩu củ deodeok Hongcheon",
-      "id": "Rumah Rebus Akar Deodeok Hongcheon"
+      "id": "Rumah Rebus Akar Deodeok Hongcheon",
+      "ko": "Hongcheon Deodeok Root Stew House"
     },
     "address": {
       "en": "Hongcheon-eup, Hongcheon",
@@ -6011,7 +6232,8 @@
       "ja": "太白炭鉱夫肉汁飯店",
       "zh": "太白煤矿工人汤饭店",
       "vi": "Quán gukbap thợ mỏ Taebaek",
-      "id": "Warung Gukbap Penambang Taebaek"
+      "id": "Warung Gukbap Penambang Taebaek",
+      "ko": "Taebaek Coal Miner Gukbap Shop"
     },
     "address": {
       "en": "Cheoram-dong, Taebaek",
@@ -6043,7 +6265,8 @@
       "ja": "寧越そば切り麺角",
       "zh": "宁越荞麦切面角",
       "vi": "Góc makguksu kiều mạch Yeongwol",
-      "id": "Sudut Makguksu Sobyeok Yeongwol"
+      "id": "Sudut Makguksu Sobyeok Yeongwol",
+      "ko": "Yeongwol Buckwheat Makguksu Corner"
     },
     "address": {
       "en": "Yeongwol-eup, Yeongwol",
@@ -6075,7 +6298,8 @@
       "ja": "旌善アリラン民俗舞台裏庭",
       "zh": "旌善阿里郎民俗舞台后院",
       "vi": "Sân sau sân khấu dân gian Arirang Jeongseon",
-      "id": "Halaman Belakang Panggung Rakyat Arirang Jeongseon"
+      "id": "Halaman Belakang Panggung Rakyat Arirang Jeongseon",
+      "ko": "Jeongseon Arirang Folk Stage Backyard"
     },
     "address": {
       "en": "Jeongseon-eup, Jeongseon",
@@ -6107,7 +6331,8 @@
       "ja": "麟蹄白樺林ドラマロケ地",
       "zh": "麟蹄白桦林剧集取景地",
       "vi": "Khu rừng bạch dương quay phim Inje",
-      "id": "Area Syuting Drama Hutan Birch Inje"
+      "id": "Area Syuting Drama Hutan Birch Inje",
+      "ko": "Inje Birch Forest Drama Clearing"
     },
     "address": {
       "en": "Inje-eup, Inje",
@@ -6139,7 +6364,8 @@
       "ja": "高城DMZ展望インディー映画デッキ",
       "zh": "高城 DMZ 展望独立电影露台",
       "vi": "Sàn phim indie ngắm DMZ Goseong",
-      "id": "Dek Film Indie Pemandangan DMZ Goseong"
+      "id": "Dek Film Indie Pemandangan DMZ Goseong",
+      "ko": "Goseong DMZ View Indie Film Deck"
     },
     "address": {
       "en": "Goseong-eup, Goseong",
@@ -6171,7 +6397,8 @@
       "ja": "義岩湖湖畔ウェブドラマ桟橋",
       "zh": "义岩湖湖畔网络剧码头",
       "vi": "Bến web-drama bên hồ Uiamho",
-      "id": "Dermaga Web-Drama Tepi Danau Uiamho"
+      "id": "Dermaga Web-Drama Tepi Danau Uiamho",
+      "ko": "Uiamho Lakeside Web Drama Pier"
     },
     "address": {
       "en": "Dongmyeong-dong, Chuncheon",
@@ -6203,7 +6430,8 @@
       "ja": "平昌松林サウナフェイシャル",
       "zh": "平昌松林桑拿面部护理",
       "vi": "Facial sauna rừng thông Pyeongchang",
-      "id": "Facial Sauna Hutan Pinus Pyeongchang"
+      "id": "Facial Sauna Hutan Pinus Pyeongchang",
+      "ko": "Pyeongchang Pine Forest Sauna Facial"
     },
     "address": {
       "en": "Mitan-myeon, Pyeongchang",
@@ -6235,7 +6463,8 @@
       "ja": "鏡浦ハーブ足湯サロン",
       "zh": "镜浦香草足浴沙龙",
       "vi": "Salon ngâm chân thảo mộc Gyeongpo",
-      "id": "Salon Rendam Kaki Herbal Gyeongpo"
+      "id": "Salon Rendam Kaki Herbal Gyeongpo",
+      "ko": "Gyeongpo Herb Foot Bath Salon"
     },
     "address": {
       "en": "Gyeongpo-dong, Gangneung",
@@ -6267,7 +6496,8 @@
       "ja": "束草魚市場海藻マスクバー",
       "zh": "束草鱼市场海藻面膜吧",
       "vi": "Quầy mặt nạ rong biển chợ cá Sokcho",
-      "id": "Bar Masker Rumput Laut Pasar Ikan Sokcho"
+      "id": "Bar Masker Rumput Laut Pasar Ikan Sokcho",
+      "ko": "Sokcho Fish Market Seaweed Mask Bar"
     },
     "address": {
       "en": "Dongmyeong-dong, Sokcho",
@@ -6299,7 +6529,8 @@
       "ja": "襄陽サーフ用亜鉛日焼け止め工房",
       "zh": "襄阳冲浪用氧化锌防晒棒工坊",
       "vi": "Xưởng kem chống nắng kẽm cho lướt sóng Yangyang",
-      "id": "Workshop Stik Tabir Surya Seng Surf Yangyang"
+      "id": "Workshop Stik Tabir Surya Seng Surf Yangyang",
+      "ko": "Yangyang Surf Zinc Sun Stick Workshop"
     },
     "address": {
       "en": "Yangyang-eup, Yangyang",
@@ -6331,7 +6562,8 @@
       "ja": "原州韓紙村紙工房",
       "zh": "原州韩纸村造纸工坊",
       "vi": "Xưởng giấy hanji làng Wonju",
-      "id": "Workshop Kertas Desa Hanji Wonju"
+      "id": "Workshop Kertas Desa Hanji Wonju",
+      "ko": "Wonju Hanji Village Paper Workshop"
     },
     "address": {
       "en": "Panbu-myeon, Wonju",
@@ -6363,7 +6595,8 @@
       "ja": "洪川川辺岩石彫刻庭",
       "zh": "洪川河畔岩石雕刻院",
       "vi": "Sân điêu khắc đá ven sông Hongcheon",
-      "id": "Halaman Ukir Batu Tepi Sungai Hongcheon"
+      "id": "Halaman Ukir Batu Tepi Sungai Hongcheon",
+      "ko": "Hongcheon River Rock Carving Yard"
     },
     "address": {
       "en": "Namcheon-myeon, Hongcheon",
@@ -6395,7 +6628,8 @@
       "ja": "太白炭鉱博物館裏見学",
       "zh": "太白煤矿博物馆后台参观",
       "vi": "Tour hậu trường bảo tàng than Taebaek",
-      "id": "Tur Belakang Panggung Museum Batubara Taebaek"
+      "id": "Tur Belakang Panggung Museum Batubara Taebaek",
+      "ko": "Taebaek Coal Museum Backroom Tour"
     },
     "address": {
       "en": "Cheoram-dong, Taebaek",
@@ -6427,7 +6661,8 @@
       "ja": "寧越東江詩の朗読デッキ",
       "zh": "宁越东江诗歌朗读露台",
       "vi": "Sàn đọc thơ sông Dong Yeongwol",
-      "id": "Dek Membaca Puisi Sungai Dong Yeongwol"
+      "id": "Dek Membaca Puisi Sungai Dong Yeongwol",
+      "ko": "Yeongwol Dong River Poetry Reading Deck"
     },
     "address": {
       "en": "Yeongwol-eup, Yeongwol",
@@ -6459,7 +6694,8 @@
       "ja": "アリラン丘陵朝霧トレイル",
       "zh": "阿里郎丘陵晨雾步道",
       "vi": "Đường sương sáng đồi Arirang",
-      "id": "Jalur Kabut Pagi Bukit Arirang"
+      "id": "Jalur Kabut Pagi Bukit Arirang",
+      "ko": "Arirang Hills Morning Mist Trail"
     },
     "address": {
       "en": "Jeongseon-eup, Jeongseon",
@@ -6491,7 +6727,8 @@
       "ja": "内麟川隠れ渓谷散策",
       "zh": "内麟川隐秘溪谷漫步",
       "vi": "Đi bộ thung lũng ẩn Naerincheon",
-      "id": "Jalan Lembah Tersembunyi Naerincheon"
+      "id": "Jalan Lembah Tersembunyi Naerincheon",
+      "ko": "Naerincheon Hidden Valley Walk"
     },
     "address": {
       "en": "Buk-myeon, Inje",
@@ -6523,7 +6760,8 @@
       "ja": "松池湖葦の木道",
       "zh": "松池湖芦苇木栈道",
       "vi": "Ván sàn lau sậy hồ Songjiho",
-      "id": "Boardwalk Alang-alang Danau Songjiho"
+      "id": "Boardwalk Alang-alang Danau Songjiho",
+      "ko": "Songjiho Lakeside Reed Boardwalk"
     },
     "address": {
       "en": "Geonbuk-myeon, Goseong",
@@ -6555,7 +6793,8 @@
       "ja": "義岩湖夜明けサイクリング",
       "zh": "义岩湖黎明骑行环线",
       "vi": "Vòng đạp xe bình minh Uiamho",
-      "id": "Loop Bersepeda Fajar Uiamho"
+      "id": "Loop Bersepeda Fajar Uiamho",
+      "ko": "Uiamho Dawn Cycling Loop"
     },
     "address": {
       "en": "Dongmyeong-dong, Chuncheon",
@@ -6587,7 +6826,8 @@
       "ja": "上党ゴプチャン横丁",
       "zh": "上党烤肥肠巷",
       "vi": "Hẻm gopchang Sangdang",
-      "id": "Gang Gopchang Sangdang"
+      "id": "Gang Gopchang Sangdang",
+      "ko": "Sangdang Gopchang Alley"
     },
     "address": {
       "en": "Sangdang-gu, Cheongju",
@@ -6619,7 +6859,8 @@
       "ja": "忠州干し柿おやつ路地",
       "zh": "忠州柿饼零食巷",
       "vi": "Ngõ snack hồng khô Chungju",
-      "id": "Gang Camilan Kesemek Kering Chungju"
+      "id": "Gang Camilan Kesemek Kering Chungju",
+      "ko": "Chungju Dried Persimmon Snack Lane"
     },
     "address": {
       "en": "Yongtan-myeon, Chungju",
@@ -6651,7 +6892,8 @@
       "ja": "堤川薬草白灼家",
       "zh": "堤川药草白灼家",
       "vi": "Quán baeksuk thảo dược Jecheon",
-      "id": "Rumah Baeksuk Herbal Jecheon"
+      "id": "Rumah Baeksuk Herbal Jecheon",
+      "ko": "Jecheon Medicinal Herb Baeksuk House"
     },
     "address": {
       "en": "Jecheon-si, Chungbuk",
@@ -6683,7 +6925,8 @@
       "ja": "丹陽パラグライダーパイロット麺店",
       "zh": "丹阳滑翔伞飞行员面馆",
       "vi": "Quán mì phi công dù lượn Danyang",
-      "id": "Warung Mie Pilot Paragliding Danyang"
+      "id": "Warung Mie Pilot Paragliding Danyang",
+      "ko": "Danyang Paragliding Pilot Noodle Shop"
     },
     "address": {
       "en": "Danyang-eup, Danyang",
@@ -6715,7 +6958,8 @@
       "ja": "法住寺参道ドラマロケ道",
       "zh": "法住寺参道剧集取景路",
       "vi": "Đường quay phim lối vào chùa Beopjusa",
-      "id": "Jalan Syuting Drama Jalan Kuil Beopjusa"
+      "id": "Jalan Syuting Drama Jalan Kuil Beopjusa",
+      "ko": "Beopjusa Temple Road Drama Path"
     },
     "address": {
       "en": "Boeun-eup, Boeun",
@@ -6747,7 +6991,8 @@
       "ja": "槐山唐辛子祭り裏路地",
       "zh": "槐山辣椒节后台巷",
       "vi": "Hẻm hậu trường lễ hội ớt Goesan",
-      "id": "Gang Belakang Panggung Festival Cabai Goesan"
+      "id": "Gang Belakang Panggung Festival Cabai Goesan",
+      "ko": "Goesan Red Pepper Festival Backstage Alley"
     },
     "address": {
       "en": "Goesan-eup, Goesan",
@@ -6779,7 +7024,8 @@
       "ja": "曾坪農村バラエティロケセット",
       "zh": "曾坪乡村综艺取景棚",
       "vi": "Set quay show variety nông thôn Jeungpyeong",
-      "id": "Set Syuting Variety Pedesaan Jeungpyeong"
+      "id": "Set Syuting Variety Pedesaan Jeungpyeong",
+      "ko": "Jeungpyeong Countryside Variety Show Set"
     },
     "address": {
       "en": "Jeungpyeong-eup, Jeungpyeong",
@@ -6811,7 +7057,8 @@
       "ja": "沃川駅メロドラマホーム",
       "zh": "沃川站言情剧站台",
       "vi": "Sân ga phim melodrama Ga Okcheon",
-      "id": "Peron Melodrama Stasiun Okcheon"
+      "id": "Peron Melodrama Stasiun Okcheon",
+      "ko": "Okcheon Train Station Melodrama Platform"
     },
     "address": {
       "en": "Okcheon-eup, Okcheon",
@@ -6843,7 +7090,8 @@
       "ja": "清州オソンバイオ肌クリニック路地",
       "zh": "清州乌松生物护肤诊所巷",
       "vi": "Hẻm phòng khám da biotech Osong Cheongju",
-      "id": "Gang Klinik Kulit Biotech Osong Cheongju"
+      "id": "Gang Klinik Kulit Biotech Osong Cheongju",
+      "ko": "Cheongju Osong Biotech Skin Clinic Alley"
     },
     "address": {
       "en": "Osong-eup, Cheongju",
@@ -6875,7 +7123,8 @@
       "ja": "陰城ニンニクエッセンスフェイシャル",
       "zh": "阴城大蒜精华面部吧",
       "vi": "Quầy facial tinh chất tỏi Eumseong",
-      "id": "Bar Facial Esensi Bawang Eumseong"
+      "id": "Bar Facial Esensi Bawang Eumseong",
+      "ko": "Eumseong Garlic Essence Facial Bar"
     },
     "address": {
       "en": "Eumseong-eup, Eumseong",
@@ -6907,7 +7156,8 @@
       "ja": "堤川温泉足ピーリングサロン",
       "zh": "堤川温泉足部去角质沙龙",
       "vi": "Salon peel chân suối nước nóng Jecheon",
-      "id": "Salon Peel Kaki Pemandian Air Panas Jecheon"
+      "id": "Salon Peel Kaki Pemandian Air Panas Jecheon",
+      "ko": "Jecheon Hot Spring Foot Peel Salon"
     },
     "address": {
       "en": "Ungok-dong, Jecheon",
@@ -6939,7 +7189,8 @@
       "ja": "丹陽洞窟ミネラル泥パック工房",
       "zh": "丹阳洞穴矿物泥膜工坊",
       "vi": "Xưởng mặt nạ bùn khoáng hang động Danyang",
-      "id": "Studio Masker Lumpur Mineral Gua Danyang"
+      "id": "Studio Masker Lumpur Mineral Gua Danyang",
+      "ko": "Danyang Cave Mineral Mud Mask Studio"
     },
     "address": {
       "en": "Danyang-eup, Danyang",
@@ -6971,7 +7222,8 @@
       "ja": "俗離山梵鐘工芸庭",
       "zh": "俗离山梵钟工艺院",
       "vi": "Sân đúc chuông chùa Songnisan",
-      "id": "Halaman Kerajinan Lonceng Kuil Songnisan"
+      "id": "Halaman Kerajinan Lonceng Kuil Songnisan",
+      "ko": "Songnisan Temple Bell Craft Yard"
     },
     "address": {
       "en": "Naeseong-myeon, Boeun",
@@ -7003,7 +7255,8 @@
       "ja": "槐山コチュジャン発酵地下室",
       "zh": "槐山辣椒酱发酵地下室",
       "vi": "Hầm lên men gochujang Goesan",
-      "id": "Ruang Fermentasi Gochujang Goesan"
+      "id": "Ruang Fermentasi Gochujang Goesan",
+      "ko": "Goesan Chili Paste Fermentation Cellar"
     },
     "address": {
       "en": "Chilbo-myeon, Goesan",
@@ -7035,7 +7288,8 @@
       "ja": "曾坪わら漆器工房",
       "zh": "曾坪稻草漆器工坊",
       "vi": "Xưởng sơn mài rơm Jeungpyeong",
-      "id": "Workshop Pernis Rotan Jeungpyeong"
+      "id": "Workshop Pernis Rotan Jeungpyeong",
+      "ko": "Jeungpyeong Straw Lacquerware Workshop"
     },
     "address": {
       "en": "Jeungpyeong-eup, Jeungpyeong",
@@ -7067,7 +7321,8 @@
       "ja": "沃川鉄道遺産写真庭",
       "zh": "沃川铁道遗产摄影院",
       "vi": "Sân chụp ảnh di sản đường sắt Okcheon",
-      "id": "Halaman Foto Warisan Rel Okcheon"
+      "id": "Halaman Foto Warisan Rel Okcheon",
+      "ko": "Okcheon Railroad Heritage Photo Yard"
     },
     "address": {
       "en": "Okcheon-eup, Okcheon",
@@ -7098,7 +7353,8 @@
       "ja": "大清湖隠れ湖岸トレイル",
       "zh": "大清湖隐秘湖岸步道",
       "vi": "Đường bờ hồ ẩn Daecheongho",
-      "id": "Jalur Pantai Tersembunyi Daecheongho"
+      "id": "Jalur Pantai Tersembunyi Daecheongho",
+      "ko": "Daecheongho Hidden Shoreline Trail"
     },
     "address": {
       "en": "Munui-myeon, Cheongju",
@@ -7130,7 +7386,8 @@
       "ja": "忠州彈琴臺川辺夜明け散策",
       "zh": "忠州弹琴台江畔黎明漫步",
       "vi": "Đi bộ bình minh ven sông Tangeumdae Chungju",
-      "id": "Jalan Fajar Tepi Sungai Tangeumdae Chungju"
+      "id": "Jalan Fajar Tepi Sungai Tangeumdae Chungju",
+      "ko": "Chungju Tangeumdae Riverside Dawn Walk"
     },
     "address": {
       "en": "Yongtan-myeon, Chungju",
@@ -7162,7 +7419,8 @@
       "ja": "義林池貯水池森ループ",
       "zh": "义林池水库森林环线",
       "vi": "Vòng rừng hồ chứa Uirimji",
-      "id": "Loop Hutan Waduk Uirimji"
+      "id": "Loop Hutan Waduk Uirimji",
+      "ko": "Uirimji Reservoir Forest Loop"
     },
     "address": {
       "en": "Bongbang-dong, Jecheon",
@@ -7194,7 +7452,8 @@
       "ja": "道頭三峰霧の岩散策",
       "zh": "道头三峰雾岩漫步",
       "vi": "Đi bộ đá sương Dodamsambong",
-      "id": "Jalan Batu Kabut Dodamsambong"
+      "id": "Jalan Batu Kabut Dodamsambong",
+      "ko": "Dodamsambong Misty Rock Walk"
     },
     "address": {
       "en": "Danyang-eup, Danyang",
@@ -7226,7 +7485,8 @@
       "ja": "두정동部隊鍋横丁",
       "zh": "斗井洞部队锅巷",
       "vi": "Hẻm lẩu quân đội Dujeong-dong",
-      "id": "Gang Rebusan Tentara Dujeong-dong"
+      "id": "Gang Rebusan Tentara Dujeong-dong",
+      "ko": "두정동部隊鍋横丁"
     },
     "address": {
       "en": "Dujeong-dong, Seobuk-gu, Cheonan",
@@ -7258,7 +7518,8 @@
       "ja": "温阳温泉ゆで卵路地",
       "zh": "温阳温泉煮蛋巷",
       "vi": "Ngõ trứng luộc suối nước nóng Onyang",
-      "id": "Gang Telur Rebus Pemandian Onyang"
+      "id": "Gang Telur Rebus Pemandian Onyang",
+      "ko": "Onyang Hot Spring Hard-Boiled Egg Lane"
     },
     "address": {
       "en": "Oncheon-dong, Asan",
@@ -7290,7 +7551,8 @@
       "ja": "瑞山干しコチョギ路地",
       "zh": "瑞山干黄花鱼巷",
       "vi": "Hẻm cá đù khô Seosan",
-      "id": "Gang Ikan Kuning Kering Seosan"
+      "id": "Gang Ikan Kuning Kering Seosan",
+      "ko": "Seosan Dried Croaker Alley"
     },
     "address": {
       "en": "Seosan-si, Chungnam",
@@ -7322,7 +7584,8 @@
       "ja": "公州菊亭餅店通り",
       "zh": "公州菊亭糕店街",
       "vi": "Dãy tiệm bánh gạo Gukhwajeong Gongju",
-      "id": "Deretan Toko Kue Beras Gukhwajeong Gongju"
+      "id": "Deretan Toko Kue Beras Gukhwajeong Gongju",
+      "ko": "Gongju Gukhwajeong Rice Cake Shop Row"
     },
     "address": {
       "en": "Ungjin-dong, Gongju",
@@ -7354,7 +7617,8 @@
       "ja": "唐津港漁師ドキュメンタリー桟橋",
       "zh": "唐津港渔民纪录片码头",
       "vi": "Bến tài liệu ngư dân Cảng Dangjin",
-      "id": "Dermaga Dokumenter Nelayan Pelabuhan Dangjin"
+      "id": "Dermaga Dokumenter Nelayan Pelabuhan Dangjin",
+      "ko": "Dangjin Port Fishermen Documentary Pier"
     },
     "address": {
       "en": "Sinjang-dong, Dangjin",
@@ -7386,7 +7650,8 @@
       "ja": "扶余百済ドラマ村裏セット",
       "zh": "扶余百济剧集村后台",
       "vi": "Backlot làng drama Baekje Buyeo",
-      "id": "Backlot Desa Drama Baekje Buyeo"
+      "id": "Backlot Desa Drama Baekje Buyeo",
+      "ko": "Buyeo Baekje Drama Village Backlot"
     },
     "address": {
       "en": "Gungnam-myeon, Buyeo",
@@ -7418,7 +7683,8 @@
       "ja": "論山訓練所ドラマの丘",
       "zh": "论山训练所剧集山丘",
       "vi": "Đồi drama trại huấn luyện Nonsan",
-      "id": "Bukit Drama Kamp Pelatihan Nonsan"
+      "id": "Bukit Drama Kamp Pelatihan Nonsan",
+      "ko": "Nonsan Army Training Camp Drama Hill"
     },
     "address": {
       "en": "Nonsan-si, Chungnam",
@@ -7450,7 +7716,8 @@
       "ja": "泰安西海岸インディー映画ビーチ",
       "zh": "泰安西海岸独立电影海滩",
       "vi": "Bãi biển phim indie bờ tây Taean",
-      "id": "Pantai Film Indie Pantai Barat Taean"
+      "id": "Pantai Film Indie Pantai Barat Taean",
+      "ko": "Taean West Coast Indie Film Beach"
     },
     "address": {
       "en": "Mallipo-myeon, Taean",
@@ -7482,7 +7749,8 @@
       "ja": "天安ジムジルバンスクラブ路地",
       "zh": "天安汗蒸去角质巷",
       "vi": "Hẻm scrub jjimjilbang Cheonan",
-      "id": "Gang Scrub Jjimjilbang Cheonan"
+      "id": "Gang Scrub Jjimjilbang Cheonan",
+      "ko": "Cheonan Jjimjilbang Scrub Alley"
     },
     "address": {
       "en": "Seongjeong-dong, Seobuk-gu, Cheonan",
@@ -7514,7 +7782,8 @@
       "ja": "温阳温泉米ぬかフェイシャル",
       "zh": "温阳温泉米糠面部护理",
       "vi": "Facial cám gạo suối nước nóng Onyang",
-      "id": "Facial Bekas Beras Pemandian Onyang"
+      "id": "Facial Bekas Beras Pemandian Onyang",
+      "ko": "Onyang Hot Spring Rice Bran Facial"
     },
     "address": {
       "en": "Oncheon-dong, Asan",
@@ -7546,7 +7815,8 @@
       "ja": "錦山人蔘エッセンス肌バー",
       "zh": "锦山人参精华护肤吧",
       "vi": "Quầy da tinh chất nhân sâm Geumsan",
-      "id": "Bar Kulit Esensi Ginseng Geumsan"
+      "id": "Bar Kulit Esensi Ginseng Geumsan",
+      "ko": "Geumsan Ginseng Essence Skin Bar"
     },
     "address": {
       "en": "Geumsan-eup, Geumsan",
@@ -7577,7 +7847,8 @@
       "ja": "舒川塩田ミネラル足スパ",
       "zh": "舒川盐田矿物足浴",
       "vi": "Spa chân khoáng ruộng muối Seocheon",
-      "id": "Spa Kaki Mineral Tambak Garam Seocheon"
+      "id": "Spa Kaki Mineral Tambak Garam Seocheon",
+      "ko": "Seocheon Salt Flat Mineral Foot Spa"
     },
     "address": {
       "en": "Seocheon-eup, Seocheon",
@@ -7609,7 +7880,8 @@
       "ja": "公州麻谷寺手工芸市",
       "zh": "公州麻谷寺手工艺市集",
       "vi": "Hội chợ thủ công chùa Magoksa Gongju",
-      "id": "Pasar Kerajinan Kuil Magoksa Gongju"
+      "id": "Pasar Kerajinan Kuil Magoksa Gongju",
+      "ko": "Gongju Magoksa Temple Craft Fair"
     },
     "address": {
       "en": "Ungjin-dong, Gongju",
@@ -7641,7 +7913,8 @@
       "ja": "扶余蓮花灯籠工房",
       "zh": "扶余莲花灯笼工坊",
       "vi": "Xưởng đèn lồng sen Buyeo",
-      "id": "Workshop Lampion Teratai Buyeo"
+      "id": "Workshop Lampion Teratai Buyeo",
+      "ko": "Buyeo Lotus Lantern Workshop"
     },
     "address": {
       "en": "Dongnam-ri, Buyeo",
@@ -7673,7 +7946,8 @@
       "ja": "唐津塩田遺産ウォーク",
       "zh": "唐津盐田遗产漫步",
       "vi": "Đi bộ di sản ruộng muối Dangjin",
-      "id": "Jalan Warisan Tambak Garam Dangjin"
+      "id": "Jalan Warisan Tambak Garam Dangjin",
+      "ko": "Dangjin Salt Farm Heritage Walk"
     },
     "address": {
       "en": "Songak-myeon, Dangjin",
@@ -7704,7 +7978,8 @@
       "ja": "論山わらじ編み小屋",
       "zh": "论山草鞋编织小屋",
       "vi": "Lều đan dép rơm Nonsan",
-      "id": "Gubuk Anyaman Sandal Jerami Nonsan"
+      "id": "Gubuk Anyaman Sandal Jerami Nonsan",
+      "ko": "Nonsan Straw Shoe Weaving Shed"
     },
     "address": {
       "en": "Nonsan-si, Chungnam",
@@ -7736,7 +8011,8 @@
       "ja": "万里浦砂丘朝のトレイル",
       "zh": "万里浦沙丘晨间步道",
       "vi": "Đường sáng cồn cát bãi Halli",
-      "id": "Jalur Pagi Bukit Pasir Pantai Halli"
+      "id": "Jalur Pagi Bukit Pasir Pantai Halli",
+      "ko": "Halli Beach Dune Morning Trail"
     },
     "address": {
       "en": "Mallipo-myeon, Taean",
@@ -7768,7 +8044,8 @@
       "ja": "間月庵干潟バードウォッチ",
       "zh": "间月庵滩涂观鸟步道",
       "vi": "Đi bộ ngắm chim bãi bồi Ganwolam",
-      "id": "Jalan Birdwatching Tambak Ganwolam"
+      "id": "Jalan Birdwatching Tambak Ganwolam",
+      "ko": "Ganwolam Tidal Flat Bird Walk"
     },
     "address": {
       "en": "Palbong-myeon, Seosan",
@@ -7800,7 +8077,8 @@
       "ja": "人参畑尾根夕日散策",
       "zh": "人参田山脊日落漫步",
       "vi": "Đi bộ hoàng hôn đồi ruộng nhân sâm",
-      "id": "Jalan Matahari Terbenam Punggung Ladang Ginseng"
+      "id": "Jalan Matahari Terbenam Punggung Ladang Ginseng",
+      "ko": "Ginseng Field Ridge Sunset Walk"
     },
     "address": {
       "en": "Geumsan-eup, Geumsan",
@@ -7832,7 +8110,8 @@
       "ja": "舒川葦湿地木道",
       "zh": "舒川芦苇湿地木栈道",
       "vi": "Ván sàn đầm lau sậy Seocheon",
-      "id": "Boardwalk Rawa Alang-alang Seocheon"
+      "id": "Boardwalk Rawa Alang-alang Seocheon",
+      "ko": "Seocheon Reed Marsh Boardwalk"
     },
     "address": {
       "en": "Seocheon-eup, Seocheon",
@@ -7864,7 +8143,8 @@
       "ja": "群山近代史小豆粥横丁",
       "zh": "群山近代史红豆粥巷",
       "vi": "Hẻm cháo đậu đỏ lịch sử hiện đại Gunsan",
-      "id": "Gang Bubur Kacang Merah Sejarah Modern Gunsan"
+      "id": "Gang Bubur Kacang Merah Sejarah Modern Gunsan",
+      "ko": "Gunsan Modern History Red Bean Porridge Alley"
     },
     "address": {
       "en": "Haemang-dong, Gunsan",
@@ -7896,7 +8176,8 @@
       "ja": "益山王宮ビビンパ角",
       "zh": "益山王宫拌饭角",
       "vi": "Góc bibimbap Wanggung Iksan",
-      "id": "Sudut Bibimbap Wanggung Iksan"
+      "id": "Sudut Bibimbap Wanggung Iksan",
+      "ko": "Iksan Wanggung Bibimbap Corner"
     },
     "address": {
       "en": "Wanggung-myeon, Iksan",
@@ -7928,7 +8209,8 @@
       "ja": "井邑内장산きのこ鍋家",
       "zh": "井邑内藏山蘑菇锅家",
       "vi": "Quán lẩu nấm Naejangsan Jeongeup",
-      "id": "Rumah Rebus Jamur Naejangsan Jeongeup"
+      "id": "Rumah Rebus Jamur Naejangsan Jeongeup",
+      "ko": "井邑内장산きのこ鍋家"
     },
     "address": {
       "en": "Jeongeup-si, Jeonbuk",
@@ -7960,7 +8242,8 @@
       "ja": "南原春香肉汁飯裏通り",
       "zh": "南原春香汤饭后街",
       "vi": "Ngõ gukbap Chunhyang Namwon",
-      "id": "Gang Belakang Gukbap Chunhyang Namwon"
+      "id": "Gang Belakang Gukbap Chunhyang Namwon",
+      "ko": "Namwon Chunhyang Gukbap Backstreet"
     },
     "address": {
       "en": "Namwon-si, Jeonbuk",
@@ -7992,7 +8275,8 @@
       "ja": "全州西学洞インディー映画路地",
       "zh": "全州西学洞独立电影巷",
       "vi": "Hẻm phim indie Seohak-dong Jeonju",
-      "id": "Gang Film Indie Seohak-dong Jeonju"
+      "id": "Gang Film Indie Seohak-dong Jeonju",
+      "ko": "Jeonju Seohak-dong Indie Film Alley"
     },
     "address": {
       "en": "Seohak-dong, Wansan-gu, Jeonju",
@@ -8024,7 +8308,8 @@
       "ja": "群山日本家屋ドラマロケ地",
       "zh": "群山日式房屋剧集取景地",
       "vi": "Địa điểm drama nhà kiểu Nhật Gunsan",
-      "id": "Lokasi Drama Rumah Jepang Gunsan"
+      "id": "Lokasi Drama Rumah Jepang Gunsan",
+      "ko": "Gunsan Japanese House Drama Location"
     },
     "address": {
       "en": "Haemang-dong, Gunsan",
@@ -8056,7 +8341,8 @@
       "ja": "扶安変산インディーMV崖",
       "zh": "扶安边山独立 MV 悬崖",
       "vi": "Vách đá MV nhạc indie Byeonsan Buan",
-      "id": "Tebing MV Musik Indie Byeonsan Buan"
+      "id": "Tebing MV Musik Indie Byeonsan Buan",
+      "ko": "扶安変산インディーMV崖"
     },
     "address": {
       "en": "Buan-gun, Jeonbuk",
@@ -8088,7 +8374,8 @@
       "ja": "淳昌コチュジャン村バラエティセット",
       "zh": "淳昌辣椒酱村综艺布景",
       "vi": "Set variety làng gochujang Sunchang",
-      "id": "Set Variety Desa Gochujang Sunchang"
+      "id": "Set Variety Desa Gochujang Sunchang",
+      "ko": "Sunchang Gochujang Village Variety Set"
     },
     "address": {
       "en": "Sunchang-eup, Sunchang",
@@ -8120,7 +8407,8 @@
       "ja": "全州韓紙シートマスク工房",
       "zh": "全州韩纸面膜工坊",
       "vi": "Xưởng mặt nạ giấy hanji Jeonju",
-      "id": "Workshop Sheet Mask Hanji Jeonju"
+      "id": "Workshop Sheet Mask Hanji Jeonju",
+      "ko": "Jeonju Hanji Sheet Mask Workshop"
     },
     "address": {
       "en": "Pungnam-dong, Wansan-gu, Jeonju",
@@ -8152,7 +8440,8 @@
       "ja": "益山百済粘土フェイシャル",
       "zh": "益山百济粘土面部护理",
       "vi": "Studio facial đất sét Baekje Iksan",
-      "id": "Studio Facial Tanah Liat Baekje Iksan"
+      "id": "Studio Facial Tanah Liat Baekje Iksan",
+      "ko": "Iksan Baekje Clay Facial Studio"
     },
     "address": {
       "en": "Wanggung-myeon, Iksan",
@@ -8184,7 +8473,8 @@
       "ja": "金堤平野米ぬか肌バー",
       "zh": "金堤平原米糠护肤吧",
       "vi": "Quầy da cám gạo đồng bằng Gimje",
-      "id": "Bar Kulit Bekas Beras Dataran Gimje"
+      "id": "Bar Kulit Bekas Beras Dataran Gimje",
+      "ko": "Gimje Plain Rice Bran Skin Bar"
     },
     "address": {
       "en": "Gimje-si, Jeonbuk",
@@ -8216,7 +8506,8 @@
       "ja": "任実チーズ副産物クリームラボ",
       "zh": "任实奶酪副产品护肤实验室",
       "vi": "Lab kem da phụ phẩm phô mai Imsil",
-      "id": "Lab Krim Kulit Byproduk Keju Imsil"
+      "id": "Lab Krim Kulit Byproduk Keju Imsil",
+      "ko": "Imsil Cheese Byproduct Skin Cream Lab"
     },
     "address": {
       "en": "Imsil-eup, Imsil",
@@ -8248,7 +8539,8 @@
       "ja": "南原広寒楼月夜詩の会",
       "zh": "南原广寒楼月夜诗会",
       "vi": "Đêm thơ trăng Gwanghallu Namwon",
-      "id": "Malam Puisi Bulan Gwanghallu Namwon"
+      "id": "Malam Puisi Bulan Gwanghallu Namwon",
+      "ko": "Namwon Gwanghallu Moonlight Poetry Night"
     },
     "address": {
       "en": "Namwon-si, Jeonbuk",
@@ -8280,7 +8572,8 @@
       "ja": "内藏寺梵鐘鳴らし体験",
       "zh": "内藏寺敲钟体验",
       "vi": "Lớp gõ chuông chùa Naejangsa",
-      "id": "Kelas Membunyikan Lonceng Kuil Naejangsa"
+      "id": "Kelas Membunyikan Lonceng Kuil Naejangsa",
+      "ko": "Naejangsa Temple Bell Ringing Class"
     },
     "address": {
       "en": "Jeongeup-si, Jeonbuk",
@@ -8312,7 +8605,8 @@
       "ja": "扶安変山漁師民謡デッキ",
       "zh": "扶安边山渔民民谣露台",
       "vi": "Sàn dân ca ngư dân Byeonsan Buan",
-      "id": "Dek Lagu Rakyat Nelayan Byeonsan Buan"
+      "id": "Dek Lagu Rakyat Nelayan Byeonsan Buan",
+      "ko": "Buan Byeonsan Fishermen Folk Song Deck"
     },
     "address": {
       "en": "Buan-gun, Jeonbuk",
@@ -8344,7 +8638,8 @@
       "ja": "淳昌コチュジャン発酵ヤード見学",
       "zh": "淳昌辣椒酱发酵场参观",
       "vi": "Tour sân lên men gochujang Sunchang",
-      "id": "Tur Halaman Fermentasi Gochujang Sunchang"
+      "id": "Tur Halaman Fermentasi Gochujang Sunchang",
+      "ko": "Sunchang Gochujang Fermentation Yard Tour"
     },
     "address": {
       "en": "Sunchang-eup, Sunchang",
@@ -8376,7 +8671,8 @@
       "ja": "マイサン塔寺祈祷旗尾根道",
       "zh": "马耳山塔寺经幡山脊道",
       "vi": "Đường cờ cầu nguyện đồi Tapsa Maisan",
-      "id": "Jalur Bendera Doa Punggung Tapsa Maisan"
+      "id": "Jalur Bendera Doa Punggung Tapsa Maisan",
+      "ko": "Maisan Tapsa Ridge Prayer Flag Trail"
     },
     "address": {
       "en": "Jinan-gun, Jeonbuk",
@@ -8408,7 +8704,8 @@
       "ja": "茂朱求仁洞渓谷隠れ淵",
       "zh": "茂朱求仁洞溪谷隐秘水潭",
       "vi": "Hồ bí mật thung lũng Gucheondong Muju",
-      "id": "Kolam Rahasia Lembah Gucheondong Muju"
+      "id": "Kolam Rahasia Lembah Gucheondong Muju",
+      "ko": "Muju Gucheondong Valley Secret Pool"
     },
     "address": {
       "en": "Muju-gun, Jeonbuk",
@@ -8440,7 +8737,8 @@
       "ja": "群山새만금堤防サイクリング",
       "zh": "群山新万金海堤骑行环线",
       "vi": "Vòng đạp xe đê Saemangeum Gunsan",
-      "id": "Loop Sepeda Tanggul Saemangeum Gunsan"
+      "id": "Loop Sepeda Tanggul Saemangeum Gunsan",
+      "ko": "群山새만금堤防サイクリング"
     },
     "address": {
       "en": "Okgu-myeon, Gunsan",
@@ -8472,7 +8770,8 @@
       "ja": "徳津公園蓮池朝ループ",
       "zh": "德津公园莲池晨间环线",
       "vi": "Vòng sáng ao sen Công viên Deokjin",
-      "id": "Loop Pagi Kolam Teratai Taman Deokjin"
+      "id": "Loop Pagi Kolam Teratai Taman Deokjin",
+      "ko": "Deokjin Park Lotus Pond Morning Loop"
     },
     "address": {
       "en": "Deokjin-gu, Jeonju",
@@ -8504,7 +8803,8 @@
       "ja": "麗水突山大橋明け方刺身路地",
       "zh": "丽水突山大桥黎明刺身巷",
       "vi": "Hẻm sashimi bình minh cầu Dolsan Yeosu",
-      "id": "Gang Sashimi Fajar Jembatan Dolsan Yeosu"
+      "id": "Gang Sashimi Fajar Jembatan Dolsan Yeosu",
+      "ko": "Yeosu Dolsan Bridge Dawn Raw Fish Alley"
     },
     "address": {
       "en": "Dolsan-dong, Yeosu",
@@ -8536,7 +8836,8 @@
       "ja": "木浦港干し海産物裏路地",
       "zh": "木浦港干海鲜后巷",
       "vi": "Ngõ hải sản khô cảng Mokpo",
-      "id": "Gang Belakang Seafood Kering Pelabuhan Mokpo"
+      "id": "Gang Belakang Seafood Kering Pelabuhan Mokpo",
+      "ko": "Mokpo Harbor Dried Seafood Back Alley"
     },
     "address": {
       "en": "Yudal-dong, Mokpo",
@@ -8568,7 +8869,8 @@
       "ja": "順天湾塩辛粥店",
       "zh": "顺天湾虾酱粥店",
       "vi": "Quán cháo tôm muối Vịnh Suncheon",
-      "id": "Warung Bubur Udang Asin Teluk Suncheon"
+      "id": "Warung Bubur Udang Asin Teluk Suncheon",
+      "ko": "Suncheon Bay Salted Shrimp Porridge Shop"
     },
     "address": {
       "en": "Suncheon-si, Jeonnam",
@@ -8600,7 +8902,8 @@
       "ja": "潭陽竹燻鴨路地",
       "zh": "潭阳竹熏鸭巷",
       "vi": "Hẻm vịt hun tre Damyang",
-      "id": "Gang Bebek Asap Bambu Damyang"
+      "id": "Gang Bebek Asap Bambu Damyang",
+      "ko": "Damyang Bamboo Smoked Duck Alley"
     },
     "address": {
       "en": "Damyang-eup, Damyang",
@@ -8632,7 +8935,8 @@
       "ja": "光陽梅花ドラマ果樹園の丘",
       "zh": "光阳梅花剧集果园山丘",
       "vi": "Đồi vườn cây drama mai Gwangyang",
-      "id": "Bukit Kebun Drama Bunga Plum Gwangyang"
+      "id": "Bukit Kebun Drama Bunga Plum Gwangyang",
+      "ko": "Gwangyang Maehwa Drama Orchard Hill"
     },
     "address": {
       "en": "Daap-myeon, Gwangyang",
@@ -8664,7 +8968,8 @@
       "ja": "羅州ゴムトゥドラマ川辺セット",
       "zh": "罗州龟岩剧集江畔布景",
       "vi": "Set ven sông drama Gomtu Naju",
-      "id": "Set Tepi Sungai Drama Gomtu Naju"
+      "id": "Set Tepi Sungai Drama Gomtu Naju",
+      "ko": "Naju Gomtu Drama Riverside Set"
     },
     "address": {
       "en": "Naju-si, Jeonnam",
@@ -8696,7 +9001,8 @@
       "ja": "海南ッangッケウトインディー映画展望デッキ",
       "zh": "海南天涯海角独立电影展望台",
       "vi": "Sàn phim indie chân trời Ttangkkeut Haenam",
-      "id": "Dek Film Indie Cakrawala Ttangkkeut Haenam"
+      "id": "Dek Film Indie Cakrawala Ttangkkeut Haenam",
+      "ko": "Haenam Ttangkkeut Indie Film Horizon Deck"
     },
     "address": {
       "en": "Songji-myeon, Haenam",
@@ -8728,7 +9034,8 @@
       "ja": "珍島海割れ祭り裏舞台ビーチ",
       "zh": "珍岛海拆节后台海滩",
       "vi": "Bãi biển hậu trường lễ hội biển chia Jindo",
-      "id": "Pantai Belakang Panggung Festival Laut Terbelah Jindo"
+      "id": "Pantai Belakang Panggung Festival Laut Terbelah Jindo",
+      "ko": "Jindo Sea Parting Festival Backstage Beach"
     },
     "address": {
       "en": "Uisin-myeon, Jindo",
@@ -8760,7 +9067,8 @@
       "ja": "麗海藻コラーゲンフェイシャル",
       "zh": "丽水海藻胶原蛋白面部吧",
       "vi": "Quầy facial collagen rong biển Yeosu",
-      "id": "Bar Facial Kolagen Rumput Laut Yeosu"
+      "id": "Bar Facial Kolagen Rumput Laut Yeosu",
+      "ko": "Yeosu Seaweed Collagen Facial Bar"
     },
     "address": {
       "en": "Jungang-dong, Yeosu",
@@ -8792,7 +9100,8 @@
       "ja": "木浦塩田足ピーリングサロン",
       "zh": "木浦盐田足部去角质沙龙",
       "vi": "Salon peel chân ruộng muối Mokpo",
-      "id": "Salon Peel Kaki Tambak Garam Mokpo"
+      "id": "Salon Peel Kaki Tambak Garam Mokpo",
+      "ko": "Mokpo Salt Flat Foot Peel Salon"
     },
     "address": {
       "en": "Samhak-dong, Mokpo",
@@ -8824,7 +9133,8 @@
       "ja": "高興緑茶エッセンス肌ラボ",
       "zh": "高兴绿茶精华护肤实验室",
       "vi": "Lab da tinh chất trà xanh Goheung",
-      "id": "Lab Kulit Esensi Teh Hijau Goheung"
+      "id": "Lab Kulit Esensi Teh Hijau Goheung",
+      "ko": "Goheung Green Tea Essence Skin Lab"
     },
     "address": {
       "en": "Goheung-eup, Goheung",
@@ -8856,7 +9166,8 @@
       "ja": "莞島アワビ殻パウダーフェイシャル",
       "zh": "莞岛鲍鱼壳粉面部护理",
       "vi": "Facial bột vỏ bào ngư Wando",
-      "id": "Facial Bubuk Cangkang Abalone Wando"
+      "id": "Facial Bubuk Cangkang Abalone Wando",
+      "ko": "Wando Abalone Shell Powder Facial"
     },
     "address": {
       "en": "Wando-eup, Wando",
@@ -8888,7 +9199,8 @@
       "ja": "潭陽竹細工村工房",
       "zh": "潭阳竹细工村工坊",
       "vi": "Xưởng làng mây tre Damyang",
-      "id": "Workshop Desa Kerajinan Bambu Damyang"
+      "id": "Workshop Desa Kerajinan Bambu Damyang",
+      "ko": "Damyang Bamboo Craft Village Workshop"
     },
     "address": {
       "en": "Damyang-eup, Damyang",
@@ -8920,7 +9232,8 @@
       "ja": "羅州亀岩伝説語りデッキ",
       "zh": "罗州龟岩传说故事露台",
       "vi": "Sàn kể chuyện truyền thuyết Gomtu Naju",
-      "id": "Dek Bercerita Legenda Gomtu Naju"
+      "id": "Dek Bercerita Legenda Gomtu Naju",
+      "ko": "Naju Gomtu Legend Storytelling Deck"
     },
     "address": {
       "en": "Naju-si, Jeonnam",
@@ -8952,7 +9265,8 @@
       "ja": "白雲山梵鐘工芸庭",
       "zh": "白云山梵钟工艺院",
       "vi": "Sân đúc chuông chùa Baegunsan",
-      "id": "Halaman Kerajinan Lonceng Kuil Baegunsan"
+      "id": "Halaman Kerajinan Lonceng Kuil Baegunsan",
+      "ko": "Baegunsan Temple Bell Craft Yard"
     },
     "address": {
       "en": "Gwangyang-si, Jeonnam",
@@ -8984,7 +9298,8 @@
       "ja": "海南最南端日の出祈祷旗庭",
       "zh": "海南最南端日出经幡院",
       "vi": "Sân cờ cầu nguyện bình minh Ttangkkeut Haenam",
-      "id": "Halaman Bendera Doa Matahari Terbit Ttangkkeut Haenam"
+      "id": "Halaman Bendera Doa Matahari Terbit Ttangkkeut Haenam",
+      "ko": "Haenam Ttangkkeut Sunrise Prayer Flag Yard"
     },
     "address": {
       "en": "Songji-myeon, Haenam",
@@ -9016,7 +9331,8 @@
       "ja": "順天湾葦隠れ木道",
       "zh": "顺天湾芦苇隐秘木栈道",
       "vi": "Ván sàn lau sậy ẩn Vịnh Suncheon",
-      "id": "Boardwalk Alang-alang Tersembunyi Teluk Suncheon"
+      "id": "Boardwalk Alang-alang Tersembunyi Teluk Suncheon",
+      "ko": "Suncheon Bay Reed Hidden Boardwalk"
     },
     "address": {
       "en": "Suncheon-si, Jeonnam",
@@ -9048,7 +9364,8 @@
       "ja": "高興羅老宇宙センター海岸散策",
       "zh": "高兴罗老航天中心海岸漫步",
       "vi": "Đi bộ bờ biển Trung tâm Vũ trụ Naro Goheung",
-      "id": "Jalan Pantai Pusat Antariksa Naro Goheung"
+      "id": "Jalan Pantai Pusat Antariksa Naro Goheung",
+      "ko": "Goheung Naro Space Center Shore Walk"
     },
     "address": {
       "en": "Goheung-eup, Goheung",
@@ -9080,7 +9397,8 @@
       "ja": "莞島青山島スローパス",
       "zh": "莞岛青山岛慢道环线",
       "vi": "Vòng đường chậm Cheongsando Wando",
-      "id": "Loop Jalur Lambat Cheongsando Wando"
+      "id": "Loop Jalur Lambat Cheongsando Wando",
+      "ko": "Wando Cheongsando Slow Path Loop"
     },
     "address": {
       "en": "Wando-eup, Wando",
@@ -9112,7 +9430,8 @@
       "ja": "珍島蔚珍茂浦潮流展望トレイル",
       "zh": "珍岛蔚珍茂浦潮流展望步道",
       "vi": "Đường ngắm hải lưu Uldolmok Jindo",
-      "id": "Jalur Pemandangan Arus Pasang Uldolmok Jindo"
+      "id": "Jalur Pemandangan Arus Pasang Uldolmok Jindo",
+      "ko": "Jindo Uldolmok Tidal Current View Trail"
     },
     "address": {
       "en": "Uisin-myeon, Jindo",
@@ -9144,7 +9463,8 @@
       "ja": "亀尾工業地帯夜ゴプチャン通り",
       "zh": "龟尾工业区深夜烤肥肠街",
       "vi": "Dãy gopchang đêm khu công nghiệp Gumi",
-      "id": "Deretan Gopchang Malam Distrik Industri Gumi"
+      "id": "Deretan Gopchang Malam Distrik Industri Gumi",
+      "ko": "Gumi Industrial District Night Gopchang Row"
     },
     "address": {
       "en": "Gwonseon-dong, Gumi",
@@ -9176,7 +9496,8 @@
       "ja": "慶山大学生街スンデ路地",
       "zh": "庆山大学城血肠巷",
       "vi": "Hẻm sundae phố đại học Gyeongsan",
-      "id": "Gang Sundae Kota Kampus Gyeongsan"
+      "id": "Gang Sundae Kota Kampus Gyeongsan",
+      "ko": "Gyeongsan College Town Sundae Alley"
     },
     "address": {
       "en": "Jinryang-eup, Gyeongsan",
@@ -9208,7 +9529,8 @@
       "ja": "栄州豊基人参鶏白灼家",
       "zh": "荣州丰基人参鸡白灼家",
       "vi": "Quán baeksuk gà nhân sâm Punggi Yeongju",
-      "id": "Rumah Baeksuk Ayam Ginseng Punggi Yeongju"
+      "id": "Rumah Baeksuk Ayam Ginseng Punggi Yeongju",
+      "ko": "Yeongju Punggi Ginseng Chicken Baeksuk House"
     },
     "address": {
       "en": "Punggi-eup, Yeongju",
@@ -9240,7 +9562,8 @@
       "ja": "聞慶オミジャ渓谷シロップ店",
       "zh": "闻庆五味子溪谷糖浆店",
       "vi": "Quán siro omija thung lũng Mungyeong",
-      "id": "Toko Sirup Omija Lembah Mungyeong"
+      "id": "Toko Sirup Omija Lembah Mungyeong",
+      "ko": "Mungyeong Omija Valley Syrup Shop"
     },
     "address": {
       "en": "Mungyeong-si, Gyeongbuk",
@@ -9272,7 +9595,8 @@
       "ja": "安東河回仮面劇裏ロケ路地",
       "zh": "安东河回假面剧后台巷",
       "vi": "Hẻm backlot drama mặt nạ Hahoe Andong",
-      "id": "Gang Backlot Drama Topeng Hahoe Andong"
+      "id": "Gang Backlot Drama Topeng Hahoe Andong",
+      "ko": "Andong Hahoe Mask Drama Backlot Lane"
     },
     "address": {
       "en": "Pungcheon-myeon, Andong",
@@ -9304,7 +9628,8 @@
       "ja": "慶州普門湖インディードラマ桟橋",
       "zh": "庆州普门湖独立剧集码头",
       "vi": "Bến drama indie Hồ Bomun Gyeongju",
-      "id": "Dermaga Drama Indie Danau Bomun Gyeongju"
+      "id": "Dermaga Drama Indie Danau Bomun Gyeongju",
+      "ko": "Gyeongju Bomun Lake Indie Drama Pier"
     },
     "address": {
       "en": "Bomun-dong, Gyeongju",
@@ -9336,7 +9661,8 @@
       "ja": "浦項製鉄所労働者ドラマ路地",
       "zh": "浦项制铁所工人剧集巷",
       "vi": "Hẻm drama công nhân nhà máy thép Pohang",
-      "id": "Gang Drama Pekerja Pabrik Baja Pohang"
+      "id": "Gang Drama Pekerja Pabrik Baja Pohang",
+      "ko": "Pohang Steel Mill Worker Drama Alley"
     },
     "address": {
       "en": "Daejam-dong, Pohang",
@@ -9368,7 +9694,8 @@
       "ja": "蔚珍東海インディー映画崖デッキ",
       "zh": "蔚珍东海独立电影悬崖露台",
       "vi": "Sàn phim indie vách đá biển Đông Uljin",
-      "id": "Dek Film Indie Tebing Laut Timur Uljin"
+      "id": "Dek Film Indie Tebing Laut Timur Uljin",
+      "ko": "Uljin East Sea Indie Film Cliff Deck"
     },
     "address": {
       "en": "Uljin-eup, Uljin",
@@ -9400,7 +9727,8 @@
       "ja": "安東韓紙シートマスクアトリエ",
       "zh": "安东韩纸面膜工作室",
       "vi": "Xưởng mặt nạ giấy hanji Andong",
-      "id": "Atelier Sheet Mask Hanji Andong"
+      "id": "Atelier Sheet Mask Hanji Andong",
+      "ko": "Andong Hanji Sheet Mask Atelier"
     },
     "address": {
       "en": "Pungcheon-myeon, Andong",
@@ -9432,7 +9760,8 @@
       "ja": "慶州新羅粘土フェイシャル",
       "zh": "庆州新罗粘土面部护理",
       "vi": "Studio facial đất sét Silla Gyeongju",
-      "id": "Studio Facial Tanah Liat Silla Gyeongju"
+      "id": "Studio Facial Tanah Liat Silla Gyeongju",
+      "ko": "Gyeongju Silla Clay Facial Studio"
     },
     "address": {
       "en": "Hwango-dong, Gyeongju",
@@ -9464,7 +9793,8 @@
       "ja": "浦項海藻スパフェイシャル路地",
       "zh": "浦项海藻 Spa 面部巷",
       "vi": "Hẻm facial spa rong biển Pohang",
-      "id": "Gang Facial Spa Rumput Laut Pohang"
+      "id": "Gang Facial Spa Rumput Laut Pohang",
+      "ko": "Pohang Seaweed Spa Facial Alley"
     },
     "address": {
       "en": "Daebo-myeon, Pohang",
@@ -9496,7 +9826,8 @@
       "ja": "青松りんご酢化粧水ラボ",
       "zh": "青松苹果醋化妆水实验室",
       "vi": "Lab toner giấm táo Cheongsong",
-      "id": "Lab Toner Cuka Apel Cheongsong"
+      "id": "Lab Toner Cuka Apel Cheongsong",
+      "ko": "Cheongsong Apple Vinegar Skin Toner Lab"
     },
     "address": {
       "en": "Cheongsong-eup, Cheongsong",
@@ -9527,7 +9858,8 @@
       "ja": "安東焼酎博物館裏試飲",
       "zh": "安东烧酒博物馆后台品饮",
       "vi": "Nếm thử hậu trường Bảo tàng Soju Andong",
-      "id": "Pencicipan Belakang Panggung Museum Soju Andong"
+      "id": "Pencicipan Belakang Panggung Museum Soju Andong",
+      "ko": "Andong Soju Museum Backroom Tasting"
     },
     "address": {
       "en": "Pungcheon-myeon, Andong",
@@ -9559,7 +9891,8 @@
       "ja": "慶州月城星見物語の会",
       "zh": "庆州月城观星故事会",
       "vi": "Đêm kể chuyện ngắm sao Wolseong Gyeongju",
-      "id": "Malam Bercerita Mengamati Bintang Wolseong Gyeongju"
+      "id": "Malam Bercerita Mengamati Bintang Wolseong Gyeongju",
+      "ko": "Gyeongju Wolseong Star-Gazing Story Night"
     },
     "address": {
       "en": "Inwang-dong, Gyeongju",
@@ -9591,7 +9924,8 @@
       "ja": "尙州干し柿工芸工房",
       "zh": "尚州柿饼工艺工坊",
       "vi": "Xưởng thủ công hồng khô Sangju",
-      "id": "Workshop Kerajinan Kesemek Kering Sangju"
+      "id": "Workshop Kerajinan Kesemek Kering Sangju",
+      "ko": "Sangju Dried Persimmon Craft Workshop"
     },
     "address": {
       "en": "Sangju-si, Gyeongbuk",
@@ -9623,7 +9957,8 @@
       "ja": "大加耶王国陶窯見学",
       "zh": "大加耶王国陶窑参观",
       "vi": "Tour lò gốm Vương quốc Daegaya",
-      "id": "Tur Kiln Keramik Kerajaan Daegaya"
+      "id": "Tur Kiln Keramik Kerajaan Daegaya",
+      "ko": "Daegaya Kingdom Pottery Kiln Tour"
     },
     "address": {
       "en": "Daegaya-eup, Goryeong",
@@ -9655,7 +9990,8 @@
       "ja": "周王山隠れ滝トレイル",
       "zh": "周王山隐秘瀑布步道",
       "vi": "Đường thác ẩn Juwangsan",
-      "id": "Jalur Air Terjun Tersembunyi Juwangsan"
+      "id": "Jalur Air Terjun Tersembunyi Juwangsan",
+      "ko": "Juwangsan Hidden Waterfall Trail"
     },
     "address": {
       "en": "Cheongsong-eup, Cheongsong",
@@ -9687,7 +10023,8 @@
       "ja": "虎尾台日の出近所散策",
       "zh": "虎尾台日出社区漫步",
       "vi": "Đi bộ cộng đồng bình minh Homigot",
-      "id": "Jalan Lingkungan Matahari Terbit Homigot"
+      "id": "Jalan Lingkungan Matahari Terbit Homigot",
+      "ko": "Homigot Sunrise Neighborhood Walk"
     },
     "address": {
       "en": "Daebo-myeon, Pohang",
@@ -9719,7 +10056,8 @@
       "ja": "聞慶鳥嶺峠尾根ループ",
       "zh": "闻庆鸟岭关山脊环线",
       "vi": "Vòng đồi đèo Saejae Mungyeong",
-      "id": "Loop Punggung Tanah Saejae Mungyeong"
+      "id": "Loop Punggung Tanah Saejae Mungyeong",
+      "ko": "Mungyeong Saejae Pass Ridge Loop"
     },
     "address": {
       "en": "Mungyeong-si, Gyeongbuk",
@@ -9751,7 +10089,8 @@
       "ja": "蔚珍望皮浜夜明け貝殻散策",
       "zh": "蔚珍望皮浜黎明贝壳漫步",
       "vi": "Đi bộ vỏ sò bình minh bãi Wangpi Uljin",
-      "id": "Jalan Cangkang Fajar Pantai Wangpi Uljin"
+      "id": "Jalan Cangkang Fajar Pantai Wangpi Uljin",
+      "ko": "Uljin Wangpi Beach Dawn Shell Walk"
     },
     "address": {
       "en": "Uljin-eup, Uljin",
@@ -9782,7 +10121,8 @@
       "ja": "雲洞ウナギ路地",
       "zh": "云洞鳗鱼巷",
       "vi": "Hẻm lươn Ungdong",
-      "id": "Gang Belut Ungdong"
+      "id": "Gang Belut Ungdong",
+      "ko": "Ungdong Eel Alley"
     },
     "address": {
       "en": "Ungdong, Changwon",
@@ -9814,7 +10154,8 @@
       "ja": "晋州南江夜市肉汁飯通り",
       "zh": "晋州南江夜市汤饭街",
       "vi": "Dãy gukbap chợ đêm Namgang Jinju",
-      "id": "Deretan Gukbap Pasar Malam Namgang Jinju"
+      "id": "Deretan Gukbap Pasar Malam Namgang Jinju",
+      "ko": "Jinju Namgang Night Market Gukbap Row"
     },
     "address": {
       "en": "Geumseong-myeon, Jinju",
@@ -9846,7 +10187,8 @@
       "ja": "統营忠武キンパ裏路地",
       "zh": "统营忠武紫菜包饭后巷",
       "vi": "Ngõ kimbap Chungmu Tongyeong",
-      "id": "Gang Belakang Kimbap Chungmu Tongyeong"
+      "id": "Gang Belakang Kimbap Chungmu Tongyeong",
+      "ko": "Tongyeong Chungmu Kimbap Back Alley"
     },
     "address": {
       "en": "Bongpyeong-dong, Tongyeong",
@@ -9911,7 +10253,8 @@
       "ja": "泗川航空宇宙ドラマ格納庫裏",
       "zh": "泗川航空航天剧集机库后台",
       "vi": "Backlot hangar drama hàng không Sacheon",
-      "id": "Backlot Hanggar Drama Dirgantara Sacheon"
+      "id": "Backlot Hanggar Drama Dirgantara Sacheon",
+      "ko": "Sacheon Aerospace Drama Hangar Backlot"
     },
     "address": {
       "en": "Sacheon-si, Gyeongnam",
@@ -9943,7 +10286,8 @@
       "ja": "金海伽倻王国ドラマ村の角",
       "zh": "金海伽倻王国剧集村角落",
       "vi": "Góc làng drama Vương quốc Gaya Gimhae",
-      "id": "Sudut Desa Drama Kerajaan Gaya Gimhae"
+      "id": "Sudut Desa Drama Kerajaan Gaya Gimhae",
+      "ko": "Gimhae Gaya Kingdom Drama Village Corner"
     },
     "address": {
       "en": "Gimhae-si, Gyeongnam",
@@ -9975,7 +10319,8 @@
       "ja": "梁山ウェブトゥーン路地地下スタジオ",
       "zh": "梁山网漫巷地下室工作室",
       "vi": "Studio tầng hầm hẻm webtoon Yangsan",
-      "id": "Studio Basement Gang Webtoon Yangsan"
+      "id": "Studio Basement Gang Webtoon Yangsan",
+      "ko": "Yangsan Webtoon Alley Basement Studios"
     },
     "address": {
       "en": "Yangsan-si, Gyeongnam",
@@ -10007,7 +10352,8 @@
       "ja": "密陽密陽アリラン劇場裏庭",
       "zh": "密阳密阳阿里郎剧场后院",
       "vi": "Sân sau sân khấu drama Arirang Miryang",
-      "id": "Halaman Belakang Panggung Drama Arirang Miryang"
+      "id": "Halaman Belakang Panggung Drama Arirang Miryang",
+      "ko": "Miryang Miryang Arirang Drama Stage Backyard"
     },
     "address": {
       "en": "Miryang-si, Gyeongnam",
@@ -10039,7 +10385,8 @@
       "ja": "昌原ジムジルバンスクラブ名人路地",
       "zh": "昌原汗蒸去角质名师巷",
       "vi": "Hẻm thầy scrub jjimjilbang Changwon",
-      "id": "Gang Master Scrub Jjimjilbang Changwon"
+      "id": "Gang Master Scrub Jjimjilbang Changwon",
+      "ko": "Changwon Jjimjilbang Scrub Master Alley"
     },
     "address": {
       "en": "Palyong-dong, Changwon",
@@ -10071,7 +10418,8 @@
       "ja": "晋州シルクプロテインヘアサロン",
       "zh": "晋州丝蛋白护发沙龙",
       "vi": "Salon điều trị tóc protein tơ tằm Jinju",
-      "id": "Salon Perawatan Rambut Protein Sutra Jinju"
+      "id": "Salon Perawatan Rambut Protein Sutra Jinju",
+      "ko": "Jinju Silk Protein Hair Treatment Salon"
     },
     "address": {
       "en": "Jinju-si, Gyeongnam",
@@ -10103,7 +10451,8 @@
       "ja": "統营海藻コラーゲン港フェイシャル",
       "zh": "统营海藻胶原蛋白港口面部护理",
       "vi": "Facial collagen rong biển bến cảng Tongyeong",
-      "id": "Facial Kolagen Rumput Laut Dermaga Tongyeong"
+      "id": "Facial Kolagen Rumput Laut Dermaga Tongyeong",
+      "ko": "Tongyeong Seaweed Collagen Facial Dock"
     },
     "address": {
       "en": "Bongpyeong-dong, Tongyeong",
@@ -10135,7 +10484,8 @@
       "ja": "河東緑茶エッセンス肌バー",
       "zh": "河东绿茶精华护肤吧",
       "vi": "Quầy da tinh chất trà xanh Hadong",
-      "id": "Bar Kulit Esensi Teh Hijau Hadong"
+      "id": "Bar Kulit Esensi Teh Hijau Hadong",
+      "ko": "Hadong Green Tea Essence Skin Bar"
     },
     "address": {
       "en": "Hadong-eup, Hadong",
@@ -10199,7 +10549,8 @@
       "ja": "泗川陶磁器村窯焚きデモ",
       "zh": "泗川陶瓷村窑烧演示",
       "vi": "Demo nung lò làng gốm Sacheon",
-      "id": "Demo Pembakaran Kiln Desa Keramik Sacheon"
+      "id": "Demo Pembakaran Kiln Desa Keramik Sacheon",
+      "ko": "Sacheon Pottery Village Kiln Firing Demo"
     },
     "address": {
       "en": "Sacheon-si, Gyeongnam",
@@ -10231,7 +10582,8 @@
       "ja": "金海伽倻古墳群語り散策",
       "zh": "金海伽倻古坟群故事漫步",
       "vi": "Đi bộ kể chuyện cánh đồng mộ Gaya Gimhae",
-      "id": "Jalan Bercerita Ladang Makam Gaya Gimhae"
+      "id": "Jalan Bercerita Ladang Makam Gaya Gimhae",
+      "ko": "Gimhae Gaya Tomb Field Storytelling Walk"
     },
     "address": {
       "en": "Gimhae-si, Gyeongnam",
@@ -10263,7 +10615,8 @@
       "ja": "咸安花開市場民俗工芸市",
       "zh": "咸安花开市场民俗工艺市集",
       "vi": "Hội chợ thủ công dân gian chợ Hwagae Haman",
-      "id": "Pasar Kerajinan Rakyat Pasar Hwagae Haman"
+      "id": "Pasar Kerajinan Rakyat Pasar Hwagae Haman",
+      "ko": "Haman Hwagae Market Folk Craft Fair"
     },
     "address": {
       "en": "Haman-eup, Haman",
@@ -10295,7 +10648,8 @@
       "ja": "弥勒岛隠れ尾根トレイル",
       "zh": "弥勒岛隐秘山脊步道",
       "vi": "Đường đồi ẩn đảo Mireukdo",
-      "id": "Jalur Punggung Tersembunyi Pulau Mireukdo"
+      "id": "Jalur Punggung Tersembunyi Pulau Mireukdo",
+      "ko": "Mireukdo Island Hidden Ridge Trail"
     },
     "address": {
       "en": "Bongpyeong-dong, Tongyeong",
@@ -10360,7 +10714,8 @@
       "ja": "花開渓谷桜隠れ道",
       "zh": "花开溪谷樱花秘道",
       "vi": "Đường bí mật hoa anh đào thung lũng Hwagae",
-      "id": "Jalan Rahasia Bunga Sakura Lembah Hwagae"
+      "id": "Jalan Rahasia Bunga Sakura Lembah Hwagae",
+      "ko": "Hwagae Valley Cherry Blossom Secret Path"
     },
     "address": {
       "en": "Hadong-eup, Hadong",
@@ -10392,7 +10747,8 @@
       "ja": "梁山通度寺森朝ループ",
       "zh": "梁山通度寺森林晨间环线",
       "vi": "Vòng sáng rừng chùa Tongdosa Yangsan",
-      "id": "Loop Pagi Hutan Kuil Tongdosa Yangsan"
+      "id": "Loop Pagi Hutan Kuil Tongdosa Yangsan",
+      "ko": "Yangsan Tongdosa Temple Forest Morning Loop"
     },
     "address": {
       "en": "Yangsan-si, Gyeongnam",
@@ -13117,10 +13473,16 @@
     "theme": "k-food",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "yongsan-gu"
     },
-    "name": "보광로돼지집",
+    "name": {
+      "ko": "보광로돼지집",
+      "en": "Bogwangrodwaejijip",
+      "ja": "Bogwangrodwaejijip",
+      "zh": "Bogwangrodwaejijip",
+      "vi": "Bogwangrodwaejijip",
+      "id": "Bogwangrodwaejijip"
+    },
     "address": "서울특별시 용산구 보광로59길 14",
     "rating": 4.5,
     "description": {
@@ -13136,10 +13498,16 @@
     "theme": "k-food",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jung-gu"
     },
-    "name": "다산로돼지집",
+    "name": {
+      "ko": "다산로돼지집",
+      "en": "Dasanrodwaejijip",
+      "ja": "Dasanrodwaejijip",
+      "zh": "Dasanrodwaejijip",
+      "vi": "Dasanrodwaejijip",
+      "id": "Dasanrodwaejijip"
+    },
     "address": "서울특별시 중구 다산로 232",
     "rating": 4.5,
     "description": {
@@ -13153,29 +13521,17 @@
   {
     "theme": "hallyu",
     "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "mapo-gu"
-    },
-    "name": "K-POP 성지",
-    "address": "서울특별시 마포구 월드컵로 240",
-    "rating": 4.5,
-    "description": {
-      "en": "A K-POP pilgrimage site in Seoul",
-      "ja": "ソウルにあるK-POPの聖地",
-      "zh": "首尔的K-POP朝圣地",
-      "vi": "Địa điểm hành hương K-POP tại Seoul",
-      "id": "Situs ziarah K-POP di Seoul"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20231203_230/1701580351255oQHG2_JPEG/1701579950469.jpg"
-  },
-  {
-    "theme": "hallyu",
-    "region": {
       "province": "seoul"
     },
-    "name": "HALLYUSTORM 홍대 KPOP 앨범 및 굿즈 매장",
-    "address": "대한민국 서울특별시 마포구 양화로12길 23 1층",
+    "name": {
+      "ko": "HALLYUSTORM 홍대 KPOP 앨범 및 굿즈 매장",
+      "en": "HALLYUSTORM Hongdae KPOP Aelbeom Mit Gutjeu Maejang",
+      "ja": "HALLYUSTORM Hongdae KPOP Aelbeom Mit Gutjeu Maejang",
+      "zh": "HALLYUSTORM Hongdae KPOP Aelbeom Mit Gutjeu Maejang",
+      "vi": "HALLYUSTORM Hongdae KPOP Aelbeom Mit Gutjeu Maejang",
+      "id": "HALLYUSTORM Hongdae KPOP Aelbeom Mit Gutjeu Maejang"
+    },
+    "address": "서울특별시 마포구 양화로12길 23 1층",
     "rating": 4,
     "description": {
       "en": "",
@@ -13191,8 +13547,15 @@
     "region": {
       "province": "seoul"
     },
-    "name": "케이팝 스퀘어 홍대",
-    "address": "대한민국 서울특별시 마포구 양화로 141",
+    "name": {
+      "ko": "케이팝 스퀘어 홍대",
+      "en": "Keipap Seukweeo Hongdae",
+      "ja": "Keipap Seukweeo Hongdae",
+      "zh": "Keipap Seukweeo Hongdae",
+      "vi": "Keipap Seukweeo Hongdae",
+      "id": "Keipap Seukweeo Hongdae"
+    },
+    "address": "서울특별시 마포구 양화로 141",
     "rating": 4,
     "description": {
       "en": "",
@@ -13208,8 +13571,15 @@
     "region": {
       "province": "seoul"
     },
-    "name": "K-Pop of Chinatown",
-    "address": "2223 S Wentworth Ave, Chicago, IL 60616",
+    "name": {
+      "ko": "K-Pop of Chinatown",
+      "en": "K-Pop Of Chinatown",
+      "ja": "K-Pop Of Chinatown",
+      "zh": "K-Pop Of Chinatown",
+      "vi": "K-Pop Of Chinatown",
+      "id": "K-Pop Of Chinatown"
+    },
+    "address": "2223 S Wentworth Ave, Chicago, IL 60616",
     "rating": 4,
     "description": {
       "en": "",
@@ -13224,10 +13594,16 @@
     "theme": "k-culture",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "eunpyeong"
     },
-    "name": "연서시장",
+    "name": {
+      "ko": "연서시장",
+      "en": "Yeonseosijang",
+      "ja": "Yeonseosijang",
+      "zh": "Yeonseosijang",
+      "vi": "Yeonseosijang",
+      "id": "Yeonseosijang"
+    },
     "address": "서울특별시 은평구 불광동 번지 1층 310-11",
     "rating": 4.5,
     "description": {
@@ -13243,10 +13619,16 @@
     "theme": "k-culture",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jongno"
     },
-    "name": "북촌 한옥마을",
+    "name": {
+      "ko": "북촌 한옥마을",
+      "en": "Bukchon Hanokmaeul",
+      "ja": "Bukchon Hanokmaeul",
+      "zh": "Bukchon Hanokmaeul",
+      "vi": "Bukchon Hanokmaeul",
+      "id": "Bukchon Hanokmaeul"
+    },
     "address": "서울특별시 종로구 재동 54-1",
     "rating": 4.5,
     "description": {
@@ -13262,10 +13644,16 @@
     "theme": "urban-nature",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jung"
     },
-    "name": "남산 둘레길",
+    "name": {
+      "ko": "남산 둘레길",
+      "en": "Namsan Dulregil",
+      "ja": "Namsan Dulregil",
+      "zh": "Namsan Dulregil",
+      "vi": "Namsan Dulregil",
+      "id": "Namsan Dulregil"
+    },
     "address": "서울특별시 중구 예장동 8-177",
     "rating": 4.5,
     "description": {
@@ -13282,8 +13670,15 @@
     "region": {
       "province": "seoul"
     },
-    "name": "남산 둘레길 진입로",
-    "address": "대한민국 서울특별시 중구 예장동 8-177",
+    "name": {
+      "ko": "남산 둘레길 진입로",
+      "en": "Namsan Dulregil Jinipro",
+      "ja": "Namsan Dulregil Jinipro",
+      "zh": "Namsan Dulregil Jinipro",
+      "vi": "Namsan Dulregil Jinipro",
+      "id": "Namsan Dulregil Jinipro"
+    },
+    "address": "서울특별시 중구 예장동 8-177",
     "rating": 4,
     "description": {
       "en": "",
@@ -13295,32 +13690,19 @@
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUSGluhxqXtXjL5LhaJXJusCeRL4ZZ6UVcNHQIwnIBzEik1sFoKjjHADf_N4d7e-5VUEMVFO1z3z-yq2ayrs4K2JLQzaD5oEZEwGJ10EuxJIR7qlVGL3Kxmk6CPrTrLFVr3slP=w408-h306-k-no"
   },
   {
-    "theme": "hallyu",
-    "region": {
-      "province": "seoul",
-      "city": null,
-      "district": "junggu"
-    },
-    "name": "서울 K-POP 성지",
-    "address": "서울특별시 중구 장충단로 72",
-    "rating": 4.5,
-    "description": {
-      "en": "Another K-POP pilgrimage site in Seoul, a great spot for fans.",
-      "ja": "ソウルにあるもう一つのK-POPの聖地。ファンにとって素晴らしいスポットです。",
-      "zh": "首尔的另一个K-POP朝圣地，粉丝的理想之地。",
-      "vi": "Địa điểm hành hương K-POP khác ở Seoul, nơi lý tưởng cho người hâm mộ.",
-      "id": "Situs ziarah K-POP lain di Seoul, tempat yang ideal untuk penggemar."
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20190523_236/1558578161545dVSPq_PNG/Dq7EFv0ai1U5v1enojrSxosd.PNG.png"
-  },
-  {
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jung-gu"
     },
-    "name": "서울 스파 마사지",
+    "name": {
+      "ko": "서울 스파 마사지",
+      "en": "Seoul Seupa Masaji",
+      "ja": "Seoul Seupa Masaji",
+      "zh": "Seoul Seupa Masaji",
+      "vi": "Seoul Seupa Masaji",
+      "id": "Seoul Seupa Masaji"
+    },
     "address": "서울특별시 중구 명동7길 8",
     "rating": 4.5,
     "description": {
@@ -13336,10 +13718,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jung"
     },
-    "name": "명동 스파 마사지",
+    "name": {
+      "ko": "명동 스파 마사지",
+      "en": "Myeongdong Seupa Masaji",
+      "ja": "Myeongdong Seupa Masaji",
+      "zh": "Myeongdong Seupa Masaji",
+      "vi": "Myeongdong Seupa Masaji",
+      "id": "Myeongdong Seupa Masaji"
+    },
     "address": "서울특별시 중구 명동7길 8",
     "rating": 4.5,
     "description": {
@@ -13355,10 +13743,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "seocho"
     },
-    "name": "강남 피부과 클리닉",
+    "name": {
+      "ko": "강남 피부과 클리닉",
+      "en": "Gangnam Pibugwa Keulrinik",
+      "ja": "Gangnam Pibugwa Keulrinik",
+      "zh": "Gangnam Pibugwa Keulrinik",
+      "vi": "Gangnam Pibugwa Keulrinik",
+      "id": "Gangnam Pibugwa Keulrinik"
+    },
     "address": "서울특별시 서초구 강남대로69길 8",
     "rating": 4.5,
     "description": {
@@ -13374,10 +13768,16 @@
     "theme": "k-culture",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "mapo"
     },
-    "name": "포은로6길 27",
+    "name": {
+      "ko": "포은로6길 27",
+      "en": "Poeunro6gil 27",
+      "ja": "Poeunro6gil 27",
+      "zh": "Poeunro6gil 27",
+      "vi": "Poeunro6gil 27",
+      "id": "Poeunro6gil 27"
+    },
     "address": "서울특별시 마포구 포은로6길 27",
     "rating": 4.5,
     "description": {
@@ -13393,10 +13793,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "gangnam-gu"
     },
-    "name": "프리미엄스파엘",
+    "name": {
+      "ko": "프리미엄스파엘",
+      "en": "Peurimieomseupael",
+      "ja": "Peurimieomseupael",
+      "zh": "Peurimieomseupael",
+      "vi": "Peurimieomseupael",
+      "id": "Peurimieomseupael"
+    },
     "address": "서울특별시 강남구 역삼동 703-2",
     "rating": 4.5,
     "description": {
@@ -13413,8 +13819,15 @@
     "region": {
       "province": "seoul"
     },
-    "name": "K-Beauty Shop",
-    "address": "대한민국 서울특별시 중구 명동8길 20",
+    "name": {
+      "ko": "K-Beauty Shop",
+      "en": "K-Beauty Shop",
+      "ja": "K-Beauty Shop",
+      "zh": "K-Beauty Shop",
+      "vi": "K-Beauty Shop",
+      "id": "K-Beauty Shop"
+    },
+    "address": "서울특별시 중구 명동8길 20",
     "rating": 4,
     "description": {
       "en": "",
@@ -13430,8 +13843,15 @@
     "region": {
       "province": "seoul"
     },
-    "name": "Hello K Beauty",
-    "address": "대한민국 서울특별시 중구 명동6길 6",
+    "name": {
+      "ko": "Hello K Beauty",
+      "en": "Hello K Beauty",
+      "ja": "Hello K Beauty",
+      "zh": "Hello K Beauty",
+      "vi": "Hello K Beauty",
+      "id": "Hello K Beauty"
+    },
+    "address": "서울특별시 중구 명동6길 6",
     "rating": 4,
     "description": {
       "en": "",
@@ -13447,8 +13867,15 @@
     "region": {
       "province": "seoul"
     },
-    "name": "올리브영 명동 타운",
-    "address": "대한민국 서울특별시 중구 명동길 53",
+    "name": {
+      "ko": "올리브영 명동 타운",
+      "en": "Olribeuyeong Myeongdong Taun",
+      "ja": "Olribeuyeong Myeongdong Taun",
+      "zh": "Olribeuyeong Myeongdong Taun",
+      "vi": "Olribeuyeong Myeongdong Taun",
+      "id": "Olribeuyeong Myeongdong Taun"
+    },
+    "address": "서울특별시 중구 명동길 53",
     "rating": 4,
     "description": {
       "en": "",
@@ -13464,8 +13891,15 @@
     "region": {
       "province": "seoul"
     },
-    "name": "케이뷰티샵 K-Beauty Shop",
-    "address": "1층, Myeongdong 8na-gil, 10 (Sangga, B-dong, 중구 서울특별시 대한민국",
+    "name": {
+      "ko": "케이뷰티샵 K-Beauty Shop",
+      "en": "Keibyutisyap K-Beauty Shop",
+      "ja": "Keibyutisyap K-Beauty Shop",
+      "zh": "Keibyutisyap K-Beauty Shop",
+      "vi": "Keibyutisyap K-Beauty Shop",
+      "id": "Keibyutisyap K-Beauty Shop"
+    },
+    "address": "1층, Myeongdong 8na-gil, 10 (Sangga, B-dong, 중구 서울특별시 대한민국",
     "rating": 4,
     "description": {
       "en": "",
@@ -13481,8 +13915,15 @@
     "region": {
       "province": "seoul"
     },
-    "name": "올리브영 센트럴 명동 타운",
-    "address": "대한민국 서울특별시 중구 명동8길 27",
+    "name": {
+      "ko": "올리브영 센트럴 명동 타운",
+      "en": "Olribeuyeong Senteureol Myeongdong Taun",
+      "ja": "Olribeuyeong Senteureol Myeongdong Taun",
+      "zh": "Olribeuyeong Senteureol Myeongdong Taun",
+      "vi": "Olribeuyeong Senteureol Myeongdong Taun",
+      "id": "Olribeuyeong Senteureol Myeongdong Taun"
+    },
+    "address": "서울특별시 중구 명동8길 27",
     "rating": 4,
     "description": {
       "en": "",
@@ -13497,10 +13938,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "gangnam-gu"
     },
-    "name": "스파 마사지",
+    "name": {
+      "ko": "스파 마사지",
+      "en": "Seupa Masaji",
+      "ja": "Seupa Masaji",
+      "zh": "Seupa Masaji",
+      "vi": "Seupa Masaji",
+      "id": "Seupa Masaji"
+    },
     "address": "서울특별시 강남구 논현로175길 69",
     "rating": 4.5,
     "description": {
@@ -13516,10 +13963,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jung"
     },
-    "name": "명동 마사지",
+    "name": {
+      "ko": "명동 마사지",
+      "en": "Myeongdong Masaji",
+      "ja": "Myeongdong Masaji",
+      "zh": "Myeongdong Masaji",
+      "vi": "Myeongdong Masaji",
+      "id": "Myeongdong Masaji"
+    },
     "address": "서울특별시 중구 명동7길 8",
     "rating": 4.5,
     "description": {
@@ -13535,10 +13988,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "gangnam"
     },
-    "name": "논현 마사지",
+    "name": {
+      "ko": "논현 마사지",
+      "en": "Nonhyeon Masaji",
+      "ja": "Nonhyeon Masaji",
+      "zh": "Nonhyeon Masaji",
+      "vi": "Nonhyeon Masaji",
+      "id": "Nonhyeon Masaji"
+    },
     "address": "서울특별시 강남구 논현2동 221-13",
     "rating": 4.5,
     "description": {
@@ -13554,10 +14013,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "junggu"
     },
-    "name": "명동 K뷰티 쇼핑",
+    "name": {
+      "ko": "명동 K뷰티 쇼핑",
+      "en": "Myeongdong Kbyuti Syoping",
+      "ja": "Myeongdong Kbyuti Syoping",
+      "zh": "Myeongdong Kbyuti Syoping",
+      "vi": "Myeongdong Kbyuti Syoping",
+      "id": "Myeongdong Kbyuti Syoping"
+    },
     "address": "서울특별시 중구 명동8길 27",
     "rating": 4.5,
     "description": {
@@ -13573,10 +14038,16 @@
     "theme": "k-culture",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "mapo"
     },
-    "name": "포은로 전통시장",
+    "name": {
+      "ko": "포은로 전통시장",
+      "en": "Poeunro Jeontongsijang",
+      "ja": "Poeunro Jeontongsijang",
+      "zh": "Poeunro Jeontongsijang",
+      "vi": "Poeunro Jeontongsijang",
+      "id": "Poeunro Jeontongsijang"
+    },
     "address": "서울특별시 마포구 포은로6길 27",
     "rating": 4.5,
     "description": {
@@ -13592,10 +14063,16 @@
     "theme": "k-culture",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jongno"
     },
-    "name": "자하문로 전통시장",
+    "name": {
+      "ko": "자하문로 전통시장",
+      "en": "Jahamunro Jeontongsijang",
+      "ja": "Jahamunro Jeontongsijang",
+      "zh": "Jahamunro Jeontongsijang",
+      "vi": "Jahamunro Jeontongsijang",
+      "id": "Jahamunro Jeontongsijang"
+    },
     "address": "서울특별시 종로구 자하문로15길 18",
     "rating": 4.5,
     "description": {
@@ -13611,10 +14088,16 @@
     "theme": "k-culture",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jongno"
     },
-    "name": "북촌 한옥마을 체험",
+    "name": {
+      "ko": "북촌 한옥마을 체험",
+      "en": "Bukchon Hanokmaeul Cheheom",
+      "ja": "Bukchon Hanokmaeul Cheheom",
+      "zh": "Bukchon Hanokmaeul Cheheom",
+      "vi": "Bukchon Hanokmaeul Cheheom",
+      "id": "Bukchon Hanokmaeul Cheheom"
+    },
     "address": "서울특별시 종로구 북촌로12길 24-5",
     "rating": 4.5,
     "description": {
@@ -13630,10 +14113,16 @@
     "theme": "k-food",
     "region": {
       "province": "busan",
-      "city": null,
       "district": "busanjin"
     },
-    "name": "산반들",
+    "name": {
+      "ko": "산반들",
+      "en": "Sanbandeul",
+      "ja": "Sanbandeul",
+      "zh": "Sanbandeul",
+      "vi": "Sanbandeul",
+      "id": "Sanbandeul"
+    },
     "address": "부산광역시 부산진구 전포대로209번길 43",
     "rating": 4.5,
     "description": {
@@ -13649,10 +14138,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "gangnam"
     },
-    "name": "역삼동 프리미엄스파",
+    "name": {
+      "ko": "역삼동 프리미엄스파",
+      "en": "Yeoksamdong Peurimieomseupa",
+      "ja": "Yeoksamdong Peurimieomseupa",
+      "zh": "Yeoksamdong Peurimieomseupa",
+      "vi": "Yeoksamdong Peurimieomseupa",
+      "id": "Yeoksamdong Peurimieomseupa"
+    },
     "address": "서울특별시 강남구 역삼동 703-2",
     "rating": 4.5,
     "description": {
@@ -13668,10 +14163,16 @@
     "theme": "k-culture",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jongno"
     },
-    "name": "재동 한옥마을",
+    "name": {
+      "ko": "재동 한옥마을",
+      "en": "Jaedong Hanokmaeul",
+      "ja": "Jaedong Hanokmaeul",
+      "zh": "Jaedong Hanokmaeul",
+      "vi": "Jaedong Hanokmaeul",
+      "id": "Jaedong Hanokmaeul"
+    },
     "address": "서울특별시 종로구 재동 54-1",
     "rating": 4.5,
     "description": {
@@ -13687,10 +14188,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "jung-gu"
     },
-    "name": "미래빌딩 스파 마사지",
+    "name": {
+      "ko": "미래빌딩 스파 마사지",
+      "en": "Miraebilding Seupa Masaji",
+      "ja": "Miraebilding Seupa Masaji",
+      "zh": "Miraebilding Seupa Masaji",
+      "vi": "Miraebilding Seupa Masaji",
+      "id": "Miraebilding Seupa Masaji"
+    },
     "address": "서울특별시 중구 명동7길 8",
     "rating": 4.5,
     "description": {
@@ -13706,10 +14213,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "gangnam"
     },
-    "name": "강남 BLS클리닉",
+    "name": {
+      "ko": "강남 BLS클리닉",
+      "en": "Gangnam BLSkeulrinik",
+      "ja": "Gangnam BLSkeulrinik",
+      "zh": "Gangnam BLSkeulrinik",
+      "vi": "Gangnam BLSkeulrinik",
+      "id": "Gangnam BLSkeulrinik"
+    },
     "address": "서울특별시 강남구 강남대로 432",
     "rating": 4.5,
     "description": {
@@ -13725,10 +14238,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "gangnam"
     },
-    "name": "원영빌딩 스파",
+    "name": {
+      "ko": "원영빌딩 스파",
+      "en": "Wonyeongbilding Seupa",
+      "ja": "Wonyeongbilding Seupa",
+      "zh": "Wonyeongbilding Seupa",
+      "vi": "Wonyeongbilding Seupa",
+      "id": "Wonyeongbilding Seupa"
+    },
     "address": "서울특별시 강남구 논현로175길 69 4층",
     "rating": 4.5,
     "description": {
@@ -13744,10 +14263,16 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "city": null,
       "district": "seocho"
     },
-    "name": "서초 피부과 클리닉",
+    "name": {
+      "ko": "서초 피부과 클리닉",
+      "en": "Seocho Pibugwa Keulrinik",
+      "ja": "Seocho Pibugwa Keulrinik",
+      "zh": "Seocho Pibugwa Keulrinik",
+      "vi": "Seocho Pibugwa Keulrinik",
+      "id": "Seocho Pibugwa Keulrinik"
+    },
     "address": "서울특별시 서초구 강남대로 453",
     "rating": 4.5,
     "description": {

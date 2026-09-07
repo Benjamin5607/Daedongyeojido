@@ -68,11 +68,18 @@ Each item must follow this exact shape:
 {
   "theme": "k-food|hallyu|k-beauty|k-culture|urban-nature",
   "region": {
-    "province": "seoul|busan|jeju|gyeonggi|gangwon|gyeongbuk|jeonbuk|...",
-    "city": "optional city code e.g. suwon, jeonju, andong",
+    "province": "seoul|busan|jeju|gyeonggi|gangwon|gyeongbuk|gyeongnam|jeonbuk|jeonnam|chungbuk|chungnam",
+    "city": "optional city code e.g. suwon, jeonju, andong, geoje",
     "district": "optional district code e.g. yongsan, jongno, haeundae"
   },
-  "name": "Korean place name",
+  "name": {
+    "ko": "한국어 상호/시설명",
+    "en": "English name",
+    "ja": "日本語名",
+    "zh": "中文名",
+    "vi": "Tên tiếng Việt",
+    "id": "Nama Indonesia"
+  },
   "address": "Korean address",
   "rating": 4.5,
   "description": {
@@ -84,9 +91,10 @@ Each item must follow this exact shape:
   }
 }
 Rules:
-- Infer region codes from the Korean address (province/city/district).
+- Infer region codes from the Korean address (province/city/district). Use English codes only (seoul, busan, jeju, gyeonggi, gangwon, gyeongbuk, gyeongnam, jeonbuk, jeonnam, chungbuk, chungnam) — never Hangul administrative names.
+- name MUST be an object: { "ko": "한국어 이름", "en": "English name", "ja": "...", "zh": "...", "vi": "...", "id": "..." }. Never a bare string. Never use category phrases like "거제 맛집" or "서울 관광" as names.
 - Translate descriptions into English, Japanese, Chinese, Vietnamese, and Indonesian.
-- Keep name and address concise in Korean unless a localized form is clearly better.
+- Keep address concise; prefer Korean in address.ko when localizing.
 - Do not use markdown fences or commentary.
 - Output JSON array only.`;
 
@@ -274,11 +282,21 @@ async function runPipeline() {
   console.log("Attaching photos for new, missing, or trend-priority entries...");
   const withPhotos = await attachMissingImages(merged, { delayMs: IMAGE_DELAY_MS });
 
-  // Strip internal flags before write
-  const cleaned = withPhotos.map((place) => {
-    const { forcePhotoRefresh: _f, query: _q, permanentlyClosed: _p, ...rest } = place;
-    return rest;
-  });
+  // Strip internal flags, enforce name/region quality before write
+  const { isGarbagePoiName, normalizePlaceRecord } = require("./placeQuality");
+  const cleaned = withPhotos
+    .map((place) => {
+      const { forcePhotoRefresh: _f, query: _q, permanentlyClosed: _p, ...rest } = place;
+      return rest;
+    })
+    .filter((place) => {
+      if (isGarbagePoiName(place.name)) {
+        console.log(`[security] Skipping garbage place before write: ${JSON.stringify(place.name)}`);
+        return false;
+      }
+      return true;
+    })
+    .map((place) => normalizePlaceRecord(place));
 
   const previous = JSON.stringify(existing, null, 2);
   const next = JSON.stringify(cleaned, null, 2);

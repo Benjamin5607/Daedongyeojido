@@ -1,3 +1,9 @@
+const {
+  normalizePlaceName,
+  normalizeRegion,
+  normalizePlaceRecord,
+} = require("./placeQuality");
+
 const PROVINCE_FROM_TEXT = [
   [/서울|seoul/i, "seoul"],
   [/부산|busan/i, "busan"],
@@ -18,9 +24,9 @@ const PROVINCE_FROM_TEXT = [
 function inferRegion(raw) {
   const text = `${raw.query ?? ""} ${raw.address ?? ""}`;
   for (const [pattern, province] of PROVINCE_FROM_TEXT) {
-    if (pattern.test(text)) return { province };
+    if (pattern.test(text)) return normalizeRegion({ province }, text);
   }
-  return { province: "seoul" };
+  return normalizeRegion({ province: "seoul" }, text);
 }
 
 /**
@@ -40,15 +46,15 @@ function enrichPlaceLocally(raw) {
     raw.review?.trim() ||
     `${raw.name} — a spot surfaced from Naver/Google local discovery.`;
 
-  return {
+  return normalizePlaceRecord({
     theme: raw.theme,
     region: inferRegion(raw),
-    name: raw.name,
+    name: normalizePlaceName(raw.name),
     address: raw.address || raw.name,
     rating: typeof raw.rating === "number" ? raw.rating : 4.0,
     description: localizeText(descriptionText),
     ...(raw.imageUrl ? { imageUrl: raw.imageUrl } : {}),
-  };
+  });
 }
 
 module.exports = { enrichPlaceLocally, inferRegion };

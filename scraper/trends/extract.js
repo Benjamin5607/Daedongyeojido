@@ -109,9 +109,7 @@ function normalizeLlmTrend(item) {
   const label = String(row.label || "").trim();
   if (!label) return null;
   
-  // Blacklist of forbidden vague abstract noun patterns to protect database integrity
-  const FORBIDDEN_REGEX = /(관광|여행|음식|맛집|트렌드|명소|핫플|핫플레이스|지역)$/;
-  const GENTRIFIED_WORDS = ["거제 관광", "거제 여행", "거제 음식", "거제 맛집", "거제 트렌드", "제주 관광", "서울 맛집", "부산 맛집", "인기 관광지"];
+  const { isGarbagePoiName } = require("../placeQuality");
 
   const queries = Array.isArray(row.queries)
     ? row.queries
@@ -119,15 +117,15 @@ function normalizeLlmTrend(item) {
           if (!q || typeof q !== "object") return null;
           const theme = String(/** @type {any} */ (q).theme || "k-food");
           const query = String(/** @type {any} */ (q).query || "").trim();
-          
+
           if (!query) return null;
-          
+
           // Drop broad matching queries that yield garbage POIs
-          if (GENTRIFIED_WORDS.includes(query) || FORBIDDEN_REGEX.test(query)) {
+          if (isGarbagePoiName(query)) {
             console.log(`[security] Dropping forbidden/vague query: "${query}"`);
             return null;
           }
-          
+
           return { theme, query };
         })
         .filter(Boolean)
@@ -138,9 +136,7 @@ function normalizeLlmTrend(item) {
         .map(String)
         .filter((h) => {
           const trimmed = h.trim();
-          if (GENTRIFIED_WORDS.includes(trimmed) || FORBIDDEN_REGEX.test(trimmed)) {
-            return false;
-          }
+          if (isGarbagePoiName(trimmed)) return false;
           return trimmed.length >= 2;
         })
     : [];

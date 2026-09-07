@@ -1,15 +1,33 @@
-/** Seed keywords for Korean travel / media-driven destination trends. */
+/** Seed keywords for Korean travel / media-driven destination trends (nationwide). */
 const TREND_SEED_KEYWORDS = [
+  // Gyeongnam / Geoje
   "거제 야호",
   "리센느 거제",
+  "통영 동피랑",
+  // Gangwon
   "양양 서피비치 핫플",
-  "제주 감성숙소 핫플",
-  "경주 황리단길 맛집",
-  "부산 영도 영도다리 핫플",
   "강릉 안목해변 카페거리",
+  "속초 중앙시장 맛집",
+  // Jeju
+  "제주 감성숙소 핫플",
+  "제주 월정리 카페",
+  // Gyeongbuk / culture
+  "경주 황리단길 맛집",
+  "안동 하회마을",
+  // Busan / southeast
+  "부산 영도 핫플",
+  "부산 흰여울문화마을",
+  // Seoul / Gyeonggi
+  "서울 성수 핫플",
+  "연남동 카페 성지",
+  "파주 헤이리",
+  // Jeolla / Chungcheong
+  "전주 한옥마을 맛집",
+  "여수 밤바다",
+  "공주 제민천",
+  // Media-wide
   "성지순례 맛집",
   "아이돌 맛집 성지",
-  "요즘 핫플 여행",
   "숏폼 성지 여행",
   "예능 맛집 성지",
 ];
@@ -56,8 +74,8 @@ const CURATED_TRENDS = [
       { theme: "urban-nature", query: "거제 덕포해수욕장" },
       { theme: "urban-nature", query: "거제 매미성" },
       { theme: "urban-nature", query: "거제 해금강" },
-      { theme: "hallyu", query: "거제 야호 성지" },
-      { theme: "k-culture", query: "거제 옥포 맛집" },
+      { theme: "hallyu", query: "거제 매미성 야호" },
+      { theme: "k-culture", query: "거제 옥포대첩기념공원" },
     ],
     score: 100,
   },

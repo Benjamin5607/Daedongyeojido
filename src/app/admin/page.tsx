@@ -113,6 +113,28 @@ export default async function AdminDashboardPage() {
           </div>
         </div>
       </div>
+
+      {/* Province coverage */}
+      <div className="bg-white p-6 rounded-2xl border border-stone-200 shadow-sm space-y-4">
+        <h3 className="font-serif text-lg font-bold text-stone-900 border-b border-stone-100 pb-3">
+          Places by Province
+        </h3>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3">
+          {Object.entries(stats.byProvince || {})
+            .sort((a, b) => b[1] - a[1])
+            .map(([code, count]) => (
+              <div
+                key={code}
+                className="rounded-xl border border-stone-100 bg-stone-50 px-3 py-2"
+              >
+                <p className="text-[10px] font-semibold uppercase tracking-wide text-stone-500">
+                  {code}
+                </p>
+                <p className="text-lg font-bold text-stone-900">{count}</p>
+              </div>
+            ))}
+        </div>
+      </div>
     </div>
   );
 }

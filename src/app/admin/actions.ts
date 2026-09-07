@@ -28,6 +28,13 @@ export async function getAdminStats() {
   const localGems = places.filter((p) => p.localGem).length;
   const trending = places.filter((p) => p.trend).length;
 
+  /** @type {Record<string, number>} */
+  const byProvince: Record<string, number> = {};
+  for (const place of places) {
+    const code = place.region?.province || "(none)";
+    byProvince[code] = (byProvince[code] || 0) + 1;
+  }
+
   const socialStats = {
     draft: queue.items.filter((i: any) => i.status === "draft").length,
     exported: queue.items.filter((i: any) => i.status === "exported").length,
@@ -42,6 +49,7 @@ export async function getAdminStats() {
     trending,
     socialStats,
     totalTrends: (trendsData.items || []).length,
+    byProvince,
   };
 }
 
@@ -50,20 +58,37 @@ export async function getPlacesList() {
 }
 
 export async function savePlace(slug: string | null, placeData: any) {
+  const { createRequire } = await import("node:module");
+  const require = createRequire(path.join(process.cwd(), "package.json"));
+  const {
+    isGarbagePoiName,
+    normalizePlaceRecord,
+    validatePlaceRecord,
+  } = require("./scraper/placeQuality.js");
+
   const placesRaw = JSON.parse(fs.readFileSync(CRAWLED_PLACES_PATH, "utf8")) as any[];
+  const normalized = normalizePlaceRecord(placeData);
+
+  if (isGarbagePoiName(normalized.name)) {
+    throw new Error("Rejected: category/garbage place name");
+  }
+  const { ok, errors } = validatePlaceRecord(normalized);
+  if (!ok) {
+    throw new Error(`Place schema invalid: ${errors.join("; ")}`);
+  }
   
   if (slug) {
     // Edit existing place
     const allWithSlugs = getAllPlaces();
     const index = allWithSlugs.findIndex((p) => p.slug === slug);
     if (index !== -1) {
-      placesRaw[index] = { ...placesRaw[index], ...placeData };
+      placesRaw[index] = { ...placesRaw[index], ...normalized };
     } else {
       throw new Error("Place not found for editing");
     }
   } else {
     // Add new place
-    placesRaw.unshift(placeData);
+    placesRaw.unshift(normalized);
   }
 
   writeJsonFile(CRAWLED_PLACES_PATH, placesRaw);

@@ -6,6 +6,69 @@ const { MAX_TREND_QUERIES } = require("./config");
 
 const TRENDS_OUTPUT = path.join(__dirname, "../../src/data/travel_trends.json");
 
+/** Rough region bucket from Korean query/label text for nationwide quota. */
+const REGION_BUCKETS = [
+  { id: "gyeongnam", re: /거제|통영|창원|진주|경남/ },
+  { id: "busan", re: /부산|해운대|영도|광안/ },
+  { id: "jeju", re: /제주|서귀포|애월|월정/ },
+  { id: "gangwon", re: /양양|강릉|속초|평창|강원/ },
+  { id: "gyeongbuk", re: /경주|안동|포항|경북/ },
+  { id: "seoul", re: /서울|성수|연남|홍대|강남/ },
+  { id: "gyeonggi", re: /파주|수원|경기|헤이리/ },
+  { id: "jeonbuk", re: /전주|전북|군산/ },
+  { id: "jeonnam", re: /여수|순천|목포|전남/ },
+  { id: "chungcheong", re: /공주|대전|충남|충북|천안/ },
+];
+
+/**
+ * @param {string} text
+ */
+function regionBucket(text) {
+  for (const bucket of REGION_BUCKETS) {
+    if (bucket.re.test(text)) return bucket.id;
+  }
+  return "other";
+}
+
+/**
+ * Prefer queries that diversify regions (round-robin by bucket).
+ * @param {{ theme: string; query: string; trendLabel: string }[]} queries
+ * @param {number} limit
+ */
+function balanceQueriesByRegion(queries, limit) {
+  /** @type {Map<string, typeof queries>} */
+  const byBucket = new Map();
+  for (const q of queries) {
+    const bucket = regionBucket(`${q.query} ${q.trendLabel}`);
+    if (!byBucket.has(bucket)) byBucket.set(bucket, []);
+    byBucket.get(bucket).push(q);
+  }
+
+  const buckets = [...byBucket.keys()].sort((a, b) => {
+    // Prefer named regions over "other"; then larger pools first
+    if (a === "other") return 1;
+    if (b === "other") return -1;
+    return (byBucket.get(b)?.length || 0) - (byBucket.get(a)?.length || 0);
+  });
+
+  /** @type {typeof queries} */
+  const out = [];
+  let guard = 0;
+  while (out.length < limit && guard < limit * 4) {
+    guard += 1;
+    let added = false;
+    for (const bucket of buckets) {
+      const list = byBucket.get(bucket);
+      if (!list || list.length === 0) continue;
+      out.push(list.shift());
+      added = true;
+      if (out.length >= limit) break;
+    }
+    if (!added) break;
+  }
+  return out;
+}
+
 /**
  * @param {string|object} name
  */
@@ -74,10 +137,13 @@ async function buildTrendCrawlPlan(existingPlaces = []) {
         query: q.query,
         trendLabel: signal.label,
       });
-      if (priorityQueries.length >= MAX_TREND_QUERIES) break;
     }
-    if (priorityQueries.length >= MAX_TREND_QUERIES) break;
   }
+
+  const balancedQueries = balanceQueriesByRegion(
+    priorityQueries,
+    MAX_TREND_QUERIES
+  );
 
   const now = new Date().toISOString();
   /** @type {object[]} */
@@ -124,20 +190,28 @@ async function buildTrendCrawlPlan(existingPlaces = []) {
       theme: s.theme,
       queryCount: s.queries.length,
     })),
-    priorityQueries,
+    priorityQueries: balancedQueries,
     matchedExistingCount: matchedExisting.length,
     regionBoostCount: regionBoosts,
+    regionBuckets: Object.fromEntries(
+      [...new Set(balancedQueries.map((q) => regionBucket(`${q.query} ${q.trendLabel}`)))]
+        .map((id) => [
+          id,
+          balancedQueries.filter((q) => regionBucket(`${q.query} ${q.trendLabel}`) === id)
+            .length,
+        ])
+    ),
   };
 
   fs.mkdirSync(path.dirname(TRENDS_OUTPUT), { recursive: true });
   fs.writeFileSync(TRENDS_OUTPUT, `${JSON.stringify(snapshot, null, 2)}\n`, "utf8");
   console.log(
-    `[trend] priorityQueries=${priorityQueries.length}, taggedPlaces=${matchedExisting.length}, regionBoosts=${regionBoosts}`
+    `[trend] priorityQueries=${balancedQueries.length}, taggedPlaces=${matchedExisting.length}, regionBoosts=${regionBoosts}, buckets=${JSON.stringify(snapshot.regionBuckets)}`
   );
 
   return {
     signals,
-    priorityQueries,
+    priorityQueries: balancedQueries,
     matchedExisting,
     snapshot,
   };
@@ -153,16 +227,14 @@ function applyTrendTagsToIncoming(places, priorityQueries) {
     priorityQueries.map((q) => [q.query, q.trendLabel])
   );
   const now = new Date().toISOString();
-
-  // Safeguard: Drop abstract/generic noun queries that pollute database integrity
-  const FORBIDDEN_REGEX = /(관광|여행|음식|맛집|트렌드|명소|핫플|핫플레이스|지역)$/;
-  const GENTRIFIED_WORDS = ["거제 관광", "거제 여행", "거제 음식", "거제 맛집", "거제 트렌드", "제주 관광", "서울 맛집", "부산 맛집", "인기 관광지"];
+  const { isGarbagePoiName, resolveNameText } = require("../placeQuality");
 
   return places
     .filter((place) => {
-      const name = typeof place.name === "string" ? place.name : (place.name.ko || place.name.en || "");
-      if (GENTRIFIED_WORDS.includes(name) || FORBIDDEN_REGEX.test(name)) {
-        console.log(`[security] Filtered out generic/forbidden POI entry from crawled list: "${name}"`);
+      if (isGarbagePoiName(place.name)) {
+        console.log(
+          `[security] Filtered out generic/forbidden POI entry from crawled list: "${resolveNameText(place.name)}"`
+        );
         return false;
       }
       return true;
@@ -185,5 +257,7 @@ module.exports = {
   buildTrendCrawlPlan,
   applyTrendTagsToIncoming,
   placeMatchesTrend,
+  balanceQueriesByRegion,
+  regionBucket,
   TRENDS_OUTPUT,
 };

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-07T06:53:53.639Z",
+  "updatedAt": "2026-09-07T15:38:47.219Z",
   "items": [
+    {
+      "id": "sq_20260907153155_ppdq47",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "nojasan-2nd-observatory-dongbu",
+      "theme": "k-culture",
+      "caption": "노자산 제2전망대 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/nojasan-2nd-observatory-dongbu\n\nNojasan 2nd Observatory\nThe second observatory on Nojasan Mountain in Geoje\nGuide: https://daedongyeojido-nine.vercel.app/places/nojasan-2nd-observatory-dongbu\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260613_133/1781315776626VrSWb_JPEG/1780644490268.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/nojasan-2nd-observatory-dongbu",
+      "score": 127,
+      "createdAt": "2026-09-07T15:31:55.476Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260907-nojasan-2nd-observatory-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-07T15:38:47.218Z",
+        "alt_text": "노자산 제2전망대 (Nojasan 2nd Observatory) — dongbu, gyeongnam — k culture"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260907153155_3k29xo",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "geoje-gukbap-geoje",
+      "theme": "k-food",
+      "caption": "거제 국밥 — 「거제 트렌드」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/geoje-gukbap-geoje\n\nGeoje Gukbap\nGeoje Gukbap Restaurant\nGuide: https://daedongyeojido-nine.vercel.app/places/geoje-gukbap-geoje\n🔥 Trend: 거제 트렌드\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제트렌드 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20220406_106/1649228827290FCW5d_JPEG/20220406_160600.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-gukbap-geoje",
+      "score": 145,
+      "createdAt": "2026-09-07T15:31:55.376Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260907-geoje-gukbap-geoje",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-07T15:35:19.997Z",
+        "alt_text": "거제 국밥 (Geoje Gukbap) — gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260907064447_njmuxj",
       "status": "exported",

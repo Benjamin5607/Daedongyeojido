@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260907153155_ppdq47",
+  "slug": "nojasan-2nd-observatory-dongbu",
+  "theme": "k-culture",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-16T05:13:48.216Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-07 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "노자산 제2전망대 (Nojasan 2nd Observatory) — dongbu, gyeongnam — k culture",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20260613_133/1781315776626VrSWb_JPEG/1780644490268.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "노자산 제2전망대",
+    "en": "Nojasan 2nd Observatory"
+  },
+  "descriptionEn": "The second observatory on Nojasan Mountain in Geoje",
+  "exportedAt": "2026-09-07T15:38:47.218Z"
+}

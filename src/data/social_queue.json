@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-07T15:38:47.219Z",
+  "updatedAt": "2026-09-08T06:50:27.169Z",
   "items": [
+    {
+      "id": "sq_20260908064157_rgngsz",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-maengjong-bamboo-theme-park-hacheong",
+      "theme": "urban-nature",
+      "caption": "거제맹종죽 테마파크 — 「거제 트렌드」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/geoje-maengjong-bamboo-theme-park-hacheong\n\nGeoje Maengjong Bamboo Theme Park\nA theme park with a focus on the Mengjongjuk tree and its cultural significance\nGuide: https://daedongyeojido-nine.vercel.app/places/geoje-maengjong-bamboo-theme-park-hacheong\n🔥 Trend: 거제 트렌드\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제트렌드 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20240630_89/1719759411048giwsa_JPEG/1719550477872.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-maengjong-bamboo-theme-park-hacheong",
+      "score": 152,
+      "createdAt": "2026-09-08T06:41:57.826Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260908-geoje-maengjong-bamboo-theme-park-hacheong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-08T06:50:27.167Z",
+        "alt_text": "거제맹종죽 테마파크 (Geoje Maengjong Bamboo Theme Park) — hacheong, gyeongnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260908064157_jjtw0l",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "moraeseong-bunsik",
+      "theme": "k-culture",
+      "caption": "모래성분식 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/moraeseong-bunsik\n\nMoraeseong Bunsik\nA restaurant with a beautiful ocean view in Deokpo-dong, Geoje\nGuide: https://daedongyeojido-nine.vercel.app/places/moraeseong-bunsik\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260524_8/1779610268305FXo03_JPEG/1000034889.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/moraeseong-bunsik",
+      "score": 152,
+      "createdAt": "2026-09-08T06:41:57.714Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260908-moraeseong-bunsik",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-08T06:46:09.192Z",
+        "alt_text": "모래성분식 (Moraeseong Bunsik) — 덕포동, gyeongnam — k culture"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260907153155_ppdq47",
       "status": "exported",

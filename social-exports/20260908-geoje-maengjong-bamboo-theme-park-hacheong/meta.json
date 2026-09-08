@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260908064157_rgngsz",
+  "slug": "geoje-maengjong-bamboo-theme-park-hacheong",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 트렌드",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-16T05:13:48.216Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-08 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "거제맹종죽 테마파크 (Geoje Maengjong Bamboo Theme Park) — hacheong, gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제트렌드",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20240630_89/1719759411048giwsa_JPEG/1719550477872.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제맹종죽 테마파크",
+    "en": "Geoje Maengjong Bamboo Theme Park"
+  },
+  "descriptionEn": "A theme park with a focus on the Mengjongjuk tree and its cultural significance",
+  "exportedAt": "2026-09-08T06:50:27.167Z"
+}

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-10T14:07:47.903Z",
+  "updatedAt": "2026-09-11T06:48:35.634Z",
   "items": [
+    {
+      "id": "sq_20260911064724_0rkhiu",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "windy-hill-nambugmyeon-2",
+      "theme": "urban-nature",
+      "caption": "바람의 언덕 — 「옥포」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/windy-hill-nambugmyeon-2\n\nWindy Hill\nA scenic hill with a beautiful view of the surrounding area\nGuide: https://daedongyeojido-nine.vercel.app/places/windy-hill-nambugmyeon-2\n🔥 Trend: 옥포\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #옥포 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/windy-hill-nambugmyeon-2",
+      "score": 132,
+      "createdAt": "2026-09-11T06:47:24.201Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260911-windy-hill-nambugmyeon-2",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-11T06:48:35.632Z",
+        "alt_text": "Pixar-style travel illustration of 바람의 언덕 (Windy Hill) — nambugmyeon, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260911064724_12edy6",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-pow-camp-historic-park-gyeongnam",
+      "theme": "urban-nature",
+      "caption": "거제도 포로수용소 유적공원 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-historic-park-gyeongnam\n\nGeoje POW Camp Historic Park\n\nGuide: https://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-historic-park-gyeongnam\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-pow-camp-historic-park-gyeongnam",
+      "score": 147,
+      "createdAt": "2026-09-11T06:47:24.045Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260911-geoje-pow-camp-historic-park-gyeongnam",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-11T06:47:46.439Z",
+        "alt_text": "Pixar-style travel illustration of 거제도 포로수용소 유적공원 (Geoje POW Camp Historic Park) — gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260910140531_69gb6e",
       "status": "exported",

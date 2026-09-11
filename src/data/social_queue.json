@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-11T06:48:35.634Z",
+  "updatedAt": "2026-09-11T14:06:33.791Z",
   "items": [
+    {
+      "id": "sq_20260911140516_c9lfwy",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "theme": "k-food",
+      "caption": "Yeongwol Buckwheat Makguksu Corner\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/yeongwol-buckwheat-makguksu-corner-yeongwol-eup\n\nYeongwol Buckwheat Makguksu Corner\nHand-cut buckwheat noodles in a garage-turned-kitchen — Naver reviewers swear by it; Google has no menu.\n“지역 맛집으로 소개받았죠”\nGuide: https://daedongyeojido-nine.vercel.app/places/yeongwol-buckwheat-makguksu-corner-yeongwol-eup\n\nTraveler note: 지역 맛집으로 소개받았죠\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gangwon",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260328_208/17746652230043IluE_JPEG/L1002209.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "score": 94,
+      "createdAt": "2026-09-11T14:05:16.081Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260911-yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-11T14:06:33.789Z",
+        "alt_text": "Yeongwol Buckwheat Makguksu Corner — yeongwol-eup, gangwon — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260911140515_xedv1q",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "okpo-public-bathhouse-okpo",
+      "theme": "urban-nature",
+      "caption": "옥포 대중탕 — 「거제 야호 맛집」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/okpo-public-bathhouse-okpo\n\nOkpo Public Bathhouse\nA sauna and public bathhouse in Okpo, Geoje, South Gyeongsang Province\nGuide: https://daedongyeojido-nine.vercel.app/places/okpo-public-bathhouse-okpo\n🔥 Trend: 거제 야호 맛집\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호맛집 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20171029_37/1509275019327O29KX_JPEG/u8VuIxTihWCfpFTS629Uc30C.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/okpo-public-bathhouse-okpo",
+      "score": 107,
+      "createdAt": "2026-09-11T14:05:15.941Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260911-okpo-public-bathhouse-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-11T14:06:07.616Z",
+        "alt_text": "Pixar-style travel illustration of 옥포 대중탕 (Okpo Public Bathhouse) — okpo, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260911064724_0rkhiu",
       "status": "exported",

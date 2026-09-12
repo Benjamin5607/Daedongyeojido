@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-11T14:06:33.791Z",
+  "updatedAt": "2026-09-12T06:40:59.969Z",
   "items": [
+    {
+      "id": "sq_20260912063933_gv84kt",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "theme": "k-food",
+      "caption": "Suncheon Bay Salted Shrimp Porridge Shop\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si\n\nSuncheon Bay Salted Shrimp Porridge Shop\nSalted-shrimp porridge before the wetland tourists wake — ranked on Naver Map, not Google food lists.\n“Very pretty scenery.”\nGuide: https://daedongyeojido-nine.vercel.app/places/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si\n\nTraveler note: Very pretty scenery.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260412_30/1776002899195qrlYw_JPEG/KakaoTalk_20260312_153759613_18.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "score": 76,
+      "createdAt": "2026-09-12T06:39:33.633Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260912-suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-12T06:40:59.967Z",
+        "alt_text": "Pixar-style travel illustration of Suncheon Bay Salted Shrimp Porridge Shop — suncheon-si, jeonnam — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260912063933_w7tyj0",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-sea-world-ilwon",
+      "theme": "urban-nature",
+      "caption": "거제씨월드 — 「옥포」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/geoje-sea-world-ilwon\n\nGeoje Sea World\nA marine-themed park with various attractions and activities\nGuide: https://daedongyeojido-nine.vercel.app/places/geoje-sea-world-ilwon\n🔥 Trend: 옥포\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #옥포 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20241008_76/1728345580645pOgQ3_JPEG/DSC03360.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-sea-world-ilwon",
+      "score": 132,
+      "createdAt": "2026-09-12T06:39:33.450Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260912-geoje-sea-world-ilwon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-12T06:40:24.458Z",
+        "alt_text": "거제씨월드 (Geoje Sea World) — ilwon, gyeongnam — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260911140516_c9lfwy",
       "status": "exported",

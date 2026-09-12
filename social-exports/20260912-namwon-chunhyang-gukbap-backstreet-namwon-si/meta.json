@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260912132230_tupuql",
+  "slug": "namwon-chunhyang-gukbap-backstreet-namwon-si",
+  "theme": "k-food",
+  "format": "series",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": true,
+  "caption_ai_generated": false,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-12 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Pixar-style travel illustration of Namwon Chunhyang Gukbap Backstreet — namwon-si, jeonbuk — k food, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#jeonbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Namwon Chunhyang Gukbap Backstreet",
+    "en": "Namwon Chunhyang Gukbap Backstreet"
+  },
+  "descriptionEn": "Locals skip tourist strips for this gukbap backstreet — Naver Map ratings only, not Google lists.",
+  "exportedAt": "2026-09-12T13:23:25.272Z"
+}

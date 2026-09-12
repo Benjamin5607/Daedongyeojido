@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-12T06:40:59.969Z",
+  "updatedAt": "2026-09-12T13:23:25.274Z",
   "items": [
+    {
+      "id": "sq_20260912132230_tupuql",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "namwon-chunhyang-gukbap-backstreet-namwon-si",
+      "theme": "k-food",
+      "caption": "Namwon Chunhyang Gukbap Backstreet\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/namwon-chunhyang-gukbap-backstreet-namwon-si\n\nNamwon Chunhyang Gukbap Backstreet\nLocals skip tourist strips for this gukbap backstreet — Naver Map ratings only, not Google lists.\n“Namwon Station – A Welcoming Gateway to the Cultural City of Jeollabuk-do Namwon Station, located in Namwon City, Jeollabuk-do, serves as a central transportat…”\nGuide: https://daedongyeojido-nine.vercel.app/places/namwon-chunhyang-gukbap-backstreet-namwon-si\n\nTraveler note: Namwon Station – A Welcoming Gateway to the Cultural City of Jeollabuk-do Namwon Station, located in Namwon City, Jeollabuk-do, serves as a central transportat…\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonbuk",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250328_11/17431268478575ocDv_JPEG/%BF%F9%B3%B2%BD%D3.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/namwon-chunhyang-gukbap-backstreet-namwon-si",
+      "score": 94,
+      "createdAt": "2026-09-12T13:22:30.685Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260912-namwon-chunhyang-gukbap-backstreet-namwon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-12T13:23:25.272Z",
+        "alt_text": "Pixar-style travel illustration of Namwon Chunhyang Gukbap Backstreet — namwon-si, jeonbuk — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260912132230_llun08",
+      "status": "exported",
+      "slot": "evening",
+      "format": "series",
+      "slug": "tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "theme": "k-food",
+      "caption": "Tongyeong Chungmu Kimbap Back Alley\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/tongyeong-chungmu-kimbap-back-alley-bongpyeong\n\nTongyeong Chungmu Kimbap Back Alley\nRadish-heavy Chungmu kimbap locals eat dockside — pinned on Naver seafood blogs, not Google fish markets.\n“싱싱힌 남해해산물”\nGuide: https://daedongyeojido-nine.vercel.app/places/tongyeong-chungmu-kimbap-back-alley-bongpyeong\n\nTraveler note: 싱싱힌 남해해산물\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_282/1441021614858MOy5P_JPEG/11694124_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "score": 94,
+      "createdAt": "2026-09-12T13:22:30.557Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260912-tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-12T13:22:46.721Z",
+        "alt_text": "Pixar-style travel illustration of Tongyeong Chungmu Kimbap Back Alley — bongpyeong, gyeongnam — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260912063933_gv84kt",
       "status": "exported",

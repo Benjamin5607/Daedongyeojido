@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260914071859_9habtt",
+  "slug": "jinju-fortress",
+  "theme": "k-culture",
+  "format": "series",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": true,
+  "caption_ai_generated": false,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-14 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of 경상남도 진주시 진주성길 626 (Jinju Fortress) — 진주성, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "경상남도 진주시 진주성길 626",
+    "en": "Jinju Fortress"
+  },
+  "descriptionEn": "Historic fortress with lantern festivals — event details on Naver culture blogs, not Google.",
+  "exportedAt": "2026-09-14T07:19:45.194Z"
+}

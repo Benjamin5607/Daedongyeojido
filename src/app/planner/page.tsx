@@ -8,6 +8,10 @@ import { getAllPlaces, type IndexedPlace } from "@/lib/places";
 import { resolveKoreanField, resolveLocalizedField } from "@/lib/i18n";
 import { getPlaceMapLinks } from "@/lib/mapLinks";
 import { encodeSchedule, decodeSchedule } from "@/lib/plannerCodec";
+import {
+  getTemplateLabel,
+  ITINERARY_TEMPLATES,
+} from "@/lib/itineraryTemplates";
 import { PlannerMap } from "@/components/PlannerMap";
 
 const LOCAL_STORAGE_KEY = "daedongyeojido_planner";
@@ -160,6 +164,14 @@ function PlannerContent() {
       });
   };
 
+  const handleApplyTemplate = (templateSchedule: string[][]) => {
+    const next = templateSchedule.map((day) => [...day]);
+    setIsSharedView(false);
+    setSchedule(next);
+    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(next));
+    router.replace("/planner");
+  };
+
   // Map place slugs to IndexedPlace objects
   const getPlacesForDay = (slugs: string[]): IndexedPlace[] => {
     return slugs
@@ -225,6 +237,45 @@ function PlannerContent() {
             ✓ Shared itinerary successfully imported and saved to your device!
           </div>
         )}
+
+        <section className="mb-10 rounded-3xl border border-[var(--color-border)] bg-white p-6 shadow-sm sm:p-8">
+          <h2 className="font-serif text-xl font-semibold text-[var(--color-ink)] sm:text-2xl">
+            {t.plannerTemplatesHeading}
+          </h2>
+          <p className="mt-2 max-w-2xl text-sm text-[var(--color-muted)]">
+            {t.plannerTemplatesSub}
+          </p>
+          <div className="mt-5 grid gap-4 sm:grid-cols-2">
+            {ITINERARY_TEMPLATES.map((template) => {
+              const { title, blurb } = getTemplateLabel(template, locale);
+              return (
+                <div
+                  key={template.id}
+                  className="flex flex-col justify-between rounded-2xl border border-stone-200 bg-stone-50/60 p-4"
+                >
+                  <div>
+                    <p className="text-[10px] font-semibold uppercase tracking-wide text-[var(--color-trip-green-dark)]">
+                      {t.themes[template.theme]}
+                    </p>
+                    <h3 className="mt-1 font-serif text-base font-semibold text-stone-800">
+                      {title}
+                    </h3>
+                    <p className="mt-1.5 text-xs leading-relaxed text-stone-500">
+                      {blurb}
+                    </p>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => handleApplyTemplate(template.schedule)}
+                    className="mt-4 inline-flex items-center justify-center rounded-full bg-[var(--color-trip-green)] px-4 py-2 text-xs font-semibold text-white transition hover:bg-[var(--color-trip-green-dark)]"
+                  >
+                    {t.useTemplate}
+                  </button>
+                </div>
+              );
+            })}
+          </div>
+        </section>
 
         {isScheduleEmpty ? (
           <div className="rounded-3xl border border-dashed border-stone-300 bg-stone-50/50 p-12 text-center text-stone-500 shadow-inner">

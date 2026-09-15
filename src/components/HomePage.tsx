@@ -7,6 +7,7 @@ import { PlaceList } from "@/components/PlaceList";
 import { RegionFilter } from "@/components/RegionFilter";
 import { SearchBar } from "@/components/SearchBar";
 import { PlaceCard } from "@/components/PlaceCard";
+import { ThemeTabs } from "@/components/ThemeTabs";
 import { useLanguage } from "@/context/LanguageContext";
 import {
   getAllPlaces,
@@ -14,7 +15,7 @@ import {
   getTopRatedPlaces,
 } from "@/lib/places";
 import { collectRegionOptions, getRegionLabel, type RegionFilterState } from "@/lib/regions";
-import { THEMES, type ThemeId } from "@/types";
+import { THEMES, type ThemeFilterId, type ThemeId } from "@/types";
 
 const initialRegionFilter: RegionFilterState = {
   province: undefined,
@@ -45,6 +46,7 @@ export function HomePage() {
   const { locale, t } = useLanguage();
   const [regionFilter, setRegionFilter] =
     useState<RegionFilterState>(initialRegionFilter);
+  const [activeTheme, setActiveTheme] = useState<ThemeFilterId>("all");
   const places = getAllPlaces();
   const stats = getPlatformStats();
   const topRated = getTopRatedPlaces(6);
@@ -197,11 +199,12 @@ export function HomePage() {
         </section>
 
         <section>
-          <h2 className="font-serif text-2xl font-semibold text-[var(--color-ink)] sm:text-3xl">
-            {t.exploreHeading}
-          </h2>
-          <p className="mt-1 text-sm text-[var(--color-muted)]">
-            {t.exploreAllSub}
+          <ThemeTabs
+            activeTheme={activeTheme}
+            onThemeChange={setActiveTheme}
+          />
+          <p className="mt-3 text-xs text-[var(--color-muted)]">
+            {t.crossFilterHint}
           </p>
           <div className="mt-6">
             <RegionFilter
@@ -212,7 +215,7 @@ export function HomePage() {
           </div>
           <PlaceList
             places={places}
-            activeTheme="all"
+            activeTheme={activeTheme}
             regionFilter={regionFilter}
             heading={t.allPlacesHeading}
             subheading={t.allPlacesSubheading}

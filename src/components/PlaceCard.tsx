@@ -129,6 +129,16 @@ export function PlaceCard({ place, compact = false }: PlaceCardProps) {
                 {t.naverLocalBadge}
               </span>
             )}
+            {place.difficulty && (
+              <span className="rounded-full bg-stone-900/80 px-2.5 py-1 text-[10px] font-semibold text-white shadow-sm">
+                {t.difficultyLabel}:{" "}
+                {place.difficulty === "easy"
+                  ? t.difficultyEasy
+                  : place.difficulty === "hard"
+                    ? t.difficultyHard
+                    : t.difficultyModerate}
+              </span>
+            )}
             {place.trend && (
               <span
                 title={place.trend.source || place.trend.label}

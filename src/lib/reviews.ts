@@ -49,6 +49,25 @@ export function hasScrapedReviews(slug: string): boolean {
   return Boolean(reviewsBySlug[slug]?.reviews?.length);
 }
 
+/** ISO date (YYYY-MM-DD) from scraped entry, if present */
+export function getReviewFetchedAt(slug: string): string | null {
+  const raw = reviewsBySlug[slug]?.fetchedAt;
+  if (!raw) return null;
+  const d = new Date(raw);
+  if (Number.isNaN(d.getTime())) return null;
+  return d.toISOString().slice(0, 10);
+}
+
+export function formatReviewFetchedLabel(
+  slug: string,
+  template: string,
+  unknownLabel: string
+): string {
+  const date = getReviewFetchedAt(slug);
+  if (!date) return unknownLabel;
+  return template.replace("{date}", date);
+}
+
 export function getTotalScrapedReviewCount(): number {
   return Object.values(reviewsBySlug).reduce(
     (sum, entry) => sum + (entry.totalCount || entry.reviews.length),

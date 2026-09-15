@@ -23,6 +23,9 @@ export interface PlaceRegion {
   district?: string;
 }
 
+/** Trail / outing difficulty for sanhaeng and outdoor tips */
+export type DifficultyLevel = "easy" | "moderate" | "hard";
+
 export interface Place {
   theme: ThemeId;
   name: string | LocalizedText;
@@ -33,6 +36,14 @@ export interface Place {
   /** Naver Map/blog discovery spot — rarely listed on Google Maps */
   localGem?: boolean;
   imageUrl?: string;
+  /** Hiking / outing difficulty (mainly sanhaeng) */
+  difficulty?: DifficultyLevel;
+  /** Best seasons and weather caveats */
+  seasonTips?: LocalizedText;
+  /** Transit, trailheads, parking, access notes */
+  accessTips?: LocalizedText;
+  /** Short curated “why go / how to go” blurb */
+  editorial?: LocalizedText;
   /** Media / meme-driven travel trend tagging (e.g. 거제 야호!) */
   trend?: {
     label: string;

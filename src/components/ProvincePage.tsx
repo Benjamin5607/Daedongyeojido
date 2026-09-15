@@ -5,9 +5,11 @@ import { useState } from "react";
 import { PageShell } from "@/components/PageShell";
 import { PlaceList } from "@/components/PlaceList";
 import { RegionFilter } from "@/components/RegionFilter";
+import { ThemeTabs } from "@/components/ThemeTabs";
 import { useLanguage } from "@/context/LanguageContext";
 import { getPlacesByProvince } from "@/lib/places";
 import { getRegionLabel, type RegionFilterState } from "@/lib/regions";
+import type { ThemeFilterId } from "@/types";
 
 const initialRegionFilter = (
   province: string
@@ -27,6 +29,7 @@ export function ProvincePage({ province }: ProvincePageProps) {
   const [regionFilter, setRegionFilter] = useState<RegionFilterState>(
     initialRegionFilter(province)
   );
+  const [activeTheme, setActiveTheme] = useState<ThemeFilterId>("all");
   const places = getPlacesByProvince(province);
   const provinceLabel = getRegionLabel("provinces", province, locale);
 
@@ -52,15 +55,28 @@ export function ProvincePage({ province }: ProvincePageProps) {
           {t.provincePageSub.replace("{count}", String(places.length))}
         </p>
 
-        <RegionFilter
-          places={places}
-          filter={regionFilter}
-          onFilterChange={setRegionFilter}
-        />
+        <div className="mt-8">
+          <ThemeTabs
+            activeTheme={activeTheme}
+            onThemeChange={setActiveTheme}
+            showHeading={false}
+          />
+          <p className="mt-3 text-xs text-[var(--color-muted)]">
+            {t.crossFilterHint}
+          </p>
+        </div>
+
+        <div className="mt-6">
+          <RegionFilter
+            places={places}
+            filter={regionFilter}
+            onFilterChange={setRegionFilter}
+          />
+        </div>
 
         <PlaceList
           places={places}
-          activeTheme="all"
+          activeTheme={activeTheme}
           regionFilter={regionFilter}
           heading={t.placesHeading}
           subheading={t.placesSubheading}

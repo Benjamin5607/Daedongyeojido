@@ -4,8 +4,9 @@ import Link from "next/link";
 import { StarRating } from "@/components/StarRating";
 import { useLanguage } from "@/context/LanguageContext";
 import { getPlaceMapLinks } from "@/lib/mapLinks";
-import { resolveKoreanField, resolveLocalizedField } from "@/lib/i18n";
+import { resolveKoreanField } from "@/lib/i18n";
 import {
+  formatReviewFetchedLabel,
   getReviewSource,
   getReviewsForPlace,
   hasScrapedReviews,
@@ -26,9 +27,25 @@ export function ReviewList({ place }: ReviewListProps) {
   const reviews = getReviewsForPlace(place, locale);
   const source = getReviewSource(place.slug) ?? (place.localGem ? "naver" : "google");
   const hasReviews = hasScrapedReviews(place.slug);
+  const freshness = formatReviewFetchedLabel(
+    place.slug,
+    t.reviewFetchedLabel,
+    t.reviewFreshnessUnknown
+  );
+  const sourceNote =
+    source === "naver"
+      ? formatReviewFetchedLabel(
+          place.slug,
+          t.reviewSourceNoteNaver,
+          t.reviewSourceNote
+        )
+      : formatReviewFetchedLabel(
+          place.slug,
+          t.reviewSourceNoteGoogle,
+          t.reviewSourceNote
+        );
 
   const nameKo = resolveKoreanField(place.name);
-  const address = resolveLocalizedField(place.address, locale);
   const { googleUrl: googleUrl, naverUrl: naverUrl } = getPlaceMapLinks(
     place.slug,
     place
@@ -43,9 +60,7 @@ export function ReviewList({ place }: ReviewListProps) {
             {t.reviewsHeading}
           </h2>
           {hasReviews && (
-            <p className="mt-1 text-sm text-[var(--color-muted)]">
-              {t.reviewSourceNote}
-            </p>
+            <p className="mt-1 text-sm text-[var(--color-muted)]">{sourceNote}</p>
           )}
         </div>
         {place.reviewCount > 0 && (
@@ -69,40 +84,31 @@ export function ReviewList({ place }: ReviewListProps) {
                   <p className="font-semibold text-[var(--color-ink)]">
                     {review.author}
                   </p>
-                  {review.relativeTime && (
-                    <p className="text-xs text-[var(--color-muted)]">
-                      {review.relativeTime}
-                    </p>
-                  )}
+                  <div className="mt-0.5 flex flex-wrap items-center gap-2 text-xs text-[var(--color-muted)]">
+                    {review.relativeTime && <span>{review.relativeTime}</span>}
+                    <span
+                      className={`rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide ${
+                        review.source === "naver"
+                          ? "bg-[#03C75A]/10 text-[#03C75A]"
+                          : "bg-blue-50 text-blue-700"
+                      }`}
+                    >
+                      {t[SOURCE_LABEL_KEYS[review.source]]}
+                    </span>
+                  </div>
                 </div>
-                <div className="flex items-center gap-2">
-                  <span
-                    className={`rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide ${
-                      review.source === "naver"
-                        ? "bg-[#03C75A]/10 text-[#03C75A]"
-                        : "bg-blue-50 text-blue-700"
-                    }`}
-                  >
-                    {t[SOURCE_LABEL_KEYS[review.source]]}
-                  </span>
-                  <StarRating
-                    rating={review.rating}
-                    size="sm"
-                    showValue={false}
-                  />
-                </div>
+                <StarRating rating={review.rating} size="sm" showValue={false} />
               </div>
-            <p className="mt-3 whitespace-pre-line text-sm leading-relaxed text-[var(--color-ink)]/85">
-              {review.text}
-            </p>
+              <p className="mt-3 whitespace-pre-line text-sm leading-relaxed text-[var(--color-ink)]/85">
+                {review.text}
+              </p>
             </article>
           ))}
+          <p className="text-xs text-[var(--color-muted)]">{freshness}</p>
         </div>
       ) : (
         <div className="rounded-2xl border border-dashed border-[var(--color-border)] bg-white/70 px-6 py-10 text-center">
-          <p className="text-sm text-[var(--color-muted)]">
-            {t.noReviewsYet}
-          </p>
+          <p className="text-sm text-[var(--color-muted)]">{t.noReviewsYet}</p>
         </div>
       )}
 

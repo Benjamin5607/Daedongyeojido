@@ -16,31 +16,41 @@ const THEME_ICONS: Record<ThemeFilterId, string> = {
 interface ThemeTabsProps {
   activeTheme: ThemeFilterId;
   onThemeChange: (theme: ThemeFilterId) => void;
+  /** When false, only the chip row is shown (parent supplies headings). */
+  showHeading?: boolean;
 }
 
-export function ThemeTabs({ activeTheme, onThemeChange }: ThemeTabsProps) {
+export function ThemeTabs({
+  activeTheme,
+  onThemeChange,
+  showHeading = true,
+}: ThemeTabsProps) {
   const { t } = useLanguage();
 
   return (
     <section className="relative">
-      <div
-        aria-hidden
-        className="pointer-events-none absolute -top-8 right-0 h-32 w-32 opacity-20"
-        style={{
-          backgroundImage:
-            "radial-gradient(circle at center, var(--color-accent) 1px, transparent 1px)",
-          backgroundSize: "12px 12px",
-        }}
-      />
+      {showHeading && (
+        <>
+          <div
+            aria-hidden
+            className="pointer-events-none absolute -top-8 right-0 h-32 w-32 opacity-20"
+            style={{
+              backgroundImage:
+                "radial-gradient(circle at center, var(--color-accent) 1px, transparent 1px)",
+              backgroundSize: "12px 12px",
+            }}
+          />
 
-      <div className="mb-6">
-        <h2 className="font-serif text-2xl font-semibold text-[var(--color-ink)] sm:text-3xl">
-          {t.exploreHeading}
-        </h2>
-        <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--color-muted)] sm:text-base">
-          {t.themeDescriptions[activeTheme]}
-        </p>
-      </div>
+          <div className="mb-6">
+            <h2 className="font-serif text-2xl font-semibold text-[var(--color-ink)] sm:text-3xl">
+              {t.exploreHeading}
+            </h2>
+            <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--color-muted)] sm:text-base">
+              {t.themeDescriptions[activeTheme]}
+            </p>
+          </div>
+        </>
+      )}
 
       <div
         role="tablist"

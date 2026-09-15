@@ -1752,7 +1752,32 @@
       "vi": "Đỉnh đá granite và đường chùa gần trung tâm — bài hike một ngày yêu thích ở Seoul.",
       "id": "Puncak granit dan jalur kuil dekat pusat kota — hiking sehari favorit Seoul."
     },
-    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F15%2F69%2Fdb%2Fab%2Fat-the-top.jpg%3Fw%3D1400%26h%3D800%26s%3D1&type=a340"
+    "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F15%2F69%2Fdb%2Fab%2Fat-the-top.jpg%3Fw%3D1400%26h%3D800%26s%3D1&type=a340",
+    "difficulty": "moderate",
+    "seasonTips": {
+      "en": "Best Apr–Jun and Sep–Nov. Summer humidity is heavy; winter ice on granite needs microspikes.",
+      "ja": "4〜6月・9〜11月が快適。夏は湿気、冬は岩場アイゼン推奨。",
+      "zh": "4–6月与9–11月最佳。夏季潮湿，冬季岩面需防滑。",
+      "vi": "Tốt nhất tháng 4–6 và 9–11. Hè ẩm; đông cần đinh giày trên đá.",
+      "id": "Terbaik Apr–Jun & Sep–Nov. Musim panas lembap; musim dingin butuh spike.",
+      "ko": "4–6월·9–11월 최적. 여름 습함, 겨울 암릉은 아이젠."
+    },
+    "accessTips": {
+      "en": "Subway to Gugi / Dobongsan sides; Baegundae queues early on weekends — start before 8am.",
+      "ja": "地下鉄で旧基・道峰側へ。白雲台は週末早朝スタート推奨。",
+      "zh": "地铁至旧基/道峰一侧；白云台周末早排队，8点前出发。",
+      "vi": "Tàu điện tới Gugi/Dobongsan; Baegundae đông cuối tuần — trước 8h.",
+      "id": "Subway ke sisi Gugi/Dobongsan; Baegundae antre pagi — berangkat sebelum jam 8.",
+      "ko": "지하철 구기·도봉 접근. 백운대는 주말 8시 전 출발."
+    },
+    "editorial": {
+      "en": "Seoul’s signature granite massif — pick a ridge that matches your legs, then descend toward a subway trailhead.",
+      "ja": "ソウルを代表する花崗岩の山塊。体力に合う稜線を選び地下鉄登山口へ下山。",
+      "zh": "首尔标志性花岗岩山体——按体力选山脊，再下到地铁登山口。",
+      "vi": "Khối đá granite biểu tượng Seoul — chọn sống lưng phù hợp rồi xuống đầu đường tàu.",
+      "id": "Massif granit ikon Seoul — pilih punggungan sesuai tenaga, turun ke trailhead subway.",
+      "ko": "서울 대표 화강암 산군. 체력에 맞는 능선 후 지하철 들머리로."
+    }
   },
   {
     "theme": "k-food",
@@ -2904,7 +2929,32 @@
       "vi": "Đỉnh núi lửa Jeju và di sản thiên nhiên UNESCO với đường leo đỉnh.",
       "id": "Puncak vulkanik Jeju dan warisan alam UNESCO dengan jalur pendakian."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150901_104/1441039513673qeEc1_JPEG/11796130_0.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150901_104/1441039513673qeEc1_JPEG/11796130_0.jpg",
+    "difficulty": "hard",
+    "seasonTips": {
+      "en": "Spring/autumn clearest. Winter summit often closed or requires gear — check park notices.",
+      "ja": "春秋が視界良好。冬は閉鎖・装備必須の日あり。公園告知を確認。",
+      "zh": "春秋视线最佳；冬季常关闭或需装备，看公园公告。",
+      "vi": "Xuân/thu rõ nhất; đông có thể đóng hoặc cần đồ — xem thông báo.",
+      "id": "Musim semi/gugur paling cerah; musim dingin sering tutup/perlu gear — cek pengumuman.",
+      "ko": "봄·가을 시야 최고. 겨울 정상 통제·장비 확인 필수."
+    },
+    "accessTips": {
+      "en": "Seongpanak or Yeongsil routes; book shuttle/parking early in peak foliage.",
+      "ja": "성판악·영실 코스. 단풍철 셔틀·주차 예약 필수에 가깝다.",
+      "zh": "城板岳或灵室路线；红叶季尽早订接驳/停车。",
+      "vi": "Tuyến Seongpanak hoặc Yeongsil; đặt shuttle/đỗ sớm mùa lá.",
+      "id": "Rute Seongpanak atau Yeongsil; pesan shuttle/parkir awal musim daun.",
+      "ko": "성판악·영실. 단풍철 셔틀·주차 미리."
+    },
+    "editorial": {
+      "en": "Jeju’s roof — treat it as a full mountain day, not a casual stroll.",
+      "ja": "済州の屋根。軽い散策ではなく、本格登山日として計画を。",
+      "zh": "济州之巅——按完整登山日规划，而非散步。",
+      "vi": "Nóc nhà Jeju — coi như ngày leo núi đầy đủ.",
+      "id": "Atap Jeju — anggap hari gunung penuh, bukan jalan santai.",
+      "ko": "제주 지붕. 산책이 아닌 본격 산행일로 잡으세요."
+    }
   },
   {
     "theme": "urban-nature",
@@ -2998,7 +3048,24 @@
       "vi": "Tuyến đi bộ ven biển qua cổng Olle và đồi oreum.",
       "id": "Rute jalan pesisir melalui gerbang Olle dan bukit oreum."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20200225_200/1582595657153v2yIX_JPEG/KakaoTalk_20191218_161210600_13.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20200225_200/1582595657153v2yIX_JPEG/KakaoTalk_20191218_161210600_13.jpg",
+    "difficulty": "easy",
+    "seasonTips": {
+      "en": "Year-round coastal walking; summer sun is strong — hat and water.",
+      "ja": "通年の海岸歩き。夏は日差しが強いので帽子と水を。",
+      "zh": "全年海岸步行；夏日晒强，帽子与水必备。",
+      "vi": "Đi bộ ven biển quanh năm; hè nắng gắt — mũ và nước.",
+      "id": "Jalan pantai sepanjang tahun; matahari musim panas terik — topi & air.",
+      "ko": "연중 해안 걷기. 여름 자외선 — 모자·물."
+    },
+    "accessTips": {
+      "en": "Local buses between Olle stamp points; wear shoes that handle pavement and dirt.",
+      "ja": "올레 스탬프 구간은 시내버스로 연결. 포장·흙길 모두 가능한 신발.",
+      "zh": "偶来盖章点间有公交；鞋需兼顾硬化路与土路。",
+      "vi": "Bus địa phương giữa điểm Olle; giày đi được cả bê tông và đất.",
+      "id": "Bus lokal antar titik Olle; sepatu untuk aspal dan tanah.",
+      "ko": "올레 스탬프 구간 시내버스. 포장·흙길 겸용 신발."
+    }
   },
   {
     "theme": "k-food",
@@ -4149,7 +4216,24 @@
       "vi": "Đỉnh đá granite, lá thu và cáp treo — công viên núi hàng đầu Hàn Quốc.",
       "id": "Puncak granit, dedaunan musim gugur, dan gondola — taman gunung utama Korea."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20251231_185/1767154289284zsbog_JPEG/%C0%D4%BC%B1_%BC%B3%BE%C7%BB%EA_%B4%AB%BF%CA%C0%BB_%C0%D4%C0%BA_%BF%EF%BB%EA%B9%D9%C0%A7_%C0%BA%C7%CF%BC%F6_%C0%CC%BA%B4%B1%D4_%BA%B8%C1%A4%BA%BB.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251231_185/1767154289284zsbog_JPEG/%C0%D4%BC%B1_%BC%B3%BE%C7%BB%EA_%B4%AB%BF%CA%C0%BB_%C0%D4%C0%BA_%BF%EF%BB%EA%B9%D9%C0%A7_%C0%BA%C7%CF%BC%F6_%C0%CC%BA%B4%B1%D4_%BA%B8%C1%A4%BA%BB.jpg",
+    "difficulty": "moderate",
+    "seasonTips": {
+      "en": "October foliage is peak chaos — midweek or dawn starts. Winter snowscape is magical with traction.",
+      "ja": "10月紅葉は混雑ピーク。平日か夜明け出発。冬はアイゼンで雪景色。",
+      "zh": "10月红叶极挤——工作日或黎明出发。冬季防滑赏雪景。",
+      "vi": "Lá đỏ tháng 10 rất đông — ngày thường hoặc bình minh. Đông cần đinh giày.",
+      "id": "Daun Oktober sangat ramai — weekday atau subuh. Musim dingin perlu traksi.",
+      "ko": "10월 단풍 혼잡 피크. 평일·새벽. 겨울은 아이젠."
+    },
+    "accessTips": {
+      "en": "Sokcho buses to park entrance; Ulsanbawi is the classic half-day stair climb.",
+      "ja": "束草バスで入園。蔚山岩は定番の半日階段コース。",
+      "zh": "从束草坐公交入园；蔚山岩是经典半日台阶线。",
+      "vi": "Xe buýt Sokcho vào cổng; Ulsanbawi là nửa ngày cầu thang kinh điển.",
+      "id": "Bus Sokcho ke pintu; Ulsanbawi klasik setengah hari tangga.",
+      "ko": "속초 버스 입구. 울산바위는 반나절 계단 클래식."
+    }
   },
   {
     "theme": "sanhaeng",
@@ -6099,7 +6183,9 @@
       "vi": "Vòng rừng ngắn cư dân chạy bộ lúc bình minh — chia sẻ trên đánh giá Naver Map, hiếm trên app leo núi Google.",
       "id": "Loop hutan pendek untuk joging warga apartemen saat fajar — dibagikan di ulasan Naver Map, jarang di app hiking Google."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_260/1440992272261sxuRJ_JPEG/11491459_0.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_260/1440992272261sxuRJ_JPEG/11491459_0.jpg",
+    "localGem": true,
+    "difficulty": "easy"
   },
   {
     "theme": "urban-nature",
@@ -6675,7 +6761,33 @@
       "vi": "Đường đồi xuyên sương sáng trên ruộng bậc thang — lộ trình chia sẻ trên blog leo núi Naver, không có trên Google.",
       "id": "Jalan punggung menembus kabut pagi di atas terasering — rute dibagikan di blog hiking Naver, bukan jalur Google."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20250410_286/1744265311779mwQg8_JPEG/IMG_0384.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250410_286/1744265311779mwQg8_JPEG/IMG_0384.jpg",
+    "difficulty": "easy",
+    "seasonTips": {
+      "en": "Mist mornings in spring/autumn are the magic window.",
+      "ja": "春秋の朝霧が一番きれい。",
+      "zh": "春秋晨雾时段最美。",
+      "vi": "Sương sớm xuân/thu là khung giờ đẹp.",
+      "id": "Kabut pagi musim semi/gugur paling magis.",
+      "ko": "봄·가을 아침 안개가 하이라이트."
+    },
+    "accessTips": {
+      "en": "Jeongseon local access — quieter than national-park peaks; check village parking.",
+      "ja": "旌善のローカルアクセス。国立公園級より閑散。村の駐車場を確認。",
+      "zh": "旌善本地进出，比国家公园安静；确认村里停车。",
+      "vi": "Vào từ Jeongseon — yên hơn công viên quốc gia; kiểm tra đỗ làng.",
+      "id": "Akses lokal Jeongseon — lebih sepi dari puncak taman nasional; cek parkir desa.",
+      "ko": "정선 로컬 접근. 국립공원보다 한산. 마을 주차 확인."
+    },
+    "editorial": {
+      "en": "A soft ridge walk for travelers who want Korea’s mountain mood without cable crowds.",
+      "ja": "混雑する岩稜を避け、韓国の山の空気を味わう静かな稜線。",
+      "zh": "避开缆绳人潮，感受韩国山气的柔和山脊。",
+      "vi": "Sống lưng dịu cho ai muốn không khí núi Hàn mà tránh đám đông cáp.",
+      "id": "Punggungan lembut bagi yang ingin suasana gunung Korea tanpa antrean kabel.",
+      "ko": "와이어 혼잡 없이 한국 산 공기를 느끼는 부드러운 능선."
+    },
+    "localGem": true
   },
   {
     "theme": "urban-nature",
@@ -8016,7 +8128,25 @@
       "vi": "Đường đồi giữa lưới che nhân sâm lúc hoàng hôn — ảnh trên blog nông thôn Naver, không phải trang trại Google.",
       "id": "Jalur punggung di antara tenda naungan ginseng saat senja — foto di blog pedesaan Naver, bukan peternakan Google."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_280/1441006732154xQDQz_JPEG/12047081_0.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_280/1441006732154xQDQz_JPEG/12047081_0.jpg",
+    "difficulty": "easy",
+    "seasonTips": {
+      "en": "Golden hour in autumn; fields look best after harvest light.",
+      "ja": "秋のゴールデンアワー。収穫後の光が美しい。",
+      "zh": "秋日黄金时刻；收获后光线最佳。",
+      "vi": "Giờ vàng mùa thu; ánh sáng sau thu hoạch đẹp.",
+      "id": "Golden hour musim gugur; cahaya pasca panen terbaik.",
+      "ko": "가을 골든아워. 수확 후 빛이 예쁨."
+    },
+    "accessTips": {
+      "en": "Geumsan countryside — hire taxi/bus from town; paths are farm-adjacent, stay on marked tracks.",
+      "ja": "錦山郊外。町からタクシー/バス。畑沿いなので標識コースを外れない。",
+      "zh": "锦山郊外，从镇上打车/公交；沿农田请走标示步道。",
+      "vi": "Ngoại ô Geumsan — taxi/bus từ thị trấn; đi đúng lối đánh dấu ven ruộng.",
+      "id": "Pedalaman Geumsan — taksi/bus dari kota; tetap di jalur bertanda di dekat ladang.",
+      "ko": "금산 교외. 시내에서 택시·버스. 밭 옆 표지 코스만."
+    },
+    "localGem": true
   },
   {
     "theme": "urban-nature",
@@ -8592,7 +8722,9 @@
       "vi": "Đường đồi với tháp đá và cờ cầu nguyện — lộ trình trên blog leo núi Naver, không phải app đường mòn Google.",
       "id": "Jalur punggung dengan pagoda batu dan bendera doa — rute di blog hiking Naver, bukan app jalur Google."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_81/1440992256801Q9C9p_JPEG/11491367_0.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_81/1440992256801Q9C9p_JPEG/11491367_0.jpg",
+    "localGem": true,
+    "difficulty": "easy"
   },
   {
     "theme": "urban-nature",
@@ -9871,7 +10003,25 @@
       "vi": "Đường thác không biển báo dân địa phương đi ngày thường — lộ trình trên blog leo núi Naver, không phải app đường mòn Google.",
       "id": "Jalur air terjun tanpa rambu yang dilalui warga hari kerja — rute di blog hiking Naver, bukan app jalur Google."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_206/1440992279168UWwhw_JPEG/11491524_0.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_206/1440992279168UWwhw_JPEG/11491524_0.jpg",
+    "difficulty": "easy",
+    "seasonTips": {
+      "en": "After light rain waterfalls sing; midwinter ice can close side paths.",
+      "ja": "小雨の後は滝が美しい。真冬は支線が閉鎖されることも。",
+      "zh": "小雨后瀑布更响；隆冬支线可能关闭。",
+      "vi": "Sau mưa nhẹ thác đẹp; giữa đông nhánh đường có thể đóng.",
+      "id": "Setelah hujan ringan air terjun indah; jalur samping bisa tutup di tengah musim dingin.",
+      "ko": "가랑비 후 폭포가 좋음. 한겨울 지선 통제 가능."
+    },
+    "accessTips": {
+      "en": "Cheongsong park buses; combine with the main valley walk.",
+      "ja": "青松の公園バス。本谷ウォークと組み合わせを。",
+      "zh": "青松公园公交；可与主谷步道联走。",
+      "vi": "Bus công viên Cheongsong; kết hợp lối thung lũng chính.",
+      "id": "Bus taman Cheongsong; padukan dengan jalan lembah utama.",
+      "ko": "청송 공원 버스. 본계곡 코스와 연계."
+    },
+    "localGem": true
   },
   {
     "theme": "urban-nature",
@@ -9935,7 +10085,9 @@
       "vi": "Vòng đồi đèo di tích với màu thu — GPX trên club leo núi Naver, không phải đường mòn di sản Google.",
       "id": "Loop punggung tanah bersejarah dengan warna musim gugur — GPX di klub hiking Naver, bukan jalur warisan Google."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20180419_12/15241022115696zyVx_JPEG/-R-J-BLQC1P5udeVHAWakh02.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20180419_12/15241022115696zyVx_JPEG/-R-J-BLQC1P5udeVHAWakh02.jpg",
+    "localGem": true,
+    "difficulty": "easy"
   },
   {
     "theme": "urban-nature",
@@ -10509,7 +10661,25 @@
       "vi": "Đường đồi view biển dân địa phương đi ngày thường — lộ trình trên blog đảo Naver, không phải app đường mòn Google.",
       "id": "Jalur punggung pemandangan laut yang dilalui warga hari kerja — rute di blog pulau Naver, bukan app jalur Google."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHLuFSKpIzfc6R_DSRPGtSOF8YvdG-1o-54xWWmAqmzeq1ZUrugx6IBpm10pakSfaWHyP_cdtPJMmget4b5ryjyCX3W9xYsHvWuQiWRmh8-7KQng18TUQXHG93PrckpQkzgU2k1w=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHLuFSKpIzfc6R_DSRPGtSOF8YvdG-1o-54xWWmAqmzeq1ZUrugx6IBpm10pakSfaWHyP_cdtPJMmget4b5ryjyCX3W9xYsHvWuQiWRmh8-7KQng18TUQXHG93PrckpQkzgU2k1w=w800-h600-k-no",
+    "difficulty": "moderate",
+    "seasonTips": {
+      "en": "Sea breeze year-round; typhoon weeks — skip exposed sections.",
+      "ja": "通年海風。台風週間は露出区間を避ける。",
+      "zh": "全年海风；台风周避开裸露段。",
+      "vi": "Gió biển quanh năm; tuần bão tránh đoạn lộ thiên.",
+      "id": "Angin laut sepanjang tahun; minggu topan hindari bagian terbuka.",
+      "ko": "연중 해풍. 태풍 주간은 노출 구간 패스."
+    },
+    "accessTips": {
+      "en": "Tongyeong / Mireukdo local buses; smaller trailheads than mainland parks.",
+      "ja": "統営・弥勒島のローカルバス。本土国立公園より小さい登山口。",
+      "zh": "统营/弥勒岛公交；登山口小于大陆国家公园。",
+      "vi": "Bus Tongyeong/Mireukdo; đầu đường nhỏ hơn công viên đất liền.",
+      "id": "Bus lokal Tongyeong/Mireukdo; trailhead lebih kecil dari taman daratan.",
+      "ko": "통영·미륵도 버스. 육지 국립공원보다 작은 들머리."
+    },
+    "localGem": true
   },
   {
     "theme": "urban-nature",
@@ -12779,7 +12949,25 @@
       "vi": "Leo núi ngắn nhìn Haegeumgang.",
       "id": "Hiking pendek dengan view Haegeumgang."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwBglAq-ZpFdgin3ZyM-rh2mVUEeilkss6Ror91GMckbw3N7YUgIX2_uYYF7aiJlc_TDlif2NzzwUlo2q4elSYDRFHS8HOsFLJgzvg9ghNg5uZQJ-DRnzGQPkx1sGXDZM9jfkK=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwBglAq-ZpFdgin3ZyM-rh2mVUEeilkss6Ror91GMckbw3N7YUgIX2_uYYF7aiJlc_TDlif2NzzwUlo2q4elSYDRFHS8HOsFLJgzvg9ghNg5uZQJ-DRnzGQPkx1sGXDZM9jfkK=w800-h600-k-no",
+    "difficulty": "moderate",
+    "seasonTips": {
+      "en": "Clear winter views over Geoje; summer humidity under canopy.",
+      "ja": "冬は巨済の展望が良い。夏は木陰でも湿気あり。",
+      "zh": "冬日巨济视野佳；夏季林下仍潮湿。",
+      "vi": "Đông tầm nhìn Geoje đẹp; hè dưới tán vẫn ẩm.",
+      "id": "Pemandangan Geoje musim dingin jernih; musim panas tetap lembap di bawah kanopi.",
+      "ko": "겨울 거제 조망 좋음. 여름 수목 아래도 습함."
+    },
+    "accessTips": {
+      "en": "Geoje southern trailheads; quieter alternative to Nojasan crowds.",
+      "ja": "巨済南部登山口。老者山の混雑を避けたい人向け。",
+      "zh": "巨济南部登山口；比老者山更安静的替代。",
+      "vi": "Đầu đường nam Geoje; yên hơn Nojasan.",
+      "id": "Trailhead selatan Geoje; alternatif lebih sepi dari Nojasan.",
+      "ko": "거제 남부 들머리. 노자산 혼잡 대안."
+    },
+    "localGem": true
   },
   {
     "theme": "urban-nature",
@@ -13503,7 +13691,24 @@
       "vi": "Namsan Dulle-gil là một con đường đi bộ风光明媚 xung quanh Núi Namsan ở Seoul, cung cấp cảnh quan đẹp của thành phố.",
       "id": "Namsan Dulle-gil adalah jalur berjalan yang indah di sekitar Gunung Namsan di Seoul, menawarkan pemandangan kota yang indah."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsZN6_zJJhN5pQacId48g4UxfEV7657Q8FfRKe5tU1_ilfMkIhwVxmxNP2jfo2lbFqEqJVHryjE7ki-Ec_GANkRK-XZinZhZEaezF8u0x5TpS-sEGFgdX5P8xzF-22xXCLj5h7=w408-h306-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsZN6_zJJhN5pQacId48g4UxfEV7657Q8FfRKe5tU1_ilfMkIhwVxmxNP2jfo2lbFqEqJVHryjE7ki-Ec_GANkRK-XZinZhZEaezF8u0x5TpS-sEGFgdX5P8xzF-22xXCLj5h7=w408-h306-k-no",
+    "difficulty": "easy",
+    "seasonTips": {
+      "en": "All seasons; evenings are busy with city views.",
+      "ja": "通年。夜景タイムは混雑。",
+      "zh": "四季皆宜；夜景时段较挤。",
+      "vi": "Quanh năm; buổi tối đông vì view thành phố.",
+      "id": "Semua musim; malam ramai karena pemandangan kota.",
+      "ko": "사계절. 야경 타임 혼잡."
+    },
+    "accessTips": {
+      "en": "Multiple Seoul subway exits feed the loop — no car needed.",
+      "ja": "複数の地下鉄出口から周回可能。車不要。",
+      "zh": "多个地铁口可进入环路，无需开车。",
+      "vi": "Nhiều lối tàu điện vào vòng — không cần xe.",
+      "id": "Banyak exit subway ke loop — tanpa mobil.",
+      "ko": "지하철 여러 출구 진입. 차 불필요."
+    }
   },
   {
     "theme": "sanhaeng",
@@ -14155,7 +14360,24 @@
       "province": "gyeongnam",
       "city": "sancheong"
     },
-    "imageUrl": ""
+    "imageUrl": "",
+    "difficulty": "hard",
+    "seasonTips": {
+      "en": "Long day or overnight hut culture. Fog and wind common on the spine — pack layers.",
+      "ja": "長距離デイか山小屋泊。主稜は霧と風が多いのでレイヤーを。",
+      "zh": "长日或山屋过夜；主脊多雾风，分层穿衣。",
+      "vi": "Ngày dài hoặc ngủ chòi; sống núi nhiều sương gió — mang lớp áo.",
+      "id": "Hari panjang atau pondok; punggungan berangin/berkabut — bawa layer.",
+      "ko": "장거리 데이 또는 대피소. 주능선 안개·바람 — 레이어."
+    },
+    "accessTips": {
+      "en": "Sancheong / Jirisan trailheads; check hut reservations if overnighting.",
+      "ja": "山清・智異山登山口。泊まるなら避難所予約確認。",
+      "zh": "山清/智异山登山口；过夜需确认避难所预约。",
+      "vi": "Đầu đường Sancheong/Jirisan; đặt chòi nếu ngủ lại.",
+      "id": "Trailhead Sancheong/Jirisan; pesan pondok jika menginap.",
+      "ko": "산청·지리산 들머리. 대피소 예약 확인."
+    }
   },
   {
     "theme": "sanhaeng",
@@ -14188,7 +14410,32 @@
       "province": "seoul",
       "city": "dobong"
     },
-    "imageUrl": ""
+    "imageUrl": "",
+    "difficulty": "hard",
+    "seasonTips": {
+      "en": "Dry rock seasons are safest. Avoid after heavy rain — exposed ridge.",
+      "ja": "乾いた岩場の季節が安全。豪雨後の稜線は避ける。",
+      "zh": "干燥岩季最安全；暴雨后勿走裸露山脊。",
+      "vi": "Mùa đá khô an toàn nhất; tránh sau mưa lớn.",
+      "id": "Musim batu kering paling aman; hindari setelah hujan deras.",
+      "ko": "건조한 암릉철이 안전. 폭우 직후 능선 금지."
+    },
+    "accessTips": {
+      "en": "Dobongsan Station → Podae ridge. Gloves recommended on cables.",
+      "ja": "道峰山駅から砲台稜線。ワイヤ区間は手袋推奨。",
+      "zh": "道峰山站上炮台岭；缆绳段建议戴手套。",
+      "vi": "Ga Dobongsan → sống Podae; nên mang găng.",
+      "id": "Stasiun Dobongsan → punggungan Podae; sarung tangan disarankan.",
+      "ko": "도봉산역 → 포대능선. 와이어 구간 장갑 권장."
+    },
+    "editorial": {
+      "en": "A classic Seoul “ridge day” — steep, photogenic, and best with an early start.",
+      "ja": "ソウル定番の稜線デー。急登・映え・早朝スタートがコツ。",
+      "zh": "首尔经典山脊日——陡、好拍、宜早起。",
+      "vi": "Ngày sống lưng kinh điển Seoul — dốc, đẹp, nên đi sớm.",
+      "id": "Hari punggungan klasik Seoul — curam, fotogenik, berangkat pagi.",
+      "ko": "서울 클래식 능선 데이. 급경사·인증샷·이른 출발."
+    }
   },
   {
     "theme": "sanhaeng",
@@ -14221,7 +14468,24 @@
       "province": "seoul",
       "city": "gwanak"
     },
-    "imageUrl": ""
+    "imageUrl": "",
+    "difficulty": "moderate",
+    "seasonTips": {
+      "en": "Year-round; icy stairs in midwinter. Sunset from Yeonjudae is popular in autumn.",
+      "ja": "通年可。真冬は階段が凍結。秋の演宙台夕日が人気。",
+      "zh": "全年可去；隆冬台阶结冰。秋日演宙台日落很受欢迎。",
+      "vi": "Quanh năm; cầu thang đóng băng giữa đông. Hoàng hôn Yeonjudae mùa thu đông.",
+      "id": "Sepanjang tahun; tangga licin di pertengahan musim dingin. Sunset Yeonjudae musim gugur populer.",
+      "ko": "연중 가능. 한겨울 계단 결빙. 가을 연주대 일몰 인기."
+    },
+    "accessTips": {
+      "en": "Seoul Nat’l Univ. / Anyang sides. Cable sections near the peak — grip shoes help.",
+      "ja": "ソウル大・安養側から。頂上付近ワイヤはグリップ靴が安心。",
+      "zh": "首尔大/安养一侧；近顶缆绳段宜穿防滑鞋。",
+      "vi": "Hướng ĐH Quốc gia Seoul / Anyang; gần đỉnh có cáp — giày bám tốt.",
+      "id": "Sisi SNU / Anyang; dekat puncak ada kabel — sepatu grip membantu.",
+      "ko": "서울대·안양 들머리. 정상 부근 와이어는 접지력 좋은 신발."
+    }
   },
   {
     "theme": "sanhaeng",
@@ -14254,7 +14518,24 @@
       "province": "busan",
       "city": "geumjeong"
     },
-    "imageUrl": ""
+    "imageUrl": "",
+    "difficulty": "moderate",
+    "seasonTips": {
+      "en": "Mild winters; summer shade is limited on the fortress ridge.",
+      "ja": "冬は比較的温和。山城稜線は夏の日陰が少ない。",
+      "zh": "冬较温和；山城山脊夏季荫少。",
+      "vi": "Đông dịu; sống thành cổ ít bóng hè.",
+      "id": "Musim dingin relatif lembut; punggungan benteng kurang teduh di musim panas.",
+      "ko": "겨울 온화. 산성 능선은 여름 그늘 적음."
+    },
+    "accessTips": {
+      "en": "Busan subway + bus to fortress gates; Godangbong is the high point loop.",
+      "ja": "釜山地下鉄＋バスで山城門。高堂峰が最高点ループ。",
+      "zh": "釜山地铁+公交至山城门；高堂峰为制高点环线。",
+      "vi": "Tàu + bus Busan tới cổng thành; Godangbong là điểm cao.",
+      "id": "Subway+bus Busan ke gerbang benteng; Godangbong titik tertinggi.",
+      "ko": "부산 지하철·버스 산성 문. 고당봉이 최고점."
+    }
   },
   {
     "theme": "sanhaeng",
@@ -14287,6 +14568,23 @@
       "province": "chungbuk",
       "city": "boeun"
     },
-    "imageUrl": ""
+    "imageUrl": "",
+    "difficulty": "moderate",
+    "seasonTips": {
+      "en": "Spring blossoms and autumn maples; monsoon trails get slick.",
+      "ja": "春の花・秋の紅葉。梅雨時は登山道が滑りやすい。",
+      "zh": "春花秋枫；梅雨季步道湿滑。",
+      "vi": "Hoa xuân & lá thu; mùa mưa trơn.",
+      "id": "Bunga musim semi & maple gugur; jalur licin saat hujan monsun.",
+      "ko": "봄꽃·가을단풍. 장마철 미끄러움 주의."
+    },
+    "accessTips": {
+      "en": "Boeun access; combine with Beopjusa temple approach.",
+      "ja": "報恩アクセス。法住寺アプローチとセットが定番。",
+      "zh": "报恩进出；常与法住寺进山线联走。",
+      "vi": "Vào từ Boeun; thường đi cùng Beopjusa.",
+      "id": "Akses Boeun; dipadukan dengan pendekatan Beopjusa.",
+      "ko": "보은 접근. 법주사 코스와 연계."
+    }
   }
 ]

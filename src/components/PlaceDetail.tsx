@@ -13,6 +13,7 @@ import { getPlaceImageUrl, getRelatedPlaces, type IndexedPlace } from "@/lib/pla
 import { resolveLocalizedField, resolveKoreanField } from "@/lib/i18n";
 import { formatPlaceRegion } from "@/lib/regions";
 import { useLanguage } from "@/context/LanguageContext";
+import type { DifficultyLevel } from "@/types";
 
 const LOCAL_STORAGE_KEY = "daedongyeojido_planner";
 
@@ -20,10 +21,20 @@ interface PlaceDetailProps {
   place: IndexedPlace;
 }
 
+function difficultyLabel(
+  level: DifficultyLevel,
+  t: { difficultyEasy: string; difficultyModerate: string; difficultyHard: string }
+) {
+  if (level === "easy") return t.difficultyEasy;
+  if (level === "hard") return t.difficultyHard;
+  return t.difficultyModerate;
+}
+
 export function PlaceDetail({ place }: PlaceDetailProps) {
   const { locale, t } = useLanguage();
   const [imageFailed, setImageFailed] = useState(false);
   const [isInPlanner, setIsInPlanner] = useState(false);
+  const [shareCopied, setShareCopied] = useState(false);
   const related = getRelatedPlaces(place);
 
   useEffect(() => {
@@ -68,6 +79,33 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
     }
   };
 
+  const handleSharePlace = async () => {
+    const url =
+      typeof window !== "undefined"
+        ? `${window.location.origin}/places/${place.slug}`
+        : `/places/${place.slug}`;
+    try {
+      if (navigator.share) {
+        await navigator.share({
+          title: resolveKoreanField(place.name),
+          url,
+        });
+        return;
+      }
+      await navigator.clipboard.writeText(url);
+      setShareCopied(true);
+      setTimeout(() => setShareCopied(false), 2500);
+    } catch {
+      try {
+        await navigator.clipboard.writeText(url);
+        setShareCopied(true);
+        setTimeout(() => setShareCopied(false), 2500);
+      } catch (err) {
+        console.error(err);
+      }
+    }
+  };
+
   const nameKo = resolveKoreanField(place.name);
   const nameEn = typeof place.name === "string" ? place.name : place.name.en;
   const localizedName = resolveLocalizedField(place.name, locale);
@@ -86,6 +124,17 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
     place.slug,
     place
   );
+
+  const seasonTips = place.seasonTips
+    ? resolveLocalizedField(place.seasonTips, locale)
+    : "";
+  const accessTips = place.accessTips
+    ? resolveLocalizedField(place.accessTips, locale)
+    : "";
+  const editorial = place.editorial
+    ? resolveLocalizedField(place.editorial, locale)
+    : "";
+  const hasTips = Boolean(seasonTips || accessTips || editorial || place.difficulty);
 
   return (
     <PageShell>
@@ -157,11 +206,16 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
                   {regionLabel}
                 </span>
               )}
+              {place.difficulty && (
+                <span className="rounded-full bg-stone-900/5 px-3 py-1 text-xs font-medium text-stone-700">
+                  {t.difficultyLabel}: {difficultyLabel(place.difficulty, t)}
+                </span>
+              )}
             </div>
 
             <p className="text-sm text-[var(--color-muted)]">{address}</p>
 
-            <div className="flex flex-col gap-2 sm:flex-row">
+            <div className="flex flex-col gap-2 sm:flex-row sm:flex-wrap">
               <button
                 type="button"
                 onClick={handleTogglePlanner}
@@ -173,6 +227,13 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
               >
                 <span>{isInPlanner ? "❤️" : "🤍"}</span>
                 {isInPlanner ? t.addedToPlanner : t.addToPlanner}
+              </button>
+              <button
+                type="button"
+                onClick={handleSharePlace}
+                className="inline-flex flex-1 items-center justify-center rounded-xl border border-[var(--color-border)] px-4 py-3 text-sm font-semibold text-[var(--color-ink)] transition hover:border-[var(--color-trip-green)]"
+              >
+                {shareCopied ? t.placeLinkCopied : t.sharePlace}
               </button>
               <a
                 href={naverMapUrl}
@@ -191,6 +252,17 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
                 {t.viewOnGoogleMaps}
               </a>
             </div>
+            {isInPlanner && (
+              <p className="text-xs text-[var(--color-muted)]">
+                {t.saveToPlannerHint}{" "}
+                <Link
+                  href="/planner"
+                  className="font-medium text-[var(--color-trip-green-dark)] hover:underline"
+                >
+                  {t.navPlanner}
+                </Link>
+              </p>
+            )}
           </div>
         </div>
 
@@ -205,6 +277,52 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
             <p className="mt-3 text-sm text-[#03C75A]">{t.naverLocalHint}</p>
           )}
         </section>
+
+        {hasTips && (
+          <section className="mt-8 rounded-3xl border border-[var(--color-border)] bg-[var(--color-trip-green)]/[0.04] p-6 sm:p-8">
+            <h2 className="font-serif text-2xl font-semibold text-[var(--color-ink)]">
+              {t.editorialHeading}
+            </h2>
+            {editorial && (
+              <p className="mt-4 text-base leading-relaxed text-[var(--color-ink)]/85">
+                {editorial}
+              </p>
+            )}
+            <div className="mt-6 grid gap-6 sm:grid-cols-2">
+              {seasonTips && (
+                <div>
+                  <h3 className="text-sm font-semibold uppercase tracking-wide text-[var(--color-trip-green-dark)]">
+                    {t.seasonTipsHeading}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-[var(--color-ink)]/80">
+                    {seasonTips}
+                  </p>
+                </div>
+              )}
+              {accessTips && (
+                <div>
+                  <h3 className="text-sm font-semibold uppercase tracking-wide text-[var(--color-trip-green-dark)]">
+                    {t.accessTipsHeading}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-[var(--color-ink)]/80">
+                    {accessTips}
+                  </p>
+                </div>
+              )}
+            </div>
+          </section>
+        )}
+
+        {place.localGem && (
+          <section className="mt-8 rounded-3xl border border-[#03C75A]/25 bg-[#03C75A]/5 p-6 sm:p-8">
+            <h2 className="font-serif text-xl font-semibold text-[var(--color-ink)]">
+              {t.localGemCriteriaTitle}
+            </h2>
+            <p className="mt-3 text-sm leading-relaxed text-[var(--color-ink)]/80">
+              {t.localGemCriteriaBody}
+            </p>
+          </section>
+        )}
 
         <div className="mt-12">
           <ReviewList place={place} />

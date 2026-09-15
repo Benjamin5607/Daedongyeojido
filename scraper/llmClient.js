@@ -1,7 +1,10 @@
 const NVIDIA_BASE_URL =
   process.env.NVIDIA_API_BASE_URL || "https://integrate.api.nvidia.com/v1";
+/** Hosted meta/llama-3.3-70b-instruct reached EOL (410) on 2026-08-26.
+ * Prefer a non-reasoning instruct model so JSON/captions stay clean.
+ */
 const DEFAULT_MODEL =
-  process.env.NVIDIA_MODEL || "meta/llama-3.3-70b-instruct";
+  process.env.NVIDIA_MODEL || "google/gemma-4-31b-it";
 
 /**
  * @param {{ system: string; user: string; model?: string; maxTokens?: number }} options

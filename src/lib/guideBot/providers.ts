@@ -30,9 +30,10 @@ export const GUIDE_PROVIDERS: ProviderInfo[] = [
   {
     id: "nvidia",
     label: "NVIDIA NIM",
-    model: "meta/llama-3.1-8b-instruct",
-    modelNote: "meta/llama-3.1-8b-instruct (lightweight NIM)",
-    signupUrl: "https://build.nvidia.com/meta/llama-3_1-8b-instruct",
+    /** Hosted meta/llama-3.1-8b-instruct reached EOL (410) on 2026-08-26. */
+    model: "google/gemma-4-31b-it",
+    modelNote: "google/gemma-4-31b-it (NIM catalog)",
+    signupUrl: "https://build.nvidia.com/google/gemma-4-31b-it",
     docsUrl: "https://docs.api.nvidia.com/nim/reference/llm-apis",
   },
 ];

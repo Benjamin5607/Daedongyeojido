@@ -71,31 +71,28 @@ async function chatNvidia(
   system: string,
   messages: ChatMessage[]
 ): Promise<string> {
-  const model = getProviderInfo("nvidia").model;
-  const response = await fetch("https://integrate.api.nvidia.com/v1/chat/completions", {
+  // NVIDIA hosted chat blocks browser CORS — proxy through our API route.
+  const response = await fetch("/api/guide-chat", {
     method: "POST",
-    headers: {
-      Authorization: `Bearer ${config.apiKey}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      model,
-      messages: [
-        { role: "system", content: system },
-        ...messages.map((m) => ({ role: m.role, content: m.content })),
-      ],
-      temperature: 0.7,
-      max_tokens: 1024,
-    }),
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ config, system, messages }),
   });
 
   const body = await response.text();
-  if (!response.ok) throw new Error(`NVIDIA ${response.status}: ${body.slice(0, 200)}`);
+  if (!response.ok) {
+    let detail = body.slice(0, 200);
+    try {
+      const parsed = JSON.parse(body) as { error?: string };
+      if (parsed.error) detail = parsed.error;
+    } catch {
+      /* keep raw */
+    }
+    throw new Error(`NVIDIA ${response.status}: ${detail}`);
+  }
 
-  const data = JSON.parse(body);
-  const content = data?.choices?.[0]?.message?.content;
-  if (!content) throw new Error("NVIDIA returned empty response.");
-  return content;
+  const data = JSON.parse(body) as { content?: string };
+  if (!data.content?.trim()) throw new Error("NVIDIA returned empty response.");
+  return data.content;
 }
 
 export async function sendGuideChat(

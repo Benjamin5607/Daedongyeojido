@@ -35,11 +35,11 @@ const MANUALS_KO: ManualSet = {
     title: "NVIDIA NIM 무료 API 키 발급",
     steps: [
       "https://build.nvidia.com 에 가입·로그인합니다.",
-      "meta/llama-3.1-8b-instruct 모델 페이지로 이동합니다.",
+      "google/gemma-4-31b-it 모델 페이지로 이동합니다.",
       "「Get API Key」 또는 우측 상단 프로필 → API Keys에서 키를 생성합니다.",
       "키를 복사해 아래 입력란에 붙여넣습니다.",
     ],
-    note: "NVIDIA NIM 무료 크레딧으로 가벼운 Llama 3.1 8B 모델을 사용합니다.",
+    note: "NVIDIA NIM에서 google/gemma-4-31b-it 모델을 사용합니다. (구 Llama 3.1 8B 호스팅은 EOL)",
   },
 };
 
@@ -68,11 +68,11 @@ const MANUALS_EN: ManualSet = {
     title: "Get a free NVIDIA NIM API key",
     steps: [
       "Sign up at https://build.nvidia.com",
-      "Open the meta/llama-3.1-8b-instruct model page.",
+      "Open the google/gemma-4-31b-it model page.",
       "Click “Get API Key” or Profile → API Keys.",
       "Copy the key and paste it below.",
     ],
-    note: "Uses lightweight Llama 3.1 8B via NVIDIA NIM free credits.",
+    note: "Uses google/gemma-4-31b-it on NVIDIA NIM (legacy Llama 3.1 8B hosting is EOL).",
   },
 };
 

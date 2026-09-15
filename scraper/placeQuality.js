@@ -131,6 +131,7 @@ const VALID_THEMES = new Set([
   "k-beauty",
   "k-culture",
   "urban-nature",
+  "sanhaeng",
 ]);
 
 let _cityKoToCode = null;

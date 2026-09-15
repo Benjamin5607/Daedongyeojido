@@ -42,6 +42,8 @@ const THEME_FALLBACK = {
     "https://images.unsplash.com/photo-1583417319070-4a3b5fffe6f6?w=1200&q=80",
   "urban-nature":
     "https://images.unsplash.com/photo-1587735247366-c6662a32a3a0?w=1200&q=80",
+  sanhaeng:
+    "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80",
 };
 
 const SLOT_POST_TIME_KST = {

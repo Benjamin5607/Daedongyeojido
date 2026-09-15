@@ -9,7 +9,14 @@ const OUT_PATH = path.join(__dirname, "../src/data/crawled_places.json");
 const NAVER_KO_PATH = path.join(__dirname, "../src/data/naver_search_ko.json");
 const GEOJE_TOTAL = 100;
 
-const THEMES = ["k-food", "hallyu", "k-beauty", "k-culture", "urban-nature"];
+const THEMES = [
+  "k-food",
+  "hallyu",
+  "k-beauty",
+  "k-culture",
+  "urban-nature",
+  "sanhaeng",
+];
 const TOURIST_PROVINCES = ["seoul", "busan", "jeju", "gyeonggi", "gangwon", "gyeongbuk", "jeonbuk"];
 const EIGHT_DO = ["gyeonggi", "gangwon", "chungbuk", "chungnam", "jeonbuk", "jeonnam", "gyeongbuk", "gyeongnam"];
 

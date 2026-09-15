@@ -9,7 +9,14 @@ const PLACES_PATH = path.join(ROOT, "src/data/crawled_places.json");
 const REVIEWS_PATH = path.join(ROOT, "src/data/place_reviews.json");
 const TRENDS_PATH = path.join(ROOT, "src/data/travel_trends.json");
 
-const THEMES = ["k-food", "hallyu", "k-culture", "urban-nature", "k-beauty"];
+const THEMES = [
+  "k-food",
+  "hallyu",
+  "k-culture",
+  "urban-nature",
+  "k-beauty",
+  "sanhaeng",
+];
 
 function slugify(text) {
   return String(text)

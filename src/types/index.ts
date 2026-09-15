@@ -5,7 +5,8 @@ export type ThemeId =
   | "hallyu"
   | "k-beauty"
   | "k-culture"
-  | "urban-nature";
+  | "urban-nature"
+  | "sanhaeng";
 
 /** UI theme filter — includes "all" to browse every category at once */
 export type ThemeFilterId = ThemeId | "all";
@@ -67,6 +68,7 @@ export const THEMES: ThemeId[] = [
   "k-beauty",
   "k-culture",
   "urban-nature",
+  "sanhaeng",
 ];
 
 export const THEME_TAB_IDS: ThemeFilterId[] = ["all", ...THEMES];

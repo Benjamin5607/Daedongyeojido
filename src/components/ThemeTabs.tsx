@@ -10,6 +10,7 @@ const THEME_ICONS: Record<ThemeFilterId, string> = {
   "k-beauty": "✨",
   "k-culture": "🏮",
   "urban-nature": "🌿",
+  sanhaeng: "🥾",
 };
 
 interface ThemeTabsProps {

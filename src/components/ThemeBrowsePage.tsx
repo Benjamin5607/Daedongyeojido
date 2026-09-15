@@ -16,6 +16,7 @@ const THEME_ICONS: Record<ThemeId, string> = {
   "k-beauty": "✨",
   "k-culture": "🏮",
   "urban-nature": "🌿",
+  sanhaeng: "🥾",
 };
 
 const initialRegionFilter: RegionFilterState = {

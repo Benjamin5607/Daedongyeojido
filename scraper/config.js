@@ -1,4 +1,4 @@
-/** @typedef {'k-food'|'hallyu'|'k-beauty'|'k-culture'|'urban-nature'} ThemeId */
+/** @typedef {'k-food'|'hallyu'|'k-beauty'|'k-culture'|'urban-nature'|'sanhaeng'} ThemeId */
 
 /**
  * Search queries grouped by travel theme.
@@ -28,7 +28,19 @@ const SEARCH_QUERIES = {
   "urban-nature": [
     "서울 숲공원",
     "청계천 산책",
-    "남산 둘레길",
+    "한강 공원",
+  ],
+  sanhaeng: [
+    "북한산 등산 코스",
+    "설악산 울산바위",
+    "지리산 종주 등산",
+    "한라산 성판악",
+    "도봉산 포대능선",
+    "관악산 등산로",
+    "금정산 고당봉",
+    "속리산 문장대",
+    "내장산 등산",
+    "주왕산 기암",
   ],
 };
 

@@ -20,7 +20,7 @@ Return ONLY a JSON array. Each item:
   "source": "media/creator mentioned",
   "regionHints": ["거제","옥포"],
   "placeHints": ["specific restaurant or landmark names"],
-  "theme": "k-food|hallyu|k-beauty|k-culture|urban-nature",
+  "theme": "k-food|hallyu|k-beauty|k-culture|urban-nature|sanhaeng",
   "queries": [{"theme":"k-food","query":"거제 모래성포차"}],
   "score": 1-100
 }

@@ -18,6 +18,7 @@ const THEME_HASHTAGS = {
   "k-culture": ["#KoreanCulture", "#Heritage", "#한국문화", "#TempleStay"],
   "urban-nature": ["#KoreaNature", "#ScenicKorea", "#자연", "#힐링여행"],
   "k-beauty": ["#KBeauty", "#BeautyTravel", "#뷰티", "#KStyle"],
+  sanhaeng: ["#KoreaHiking", "#Sanhaeng", "#등산", "#산행", "#KoreaTrails"],
 };
 
 const BASE_TAGS = [

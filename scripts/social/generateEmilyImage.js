@@ -149,6 +149,8 @@ function themeSceneHint(theme) {
       return "Korean beauty / fashion street setting";
     case "urban-nature":
       return "Korean coast or outdoor overlook";
+    case "sanhaeng":
+      return "Korean mountain ridge trail with hikers and rocky peaks";
     case "k-culture":
       return "Korean heritage / temple / traditional setting";
     default:

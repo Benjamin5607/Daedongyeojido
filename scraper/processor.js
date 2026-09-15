@@ -66,7 +66,7 @@ const SYSTEM_PROMPT = `You are a Korean travel data curator.
 Analyze the crawled Korean place data and return ONLY a valid JSON array.
 Each item must follow this exact shape:
 {
-  "theme": "k-food|hallyu|k-beauty|k-culture|urban-nature",
+  "theme": "k-food|hallyu|k-beauty|k-culture|urban-nature|sanhaeng",
   "region": {
     "province": "seoul|busan|jeju|gyeonggi|gangwon|gyeongbuk|gyeongnam|jeonbuk|jeonnam|chungbuk|chungnam",
     "city": "optional city code e.g. suwon, jeonju, andong, geoje",

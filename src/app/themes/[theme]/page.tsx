@@ -17,7 +17,8 @@ export async function generateMetadata({ params }: ThemePageProps) {
     hallyu: "Hallyu & Entertainment",
     "k-beauty": "K-Beauty & Wellness",
     "k-culture": "Culture & Daily Life",
-    "urban-nature": "Urban Nature & Outdoors",
+    "urban-nature": "Nature & Outdoors",
+    sanhaeng: "Hiking & Mountain Trails",
   };
 
   if (!THEMES.includes(theme as ThemeId)) {

@@ -956,7 +956,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20220406_106/1649228827290FCW5d_JPEG/20220406_160600.jpg"
   },
   {
-    "theme": "k-culture",
+    "theme": "sanhaeng",
     "region": {
       "province": "gyeongnam",
       "city": "geoje",
@@ -1662,7 +1662,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20260504_38/1777860380477MMrRi_PNG/ChatGPT_Image_2026%B3%E2_5%BF%F9_4%C0%CF_%BF%C0%C0%FC_11_05_45.png"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "seoul",
       "district": "jung-seoul"
@@ -1724,7 +1724,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20150901_42/1441033962212ocm6V_JPEG/13416869_0.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "seoul",
       "district": "seodaemun"
@@ -2876,7 +2876,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20150901_189/1441045684276TLxgE_JPEG/13491801_0.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "jeju",
       "city": "jeju-si"
@@ -2970,7 +2970,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_163/1440992290045R095e_JPEG/11491638_0.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "jeju",
       "city": "seogwipo-si"
@@ -4121,7 +4121,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20260409_300/1775696624552S1gGc_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gangwon",
       "city": "sokcho"
@@ -4152,7 +4152,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20251231_185/1767154289284zsbog_JPEG/%C0%D4%BC%B1_%BC%B3%BE%C7%BB%EA_%B4%AB%BF%CA%C0%BB_%C0%D4%C0%BA_%BF%EF%BB%EA%B9%D9%C0%A7_%C0%BA%C7%CF%BC%F6_%C0%CC%BA%B4%B1%D4_%BA%B8%C1%A4%BA%BB.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gangwon",
       "city": "pyeongchang"
@@ -4837,7 +4837,7 @@
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimg.hankyung.com%2Fphoto%2F202112%2FAKR20211231136500053_01_i_P4.jpg&type=a340"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gyeongbuk",
       "city": "cheongsong"
@@ -5401,7 +5401,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20230307_43/1678161717118hz0f8_JPEG/20230307_130102.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "jeonbuk",
       "city": "jinan"
@@ -5524,7 +5524,6 @@
       "vi": "Quán mì jjambbong trong hẻm ngõ mà dân địa phương xếp hàng sau giờ làm — tìm qua blog Naver Map, hiếm có trên Google Maps.",
       "id": "Warung jjambbong gang sempit yang diantre warga setelah kerja — biasanya ditemukan lewat ulasan blog Naver Map, jarang di Google Maps."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLcgrK2D7XtGH4zyGyV8LHtilP41bpO12adJdlgo9cCNuojcaanqKrh3J91iKughUQV6AKTmcQpr8FS-qWc3QLm5PZO90RdetLXqNIfU5j9nmAmtCeKeNl29BOo7IYLrAE76U=w800-h600-k-no"
   },
   {
@@ -5557,7 +5556,6 @@
       "vi": "Quầy sashimi và quán gukbap mở trước bình minh — bí mật khu phố trên Naver Map, không phải điểm du lịch Google.",
       "id": "Kios sashimi dan warung gukbap buka sebelum matahari terbit — rahasia warga di Naver Map, bukan pin wisata Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_184/1440992320890JrHeD_JPEG/11491918_0.jpg"
   },
   {
@@ -5590,7 +5588,6 @@
       "vi": "Quán bibimbap dolsot gia đình chỉ được biết qua bài tổng hợp ẩm thực ẩn trên blog Naver.",
       "id": "Warung bibimbap dolsot keluarga yang hanya dikenal lewat ringkasan kuliner tersembunyi blog Naver."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20241209_38/1733725429602qOGqi_JPEG/1000001972.jpg"
   },
   {
@@ -5623,7 +5620,6 @@
       "vi": "Quán gukbap xương heo phục vụ dân văn phòng lúc 7 giờ sáng — ghim bởi dân địa phương trên Naver Map, không có trên Google.",
       "id": "Warung gukbap tulang babi untuk pekerja kantor jam 7 pagi — ditandai warga di Naver Map, tidak ada di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmE1k10vRG3CB1UO7HreB1Zjo-iPcJYEVCdXGrt7zSPbXRrrIkk5pZ3iuh1ZdtG2hxk_60pIsSEqQOBnu2xabDlFN3jGdjfvo6zomAAVuYMat5aKzsFJEnqTLLHUZsCgoNAFh-hPJZobV9W=w800-h600-k-no"
   },
   {
@@ -5656,7 +5652,6 @@
       "vi": "Các quán cafe kín đáo mà đoàn web-drama hay khảo sát — tìm qua đánh giá Naver Place, hiếm có trên Google Maps.",
       "id": "Kafe sunyi yang sering disurvei kru web-drama — ditemukan lewat ulasan Naver Place, jarang terindeks di Google Maps."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260622_280/1782117610224v1R4E_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%287%29_1.jpg"
   },
   {
@@ -5689,7 +5684,6 @@
       "vi": "Studio tầng hầm nơi họa sĩ webtoon tân binh ra mắt — chia sẻ trên blog Naver, không có trong hướng dẫn du lịch Google.",
       "id": "Studio basement tempat artis webtoon pemula debut — dibagikan di blog Naver, bukan panduan wisata Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260511_69/1778467645578n2G3D_JPEG/2N0A8257.jpg"
   },
   {
@@ -5722,7 +5716,6 @@
       "vi": "Quán ăn trong hẻm từng lên show variety địa phương — dân địa phương lưu trên Naver Map, Google hầu như không có.",
       "id": "Warung gang yang pernah masuk variety show lokal — warga simpan di Naver Map, Google hampir tidak mencantumkan."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-USXr7h9XbfNKSOppCe68z90cFJ_uF3t7R2ELrvB0De9g_R1cinpUVTFxT_kTzo00sErNXib6pHmqVnd0ks4TagLF01pQem8ReRYbkK-NOk2ZCVn9QczTh1UtXrERHXY1jhxLqH7F0AA=w800-h600-k-no"
   },
   {
@@ -5755,7 +5748,6 @@
       "vi": "Khúc sông yên tĩnh dùng quay phim cáp — tọa độ lan qua blog Naver, không có trong danh sách tham quan Google.",
       "id": "Tikungan sungai tenang lokasi syuting drama kabel — koordinat menyebar lewat blog Naver, bukan daftar wisata Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_259/1440986410925y3Vsc_JPEG/11863440_0.jpg"
   },
   {
@@ -5788,7 +5780,6 @@
       "vi": "Salon khu phố dùng mặt nạ đất sét địa phương — đặt qua Naver, hiếm khi xuất hiện trên Google.",
       "id": "Salon lingkungan dengan masker tanah liat lokal — dipesan lewat Naver, jarang muncul di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWndibwpaKIWotJIGrdzbV8Y-Pu1cnqJa5nolMSVU-0_SNnQ6KjEKmc11NsMwZGHYu0P1hi5lYK8PNJhvY5WmM9w0X-txQ73QGU6EuKKYF6Ai7nfaW1XuGazc3p6wRpDrk0c9coRhnYzjSU=w800-h600-k-no"
   },
   {
@@ -5821,7 +5812,6 @@
       "vi": "Skincare thảo mộc sản xuất nhỏ tại cabin nông thôn — blogger Naver review; Google Maps không có mục tiếng Anh.",
       "id": "Skincare herbal produksi kecil di kabin pedesaan — dibahas blogger Naver; Google Maps tanpa daftar bahasa Inggris."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20180304_289/1520152330961uR407_PNG/XyfA6z4jjRfok-W4PiFMbvbm.png"
   },
   {
@@ -5854,7 +5844,6 @@
       "vi": "Son dưỡng môi và mặt nạ thủ công trong trung tâm thương mại khu dân cư — tìm qua tag Naver Map, không qua Google.",
       "id": "Lip balm dan sheet mask buatan tangan di strip mall perumahan — ditemukan lewat tag Naver Map, bukan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20240305_229/17096414397533bN5p_JPEG/%281%29IMG_0669.JPG"
   },
   {
@@ -5887,7 +5876,6 @@
       "vi": "Quầy spa ngầm gần hầm mỏ cũ — chỉ đặt qua Naver, vô hình với du khách Google.",
       "id": "Bar spa bawah tanah dekat terowongan tambang lama — hanya reservasi Naver, tak terlihat turis Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20200729_59/1595990067365fXGAP_JPEG/%B7%D1%B8%B55.jpg"
   },
   {
@@ -5919,8 +5907,7 @@
       "zh": "教授草编与靛蓝染的村落工坊，出现在 Naver 地方文化博客，不在 Google 文化遗产列表。",
       "vi": "Xưởng làng dạy mây tre và nhuộm chàm — có trên blog văn hóa địa phương Naver, không phải di sản Google.",
       "id": "Workshop desa mengajar anyaman jerami dan pewarnaan indigo — ada di blog budaya lokal Naver, bukan situs warisan Google."
-    },
-    "localGem": true
+    }
   },
   {
     "theme": "k-culture",
@@ -5952,7 +5939,6 @@
       "vi": "Khu thương mại ngầm thời Chiến tranh Lạnh với cửa hàng đồ cổ — người địa phương gắn trên Naver, bỏ qua trên Google.",
       "id": "Arkade bawah tanah era Perang Dingin dengan toko vintage — dipetakan pengguna Naver, tidak ada di panduan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260304_152/1772605944838HKbyq_JPEG/DSC09081.jpg"
   },
   {
@@ -5985,7 +5971,6 @@
       "vi": "Chợ đồ cũ hàng tháng cạnh toa tàu nghỉ hưu — ngày diễn ra lan trên cafe Naver, không có trên Google Events.",
       "id": "Pasar k flea bulanan di samping gerbong pensiun — tanggal beredar di kafe Naver, tidak pernah di Google Events."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlGzOIoPOYbaETwWpTQ9mfDqTdh5cQ6fJgauDT-6EK-yBrRChTOQUhkQTWeRd2hN-CyD3nhCY5ywlcgrPEHPg7ffdgAHd-mL_fZQVQ88xBeHdAAu14kVcU1XzjqhsZ16LAfj0PG=w800-h600-k-no"
   },
   {
@@ -6018,7 +6003,6 @@
       "vi": "Sân luyện samulnori cộng đồng mở cuối tuần — chỉ đường chia sẻ trong nhóm khu phố Naver, không trên Google.",
       "id": "Halaman latihan samulnori komunitas buka akhir pekan — arah dibagikan di grup tetangga Naver, bukan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20190611_196/1560220204736sRz4R_JPEG/oFJaRN60O4OERxLBbDTiDgfk.jpg"
   },
   {
@@ -6051,7 +6035,6 @@
       "vi": "Đường đồi hoa dại giữa các chung cư — ghim trên blog leo núi Naver, không có trên đường mòn Google.",
       "id": "Jalur punggung bunga liar di antara apartemen — disematkan di blog hiking Naver, tidak ada di jalur Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKJMdXHqmYSe_zX5ij16zphMCbmMGA3TcziSsUh4Nq3bD-Nt6Bs3yKzc998Xk_j84lj5v-GloJedXiywnsGe9G66pb-EI0zf7nexyEiFXgEdBNJyhJ-tv8ddFtWVJIaceFmip-oA=w800-h600-k-no"
   },
   {
@@ -6084,11 +6067,10 @@
       "vi": "Đường dạo ven sông không biển báo qua lau sậy và diệc — tọa độ từ blog ngoài trời Naver, không phải công viên Google.",
       "id": "Jalan tepi sungai tanpa rambu melewati alang-alang dan bangau — koordinat dari blog outdoor Naver, bukan taman Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150901_229/14410456331786fl2D_JPEG/13491491_0.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gyeonggi",
       "city": "guri",
@@ -6117,7 +6099,6 @@
       "vi": "Vòng rừng ngắn cư dân chạy bộ lúc bình minh — chia sẻ trên đánh giá Naver Map, hiếm trên app leo núi Google.",
       "id": "Loop hutan pendek untuk joging warga apartemen saat fajar — dibagikan di ulasan Naver Map, jarang di app hiking Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_260/1440992272261sxuRJ_JPEG/11491459_0.jpg"
   },
   {
@@ -6150,7 +6131,6 @@
       "vi": "Vòng hồ chứa sương mù được hàng xóm nông dân yêu thích — chụp trên blog Naver, không phải điểm cảnh Google.",
       "id": "Loop waduk berkabut yang disukai tetangga petani — difoto di blog Naver, bukan spot pemandangan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260301_206/1772348592430eapBM_JPEG/1000015276.jpg"
   },
   {
@@ -6183,7 +6163,6 @@
       "vi": "Quầy sundae bốc hơi cạnh trường cấp hai — người địa phương đánh giá trên Naver Map, không phải hướng dẫn nhà hàng Google.",
       "id": "Kios sundae beruap di samping SMP — dinilai warga di Naver Map, bukan panduan restoran Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20200928_157/1601270759811SsEYe_JPEG/Day48qQ7U8KciMLrFmqLYCwd.jpg"
   },
   {
@@ -6216,7 +6195,6 @@
       "vi": "Quán lẩu rễ núi tài xế xe tải ghé — tọa độ lan trên blog ẩm thực Naver, vô hình trên Google.",
       "id": "Warung rebus akar gunung yang disinggahi sopir truk — koordinat mengambang di blog makanan Naver, tak terlihat di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150901_172/1441056451005SjIsK_JPEG/13567578_0.jpg"
   },
   {
@@ -6249,7 +6227,6 @@
       "vi": "Gukbap đậm đà từ thời khai thác mỏ — lưu trên bài lịch sử địa phương Naver, không phải ghim di sản Google.",
       "id": "Gukbap mengenyangkan sejak era tambang — terdokumentasi di posting sejarah lokal Naver, bukan pin warisan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20220227_238/1645956320406de0PN_JPEG/1645956288910.jpg"
   },
   {
@@ -6282,7 +6259,6 @@
       "vi": "Mì makguksu cắt tay trong nhà bếp cải tạo từ garage — reviewer Naver khen nức nở; Google không có thực đơn.",
       "id": "Makguksu potong tangan di dapur bekas garasi — reviewer Naver sangat merekomendasikan; Google tanpa menu."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260328_208/17746652230043IluE_JPEG/L1002209.jpg"
   },
   {
@@ -6315,7 +6291,6 @@
       "vi": "Biểu diễn dân gian thu nhỏ quay cho TV địa phương — lịch đăng trên cafe Naver, không phải sự kiện Google.",
       "id": "Pertunjukan rakyat intim direkam TV regional — jadwal diposting di kafe Naver, bukan acara Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoz5cJR5518ptKtYmwKPGft3jFtxHdpyNddsCK9xsFJ2F4gJFuiVnrMd96ejrDnrqc9kYghEH_bFj6oGTr_7_iQ74mAq-6lvnad55JdU1WMFVUVecJlMGRhTyEdJaqU0Hm1xB37g=w800-h600-k-no"
   },
   {
@@ -6348,7 +6323,6 @@
       "vi": "Khoảng trống bạch dương trong phim healing — mẹo địa điểm lan qua blog Naver, không có trên bản đồ quay phim Google.",
       "id": "Padang birch putih lokasi drama healing — tips lokasi menyebar lewat blog Naver, bukan peta syuting Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaAYVwAGuaCzUiXpKg3SPrxJwca89XpoHpNBlvTU_lktWHm2frFEtwlOW6qxAIhWZOtqH295iYoqDX4KwLNPmEAvAVHa8j_Bss8ZsoHAljSVpNh_x42g_nXrRLro94eoLNXpnm=w800-h600-k-no"
   },
   {
@@ -6381,7 +6355,6 @@
       "vi": "Sàn thượng đạo diễn indie khảo sát cho phim ngắn — lưu trên Naver Map, không có trong điểm tham quan Google.",
       "id": "Dek atap yang disurvei sutradara indie untuk film pendek — ditandai di Naver Map, tidak ada di atraksi Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20240101_101/17040714907000H5Q4_JPEG/1000003380.jpg"
   },
   {
@@ -6414,7 +6387,6 @@
       "vi": "Bến gỗ quay web-drama lãng mạn lúc hoàng hôn — gắn thẻ trên blog ảnh Naver, không phải địa danh Google.",
       "id": "Dermaga kayu syuting web-drama romantis saat golden hour — ditag di blog foto Naver, bukan landmark Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260623_85/1782201947801k8RRO_JPEG/%BB%EF%BE%C7%BB%EA_%C0%CC%BA%A5%C6%AE_%C6%E4%C0%CC%C1%F6__0623.jpg"
   },
   {
@@ -6447,7 +6419,6 @@
       "vi": "Facial jjimjilbang hơi lá thông — đặt qua Naver Talk, hiếm khi có trên Google.",
       "id": "Facial jjimjilbang uap jarum pinus — reservasi lewat Naver Talk, jarang terdaftar di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlAF59V_q5X43RKprf3RVkNoCyCiZPUn8E6POOweypwDSPx40APwWya_9qiZO7_LreUbKFg1dmW-DrF2ggmkGh8Qm1xqF8leHRyga9313C_4XXfGFKPNce7TqbIidRyTCw2xnTa=w800-h600-k-no"
   },
   {
@@ -6480,7 +6451,6 @@
       "vi": "Salon hẻm pha thảo mộc ven biển vào ngâm chân — review trên Naver Place, không có trong danh bạ spa Google.",
       "id": "Salon gang yang memadukan herbal pesisir ke rendam kaki — diulas di Naver Place, bukan direktori spa Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_205/1441013740027z13se_JPEG/157155537025608_0.jpg"
   },
   {
@@ -6513,7 +6483,6 @@
       "vi": "Mặt nạ rong biển tươi pha ở cửa sau chợ — blogger làm đẹp Naver giới thiệu; Google bỏ qua.",
       "id": "Sheet mask rumput laut segar dicampur di pintu belakang pasar — blogger kecantikan Naver menampilkan; Google mengabaikan."
     },
-    "localGem": true,
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fwww.gangwon.to%2Fupload%2Fboard%2FBDMAIN03%2Fthumb%2F17de8e4a-1614-4ccb-bc8c-4ee90a3a4950.jpg&type=a340"
   },
   {
@@ -6546,7 +6515,6 @@
       "vi": "Kem chống nắng an toàn san hô do surfer làm bán từ lều biển — surfer Naver giới thiệu; không có cửa hàng Google.",
       "id": "Stik tabir surya ramah karang buatan surfer dijual dari gubuk pantai — disarankan surfer Naver; tanpa toko Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20221002_100/1664682186160sEczN_JPEG/%C3%D6%C1%BE_%C6%F9%C6%AE%BA%AF%B0%E6.jpg"
   },
   {
@@ -6579,7 +6547,6 @@
       "vi": "Làm giấy hanji thực hành trong chuồng cải tạo — lịch học thông báo trên blog Naver, không có trên danh sách nghệ thuật Google.",
       "id": "Membuat hanji hands-on di lumbung cải tạo — slot kelas diumumkan di blog Naver, bukan daftar seni Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbEO9u6lijGcNLaNkm0cr2N9K6imYVaPENkazhA43N5g9bMj0TTAqwvlMKiHZ6b1hUIut8HWlkCrP1ViOmrJLNSWl_FxuR2UI5NmmFgNhj43fQKs06EMmjNCr58SOXdVBisXeZ=w800-h600-k-no"
   },
   {
@@ -6612,7 +6579,6 @@
       "vi": "Thợ mỏ nghỉ hưu khắc đá sông cuối tuần — ghi trên chủ đề văn hóa Naver, không phải bảo tàng Google.",
       "id": "Mantan penambang mengukir batu sungai akhir pekan — didokumentasikan di thread budaya Naver, bukan museum Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20240701_147/17198377025892WBo8_JPEG/IMG_0497.jpg"
   },
   {
@@ -6645,7 +6611,6 @@
       "vi": "Tour hậu trường di tích mỏ do tình nguyện viên dẫn — đăng ký qua open chat Naver, không phải tour Google.",
       "id": "Tur belakang panggung relik tambang dipandu relawan — daftar lewat open chat Naver, bukan tur Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20251002_31/1759379774322Vd5lD_JPEG/%BF%AC%C5%BA%B0%A1%B0%D4_%BB%E7%C1%F8.jpg"
   },
   {
@@ -6678,11 +6643,10 @@
       "vi": "Sàn ven sông nơi dân địa phương tổ chức đêm thơ hàng tháng — lịch trên cafe Naver, không phải lịch văn hóa Google.",
       "id": "Dek tepi sungai tempat warga mengadakan malam puisi bulanan — kalender di kafe Naver, bukan kalender budaya Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20190323_73/15533478432718qkh6_PNG/saemakgol_naver_SAEMAKGOL-17.png"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gangwon",
       "city": "jeongseon",
@@ -6711,7 +6675,6 @@
       "vi": "Đường đồi xuyên sương sáng trên ruộng bậc thang — lộ trình chia sẻ trên blog leo núi Naver, không có trên Google.",
       "id": "Jalan punggung menembus kabut pagi di atas terasering — rute dibagikan di blog hiking Naver, bukan jalur Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20250410_286/1744265311779mwQg8_JPEG/IMG_0384.jpg"
   },
   {
@@ -6744,7 +6707,6 @@
       "vi": "Đường suối râm mát dân địa phương tránh nóng hè — ghim trên Naver Map, thiếu trong danh sách công viên Google.",
       "id": "Jalur sungai teduh tempat warga sejuk di musim panas — disematkan di Naver Map, tidak ada di daftar taman Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20251210_100/1765333838265wfc6Y_JPEG/IMG_1340.jpeg"
   },
   {
@@ -6777,7 +6739,6 @@
       "vi": "Ván sàn lau sậy ngắn ngắm diệc — chụp cho blog Naver, không phải khu bảo tồn thiên nhiên Google.",
       "id": "Boardwalk alang-alang pendek dengan pemandangan bangau — difoto untuk blog Naver, bukan cagar alam Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_270/14410283094642oHDA_JPEG/20027267_0.jpg"
   },
   {
@@ -6810,7 +6771,6 @@
       "vi": "Vòng ven hồ yên tĩnh cyclist đi lúc 5 giờ sáng — file GPX lan trên Naver, không phải tuyến đạp xe Google Maps.",
       "id": "Loop tepi danau tenang yang dibikers jalani jam 5 pagi — file GPX beredar di Naver, bukan rute bersepeda Google Maps."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260623_85/1782201947801k8RRO_JPEG/%BB%EF%BE%C7%BB%EA_%C0%CC%BA%A5%C6%AE_%C6%E4%C0%CC%C1%F6__0623.jpg"
   },
   {
@@ -6843,7 +6803,6 @@
       "vi": "Quán nướng gopchang đêm khuya sau đại học — xếp hạng trên danh sách ẩm thực Naver Map, không phải Michelin Google.",
       "id": "Panggangan gopchang larut malam di belakang kampus — masuk peringkat foodie Naver Map, bukan Michelin Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHpDgaQBLzgb-WiQ2_QlCpEjkOdHGriNS1Reb379ZrQHm9ZHouvoYEFWcSSaBYHghmbxcSiGn4UFBnpHj9mjb4g0bc6cCszZrOziNuFokiCvLDCTdKKabVIMBM1s5z0BnopKJOZxMwqvd5=w800-h600-k-no"
   },
   {
@@ -6876,7 +6835,6 @@
       "vi": "Nông dân bán snack hồng khô từ cửa garage — tìm qua blog chợ địa phương Naver, không phải cửa hàng Google.",
       "id": "Petani menjual keripik kesemek kering dari pintu garasi — ditemukan lewat blog pasar lokal Naver, bukan toko Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260628_18/1782574093240vPlyF_JPEG/IMG_2360.jpg"
   },
   {
@@ -6909,7 +6867,6 @@
       "vi": "Gà baeksuk om thảo dược núi — món quen blog wellness Naver, không có trên tìm nhà hàng Google.",
       "id": "Ayam baeksuk rebus herbal gunung — andalan blog wellness Naver, tidak ada di pencarian restoran Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260519_174/1779158991088Bh3Ve_JPEG/%BD%BA%C5%A9%B8%B0%BC%A6_2021-12-29_%BF%C0%C0%FC_11.24.40.jpg"
   },
   {
@@ -6942,7 +6899,6 @@
       "vi": "Quán kalguksu pilot dù lượn ăn sáng — ghim trên diễn đàn pilot Naver, không phải quán ăn Google.",
       "id": "Warung kalguksu tempat pilot paragliding sarapan — disematkan di forum pilot Naver, bukan tempat makan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260506_238/1778069500776Ixq6F_PNG/%B4%DC%BE%E7%B8%C0%C1%FD_%B9%E9%C7%E2%B4%E3_2026%B3%E2_5%BF%F9_6%C0%CF_%BF%C0%C8%C4_09_08_38.png"
   },
   {
@@ -6975,7 +6931,6 @@
       "vi": "Đường rừng trong cảnh quay B sageuk — ghi chú địa điểm trên thread drama Naver, không phải điểm quay Google.",
       "id": "Jalan hutan dalam footage B-cam sageuk — catatan lokasi di thread drama Naver, bukan lokasi syuting Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20201028_238/1603868792248aSVLX_PNG/dXi0oecfMqwQr6uKLQ0Ah65a.png"
   },
   {
@@ -7008,7 +6963,6 @@
       "vi": "Hẻm nhân viên lễ hội ăn giữa các tiết mục — đồn đại trên blog giải trí Naver, không có trên Google.",
       "id": "Gang staf festival makan di antara sesi — digosipkan di blog hiburan Naver, tidak ada di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20201227_19/16090028929522odJl_JPEG/ls1oPLm5pXeQEaqSsQEqctZm.jpeg.jpg"
   },
   {
@@ -7041,7 +6995,6 @@
       "vi": "Chuồng cải tạo quay variety nông thôn — ngày mở cửa thông báo trên blog TV Naver, không phải studio Google.",
       "id": "Lumbung canggih untuk syuting variety pedesaan — hari buka diumumkan di blog TV Naver, bukan studio Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyWdyO8YBP78uYYcTLxDva3Fv8NPwMZw3-TRXVZ_jBs3at2WU1OJrGS6ZfmyhpjkyonaVyXicPy_9jgPwi17KHBuzoOWcTAHlPVgBdIq9LEg_uijyScf9YQPcpzIaj2KHwNf6B=w800-h600-k-no"
   },
   {
@@ -7074,7 +7027,6 @@
       "vi": "Sân ga nhỏ quay cảnh chia tay phim melodrama cáp — gắn thẻ danh sách địa điểm drama Naver, không trên Google.",
       "id": "Peron kecil syuting adegan perpisahan melodrama kabel — ditag di daftar lokasi drama Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20170908_96/1504850737826vdKwT_JPEG/pGp8Vo-yGf1yCbvz1mrGeJ2P.jpg"
   },
   {
@@ -7107,7 +7059,6 @@
       "vi": "Mẫu skincare sau thử nghiệm biotech — đặt qua Naver Booking, không phải Google Health.",
       "id": "Sampel skincare pasca uji biotech — janji temu lewat Naver Booking, bukan Google Health."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260102_173/1767285142249iq6VR_JPEG/1000032660.jpg"
   },
   {
@@ -7140,7 +7091,6 @@
       "vi": "Serum facial vùng tỏi tại salon nông trại — review trên cafe làm đẹp Naver, không phải spa Google.",
       "id": "Serum facial daerah bawang di salon rumah pertanian — diulas di kafe kecantikan Naver, bukan spa Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4cc9BTc19_Z10cVbdLYzq3md9zi2tSbzv4HhzH-W88tRe55z6beuJvxcJ50cfa1OJqGFkJdT9PGq5WpU63nxfISf9bZ37Vrlmmz7wi20TEJ6ZdwYL1tl7JM7lYPh4RP1SRDCBIQ=w800-h600-k-no"
   },
   {
@@ -7173,7 +7123,6 @@
       "vi": "Peel chân khoáng cạnh hẻm jjimjilbang — tìm qua Naver Map, không phải app wellness Google.",
       "id": "Peel kaki mineral di samping gang jjimjilbang — ditemukan lewat Naver Map, bukan app wellness Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20250523_208/1747985791875hv6O3_JPEG/KakaoTalk_20250523_124634813_06.jpg"
   },
   {
@@ -7206,7 +7155,6 @@
       "vi": "Mặt nạ bùn từ hang pha mỗi ngày — blogger hang động Naver review; Google không có mục.",
       "id": "Masker lumpur dari gua dicampur segar tiap hari — blogger caving Naver mengulas; Google tanpa daftar."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20250826_34/1756166201284jksWL_JPEG/IMG_6177.jpeg"
   },
   {
@@ -7239,7 +7187,6 @@
       "vi": "Demo đúc chuông trên đường lên chùa — lịch trên blog văn hóa chùa Naver, không trên Google.",
       "id": "Demo pengecoran lonceng di jalan pendekatan kuil — jadwal di blog budaya kuil Naver, bukan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_273/1440992269383k3gq8_JPEG/11491446_0.jpg"
   },
   {
@@ -7272,7 +7219,6 @@
       "vi": "Chum gochujang gia đình ủ dưới đất — tour đặt qua blog Naver, không phải trải nghiệm Google.",
       "id": "Guci gochujang keluarga yang diasinkan bawah tanah — tur dipesan lewat blog Naver, bukan pengalaman Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWneDc0rbwEqoH17JI_N4igufXXuZ3Z8jsOp86sTxIDznHav2n-wd6nBV_E8WtfLQPRY8Sdvxzw6xKw4hn-JF-Z6FC9P0PYTlTxMYCgYRZWRN5JOyKd90uO1tkq0ITlsoGQQTug9kw=w800-h600-k-no"
   },
   {
@@ -7305,7 +7251,6 @@
       "vi": "Sơn mài khảm rơm do trưởng làng dạy — link lớp chia sẻ nhóm thủ công Naver, không phải workshop Google.",
       "id": "Pernis inlaid jerami diajarkan tetua desa — link kelas dibagikan grup kerajinan Naver, bukan workshop Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20240405_197/17123009058131cITu_JPEG/Screenshot_20231120_105248_Gallery.jpg"
   },
   {
@@ -7337,8 +7282,7 @@
       "zh": "退役车厢作背景的拍照点，坐标在 Naver 摄影俱乐部，不在 Google 遗产地图。",
       "vi": "Toa tàu nghỉ hưu làm phông ảnh — tọa độ trên club ảnh Naver, không có trên bản đồ di sản Google.",
       "id": "Gerbong pensiun sebagai latar foto — koordinat di klub foto Naver, bukan peta warisan Google."
-    },
-    "localGem": true
+    }
   },
   {
     "theme": "urban-nature",
@@ -7370,7 +7314,6 @@
       "vi": "Đường bờ hồ không biển báo dân địa phương câu cá — GPX trên blog leo núi Naver, không phải hướng dẫn ngoài trời Google.",
       "id": "Jalur pantai danau tanpa rambu tempat warga memancing — GPX di blog hiking Naver, bukan panduan outdoor Google."
     },
-    "localGem": true,
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimg.newsro.kr%2Fwp-content%2Fuploads%2F2025%2F06%2F1977f7f4e4df6069_4-771x500.jpg&type=a340"
   },
   {
@@ -7403,7 +7346,6 @@
       "vi": "Cầu thang ven sông sương mù nơi các ajumma đi bộ nhanh — lộ trình trên đánh giá Naver Map, không có trong công viên Google.",
       "id": "Tangga tepi sungai berkabut tempat ajumma power-walk — rute di ulasan Naver Map, tidak ada di taman Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_158/14409943687959tqtK_JPEG/116280614554285_0.jpg"
   },
   {
@@ -7436,7 +7378,6 @@
       "vi": "Vòng râm mát quanh hồ chứa cổ — yêu thích trên blog chạy bộ Naver, không phải tuyến fitness Google.",
       "id": "Loop teduh mengelilingi waduk kuno — favorit di blog jogging Naver, bukan rute fitness Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20200407_130/15862540547865Eq3s_JPEG/27tdtydHXxnZQzWs0osy4lPX.jpg"
   },
   {
@@ -7469,7 +7410,6 @@
       "vi": "Điểm ngắm đá sáng sớm dân địa phương thích hơn sàn du lịch — mẹo trên blog ảnh Naver, không phải điểm ngắm Google.",
       "id": "Titik batu pagi dini yang disukai warga daripada dek wisata — tips di blog foto Naver, bukan viewpoint Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20251212_287/17654933822829RAXS_JPEG/1000019983.jpg"
   },
   {
@@ -7502,7 +7442,6 @@
       "vi": "Hẻm nguồn gốc budaejjigae mà dân địa phương vẫn tin — xếp hạng trên Naver Map, không phải tour ẩm thực Google.",
       "id": "Gang asal budaejjigae yang masih dipercaya warga — masuk peringkat Naver Map, bukan food tour Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSHDqfunNq7WOXOecG-Zj9daWhv5NW3vGc6hXyQy3Aklsp2jtl-P_S5gjvwecnejv7v5t4Z7TYtgE6Fzz1BEH6QH0nPPpMziyks9tk2uazXhEz0hOa3xp8302DkVJVosX-jZZ8IDFiGn_8=w800-h600-k-no"
   },
   {
@@ -7535,7 +7474,6 @@
       "vi": "Trứng luộc khoáng bán cửa sau jjimjilbang — kinh điển blog onsen Naver, không phải snack Google.",
       "id": "Telur rebus mineral dijual dari pintu belakang jjimjilbang — klasik blog onsen Naver, bukan camilan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20190125_64/1548377804969KgBOd_JPEG/POS_4707.jpg"
   },
   {
@@ -7568,7 +7506,6 @@
       "vi": "Quầy cá khô bán buôn sau chợ cá — tìm qua blog chợ Naver, không phải mua sắm Google.",
       "id": "Kios ikan kering grosir di belakang pasar ikan — ditemukan lewat blog pasar Naver, bukan belanja Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150901_158/1441061172495rDWBd_JPEG/106377577762911_5.jpg"
   },
   {
@@ -7601,7 +7538,6 @@
       "vi": "Tiệm bánh gạo nhiều đời trên ngõ yên tĩnh — bài di sản ẩm thực Naver, không phải tiệm bánh Google.",
       "id": "Toko kue beras turun-temurun di gang tenang — posting warisan kuliner Naver, bukan bakery Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkoZDz_f24pVH8x85pNm_7ZmAuLQri83xJNjYMdpaYwC3I8YAKf4oiin07sG_-BFQp3tnr_HLmPjeOG2ytJJamqW_ur94qHOLlOQxFJpbD17Che8K3TAkc6SfihTy76SoKRZYtQj0aGKgdU=w800-h600-k-no"
   },
   {
@@ -7634,7 +7570,6 @@
       "vi": "Bến quay tài liệu độc lập về mẻ cá bình minh — mẹo địa điểm trên club phim Naver, không phải cảng Google.",
       "id": "Dermaga syuting dokumenter indie tangkapan fajar — tips lokasi di klub film Naver, bukan pelabuhan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20240716_1/1721107081221ojm93_JPEG/IMG_0735.jpeg"
   },
   {
@@ -7667,7 +7602,6 @@
       "vi": "Góc làng phục nguyên quay sageuk cáp — khảo sát qua blog drama Naver, không phải set Google.",
       "id": "Sudut desa replika untuk sageuk kabel — disurvei lewat blog drama Naver, bukan set Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyUeCCwmcv-BypoHS9fL6xzq1LLQtCHN5zIu3bPpgtQyI9Det24L1ZOdkTlG500sFIb8Q90JJyKyeu5bOnh5bEuw07bY84IC-7lnWYNOPTDvyiKhUrc43o1R46mLY8V5cWVO01=w800-h600-k-no"
   },
   {
@@ -7700,7 +7634,6 @@
       "vi": "Đồi quay web-drama chủ đề quân sự — gắn thẻ thread địa điểm Naver, không phải căn cứ Google.",
       "id": "Bukit lokasi web-drama bertema militer — ditag di thread lokasi Naver, bukan pangkalan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20211001_262/1633068299860sQuIp_JPEG/210831.jpg"
   },
   {
@@ -7733,7 +7666,6 @@
       "vi": "Bãi biển yên tĩnh sinh viên điện ảnh quay phim ngắn — tọa độ trên blog trường phim Naver, không phải bãi Google.",
       "id": "Pantai tenang tempat mahasiswa film syuting pendek — koordinat di blog sekolah film Naver, bukan pantai Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20190724_169/1563930344803oV8mR_JPEG/DSC_6395_02.jpg"
   },
   {
@@ -7766,7 +7698,6 @@
       "vi": "Thợ scrub truyền thống trên phố jjimjilbang — đặt qua Naver Talk, không phải tìm spa Google.",
       "id": "Master scrub tradisional di deretan jjimjilbang — dipesan lewat Naver Talk, bukan pencari spa Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYgvv5bNYEFHr1hZdZg0QSRdETPEveQ3IfaU5tbykUqfmcSDXhq9HkXqJUIhKUjSVMfmLeU-wlmJSEiSl_9RVZrwtUCEWv1JRPBiBM83iejnJtkh2vK5Jgm4KkgJYbJyIdqmhirA=w800-h600-k-no"
   },
   {
@@ -7799,7 +7730,6 @@
       "vi": "Facial cám gạo cạnh ryokan onsen trăm năm — review trên blog wellness Naver, không trên Google.",
       "id": "Facial bekas beras di samping penginapan onsen berabad-abad — diulas blog wellness Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20190125_64/1548377804969KgBOd_JPEG/POS_4707.jpg"
   },
   {
@@ -7831,8 +7761,7 @@
       "zh": "市场角落现调鲜人参精华液，Naver 美妆博主盛赞，Google 无店面。",
       "vi": "Serum nhân sâm tươi pha ở góc chợ — blogger làm đẹp Naver khen nức nở; Google không có cửa hàng.",
       "id": "Serum ginseng segar dicampur di sudut pasar — blogger kecantikan Naver memuji; Google tanpa toko."
-    },
-    "localGem": true
+    }
   },
   {
     "theme": "k-beauty",
@@ -7864,7 +7793,6 @@
       "vi": "Ngâm chân khoáng bãi bồi — tìm qua ghim Naver Map, không có trong danh sách wellness Google.",
       "id": "Rendam kaki mineral tambak garam — lewat pin Naver Map, tidak ada di daftar wellness Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20240814_53/1723624603732pmDjQ_JPEG/IMG_0834.jpeg"
   },
   {
@@ -7897,7 +7825,6 @@
       "vi": "Hội chợ thủ công chùa hàng tháng với khắc gỗ — ngày trên blog chùa Naver, không phải sự kiện Google.",
       "id": "Pasar kerajinan kuil bulanan dengan cetak kayu — tanggal di blog kuil Naver, bukan acara Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20240805_8/1722855222262ofbvm_PNG/1000005644.png"
   },
   {
@@ -7930,7 +7857,6 @@
       "vi": "Làm đèn lồng sen cạnh di tích Baekje — lớp học trên blog văn hóa Naver, không trên Google.",
       "id": "Membuat lampion teratai di samping relik Baekje — kelas di blog budaya Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20220328_66/1648473556579UAKo6_JPEG/20220328_073523.jpg"
   },
   {
@@ -7962,8 +7888,7 @@
       "zh": "穿越活跃盐田的导览漫步，在 Naver 本地游帖报名，不在 Google 体验。",
       "vi": "Đi bộ có hướng dẫn qua ruộng muối đang hoạt động — đăng ký trên bài tour địa phương Naver, không phải trải nghiệm Google.",
       "id": "Jalan terpandu melewati tambak garam aktif — daftar di posting tur lokal Naver, bukan pengalaman Google."
-    },
-    "localGem": true
+    }
   },
   {
     "theme": "k-culture",
@@ -7995,7 +7920,6 @@
       "vi": "Nghệ nhân cao tuổi dạy đan dép rơm — link xưởng trên nhóm thủ công dân gian Naver, không trên Google.",
       "id": "Pengrajin senior mengajar anyaman sandal jerami — link workshop di grup kerajinan rakyat Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20240904_7/1725431215599uG4wn_JPEG/%B9%DF%B1%D7%B7%A1%BB%E7%C7%F9%2C%B9%DF%B1%D7%B7%A1%C0%CF%C5%CD_logo_2022.jpg"
   },
   {
@@ -8028,7 +7952,6 @@
       "vi": "Cồn cát gió xói dân địa phương chạy trước du khách — lộ trình trên blog chạy Naver, không phải đường mòn Google.",
       "id": "Bukit pasir terbentuk angin tempat warga joging sebelum turis datang — rute di blog lari Naver, bukan jalur Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20190724_169/1563930344803oV8mR_JPEG/DSC_6395_02.jpg"
   },
   {
@@ -8061,11 +7984,10 @@
       "vi": "Đường bãi bồi cạnh am cửa thủy triều — danh sách chim trên blog thiên nhiên Naver, không phải khu bảo tồn Google.",
       "id": "Jalur tambak di samping pertapaan saat air surut — daftar burung di blog alam Naver, bukan cagar alam Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150901_219/14410333380074P4m9_JPEG/107168508970070_0.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "chungnam",
       "city": "geumsan",
@@ -8094,7 +8016,6 @@
       "vi": "Đường đồi giữa lưới che nhân sâm lúc hoàng hôn — ảnh trên blog nông thôn Naver, không phải trang trại Google.",
       "id": "Jalur punggung di antara tenda naungan ginseng saat senja — foto di blog pedesaan Naver, bukan peternakan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_280/1441006732154xQDQz_JPEG/12047081_0.jpg"
   },
   {
@@ -8127,7 +8048,6 @@
       "vi": "Ván sàn đầm lau ngắn kèm mẹo mùa đom đóm — ghim trên blog sinh thái Naver, không phải đầm lầy Google.",
       "id": "Boardwalk rawa alang-alang pendek dengan tips musim kunang-kunang — disematkan di blog ekologi Naver, bukan lahan basah Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1Q0hnvPO0lwhihpvChT5Z0iPktsFv4_e3iOsLEbMMT6SIjHl8DxrqbUrxuFqTtuarcG048tlvmbLpQpCPhzYTcg8q8MjpYCX1cpVC-H-Xds2DKdELF37Lu2fw19W4FVD2qKzQig=w800-h600-k-no"
   },
   {
@@ -8160,7 +8080,6 @@
       "vi": "Quán cháo đậu đỏ trong hẻm thời Nhật — blog ẩm thực lịch sử địa phương Naver, không phải hướng dẫn Google.",
       "id": "Warung bubur kacang merah di gang era Jepang — blog makanan sejarah lokal Naver, bukan panduan Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnS0jecb78MiOSje87TS6_avUqvTpS3Pi5_9RbcN-1ZuEAQ_ibLHlEHJeD5AEdrV58FpwzslFyCDynB0sSPoPnF5v7BtAmJwGxhq9yAHsJG8kRFauzC-Qasqbmh1daSbkXoyFlx=w800-h600-k-no"
   },
   {
@@ -8193,7 +8112,6 @@
       "vi": "Bibimbap nông trại gần di tích cung Baekje — tìm thấy trên thread ẩm thực nông thôn Naver, không trên Google.",
       "id": "Bibimbap rumah pertanian dekat reruntuhan istana Baekje — ditemukan di thread makanan pedesaan Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20230626_66/1687763474888XgIuM_JPEG/IMG_5353.jpeg"
   },
   {
@@ -8226,7 +8144,6 @@
       "vi": "Lẩu nấm núi cho người leo chùa — ghim trên blog ẩm thực leo núi Naver, không phải nhà hàng Google.",
       "id": "Rebusan jamur gunung untuk pendaki kuil — disematkan di blog makanan hiking Naver, bukan restoran Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20171125_108/1511610869337sK2I8_JPEG/nD3hC7DQwzfrVvw-a2F1dW7o.jpg"
   },
   {
@@ -8259,7 +8176,6 @@
       "vi": "Dân địa phương bỏ phố du lịch để đến ngõ gukbap này — chỉ đánh giá Naver Map, không có danh sách Google.",
       "id": "Warga menghindari jalan wisata untuk gang gukbap ini — hanya rating Naver Map, bukan daftar Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20250328_11/17431268478575ocDv_JPEG/%BF%F9%B3%B2%BD%D3.jpg"
   },
   {
@@ -8292,7 +8208,6 @@
       "vi": "Rạp vi mô và chỗ tụ họp sinh viên phim ngoài phố hanok — có trên blog phim Naver, không phải rạp Google.",
       "id": "Bioskop mikro dan tempat nongkrong mahasiswa film di luar jalan hanok — ada di blog film Naver, bukan bioskop Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20230319_3/1679212801605xoGFa_JPEG/20230319_165753.jpg"
   },
   {
@@ -8325,7 +8240,6 @@
       "vi": "Nhà thời thuộc địa dùng quay web-drama cổ trang — bản đồ trên cafe drama Naver, không trên Google.",
       "id": "Rumah era kolonial untuk web-drama period — peta di kafe drama Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20220411_210/1649603939720dSYzy_JPEG/KakaoTalk_20220411_001807071.jpg"
   },
   {
@@ -8358,7 +8272,6 @@
       "vi": "Vách ngắm hoàng hôn nơi ban nhạc indie quay MV — tọa độ trên blog nhạc Naver, không phải điểm cảnh Google.",
       "id": "Tebing pemandangan senja tempat band indie syuting MV — koordinat di blog musik Naver, bukan spot pemandangan Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPvFHRMvi2Xd8wXsGscpYjyr9Zlnadizg4cy8l2Dfr9hHY9ibtdJi_KI87QDxBsZ4ynWF65uL77ikgKIFTg5dCVIOznb6-Ha8dpDQpIgDXt_uIifr00JImZ-ILCA7IrdS0SfDg=w800-h600-k-no"
   },
   {
@@ -8391,7 +8304,6 @@
       "vi": "Sân lên men xuất hiện trong show variety nông thôn — ngày mở trên blog TV Naver, không phải studio Google.",
       "id": "Halaman fermentasi yang tampil di variety show pedesaan — hari buka di blog TV Naver, bukan studio Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmh3QNhFnM1JmBNCeXaZ7LGvip9a-jcNrXGoEuGkZkgmMmkiK5DEnQjtotplI6PWdOf7bSYhM1yr_Emd_F8IsnojL0HW6mRsVCpOOWBp7F3uTZfgRJAElRBpLJCZHqAQwrSm7Hg=w800-h600-k-no"
   },
   {
@@ -8424,7 +8336,6 @@
       "vi": "Mặt nạ giấy sợi hanji ép tay — workshop đặt qua blog Naver, không phải spa Google.",
       "id": "Sheet mask serat hanji ditekan tangan — workshop dipesan lewat blog Naver, bukan spa Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20170126_288/1485403063480TdTf2_JPEG/186076528761976_1.jpeg"
   },
   {
@@ -8457,7 +8368,6 @@
       "vi": "Mặt nạ đất sét pha đất thời Baekje — review trên thread làm đẹp Naver, không trên Google.",
       "id": "Masker tanah liat campuran tanah era Baekje — diulas di thread kecantikan Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2F550x%2F95%2F9a%2Fd2%2F959ad2aa79afc971f94e064dda6fbc94.jpg&type=a340"
   },
   {
@@ -8490,7 +8400,6 @@
       "vi": "Quầy tẩy tế bào chết cám gạo cạnh ruộng gặt — tìm qua Naver Map, không phải app làm đẹp Google.",
       "id": "Bar eksfoliasi bekas beras di samping ladang panen — lewat Naver Map, bukan app kecantikan Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE073_RsnlMnkbXLlOkC01QuQwR_GE0ANGXEir4XNs2_JEhUzULWvm1ak5qDyTtqB1Jhti5R_3nV8E48BpN5CcZt96de8y4xNVkALz8acl2B_gKefhbiOZnjd1vkcHRD1AaYF_db_XzIRaj=w800-h600-k-no"
   },
   {
@@ -8523,7 +8432,6 @@
       "vi": "Kem từ whey hợp tác xã phô mai làng — blogger làm đẹp sữa Naver giới thiệu; Google bỏ qua.",
       "id": "Krim whey dari koperasi keju desa — blogger kecantikan dairy Naver menampilkan; Google mengabaikan."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmjj_L_4rAyF2nf_zZ5Wp1RsEl2zfBl2fObDJoCyZeyMzsRjRFJoIbdM8axy9RKlkEWyiF98GkMbV7Pkh4Mv8gYFg9OROTVhzx3BUtv8XYjqAB8lWdx0BP_QShbzV586RVy5TOy=w800-h600-k-no"
   },
   {
@@ -8556,7 +8464,6 @@
       "vi": "Dân địa phương tụ họp thơ ngắm trăng ngoài đình du lịch — lịch trên cafe văn hóa Naver, không trên Google.",
       "id": "Warga berkumpul puisi bulan di luar paviliun wisata — jadwal di kafe budaya Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkGrVJur4qN2kLcytVOtIFVkiVzxa8-afc7bEakOIFqhV_n0-J8Ae_0BD0yqojG9e0koQF1sdN8UzSVgmU_HlDKnmX5ITguxhoRrEJBnFSA1z-X7vSDsMKfZELCHwkgpExq9hm6=w800-h600-k-no"
   },
   {
@@ -8589,7 +8496,6 @@
       "vi": "Học gõ chuông sáng với khách temple stay — đăng ký qua blog chùa Naver, không trên Google.",
       "id": "Pelajaran membunyikan lonceng pagi untuk tamu temple stay — daftar lewat blog kuil Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_134/1441013655503rmPtw_PNG/116574595120490_0.png"
   },
   {
@@ -8622,7 +8528,6 @@
       "vi": "Ngư dân hát minyo lúc hoàng hôn trên sàn cảng — sự kiện đăng blog văn hóa dân gian Naver, không trên Google.",
       "id": "Nelayan menyanyi minyo saat senja di dek pelabuhan — acara diposting blog budaya rakyat Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20250630_43/1751262247938aV4TT_JPEG/KakaoTalk_20250630_144245720_02.jpg"
   },
   {
@@ -8655,11 +8560,10 @@
       "vi": "Sân lên men gia đình mở một cuối tuần mỗi tháng — ngày trên bài di sản ẩm thực Naver, không trên Google.",
       "id": "Halaman fermentasi keluarga buka satu akhir pekan per bulan — tanggal di posting warisan kuliner Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20251111_248/1762862077507IrgIO_JPEG/1000019544.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "jeonbuk",
       "city": "jinan",
@@ -8688,7 +8592,6 @@
       "vi": "Đường đồi với tháp đá và cờ cầu nguyện — lộ trình trên blog leo núi Naver, không phải app đường mòn Google.",
       "id": "Jalur punggung dengan pagoda batu dan bendera doa — rute di blog hiking Naver, bukan app jalur Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_81/1440992256801Q9C9p_JPEG/11491367_0.jpg"
   },
   {
@@ -8721,7 +8624,6 @@
       "vi": "Hồ trong suốt dân địa phương tắm hè — tọa độ chia sẻ trên blog ngoài trời Naver, không phải điểm bơi Google.",
       "id": "Kolam jernih tempat warga berenang musim panas — koordinat dibagikan blog outdoor Naver, bukan spot renang Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20220613_264/1655112570838Y4OFN_JPEG/KakaoTalk_20220613_122922208.jpg"
   },
   {
@@ -8754,7 +8656,6 @@
       "vi": "Vòng đê gió nơi cyclist đi lúc bình minh — GPX trên club đạp xe Naver, không phải tuyến xe đạp Google.",
       "id": "Loop tanggul berangin yang dibikers jalani saat fajar — GPX di klub bersepeda Naver, bukan rute sepeda Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20200630_29/1593522358011SrIzb_JPEG/Vu3QXK2GP_ODRctuvsFJlh5D.jpg"
   },
   {
@@ -8787,7 +8688,6 @@
       "vi": "Vòng ao sen khu phố trước đám đông hanok — yêu thích trên blog chạy bộ Naver, không phải công viên Google.",
       "id": "Loop kolam teratai lingkungan sebelum kerumunan hanok — favorit di blog jogging Naver, bukan taman Google."
     },
-    "localGem": true,
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fpreview.gettyimagesbank.com%2F67%2F2020%2F12%2F44%2F029%2Fa12144029.jpg%3Fs%3D1024&type=a340"
   },
   {
@@ -8820,7 +8720,6 @@
       "vi": "Ngư dân bán sashimi bắt lúc bình minh từ quầy garage — chỉ blog hải sản Naver, không phải chợ cá Google.",
       "id": "Nelayan menjual sashimi tangkapan fajar dari kios garasi — hanya blog seafood Naver, bukan pasar ikan Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkoifASuuUfdErTMoYB8KYUu6E6yKm_LidtqQns86kKgcGZaotcHfft0T_9Hvy9xVVim9W5mvgRSs3Cx6Q9xjz0hJSpsIq3-dBQSflipbW22GMWCvzpB6TlYW9rZY9OUy8hBRhF=w800-h600-k-no"
   },
   {
@@ -8853,7 +8752,6 @@
       "vi": "Quầy mực khô và cá cơm bán buôn sau bến tàu — tìm qua blog chợ Naver, không trên Google.",
       "id": "Kios cumi kering dan teri grosir di belakang dermaga — ditemukan lewat blog pasar Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20200109_241/1578564696223qh4M6_JPEG/y7ddLTHNqFYXBG0MuSPxWq3Q.jpg"
   },
   {
@@ -8886,7 +8784,6 @@
       "vi": "Cháo tôm muối trước khi du khách đầm lầy thức dậy — xếp hạng trên Naver Map, không phải danh sách ẩm thực Google.",
       "id": "Bubur udang asin sebelum turis wetland bangun — masuk peringkat Naver Map, bukan daftar makanan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260412_30/1776002899195qrlYw_JPEG/KakaoTalk_20260312_153759613_18.jpg"
   },
   {
@@ -8919,7 +8816,6 @@
       "vi": "Quán vịt hun tre dân địa phương lái xe cuối tuần — blog ẩm thực cuối tuần Naver, không phải Michelin Google.",
       "id": "Warung bebek asap bambu yang dikunjungi warga akhir pekan — blog makanan akhir pekan Naver, bukan Michelin Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE77Y8D2YS7eXoOpLK4AL9uKsGyEJVNdg3Lnaz2xLQylbX4hD4TRWAY42MkmPQ8nZdVPVgedVT2n5vTlOAfT1mBIaFl7EdEezf5S4cr1dKYxw7lcYUfjj1IDJBUBywwzbOokD6e1w=w800-h600-k-no"
   },
   {
@@ -8952,7 +8848,6 @@
       "vi": "Vườn mai quay phim melodrama mùa xuân — cảnh báo nở hoa trên cafe drama Naver, không phải vườn Google.",
       "id": "Kebun plum lokasi melodrama musim semi — info mekar di kafe drama Naver, bukan kebun Google."
     },
-    "localGem": true,
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimg1.daumcdn.net%2Fthumb%2FR1280x0.fwebp%2F%3Ffname%3Dhttp%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F94Xl%2Fimage%2FnQEcW905sON4QWkRvbRLx_qyKLc&type=a340"
   },
   {
@@ -8985,7 +8880,6 @@
       "vi": "Đá ven sông được khảo sát cho sageuk cáp — ghi chú địa điểm trên thread drama Naver, không trên Google.",
       "id": "Formasi batu tepi sungai untuk sageuk kabel — catatan lokasi di thread drama Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQpkV0v96jOFa6cGNrF_uNG8VmsBbc3uXskqqGQA7Izn3mRy1YUR-1vX2b0AYleIw6ipVge0a4f8MaNNYsZhz6FA9PAW_FyX_s9dr2cVOJbNzH1ats_bx0Ov9xOIbtf2mfEF2dNA=w800-h600-k-no"
   },
   {
@@ -9018,7 +8912,6 @@
       "vi": "Sàn cuối đất nơi sinh viên quay phim ngắn chân trời — tọa độ trên blog trường phim Naver, không phải điểm ngắm Google.",
       "id": "Dek ujung darat tempat mahasiswa film syuting pendek cakrawala — koordinat di blog sekolah film Naver, bukan viewpoint Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2Ycg1xXXvzc9lgFvUdnaWkjZv-viK5ZsQ6YTccv_WrkY7FyiqzSwgJRM2ORvurCIHfRi0N1Jt8sszfPfHcSdDdAtGsfJ9YndNvzdyfSJR_eqzdUv3QtCj90Bzzl0HD_GjW8HX=w800-h600-k-no"
   },
   {
@@ -9051,7 +8944,6 @@
       "vi": "Bãi biển nhân viên lễ hội nghỉ giữa tiết mục — đồn đại trên blog giải trí Naver, không phải bãi Google.",
       "id": "Pantai tempat kru festival istirahat antar pertunjukan — gosip di blog hiburan Naver, bukan pantai Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20210418_56/1618755788933gkhMr_JPEG/DKvLr9Qa0mvButOcOhRQxIty.jpg"
   },
   {
@@ -9084,7 +8976,6 @@
       "vi": "Mặt nạ collagen rong biển tươi cạnh chợ cá — blogger làm đẹp Naver review; Google không có mục.",
       "id": "Masker kolagen rumput laut segar di samping pasar ikan — blogger kecantikan Naver mengulas; Google tanpa daftar."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknuvA3SWgKUCHpGPZcO9uLEyr6WLbnh8zOWehsIzH-hOMTZC2UWvXyizJri_4d4mmMCeE-2IeAzUMzkexz4Li-AimP5jNhT1mXffaiR0gYDItNGI73lQYToWTvF6_45nfZ8YqhkRgpdlxR=w800-h600-k-no"
   },
   {
@@ -9117,7 +9008,6 @@
       "vi": "Scrub muối bãi bồi trên phố jjimjilbang — tìm qua Naver Map, không phải danh bạ spa Google.",
       "id": "Scrub garam tambak di deretan jjimjilbang — lewat Naver Map, bukan direktori spa Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260215_276/1771083885229iHJ4t_JPEG/IMG_2130.jpeg"
   },
   {
@@ -9150,7 +9040,6 @@
       "vi": "Serum trà xanh từ hợp tác xã đồi — đặt qua Naver Booking, không phải app wellness Google.",
       "id": "Serum teh hijau dari koperasi perbukitan — lewat Naver Booking, bukan app wellness Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFd99T9En5jtJWbrnzF2p-UT_wRzuaYNFvj8y8B2YD392f-p9WM30k3gzXjsaYBUrAmcqHksH_lVRl-snkZcqshMDDIp4ukr7LDGd5KNDtmP80KAI6cpBJIoOeKIm0ogAxDsqCc=w800-h600-k-no"
   },
   {
@@ -9183,7 +9072,6 @@
       "vi": "Facial bột vỏ bào ngư tại salon cảng — review trên blog làm đẹp ven biển Naver, không trên Google.",
       "id": "Facial bubuk cangkang abalone di salon pelabuhan — diulas blog kecantikan pesisir Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150901_17/1441045688506M769L_JPEG/157155537250220_0.jpg"
   },
   {
@@ -9216,7 +9104,6 @@
       "vi": "Đan tre thực hành ngoài trung tâm du lịch — link lớp trên nhóm thủ công Naver, không phải workshop Google.",
       "id": "Anyaman bambu hands-on di luar pusat wisata — link kelas di grup kerajinan Naver, bukan workshop Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4Akh7Tb5kWfi5L1o2Ok_bBzbTwkyGMXDVvjqFuHNt8j-x4e_cFoNAmZDtfkSF6e0nbPJ__fwaN6b3qwyOBLSCwvSZbfrwvq58UZBQVWctVoEDU3I9occOowapX6wa3FCUrHE6=w800-h600-k-no"
   },
   {
@@ -9249,7 +9136,6 @@
       "vi": "Trưởng làng kể truyền thuyết Gomtu lúc hoàng hôn — đêm sự kiện đăng blog văn hóa dân gian Naver, không trên Google.",
       "id": "Tetua menceritakan legenda Gomtu saat senja — malam acara diposting blog budaya rakyat Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260217_51/1771307099818JyL3P_PNG/1000020953.png"
   },
   {
@@ -9282,7 +9168,6 @@
       "vi": "Demo đúc chuông buổi sáng trên đường lên chùa — lịch trên blog văn hóa chùa Naver, không trên Google.",
       "id": "Demo pengecoran lonceng pagi di jalan pendekatan kuil — jadwal di blog budaya kuil Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20230421_283/1682081160599m2Td5_JPEG/CBFCB092-6B4B-41B5-ABAC-05DF2EDBACB0.jpeg"
   },
   {
@@ -9315,7 +9200,6 @@
       "vi": "Dân địa phương treo cờ cầu nguyện ở cực nam Hàn Quốc — ảnh trên blog hành hương Naver, không phải địa danh Google.",
       "id": "Warga menggantung bendera doa di ujung selatan Korea — foto di blog ziarah Naver, bukan landmark Google."
     },
-    "localGem": true,
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimages.pexels.com%2Fvideos%2F37984241%2F4k-37984241.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26h%3D627%26fit%3Dcrop%26w%3D1200&type=l340_165"
   },
   {
@@ -9348,7 +9232,6 @@
       "vi": "Ván sàn lau không biển báo dân địa phương thích hơn tuyến du lịch — ghim trên blog sinh thái Naver, không phải đầm lầy Google.",
       "id": "Boardwalk alang-alang tanpa rambu yang disukai warga daripada rute wisata — disematkan di blog ekologi Naver, bukan lahan basah Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260412_30/1776002899195qrlYw_JPEG/KakaoTalk_20260312_153759613_18.jpg"
   },
   {
@@ -9381,7 +9264,6 @@
       "vi": "Đi bộ bờ biển yên tĩnh cạnh bệ phóng — lộ trình trên blog sở thích khoa học Naver, không phải tour vũ trụ Google.",
       "id": "Jalan pantai tenang di samping landasan peluncuran — rute di blog hobi sains Naver, bukan tur antariksa Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcqI8jAz6met9NJAfeIRSsKpm4AkS9V-CdkDroLo-5CKrBeMrvMDJDDTDN1W2HXepPJ20e_bLc78kyppV6Sb6Opolh6hX6JcgurgpJ0EFRhlQa3OknaQyxrktfpzq3OQ9BWsQkA046Co5g=w800-h600-k-no"
   },
   {
@@ -9414,11 +9296,10 @@
       "vi": "Đường đi chậm giữa tường đá trên đảo — GPX trên blog đảo Naver, không phải app leo núi Google.",
       "id": "Jalan slow-walk antar tembok batu di pulau — GPX di blog pulau Naver, bukan app hiking Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150901_17/1441045688506M769L_JPEG/157155537250220_0.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "jeonnam",
       "city": "jindo",
@@ -9447,7 +9328,6 @@
       "vi": "Đường vách đá ngắm hải lưu lúc bình minh — bảng thủy triều trên blog biển Naver, không phải điểm ngắm Google.",
       "id": "Jalur tebing untuk melihat arus pasang saat fajar — tabel pasang di blog kelautan Naver, bukan viewpoint Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20210418_56/1618755788933gkhMr_JPEG/DKvLr9Qa0mvButOcOhRQxIty.jpg"
   },
   {
@@ -9480,7 +9360,6 @@
       "vi": "Phố gopchang nửa đêm của công nhân nhà máy — xếp hạng trên blog ẩm thực đêm Naver Map, không phải hướng dẫn Google.",
       "id": "Jalan gopchang tengah malam pekerja pabrik — masuk peringkat blog makanan malam Naver Map, bukan panduan Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxBQdxrFZY9PGsvFqyc19eaD14BkfaSKOoAqxwM9GwZIT0xfzfm8vSvOc2F9IYSciRPD0GBjkPRVtynY0fioOUhpq-uKL7nhcgk5uGh2DzIJ1NsIgD1j1OOrdZFVS5IQzLHuj9=w800-h600-k-no"
   },
   {
@@ -9513,7 +9392,6 @@
       "vi": "Quầy sundae sinh viên mở quá nửa đêm — tìm thấy trên thread ẩm thực campus Naver, không trên Google.",
       "id": "Kios sundae favorit mahasiswa buka lewat tengah malam — ditemukan di thread makanan kampus Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260618_124/1781739939174KdL0D_JPEG/%C8%AD%B8%E9_%C4%B8%C3%B3_2026-06-18_084348.jpg"
   },
   {
@@ -9546,7 +9424,6 @@
       "vi": "Baeksuk gà nhân sâm trong bếp làng núi — blog ẩm thực wellness Naver, không phải nhà hàng Google.",
       "id": "Baeksuk ayam ginseng di dapur desa pegunungan — blog makanan wellness Naver, bukan restoran Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20190523_35/1558601935885SQ5qg_JPEG/BUcO2FqYHhsMyP_v4YhuzRVg.jpg"
   },
   {
@@ -9579,7 +9456,6 @@
       "vi": "Siro omija và đồ uống thảo mộc núi tự làm — ghim trên blog hái rừng Naver, không phải quán Google.",
       "id": "Sirup omija buatan rumah dan minuman herbal gunung — disematkan di blog foraging Naver, bukan kafe Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnB_S02JyiWtDki_J2z-Maxtx-0OQmsm2UxmnvgMUDRkOo0gFzlcyDISifOxDTchDazZHX2bfYVFKrn7t7RgRCFZl58ZMmY_qzgsw2MCG7EqjrVlxksoalujPg0eMF31KaxTo7_=w800-h600-k-no"
   },
   {
@@ -9612,7 +9488,6 @@
       "vi": "Ngõ làng quay cảnh chèn múa mặt nạ — bản đồ trên cafe drama Naver, không phải set Google.",
       "id": "Gang desa untuk insert drama tari topeng — peta di kafe drama Naver, bukan set Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQtMVodaeE8rrRCI0Jgz_CH-Pl8EeE7emH0WsjAmp74Mvz8tmmuxL5psumaKVWxXwNqFeG8A8xaV4eEyXXnEnF0wO18xwKKzvvh9y5m26oXUm3BliyZ1mbmpQslfPUHrtTEUie=w800-h600-k-no"
   },
   {
@@ -9645,7 +9520,6 @@
       "vi": "Bến yên tĩnh quay cảnh thú nhận phim cáp — gắn thẻ thread địa điểm Naver, không phải hồ Google.",
       "id": "Dermaga tenang syuting adegan pengakuan drama kabel — ditag di thread lokasi Naver, bukan danau Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhJEAMrKl_QKU85N9Nmnrmv0RoWfaK_ARiiJWafpYdXaBzscQ0IanTzfAOSdVBh7rohTRDUVH5EMSV-CXLfiQLm9Pu9GXkT5gY6ffu52d_WaFWdbp20GvnjqnYBg6HAsJIKVU=w800-h600-k-no"
   },
   {
@@ -9678,7 +9552,6 @@
       "vi": "Hẻm công nghiệp khảo sát cho melodrama giai cấp công nhân — ghi chú trên club phim Naver, không phải địa điểm Google.",
       "id": "Gang industri disurvei untuk melodrama kelas pekerja — catatan di klub film Naver, bukan lokasi Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmh4qEpAM8L6GLLd3_WDUbSIAA-76lxILtXcf4uItHtDSJef5_D9pdULOolkIOtJAgrBpgkXosg5PmZ-9xgZE3dGtRwr5g-dOjtGVH9NDKjF-W-cnoH_c6ck63CHBr4yv1OFxtxnQ=w800-h600-k-no"
   },
   {
@@ -9711,7 +9584,6 @@
       "vi": "Sàn vách đá nơi sinh viên quay phim ngắn biển — tọa độ trên blog trường phim Naver, không phải bãi Google.",
       "id": "Dek tebing tempat mahasiswa film syuting pendek laut — koordinat di blog sekolah film Naver, bukan pantai Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk78Sn5DO3keQZaslsOCD6bp30BeZi8rQ5dKlkrm-Mn6siXtXIfZ9qzb8fveLxoq87FyLZ8lD7iimUODu3P8cRqh5gCBhbi0M-ZXXtMXgm3R2y0GANyxw7fHjbOWdJuAlCFN6HX=w800-h600-k-no"
   },
   {
@@ -9744,7 +9616,6 @@
       "vi": "Mặt nạ hanji ép tay tại atelier làng — workshop qua blog Naver, không phải spa Google.",
       "id": "Masker hanji ditekan tangan di atelier desa — workshop lewat blog Naver, bukan spa Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20201008_159/1602165719770ubhhg_JPEG/jOWG-LAq6QbP55PElUBhJQ0f.jpg"
   },
   {
@@ -9777,7 +9648,6 @@
       "vi": "Mặt nạ đất sét pha đất thời Silla — review trên thread làm đẹp Naver, không trên Google.",
       "id": "Masker tanah liat campuran tanah era Silla — diulas di thread kecantikan Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnmtghcj2tUhBAV_VHt2f78Va_DiK5bj0ZiLKnPzmcIMsJoWo9AGw_GRkSIIB97BlerGKEsMUwtJM325i7p6Yus2TPISMR5RYqNYMogguEmRHS9RlbVuma_e0fqFtZ7Eki3KSOy9LT99cR=w800-h600-k-no"
   },
   {
@@ -9810,7 +9680,6 @@
       "vi": "Facial rong biển trên phố jjimjilbang gần cảng — tìm qua Naver Map, không phải tìm spa Google.",
       "id": "Facial rumput laut di deretan jjimjilbang dekat pelabuhan — lewat Naver Map, bukan pencari spa Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260219_225/1771489424130zprBk_JPEG/103.jpg"
   },
   {
@@ -9842,8 +9711,7 @@
       "zh": "果园合作社小批量苹果醋化妆水，Naver 果园美妆博主推荐，Google 忽略。",
       "vi": "Toner giấm táo sản xuất nhỏ từ hợp tác xã vườn — blogger làm đẹp vườn Naver giới thiệu; Google bỏ qua.",
       "id": "Toner cuka apel produksi kecil dari koperasi kebun — blogger kecantikan kebun Naver menampilkan; Google mengabaikan."
-    },
-    "localGem": true
+    }
   },
   {
     "theme": "k-culture",
@@ -9875,7 +9743,6 @@
       "vi": "Nếm soju do tình nguyện viên dẫn trong phòng hậu bảo tàng — đăng ký trên blog văn hóa Naver, không phải trải nghiệm Google.",
       "id": "Pencicipan soju dipandu relawan di ruang belakang museum — daftar di blog budaya Naver, bukan pengalaman Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_207/1441026032019BiBmV_JPEG/116754506732322_0.jpg"
   },
   {
@@ -9908,7 +9775,6 @@
       "vi": "Dân địa phương kể truyền thuyết Silla dưới sao ngoài lộ trình du lịch — đêm đăng trên cafe văn hóa Naver, không trên Google.",
       "id": "Warga menceritakan legenda Silla di bawah bintang di luar jalur wisata — malam diposting di kafe budaya Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260513_74/1778657750388YL87V_JPEG/KakaoTalk_20260513_160407187_06.jpg"
   },
   {
@@ -9941,7 +9807,6 @@
       "vi": "Cuộn hồng khô thực hành tại nông trại — link lớp trên nhóm thủ công dân gian Naver, không trên Google.",
       "id": "Menggulung kesemek kering hands-on di rumah pertanian — link kelas di grup kerajinan rakyat Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fscontent-nrt1-2.cdninstagram.com%2Fv%2Ft51.29350-15%2F440452105_1908146939631681_4932533970866136104_n.heic&type=a340"
   },
   {
@@ -9974,11 +9839,10 @@
       "vi": "Tour lò gia đình cạnh cánh đồng mộ cổ — đặt qua blog khảo cổ Naver, không trên Google.",
       "id": "Tur kiln keluarga di samping ladang makam kuno — dipesan lewat blog arkeologi Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20180922_42/153757423312158n5t_JPEG/xMLmOewgLG_ZIjXBZXASzAuU.jpeg.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gyeongbuk",
       "city": "cheongsong",
@@ -10007,7 +9871,6 @@
       "vi": "Đường thác không biển báo dân địa phương đi ngày thường — lộ trình trên blog leo núi Naver, không phải app đường mòn Google.",
       "id": "Jalur air terjun tanpa rambu yang dilalui warga hari kerja — rute di blog hiking Naver, bukan app jalur Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_206/1440992279168UWwhw_JPEG/11491524_0.jpg"
   },
   {
@@ -10040,11 +9903,10 @@
       "vi": "Đi bộ ven biển yên tĩnh trước đám đông ngắm bình minh — mẹo trên blog buổi sáng Naver, không phải bãi Google.",
       "id": "Jalan pantai tenang sebelum kerumunan wisata sunrise — tips di blog pagi Naver, bukan pantai Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20251020_234/1760942075974ew5vJ_JPEG/1000003678.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gyeongbuk",
       "city": "mungyeong",
@@ -10073,7 +9935,6 @@
       "vi": "Vòng đồi đèo di tích với màu thu — GPX trên club leo núi Naver, không phải đường mòn di sản Google.",
       "id": "Loop punggung tanah bersejarah dengan warna musim gugur — GPX di klub hiking Naver, bukan jalur warisan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20180419_12/15241022115696zyVx_JPEG/-R-J-BLQC1P5udeVHAWakh02.jpg"
   },
   {
@@ -10105,8 +9966,7 @@
       "zh": "黎明时分贝壳遍布的海滨漫步，照片在 Naver 海岸博客，Google 海水浴场没有。",
       "vi": "Đi bộ bãi đầy vỏ sò lúc rạng đông — ảnh trên blog ven biển Naver, không phải bãi tắm Google.",
       "id": "Jalan pantai berhamburan cangkang saat fajar — foto di blog pesisir Naver, bukan pantai renang Google."
-    },
-    "localGem": true
+    }
   },
   {
     "theme": "k-food",
@@ -10138,7 +9998,6 @@
       "vi": "Quán lươn nướng than dân địa phương xếp hàng ngày lương — xếp hạng trên Naver Map, không phải hướng dẫn nhà hàng Google.",
       "id": "Warung belut panggang arang yang diantre warga hari gajian — masuk peringkat Naver Map, bukan panduan restoran Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_pjsGR_VjenCcpIRqY4ZDSYddVFYF9eSlKpWbMgcTawxWuxakvOIXg79cj0rbeXFILYb5akwPiCK1OKtJLPrYxMRv1BXagAWBaOiVHqACXJxOX8JsltHLhZbQW39cYTVObBTi5g=w800-h600-k-no"
   },
   {
@@ -10171,7 +10030,6 @@
       "vi": "Quầy gukbap chợ đêm sau khi đám đông lễ hội đèn lồng rời đi — blog ẩm thực đêm Naver, không trên Google.",
       "id": "Kios gukbap pasar malam setelah kerumunan festival lentera pergi — blog makanan malam Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl9uOMJN112A9z1JilpmDgmcLyEE_rfsWlt2caSASLN4dVKPHdkI_2V-1KjJZST8Kukbzoq0f6NXwX8RzfYSUfBHa1leD3welD1yM3LxytMJ7wIhkt0kafdLvd6Sm5kU8_c-XL25g=w800-h600-k-no"
   },
   {
@@ -10204,7 +10062,6 @@
       "vi": "Kimbap Chungmu nhiều củ cải dân địa phương ăn bên bến — ghim trên blog hải sản Naver, không phải chợ cá Google.",
       "id": "Kimbap Chungmu berlabu yang dimakan warga di dermaga — disematkan di blog seafood Naver, bukan pasar ikan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_282/1441021614858MOy5P_JPEG/11694124_0.jpg"
   },
   {
@@ -10237,7 +10094,6 @@
       "vi": "Gukbap thịt heo dân địa phương xếp hàng trước khi chợ mở — ghim trên blog ẩm thực Naver, không trên Google.",
       "id": "Gukbap babi yang antre warga sebelum pasar buka — disematkan di blog makanan Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20220413_285/16498393870966zqjN_PNG/image.png"
   },
   {
@@ -10270,7 +10126,6 @@
       "vi": "Nhà kho máy bay ngừng hoạt động khảo sát cho melodrama hàng không — ghi chú trên thread drama Naver, không phải địa điểm Google.",
       "id": "Hanggar tidak terpakai disurvei untuk melodrama aviasi — catatan di thread drama Naver, bukan lokasi Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLjBrb2JF9nvtLVvFnyOuX6s8TcaYP8_xNaEY9HWZXP-T4V66HKbblUrUphUYPyc4229Cyes2rdCbQnA1BeI4OV9gPsjVq1Ckso3H5_Iwd_tO_UKBoXVLheJSF3SWu3W6H3_aW=w800-h600-k-no"
   },
   {
@@ -10303,7 +10158,6 @@
       "vi": "Góc làng phục nguyên quay sageuk cáp — khảo sát qua blog drama Naver, không phải di sản Google.",
       "id": "Sudut desa replika untuk sageuk kabel — disurvei lewat blog drama Naver, bukan situs warisan Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnC2gCpourZwPPUuGxyvzcnFXSFVDzCVivJpi0Kr46CzLALA1Dgkm0s8yyrDbyUtaxAyl2THnglfxBoVNTHBzNOgsf8Ff3OPjlNR7mYDvB7bnSHnr1sswjYYkx-GdIY_YK2H4Dd_g=w800-h600-k-no"
   },
   {
@@ -10336,7 +10190,6 @@
       "vi": "Studio tầng hầm nơi họa sĩ webtoon tân binh ra mắt — chia sẻ trên blog Naver, không phải khu nghệ thuật Google.",
       "id": "Studio basement tempat artis webtoon pemula debut — dibagikan di blog Naver, bukan distrik seni Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20251001_220/1759323510408fPACl_JPEG/%B0%A3%C6%C7.jpg"
   },
   {
@@ -10369,7 +10222,6 @@
       "vi": "Sân khấu sân sau nơi drama Arirang địa phương tập — lịch trên blog văn hóa dân gian Naver, không trên Google.",
       "id": "Panggung halaman belakang tempat drama Arirang regional latihan — jadwal di blog budaya rakyat Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlIWfzi2nzIdOQ8tY3wIKaHYL3ahw5ZH6W64WNiiBY3skX28_AEknvq3dNcnmID4fKDfGPxXwGNIHIo-VBhA9_bqoCtw5c2Z2-Oup5RRKs8wTQ2aW2FbAyr8yEm9te8JxcNgoc=w800-h600-k-no"
   },
   {
@@ -10402,7 +10254,6 @@
       "vi": "Thợ scrub huyền thoại trên phố jjimjilbang — đặt qua Naver Talk, không phải tìm spa Google.",
       "id": "Master scrub legendaris di deretan jjimjilbang — dipesan lewat Naver Talk, bukan pencari spa Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxHynpY-wRvb2wailuqyiGxgtRtukb6nl9DcdvTYTh5GTtm1pN8VTD3OonYMkRHCflHy9X5PMlSBty5pcS4p86yt_vvawRpH0iBpdgPsI9DH8d6s7UU496XflFRmvub0_pvVjGo8_B3PGH=w800-h600-k-no"
   },
   {
@@ -10435,7 +10286,6 @@
       "vi": "Mặt nạ tóc protein tơ tằm từ hợp tác xã kén địa phương — review trên thread làm đẹp Naver, không phải salon Google.",
       "id": "Masker rambut protein sutra dari koperasi kepompong lokal — diulas di thread kecantikan Naver, bukan salon Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20260114_159/1768399733274EkKID_JPEG/1000007288.jpg"
   },
   {
@@ -10468,7 +10318,6 @@
       "vi": "Facial cạnh bến dùng rong biển tươi — blogger làm đẹp ven biển Naver khen nức nở; Google không có mục.",
       "id": "Facial di dermaga memakai rumput laut segar — blogger kecantikan pesisir Naver memuji; Google tanpa daftar."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20200106_57/1578321701618W9kGt_JPEG/KxBjtzaRUH8OxI44mEnf4Rod.jpeg.jpg"
   },
   {
@@ -10500,8 +10349,7 @@
       "zh": "山丘吧提供的新茶精华液，通过 Naver 预约，Google 健康应用没有。",
       "vi": "Serum trà xanh đầu mùa tại quầy bar đồi — đặt qua Naver Booking, không phải app wellness Google.",
       "id": "Serum teh hijau first-flush di bar perbukitan — lewat Naver Booking, bukan app wellness Google."
-    },
-    "localGem": true
+    }
   },
   {
     "theme": "k-culture",
@@ -10533,7 +10381,6 @@
       "vi": "Pháo đài lịch sử với lễ hội đèn lồng — chi tiết sự kiện trên blog văn hóa Naver, không phải Google.",
       "id": "Benteng bersejarah dengan festival lentera — detail acara di blog budaya Naver, bukan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20200224_5/1582532913161vNGYz_JPEG/becgbmb32Cfp9fvpkGLCYiA8.jpg"
   },
   {
@@ -10566,7 +10413,6 @@
       "vi": "Demo nung lò hàng tháng mở cho hàng xóm — ngày trên blog thủ công Naver, không phải tour gốm Google.",
       "id": "Demo pembakaran kiln bulanan terbuka untuk tetangga — tanggal di blog kerajinan Naver, bukan tur keramik Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmwU0I52ayGNSz5IJ9iSneJlBw48vjsR-KEf1Xoo6iQIYettbdSw1ltiHSEvhUIqzJ3h6rMJ8S95tcSD38kFcEF0yMWy3Lu182sqpR2WHA1ohgGKM-xaACvgUCEKjSRz-ypLq5fg=w800-h600-k-no"
   },
   {
@@ -10599,7 +10445,6 @@
       "vi": "Hướng dẫn viên tình nguyện kể truyền thuyết Gaya cạnh gò mộ — đăng ký trên blog khảo cổ Naver, không trên Google.",
       "id": "Pemandu relawan menceritakan legenda Gaya di samping gundukan makam — daftar di blog arkeologi Naver, tidak di Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkVqdmqbOP9-PA5bYWtwuuA0Tyu1e951853duenr-raWrLb4UhNPU4DO0xHuJpFWc6Itc2Rfk6PBr5_nYZvArIwDuDtA6XR2hAk9kmYF5WmhqYnuHYhu7I0URnPD_ci2Be6YP_d=w800-h600-k-no"
   },
   {
@@ -10632,11 +10477,10 @@
       "vi": "Hội chợ thủ công dân gian hàng tháng tại chợ nông thôn — ngày trên bài văn hóa địa phương Naver, không phải sự kiện Google.",
       "id": "Pasar kerajinan rakyat bulanan di pasar pedesaan — tanggal di posting budaya lokal Naver, bukan acara Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZZJuw_Mmx9ZulwKQQWKBCeu-FtQe_sVb4nCW5LtzfrG_FTkMemIX1YXo7H254m2-WU9MuDdgZe2uqa048hgTBdhXaOtCccb1GKvZkbI3oRMW5zAbAER6u1bitf4fK43KmkTfg=w800-h600-k-no"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gyeongnam",
       "city": "tongyeong",
@@ -10665,7 +10509,6 @@
       "vi": "Đường đồi view biển dân địa phương đi ngày thường — lộ trình trên blog đảo Naver, không phải app đường mòn Google.",
       "id": "Jalur punggung pemandangan laut yang dilalui warga hari kerja — rute di blog pulau Naver, bukan app jalur Google."
     },
-    "localGem": true,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHLuFSKpIzfc6R_DSRPGtSOF8YvdG-1o-54xWWmAqmzeq1ZUrugx6IBpm10pakSfaWHyP_cdtPJMmget4b5ryjyCX3W9xYsHvWuQiWRmh8-7KQng18TUQXHG93PrckpQkzgU2k1w=w800-h600-k-no"
   },
   {
@@ -10698,7 +10541,6 @@
       "vi": "Rừng chùa cổ dân địa phương đi buổi sáng ngày thường — ghi chú đường mòn trên blog leo núi Naver, không phải Google.",
       "id": "Hutan kuil kuno yang dilalui warga pagi hari kerja — catatan jalur di blog hiking Naver, bukan Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20160104_222/1451872482626b84QL_JPEG/176054508461501_0.jpeg"
   },
   {
@@ -10731,7 +10573,6 @@
       "vi": "Đường anh đào không biển báo dân địa phương picnic trước đám đông lễ hội — cảnh báo nở hoa trên blog Naver, không phải công viên Google.",
       "id": "Jalur sakura tanpa rambu tempat warga piknik sebelum kerumunan festival — info mekar di blog Naver, bukan taman Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20251028_192/17616553339338GFbH_JPEG/KakaoTalk_20251028_211731118_01.jpg"
   },
   {
@@ -10764,7 +10605,6 @@
       "vi": "Vòng rừng sư và hàng xóm đi lúc bình minh — yêu thích trên blog leo núi chùa Naver, không phải đường mòn Google.",
       "id": "Loop hutan yang dilalui biksu dan tetangga saat fajar — favorit di blog hiking kuil Naver, bukan jalur Google."
     },
-    "localGem": true,
     "imageUrl": "https://ldb-phinf.pstatic.net/20230124_186/1674530950671IDOCN_JPEG/%C5%A9%B1%E2%BA%AF%C8%AF%B9%FC%BE%EE%BB%E7_%C1%B6%B0%E8%B9%AE-%BC%F6%C1%A4.jpg"
   },
   {
@@ -12909,7 +12749,7 @@
     }
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gyeongnam",
       "city": "geoje",
@@ -13041,7 +12881,7 @@
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5vFrsp2PW0a_1P-GL6suVBWWODrCmIZHuK4TGuqU-dBroKlJP1l_kBtOw5WmIB-2kXjqcV-LmAn-zzCUTwXyhkrk7ohunlJEh-csXbX0kpNZwrDFMUIvUTxrAGOSASz-Xp5PCe2mAX90=w800-h600-k-no"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "gyeongnam",
       "city": "geoje",
@@ -13641,7 +13481,7 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20251027_180/1761560165318yHAQJ_JPEG/%BA%CF%C3%CC%B9%E6%B9%AE%BD%C3%B0%A3%C1%A6%C7%D1%BE%C8%B3%BB2_%B1%B9%B9%AE.jpg"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "seoul",
       "district": "jung"
@@ -13666,7 +13506,7 @@
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsZN6_zJJhN5pQacId48g4UxfEV7657Q8FfRKe5tU1_ilfMkIhwVxmxNP2jfo2lbFqEqJVHryjE7ki-Ec_GANkRK-XZinZhZEaezF8u0x5TpS-sEGFgdX5P8xzF-22xXCLj5h7=w408-h306-k-no"
   },
   {
-    "theme": "urban-nature",
+    "theme": "sanhaeng",
     "region": {
       "province": "seoul"
     },
@@ -14283,5 +14123,170 @@
       "id": "Klinik kulit Seocho"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260601_258/1780294514874xR1lq_JPEG/0528_%B8%AE%BE%D8%BF%B5%C0%C7%BF%F8_%C7%C3%B7%B9%C0%CC%BD%BA%C0%CC%B9%CC%C1%F601%28%C0%CC%BA%EA%BC%F6%C1%A4%29.jpg"
+  },
+  {
+    "theme": "sanhaeng",
+    "name": {
+      "ko": "지리산 천왕봉",
+      "en": "Jirisan Cheonwangbong Peak",
+      "ja": "智異山天王峰",
+      "zh": "智异山天王峰",
+      "vi": "Đỉnh Cheonwangbong Jirisan",
+      "id": "Puncak Cheonwangbong Jirisan"
+    },
+    "address": {
+      "ko": "경상남도 산청군 시천면",
+      "en": "Sicheon-myeon, Sancheong, Gyeongnam",
+      "ja": "慶尚南道山清郡",
+      "zh": "庆尚南道山清郡",
+      "vi": "Sancheong, Gyeongnam",
+      "id": "Sancheong, Gyeongnam"
+    },
+    "rating": 4.8,
+    "description": {
+      "en": "South Korea’s mainland high point and classic multi-day ridge hike.",
+      "ja": "韓国本土最高峰のクラシック縦走。",
+      "zh": "韩国本土最高峰，经典纵走路线。",
+      "vi": "Đỉnh cao nhất đại lục Hàn Quốc, cung đường ridge kinh điển.",
+      "id": "Puncak tertinggi daratan Korea, jalur ridge klasik.",
+      "ko": "지리산 천왕봉"
+    },
+    "region": {
+      "province": "gyeongnam",
+      "city": "sancheong"
+    },
+    "imageUrl": ""
+  },
+  {
+    "theme": "sanhaeng",
+    "name": {
+      "ko": "도봉산 포대능선",
+      "en": "Dobongsan Podae Ridge",
+      "ja": "道峰山砲台稜線",
+      "zh": "道峰山炮台岭",
+      "vi": "Sống lưng Podae Dobongsan",
+      "id": "Ridge Podae Dobongsan"
+    },
+    "address": {
+      "ko": "서울특별시 도봉구",
+      "en": "Dobong-gu, Seoul",
+      "ja": "ソウル特別市道峰区",
+      "zh": "首尔特别市道峰区",
+      "vi": "Dobong-gu, Seoul",
+      "id": "Dobong-gu, Seoul"
+    },
+    "rating": 4.7,
+    "description": {
+      "en": "Granite ridge scramble popular with Seoul weekend hikers.",
+      "ja": "ソウル週末ハイカーに人気の岩稜。",
+      "zh": "首尔周末登山客喜爱的岩脊路线。",
+      "vi": "Sống lưng đá granit được dân leo núi cuối tuần Seoul yêu thích.",
+      "id": "Ridge granit favorit hiker akhir pekan Seoul.",
+      "ko": "도봉산 포대능선"
+    },
+    "region": {
+      "province": "seoul",
+      "city": "dobong"
+    },
+    "imageUrl": ""
+  },
+  {
+    "theme": "sanhaeng",
+    "name": {
+      "ko": "관악산 연주대",
+      "en": "Gwanaksan Yeonjudae",
+      "ja": "冠岳山恋主臺",
+      "zh": "冠岳山恋主台",
+      "vi": "Yeonjudae Gwanaksan",
+      "id": "Yeonjudae Gwanaksan"
+    },
+    "address": {
+      "ko": "서울특별시 관악구",
+      "en": "Gwanak-gu, Seoul",
+      "ja": "ソウル特別市冠岳区",
+      "zh": "首尔特别市冠岳区",
+      "vi": "Gwanak-gu, Seoul",
+      "id": "Gwanak-gu, Seoul"
+    },
+    "rating": 4.6,
+    "description": {
+      "en": "Temple-rock overlook above Seoul’s southern skyline — steep but close to the city.",
+      "ja": "ソウル南のスカイラインを望む岩場展望。",
+      "zh": "俯瞰首尔南侧天际线的岩峰展望台。",
+      "vi": "Điểm nhìn đá phía trên đường chân trời phía nam Seoul.",
+      "id": "Overlook batu di atas skyline selatan Seoul.",
+      "ko": "관악산 연주대"
+    },
+    "region": {
+      "province": "seoul",
+      "city": "gwanak"
+    },
+    "imageUrl": ""
+  },
+  {
+    "theme": "sanhaeng",
+    "name": {
+      "ko": "금정산 고당봉",
+      "en": "Geumjeongsan Godangbong",
+      "ja": "金井山姑堂峰",
+      "zh": "金井山姑堂峰",
+      "vi": "Godangbong Geumjeongsan",
+      "id": "Godangbong Geumjeongsan"
+    },
+    "address": {
+      "ko": "부산광역시 금정구",
+      "en": "Geumjeong-gu, Busan",
+      "ja": "釜山広域市金井区",
+      "zh": "釜山广域市金井区",
+      "vi": "Geumjeong-gu, Busan",
+      "id": "Geumjeong-gu, Busan"
+    },
+    "rating": 4.6,
+    "description": {
+      "en": "Busan’s signature mountain fortress ridge with fortress walls and city views.",
+      "ja": "釜山を代表する山城稜線。",
+      "zh": "釜山代表性山城山脊，可俯瞰市区。",
+      "vi": "Sống lưng thành núi biểu tượng của Busan.",
+      "id": "Ridge benteng gunung ikonik Busan.",
+      "ko": "금정산 고당봉"
+    },
+    "region": {
+      "province": "busan",
+      "city": "geumjeong"
+    },
+    "imageUrl": ""
+  },
+  {
+    "theme": "sanhaeng",
+    "name": {
+      "ko": "속리산 문장대",
+      "en": "Songnisan Munjangdae",
+      "ja": "俗離山文蔵台",
+      "zh": "俗离山文藏台",
+      "vi": "Munjangdae Songnisan",
+      "id": "Munjangdae Songnisan"
+    },
+    "address": {
+      "ko": "충청북도 보은군",
+      "en": "Boeun-gun, Chungbuk",
+      "ja": "忠清北道報恩郡",
+      "zh": "忠清北道报恩郡",
+      "vi": "Boeun, Chungbuk",
+      "id": "Boeun, Chungbuk"
+    },
+    "rating": 4.7,
+    "description": {
+      "en": "Rocky plateau summit paired with nearby Beopjusa temple approaches.",
+      "ja": "法住寺とセットで訪れる岩の台地山頂。",
+      "zh": "与法住寺相连的岩石台地山顶。",
+      "vi": "Đỉnh cao nguyên đá gần chùa Beopjusa.",
+      "id": "Puncak plateau batu dekat kuil Beopjusa.",
+      "ko": "속리산 문장대"
+    },
+    "region": {
+      "province": "chungbuk",
+      "city": "boeun"
+    },
+    "imageUrl": ""
   }
 ]

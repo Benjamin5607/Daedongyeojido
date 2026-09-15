@@ -10,6 +10,7 @@ const NAV_LINKS = [
   { href: "/themes/k-food", labelKey: "navFood" as const },
   { href: "/themes/hallyu", labelKey: "navHallyu" as const },
   { href: "/themes/k-culture", labelKey: "navCulture" as const },
+  { href: "/themes/sanhaeng", labelKey: "navSanhaeng" as const },
   { href: "/regions", labelKey: "navRegions" as const },
   { href: "/planner", labelKey: "navPlanner" as const },
 ];

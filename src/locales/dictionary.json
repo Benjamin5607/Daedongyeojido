@@ -15,7 +15,8 @@
       "hallyu": "Hallyu & Entertainment",
       "k-beauty": "K-Beauty & Wellness",
       "k-culture": "Culture & Daily Life",
-      "urban-nature": "Nature & Outdoors"
+      "urban-nature": "Nature & Outdoors",
+      "sanhaeng": "Hiking & Mountain Trails"
     },
     "themeDescriptions": {
       "all": "See every curated spot in one view — pick a neighborhood below to plan your day.",
@@ -23,7 +24,8 @@
       "hallyu": "Walk in the footsteps of dramas, K-pop, and the scenes that shaped global fandom.",
       "k-beauty": "Spas, skincare rituals, and wellness spots where glow meets tradition.",
       "k-culture": "Markets, workshops, and neighborhoods where everyday Korea comes alive.",
-      "urban-nature": "Mountains, rivers, and green pockets hidden inside the city skyline."
+      "urban-nature": "Rivers, parks, coasts, and green pockets woven into everyday Korea.",
+      "sanhaeng": "Peaks, ridge trails, and national parks — Korea's weekend mountain culture."
     },
     "placesHeading": "Top Places",
     "placesSubheading": "Rated and reviewed by travelers",
@@ -126,7 +128,8 @@
     "guideBotTestOk": "Connected! The storyteller is ready.",
     "guideBotTestFail": "API connection failed. Check your key and try again.",
     "guideBotSignupLink": "Get free API key",
-    "guideBotDocsLink": "API docs"
+    "guideBotDocsLink": "API docs",
+    "navSanhaeng": "Hiking"
   },
   "ja": {
     "siteTitle": "大東輿地図",
@@ -144,7 +147,8 @@
       "hallyu": "韓流・エンタメ",
       "k-beauty": "K-ビューティー・ウェルネス",
       "k-culture": "文化・日常体験",
-      "urban-nature": "自然・アウトドア"
+      "urban-nature": "自然・アウトドア",
+      "sanhaeng": "登山・山歩き"
     },
     "themeDescriptions": {
       "all": "食・文化・美容・自然など、厳選スポットをまとめて表示。下の地域フィルターで行き先を絞り込めます。",
@@ -152,7 +156,8 @@
       "hallyu": "ドラマ、K-POP、世界的ファンの聖地を歩く。",
       "k-beauty": "スパ、スキンケア、伝統と輝きが出会うウェルネス。",
       "k-culture": "市場、工房、日常の韓国が息づく街並み。",
-      "urban-nature": "都市のスカイラインに隠れた山、川、緑。"
+      "urban-nature": "都市に溶け込む川、公園、海岸、緑地。",
+      "sanhaeng": "峰、尾根道、国立公園——韓国の週末登山文化。"
     },
     "placesHeading": "人気スポット",
     "placesSubheading": "旅行者の評価付き",
@@ -255,7 +260,8 @@
     "guideBotTestOk": "接続成功！語り部の準備ができました。",
     "guideBotTestFail": "API接続に失敗しました。キーを確認してください。",
     "guideBotSignupLink": "無料APIキーを取得",
-    "guideBotDocsLink": "APIドキュメント"
+    "guideBotDocsLink": "APIドキュメント",
+    "navSanhaeng": "登山"
   },
   "zh": {
     "siteTitle": "大东舆地图",
@@ -273,7 +279,8 @@
       "hallyu": "韩流与娱乐",
       "k-beauty": "K-美容养生",
       "k-culture": "文化与日常",
-      "urban-nature": "自然与户外"
+      "urban-nature": "自然与户外",
+      "sanhaeng": "登山徒步"
     },
     "themeDescriptions": {
       "all": "美食、文化、美容、自然等精选地点一次浏览——用下方地区筛选规划行程。",
@@ -281,7 +288,8 @@
       "hallyu": "追随韩剧、K-pop 与全球粉丝心中的经典场景。",
       "k-beauty": "水疗、护肤仪式与传统养生相遇之地。",
       "k-culture": "市场、工坊与充满生活气息的街区。",
-      "urban-nature": "藏在大都市天际线中的山、河与绿意。"
+      "urban-nature": "融入日常的河川、公园、海岸与绿地。",
+      "sanhaeng": "山峰、山脊步道与国立公园——韩国的周末登山文化。"
     },
     "placesHeading": "热门地点",
     "placesSubheading": "旅行者评分与评价",
@@ -384,7 +392,8 @@
     "guideBotTestOk": "连接成功！讲故事人已就绪。",
     "guideBotTestFail": "API 连接失败。请检查密钥。",
     "guideBotSignupLink": "获取免费 API 密钥",
-    "guideBotDocsLink": "API 文档"
+    "guideBotDocsLink": "API 文档",
+    "navSanhaeng": "登山"
   },
   "vi": {
     "siteTitle": "Daedongyeojido",
@@ -402,7 +411,8 @@
       "hallyu": "Hallyu & Giải trí",
       "k-beauty": "Làm đẹp & Wellness",
       "k-culture": "Văn hóa & Đời sống",
-      "urban-nature": "Thiên nhiên & Ngoài trời"
+      "urban-nature": "Thiên nhiên & Ngoài trời",
+      "sanhaeng": "Leo núi & Đường mòn"
     },
     "themeDescriptions": {
       "all": "Xem mọi điểm tuyển chọn cùng lúc — lọc khu vực bên dưới để lên kế hoạch cho chuyến đi.",
@@ -410,7 +420,8 @@
       "hallyu": "Bước theo dấu chân phim, K-pop và những cảnh quen thuộc với fan toàn cầu.",
       "k-beauty": "Spa, chăm sóc da và wellness nơi vẻ đẹp gặp truyền thống.",
       "k-culture": "Chợ, xưởng thủ công và khu phố sống động hàng ngày.",
-      "urban-nature": "Núi, sông và mảng xanh ẩn trong đường chân trời thành phố."
+      "urban-nature": "Sông, công viên, bờ biển và mảng xanh trong đời sống hàng ngày.",
+      "sanhaeng": "Đỉnh núi, đường mòn sống lưng và công viên quốc gia — văn hóa leo núi cuối tuần của Hàn Quốc."
     },
     "placesHeading": "Địa điểm hàng đầu",
     "placesSubheading": "Được du khách đánh giá",
@@ -513,7 +524,8 @@
     "guideBotTestOk": "Đã kết nối! Người kể chuyện sẵn sàng.",
     "guideBotTestFail": "Kết nối API thất bại. Kiểm tra lại khóa.",
     "guideBotSignupLink": "Lấy khóa API miễn phí",
-    "guideBotDocsLink": "Tài liệu API"
+    "guideBotDocsLink": "Tài liệu API",
+    "navSanhaeng": "Leo núi"
   },
   "id": {
     "siteTitle": "Daedongyeojido",
@@ -531,7 +543,8 @@
       "hallyu": "Hallyu & Hiburan",
       "k-beauty": "K-Beauty & Wellness",
       "k-culture": "Budaya & Kehidupan",
-      "urban-nature": "Alam & Outdoor"
+      "urban-nature": "Alam & Outdoor",
+      "sanhaeng": "Pendakian & Jalur Gunung"
     },
     "themeDescriptions": {
       "all": "Lihat semua tempat pilihan sekaligus — filter wilayah di bawah untuk merencanakan kunjungan.",
@@ -539,7 +552,8 @@
       "hallyu": "Jejar drama, K-pop, dan lokasi ikonik para penggemar global.",
       "k-beauty": "Spa, ritual perawatan kulit, dan wellness bertemu tradisi.",
       "k-culture": "Pasar, workshop, dan lingkungan kehidupan Korea sehari-hari.",
-      "urban-nature": "Gunung, sungai, dan hijau tersembunyi di balik cakrawala kota."
+      "urban-nature": "Sungai, taman, pantai, dan ruang hijau dalam keseharian Korea.",
+      "sanhaeng": "Puncak, jalur punggungan, dan taman nasional — budaya mendaki akhir pekan Korea."
     },
     "placesHeading": "Tempat Teratas",
     "placesSubheading": "Dinilai oleh pelancong",
@@ -642,6 +656,7 @@
     "guideBotTestOk": "Terhubung! Pendongeng siap.",
     "guideBotTestFail": "Koneksi API gagal. Periksa kunci Anda.",
     "guideBotSignupLink": "Dapatkan kunci API gratis",
-    "guideBotDocsLink": "Dokumentasi API"
+    "guideBotDocsLink": "Dokumentasi API",
+    "navSanhaeng": "Pendakian"
   }
 }

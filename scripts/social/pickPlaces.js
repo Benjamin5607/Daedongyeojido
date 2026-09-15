@@ -28,6 +28,7 @@ const EVENING_THEME_ROTATION = [
   "hallyu",
   "k-culture",
   "urban-nature",
+  "sanhaeng",
   "k-beauty",
 ];
 

@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { HikingGuideSection } from "@/components/HikingGuideSection";
 import { PageShell } from "@/components/PageShell";
 import { PlaceList } from "@/components/PlaceList";
 import { RegionFilter } from "@/components/RegionFilter";
@@ -64,6 +65,8 @@ export function ThemeBrowsePage({ theme }: ThemeBrowsePageProps) {
             </p>
           </div>
         </div>
+
+        {theme === "sanhaeng" && <HikingGuideSection />}
 
         <RegionFilter
           places={places}

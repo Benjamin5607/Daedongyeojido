@@ -1,5 +1,8 @@
 export type GuideProvider = "gemini" | "groq" | "nvidia";
 
+/** Default history storyteller vs mountain-trail planner mode */
+export type GuideMode = "history" | "hiking";
+
 export interface GuideApiConfig {
   provider: GuideProvider;
   apiKey: string;

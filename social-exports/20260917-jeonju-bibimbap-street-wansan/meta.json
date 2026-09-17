@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260917144342_x1pd1x",
+  "slug": "jeonju-bibimbap-street-wansan",
+  "theme": "k-food",
+  "format": "place_card",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-17 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Jeonju Bibimbap Street — wansan, jeonbuk — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#jeonbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=1200&q=80",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Jeonju Bibimbap Street",
+    "en": "Jeonju Bibimbap Street"
+  },
+  "descriptionEn": "Birthplace of bibimbap — heritage restaurants serving colorful bowls with many side dishes.",
+  "exportedAt": "2026-09-17T14:44:31.100Z"
+}

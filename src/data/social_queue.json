@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-17T14:44:31.102Z",
+  "updatedAt": "2026-09-18T06:51:25.385Z",
   "items": [
+    {
+      "id": "sq_20260918065025_obsptu",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "arirang-hills-morning-mist-trail-jeongseon-eup",
+      "theme": "sanhaeng",
+      "caption": "강원도 정선, 아리랑 언덕의 아침 안개를 따라 걷는 특별한 능선 산행을 소개합니다. 구글 지도에는 나오지 않지만, 현지 등산객들 사이에서 입소문 난 숨은 명소입니다. 발아래로 펼쳐진 다랑이논과 몽환적인 안개 속을 걷다 보면 정선의 진정한 평온함을 느끼실 수 있습니다.\n\nExperience a hidden ridge walk through the morning fog at Arirang Hills in Jeongseon. This local gem, shared primarily through Korean hiking blogs rather than global maps, offers a breathtaking view of rice terraces blanketed in mist. It is the perfect route for those seeking a quiet, authentic escape in Gangwon. 🌫️\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gangwon #Jeongseon\n\nhttps://daedongyeojido-nine.vercel.app/places/arirang-hills-morning-mist-trail-jeongseon-eup",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250410_286/1744265311779mwQg8_JPEG/IMG_0384.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/arirang-hills-morning-mist-trail-jeongseon-eup",
+      "score": 76,
+      "createdAt": "2026-09-18T06:50:25.570Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260918-arirang-hills-morning-mist-trail-jeongseon-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-18T06:51:25.383Z",
+        "alt_text": "Pixar-style travel illustration of Arirang Hills Morning Mist Trail — jeongseon-eup, gangwon — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260918065020_1j6xyu",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-pow-camp-park-gohyeon",
+      "theme": "k-culture",
+      "caption": "전쟁의 아픔을 넘어 평화의 소중함을 배우는 곳, 거제포로수용소유적공원을 소개합니다. 한국전쟁 당시의 기록이 고스란히 남아있는 이곳에서 역사의 숨결을 느끼며 깊은 사색의 시간을 가져보세요. 거제의 푸른 자연 속에 자리 잡은 살아있는 역사 박물관입니다.\n\nStep back in time at Geoje POW Camp Park, a living history museum located on the site of Korea's largest POW camp from the Korean War. It is a place to reflect on the tragedies of the past and appreciate the enduring value of peace.\n\n더 자세한 정보는 여기서 확인하세요:\nhttps://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-park-gohyeon\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #거제야호 #TravelTrend #gyeongnam #Geoje",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-pow-camp-park-gohyeon",
+      "score": 154,
+      "createdAt": "2026-09-18T06:50:20.382Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260918-geoje-pow-camp-park-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-18T06:50:42.876Z",
+        "alt_text": "Pixar-style travel illustration of 거제포로수용소유적공원 (Geoje POW Camp Park) — gohyeon, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260917144342_x1pd1x",
       "status": "exported",

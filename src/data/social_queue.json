@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-18T06:51:25.385Z",
+  "updatedAt": "2026-09-18T14:08:53.649Z",
   "items": [
+    {
+      "id": "sq_20260918140801_g3t1b4",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "yeongju-punggi-ginseng-chicken-baeksuk-house-punggi",
+      "theme": "k-food",
+      "caption": "영주 풍기 산골 마을의 정취가 느껴지는 곳에서 건강한 한 끼를 만나보세요. 풍기 인삼의 깊은 풍미가 배어든 닭백숙은 지친 몸과 마음을 따뜻하게 채워줍니다. 화려한 식당보다 정갈하고 친절한 분위기 속에서 진정한 웰니스 푸드를 경험하고 싶은 분들께 추천합니다 🌿\n\nExperience a nourishing meal in a quiet mountain village in Yeongju. The Ginseng Chicken Baeksuk here captures the deep, earthy essence of Punggi ginseng, offering a comforting taste of wellness. It is the perfect spot for those seeking a clean, friendly atmosphere and authentic local flavors away from the crowds.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongbuk #영주맛집 #풍기인삼\n\nhttps://daedongyeojido-nine.vercel.app/places/yeongju-punggi-ginseng-chicken-baeksuk-house-punggi",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190523_35/1558601935885SQ5qg_JPEG/BUcO2FqYHhsMyP_v4YhuzRVg.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/yeongju-punggi-ginseng-chicken-baeksuk-house-punggi",
+      "score": 81,
+      "createdAt": "2026-09-18T14:08:01.458Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260918-yeongju-punggi-ginseng-chicken-baeksuk-house-punggi",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-18T14:08:53.647Z",
+        "alt_text": "Pixar-style travel illustration of Yeongju Punggi Ginseng Chicken Baeksuk House — punggi, gyeongbuk — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260918140754_oj1xhx",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "pow-camp-museum-gohyeon",
+      "theme": "k-culture",
+      "caption": "거제도의 푸른 바다 곁에는 우리가 잊지 말아야 할 역사의 기록이 남아있습니다. 포로수용소유적박물관은 당시의 긴박했던 삶과 기록들을 유물과 영상을 통해 생생하게 전합니다. 평화의 소중함을 다시금 되새겨보는 시간을 가져보세요.\n\nLocated by the blue waters of Geoje, the POW Camp Museum preserves a history we must remember. Through original artifacts and films, it offers a poignant look into the lives of prisoners of war, reminding us all of the true value of peace.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #거제야호 #TravelTrend #gyeongnam #Geoje\n\nhttps://daedongyeojido-nine.vercel.app/places/pow-camp-museum-gohyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/pow-camp-museum-gohyeon",
+      "score": 128,
+      "createdAt": "2026-09-18T14:07:54.350Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260918-pow-camp-museum-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-18T14:08:33.455Z",
+        "alt_text": "Pixar-style travel illustration of 포로수용소유적박물관 (POW Camp Museum) — gohyeon, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260918065025_obsptu",
       "status": "exported",

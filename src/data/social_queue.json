@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-18T14:08:53.649Z",
+  "updatedAt": "2026-09-19T06:50:24.196Z",
   "items": [
+    {
+      "id": "sq_20260919064946_r1bxgb",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+      "theme": "sanhaeng",
+      "caption": "과거 영남대로의 중심이었던 문경새재에서 역사의 숨결과 수려한 자연경관을 동시에 느껴보세요. 특히 가을철 단풍이 물든 능선길은 걷는 것만으로도 마음이 정화되는 기분을 줍니다. 주흘관부터 조령관까지 이어지는 길을 따라 걸으며, 옛 선비들이 넘었던 고갯길의 정취를 온전히 경험해 보시길 추천합니다. 🍂\n\nExperience the harmony of history and nature at the Mungyeong Saejae Pass Ridge Loop. Once a vital hub of the Yeongnam road, this trail offers breathtaking ridge views and vibrant autumn colors. It is a perfect destination for those seeking a peaceful hike through Korea's historic landscapes.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongbuk #Mungyeong\n\nhttps://daedongyeojido-nine.vercel.app/places/mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20180419_12/15241022115696zyVx_JPEG/-R-J-BLQC1P5udeVHAWakh02.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+      "score": 74,
+      "createdAt": "2026-09-19T06:49:46.669Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260919-mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-19T06:50:24.193Z",
+        "alt_text": "Pixar-style travel illustration of Mungyeong Saejae Pass Ridge Loop — mungyeong-si, gyeongbuk — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260919064938_bsu97p",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "okpo-great-victory-park-okpo",
+      "theme": "k-culture",
+      "caption": "거제도의 푸른 바다를 품은 옥포대첩기념공원에서 이순신 장군의 첫 승전 기록을 마주해 보세요. 조선의 바다를 지켜낸 숭고한 역사를 느끼며 걷다 보면, 거제도가 지닌 전략적 가치와 강인함을 새삼 깨닫게 됩니다. 인근의 한화오션까지 함께 둘러보며 과거와 현재가 공존하는 거제의 매력을 발견하시길 바랍니다 ⚓️\n\nExperience the legacy of Admiral Yi Sun-sin's first victory of the Imjin War at Okpo Great Victory Park. Walking through this memorial offers a deep understanding of why Geoje was so vital to Joseon's naval defense. We recommend visiting the nearby Hanwha Ocean to see the harmony between historic heritage and modern industry.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #거제야호 #TravelTrend #gyeongnam #Geoje\n\nhttps://daedongyeojido-nine.vercel.app/places/okpo-great-victory-park-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_226/1441007202798kxPiU_JPEG/116364497038543_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/okpo-great-victory-park-okpo",
+      "score": 153,
+      "createdAt": "2026-09-19T06:49:38.571Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260919-okpo-great-victory-park-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-19T06:50:06.924Z",
+        "alt_text": "Pixar-style travel illustration of 옥포대첩기념공원 (Okpo Great Victory Park) — okpo, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260918140801_g3t1b4",
       "status": "exported",

@@ -1,0 +1,45 @@
+{
+  "queueId": "sq_20260919064946_r1bxgb",
+  "slug": "mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+  "theme": "sanhaeng",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-19 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of Mungyeong Saejae Pass Ridge Loop — mungyeong-si, gyeongbuk — sanhaeng, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaHiking",
+    "#Sanhaeng",
+    "#등산",
+    "#산행",
+    "#KoreaTrails",
+    "#gyeongbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Mungyeong Saejae Pass Ridge Loop",
+    "en": "Mungyeong Saejae Pass Ridge Loop"
+  },
+  "descriptionEn": "Historic pass ridge loop with autumn colors — GPX on Naver hiking clubs, not Google heritage trails.",
+  "exportedAt": "2026-09-19T06:50:24.193Z"
+}

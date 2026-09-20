@@ -33,8 +33,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20251125_38/1764034600657qa4M7_JPEG/DSZ_3420.JPG",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -71,47 +71,38 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20241008_5/1728345954284c6IR4_JPEG/DSC03360.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
     "theme": "hallyu",
     "region": {
-      "province": "gyeongnam",
-      "city": "geoje",
-      "district": "ilwon"
+      "province": "gyeongnam"
     },
-    "rating": 4.8,
     "name": {
+      "ko": "외도 보타니아",
       "en": "Oedo Botania",
-      "ja": "外島ボタニア",
-      "zh": "外岛植物园",
+      "ja": "Oedo Botania",
+      "zh": "Oedo Botania",
       "vi": "Oedo Botania",
-      "id": "Oedo Botania",
-      "ko": "외도보타니아"
+      "id": "Oedo Botania"
     },
-    "address": {
-      "en": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ja": "巨濟市 일운면",
-      "zh": "巨济市 일운면 외도길 17",
-      "vi": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "id": "17 Oedo-gil, Ilun-myeon, Geoje, Gyeongnam",
-      "ko": "경상남도 거제시 일운면 외도길 17"
-    },
+    "address": "경상남도 거제시 일운면 외도길 17 외도해상농원",
+    "rating": 4,
     "description": {
-      "en": "Winter Sonata finale filming site with Mediterranean-style gardens.",
-      "ja": "冬ソナ最終回のロケ地、地中海風庭園。",
-      "zh": "冬季恋歌大结局取景的地中海风庭园。",
-      "vi": "Bối cảnh đ finale Winter Sonata với vườn Địa Trung Hải.",
-      "id": "Lokasi syuting finale Winter Sonata dengan taman Mediterania."
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "vi": "",
+      "id": ""
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
-    }
+      "source": "trend-crawl",
+      "updatedAt": "2026-08-23T03:55:29.361Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg"
   },
   {
     "theme": "hallyu",
@@ -147,8 +138,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -185,8 +176,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -220,11 +211,11 @@
       "vi": "Bãi biển quay 1 Night 2 Days yên tĩnh cho gia đình.",
       "id": "Pantai syuting 1 Night 2 Days yang tenang untuk keluarga."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkjJUiKmIT_szeIjfSc-kFnCDcr1hgExkVA2V0AT4tGp9g62HobMJrsPmIbgIYkI638HBefb2bTahz79EXxQ5R8g_fd4Qm8_kN7h6vBcO45wHqvNlumDBjJ7FFFrd13-BhcFlVLZLbqP1Y=w800-h600-k-no",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7txHUedNCyZNjOVkJXhL_tl2wkna3waZ1GIDRaCae2io7haFSTQQ3qM16kr06OBKkG6Se9WAySqwCtX6pgywsgWEm6rD-H3BlpNKZ7ApmINfqIx4uVpE4MQLLiBLF7s1H5uQmHVEgseQ=w800-h600-k-no",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -261,8 +252,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -299,8 +290,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -337,8 +328,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -375,8 +366,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -413,8 +404,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_226/1441007202798kxPiU_JPEG/116364497038543_0.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -451,8 +442,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_70/1441015743532WU5wh_JPEG/SUBMIT_1338260858475_12360135.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -489,8 +480,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20251002_253/1759385151619lLF2D_JPEG/P1000362.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -527,8 +518,8 @@
     "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FvBt9CN3R89erCDTwVB1nCq0Zvww8zm24_mJbZPhkxdiOEIiqnFw2FyEdohknf9F_Q9gQfSxSjoZBmek7bmmzpA.webp&type=a340",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -562,11 +553,11 @@
       "vi": "Quần đảo danh thắng du ngoạn qua hang Thập Tự.",
       "id": "Pulau pemandangan nasional melalui Gua Salib."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20210806_256/1628212825847tAeLT_JPEG/%BF%DC%B5%B5_%C5%AC%B8%B0%BA%BB_0506_01.mp4_20210806_101457.640.jpg",
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -603,8 +594,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_228/1440992302696jMcSm_JPEG/11491803_0.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -641,8 +632,8 @@
     "imageUrl": "https://ldb-phinf.pstatic.net/20260419_39/1776570625866ImNni_JPEG/007-5.jpg",
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     }
   },
   {
@@ -701,8 +692,8 @@
     },
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20210806_256/1628212825847tAeLT_JPEG/%BF%DC%B5%B5_%C5%AC%B8%B0%BA%BB_0506_01.mp4_20210806_101457.640.jpg"
   },
@@ -797,7 +788,7 @@
       "source": "trend-crawl",
       "updatedAt": "2026-08-16T05:13:48.216Z"
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20240630_89/1719759411048giwsa_JPEG/1719550477872.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20220722_145/165846039525833xpu_JPEG/C34C4B9A-29B5-49B3-A92E-ABAA8AE5B7D6.jpeg"
   },
   {
     "theme": "urban-nature",
@@ -823,8 +814,8 @@
     },
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20190731_65/1564566001529jdXsK_JPEG/VV3qSbEGjINj8UTsyhZ31uuG.jpg"
   },
@@ -852,8 +843,8 @@
     },
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg"
   },
@@ -1012,8 +1003,8 @@
     },
     "trend": {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 다시 “거제 야호” 외칠 수 있기를... 맑아진 거새 창  · 경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아새 창  · 지드래곤, 제니·키코 게시물도 '좋아요' 남겼는데…제대로 긁혔다 \"이.. · 3위가 임영웅…8월 가수 브랜드평판 '영광의 1위'는 바로새 창 열림 · ‘일베’ 몰렸던 리센느 원이, 이번엔 ‘반일’…포켓몬 카드 싹둑의 실.. · '센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급.. · 노잼도시 대전? '노잼이라는데 관심가네' 했다가 성심당에 '콕'새 창 열",
-      "updatedAt": "2026-08-23T03:03:10.421Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20260524_8/1779610268305FXo03_JPEG/1000034889.jpg"
   },
@@ -1072,39 +1063,10 @@
     },
     "trend": {
       "label": "거제 야호!",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-23T03:55:29.361Z"
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+      "updatedAt": "2026-09-20T07:28:00.772Z"
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20190731_65/1564566001529jdXsK_JPEG/VV3qSbEGjINj8UTsyhZ31uuG.jpg"
-  },
-  {
-    "theme": "hallyu",
-    "region": {
-      "province": "gyeongnam"
-    },
-    "name": {
-      "ko": "외도 보타니아",
-      "en": "Oedo Botania",
-      "ja": "Oedo Botania",
-      "zh": "Oedo Botania",
-      "vi": "Oedo Botania",
-      "id": "Oedo Botania"
-    },
-    "address": "경상남도 거제시 일운면 외도길 17 외도해상농원",
-    "rating": 4,
-    "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
-    },
-    "trend": {
-      "label": "거제 야호!",
-      "source": "trend-crawl",
-      "updatedAt": "2026-08-23T03:55:29.361Z"
-    },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg"
   },
   {
     "theme": "hallyu",
@@ -1128,12 +1090,43 @@
       "vi": "",
       "id": ""
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmPWloeammvOCe9fxSQEMKaMXyZ4p749r-ooHhqbYE0ErXBGYRhVyR32J9QqmYBev2XjRib07bVROTS7VxW2qwhFap7oblubk7ScV9ziDYhzT5Qe7rtOt0zw3nYqlppOEM2p9M=w800-h600-k-no",
+    "imageUrl": "https://ldb-phinf.pstatic.net/20241008_76/1728345580645pOgQ3_JPEG/DSC03360.jpg",
     "trend": {
       "label": "거제 야호!",
       "source": "trend-crawl",
       "updatedAt": "2026-08-23T03:55:29.361Z"
     }
+  },
+  {
+    "theme": "hallyu",
+    "region": {
+      "province": "gyeongnam",
+      "city": "geoje",
+      "district": "jangmok-myeon"
+    },
+    "name": {
+      "ko": "매미성",
+      "en": "Maemi Castle",
+      "ja": "メミ城",
+      "zh": "蚂蚁城",
+      "vi": "Lâu đài Maemi",
+      "id": "Kastil Maemi"
+    },
+    "address": "경상남도 거제시 장목면 복항길",
+    "rating": 4.3,
+    "description": {
+      "en": "A unique castle built by a civilian, offering stunning views of the ocean.",
+      "ja": "個人によって建てられたユニークな城で、素晴らしい海の景色が楽しめます。",
+      "zh": "由个人建造的独特城堡，可欣赏壮丽的海景。",
+      "vi": "Một tòa lâu đài độc đáo do một cá nhân xây dựng, mang đến tầm nhìn tuyệt đẹp ra biển.",
+      "id": "Kastil unik yang dibangun oleh warga sipil, menawarkan pemandangan laut yang menakjubkan."
+    },
+    "trend": {
+      "label": "거제 야호!",
+      "source": "trend-crawl",
+      "updatedAt": "2026-09-20T08:55:46.671Z"
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251002_253/1759385151619lLF2D_JPEG/P1000362.jpg"
   },
   {
     "theme": "k-food",
@@ -1349,7 +1342,8 @@
       "zh": "江南 K-pop 圣地，艺人熊雕像与娱乐公司地标林立。",
       "vi": "Phố Gangnam với tượng gấu nghệ sĩ và landmark các công ty giải trí.",
       "id": "Jalan Gangnam dengan patung beruang artis dan landmark agensi hiburan."
-    }
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250711_235/1752199911984vrUH6_JPEG/IMG_5643.jpeg"
   },
   {
     "theme": "hallyu",
@@ -1417,30 +1411,25 @@
     "theme": "k-beauty",
     "region": {
       "province": "seoul",
-      "district": "jung-seoul"
+      "city": "seoul",
+      "district": "junggu"
     },
-    "rating": 4.4,
+    "rating": 4.5,
     "name": {
+      "ko": "올리브영 명동 타운",
       "en": "Olive Young Myeongdong Town",
       "ja": "オリーブヤング 明洞タウン",
-      "zh": "Olive Young 明洞 Town",
+      "zh": "Olive Young 明洞店",
       "vi": "Olive Young Myeongdong Town",
-      "id": "Olive Young Myeongdong Town",
-      "ko": "Olive Young Myeongdong Town"
+      "id": "Olive Young Myeongdong Town"
     },
-    "address": {
-      "en": "52 Myeongdong-gil, Jung-gu, Seoul",
-      "ja": "ソウル特別市 中区 明洞ギル 52",
-      "zh": "首尔中区明洞街52",
-      "vi": "52 Myeongdong-gil, Jung-gu, Seoul",
-      "id": "52 Myeongdong-gil, Jung-gu, Seoul"
-    },
+    "address": "서울특별시 중구 명동길 53",
     "description": {
-      "en": "Korea largest beauty retail flagship with trending skincare and makeup.",
-      "ja": "最新スキンケア・メイクが揃う韓国最大級のビューティー旗艦店。",
-      "zh": "韩国最大美妆零售旗舰店，汇集热门护肤与彩妆。",
-      "vi": "Cửa hàng mỹ phẩm lớn nhất Hàn Quốc với skincare và makeup thịnh hành.",
-      "id": "Flagship retail kecantikan terbesar Korea dengan skincare dan makeup tren."
+      "en": "A flagship K-beauty store in Myeongdong featuring the latest trends in Korean cosmetics and wellness products.",
+      "ja": "韓国の化粧品やウェルネス製品の最新トレンドが集まる、明洞のフラッグシップKビューティーストアです。",
+      "zh": "位于明洞的旗舰K-beauty店，汇集了韩国化妆品和健康产品的最新趋势。",
+      "vi": "Cửa hàng K-beauty biểu tượng tại Myeongdong, nơi hội tụ những xu hướng mới nhất về mỹ phẩm và sản phẩm chăm sóc sức khỏe Hàn Quốc.",
+      "id": "Toko flagship K-beauty di Myeongdong yang menampilkan tren terbaru dalam kosmetik dan produk kesehatan Korea."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240306_137/17096865260016qXRk_PNG/%B8%ED%B5%BF_%C5%B8%BF%EE.png"
   },
@@ -2031,30 +2020,25 @@
     "theme": "k-beauty",
     "region": {
       "province": "busan",
+      "city": "busan",
       "district": "haeundae"
     },
-    "rating": 4.5,
+    "rating": 4.7,
     "name": {
+      "ko": "스파랜드 신세계백화점 센텀시티점",
       "en": "Spa Land Centum City",
-      "ja": "スパランド センタムシティ",
-      "zh": "Spa Land Centum City",
-      "vi": "Spa Land Centum City",
-      "id": "Spa Land Centum City",
-      "ko": "Spa Land Centum City"
+      "ja": "スパランド 新世界百貨店センタムシティ店",
+      "zh": "Spa Land 新世界百货 Centum City店",
+      "vi": "Spa Land Shinsegae Centum City",
+      "id": "Spa Land Shinsegae Centum City"
     },
-    "address": {
-      "en": "35 Centumnam-daero, Haeundae-gu, Busan",
-      "ja": "釜山広域市 海雲台区 センタム南大路 35",
-      "zh": "釜山海云台区Centum南大路35",
-      "vi": "35 Centumnam-daero, Haeundae-gu, Busan",
-      "id": "35 Centumnam-daero, Haeundae-gu, Busan"
-    },
+    "address": "부산광역시 해운대구 센텀남대로 35",
     "description": {
-      "en": "Premium jjimjilbang spa inside the worlds largest department store complex.",
-      "ja": "世界最大デパート内のプレミアムスパ。サウナと浴場が充実。",
-      "zh": "全球最大百货公司内的 premium 韩式汗蒸 spa。",
-      "vi": "Spa jjimjilbang cao cấp trong cửa hàng bách hóa lớn nhất thế giới.",
-      "id": "Spa jjimjilbang premium di department store terbesar dunia."
+      "en": "A premium luxury spa experience located within the world's largest department store.",
+      "ja": "世界最大の百貨店内に位置するプレミアムなラグジュアースパ体験。",
+      "zh": "位于世界最大百货商店内的顶级豪华水疗体验。",
+      "vi": "Trải nghiệm spa sang trọng cao cấp nằm trong trung tâm thương mại lớn nhất thế giới.",
+      "id": "Pengalaman spa mewah premium yang terletak di dalam pusat perbelanjaan terbesar di dunia."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20191203_87/1575341414885fTB51_JPEG/%B3%D7%C0%CC%B9%F6_%C7%C3%B7%B9%C0%CC%BD%BA_%C0%CC%B9%CC%C1%F6.jpg"
   },
@@ -2372,30 +2356,24 @@
     "theme": "urban-nature",
     "region": {
       "province": "busan",
-      "district": "nam-busan"
+      "district": "nam-gu"
     },
     "rating": 4.5,
     "name": {
+      "ko": "이기대 해안산책로",
       "en": "Igidae Coastal Walk",
-      "ja": "イギデ海岸散策路",
-      "zh": "二妓台海岸散步路",
-      "vi": "Lối đi bộ ven biển Igidae",
-      "id": "Jalan Pesisir Igidae",
-      "ko": "Igidae Coastal Walk"
+      "ja": "イギデ海岸散歩道",
+      "zh": "이기대 海岸散步路",
+      "vi": "Đường đi bộ ven biển Igidae",
+      "id": "Jalur Jalan Kaki Pesisir Igidae"
     },
-    "address": {
-      "en": "Igidae, Nam-gu, Busan",
-      "ja": "釜山広域市 南区 二妓台",
-      "zh": "釜山南区二妓台",
-      "vi": "Igidae, Nam-gu, Busan",
-      "id": "Igidae, Nam-gu, Busan"
-    },
+    "address": "부산광역시 남구 용호동 산 129-1",
     "description": {
-      "en": "Rugged cliffside trail with suspension bridge views over the East Sea.",
-      "ja": "吊り橋と東海を望む断崖の海岸トレイル。",
-      "zh": "悬崖步道与吊桥，俯瞰东海景色。",
-      "vi": "Đường ven biển vách đá với cầu treo nhìn ra biển Đông.",
-      "id": "Jalur tebing dengan jembatan gantung dan pemandangan Laut Timur."
+      "en": "A beautiful coastal trail offering stunning views of the ocean and cliffs.",
+      "ja": "海と崖の絶景が楽しめる美しい海岸沿いの散歩道です。",
+      "zh": "一条可以欣赏到大海和悬崖绝美景色的海岸步道。",
+      "vi": "Một con đường mòn ven biển tuyệt đẹp với tầm nhìn ra đại dương và những vách đá.",
+      "id": "Jalur pesisir yang indah dengan pemandangan laut dan tebing yang menakjubkan."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20251210_266/1765362791837LHi11_JPEG/KakaoTalk_20251210_193249393.jpg"
   },
@@ -4356,7 +4334,8 @@
       "zh": "安东炖鸡发源地，酱油炖鸡配粉丝与蔬菜。",
       "vi": "Quê hương Andong jjimdak — gà hầm xì dầu với miến và rau.",
       "id": "Kampung halaman Andong jjimdak — ayam rebus kecap dengan soun dan sayur."
-    }
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20210105_15/1609826589812xAKp4_JPEG/8RnDArCLKl5yHVSP-PQBm-H0.jpg"
   },
   {
     "theme": "k-food",
@@ -5991,7 +5970,8 @@
       "zh": "教授草编与靛蓝染的村落工坊，出现在 Naver 地方文化博客，不在 Google 文化遗产列表。",
       "vi": "Xưởng làng dạy mây tre và nhuộm chàm — có trên blog văn hóa địa phương Naver, không phải di sản Google.",
       "id": "Workshop desa mengajar anyaman jerami dan pewarnaan indigo — ada di blog budaya lokal Naver, bukan situs warisan Google."
-    }
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20200610_160/1591767682296dJ6p9_JPEG/7sZaalKMNmzByBcvg3NyvZ7g.jpg"
   },
   {
     "theme": "k-culture",
@@ -7394,7 +7374,8 @@
       "zh": "退役车厢作背景的拍照点，坐标在 Naver 摄影俱乐部，不在 Google 遗产地图。",
       "vi": "Toa tàu nghỉ hưu làm phông ảnh — tọa độ trên club ảnh Naver, không có trên bản đồ di sản Google.",
       "id": "Gerbong pensiun sebagai latar foto — koordinat di klub foto Naver, bukan peta warisan Google."
-    }
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20170908_96/1504850737826vdKwT_JPEG/pGp8Vo-yGf1yCbvz1mrGeJ2P.jpg"
   },
   {
     "theme": "urban-nature",
@@ -7873,7 +7854,8 @@
       "zh": "市场角落现调鲜人参精华液，Naver 美妆博主盛赞，Google 无店面。",
       "vi": "Serum nhân sâm tươi pha ở góc chợ — blogger làm đẹp Naver khen nức nở; Google không có cửa hàng.",
       "id": "Serum ginseng segar dicampur di sudut pasar — blogger kecantikan Naver memuji; Google tanpa toko."
-    }
+    },
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmCa7quRlHcVTxsV_IfJ5IH8wX8bBDMSB_znhcFnLcT6HJNzkxHhJJNrN4hdWSBs7S4vOfA8qesuRZE7nhfjb1n9qUsu6gW0e7UviMP9sZ6Mqu1VeV1QisQauVwlNSvGyUHTCok=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -8000,7 +7982,8 @@
       "zh": "穿越活跃盐田的导览漫步，在 Naver 本地游帖报名，不在 Google 体验。",
       "vi": "Đi bộ có hướng dẫn qua ruộng muối đang hoạt động — đăng ký trên bài tour địa phương Naver, không phải trải nghiệm Google.",
       "id": "Jalan terpandu melewati tambak garam aktif — daftar di posting tur lokal Naver, bukan pengalaman Google."
-    }
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20240930_117/1727670229971LcXaW_JPEG/%B8%B6%B6%F3%C0%FC%B0%F11.jpg"
   },
   {
     "theme": "k-culture",
@@ -9843,7 +9826,8 @@
       "zh": "果园合作社小批量苹果醋化妆水，Naver 果园美妆博主推荐，Google 忽略。",
       "vi": "Toner giấm táo sản xuất nhỏ từ hợp tác xã vườn — blogger làm đẹp vườn Naver giới thiệu; Google bỏ qua.",
       "id": "Toner cuka apel produksi kecil dari koperasi kebun — blogger kecantikan kebun Naver menampilkan; Google mengabaikan."
-    }
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260717_150/1784288143848iNwom_JPEG/image.jpg"
   },
   {
     "theme": "k-culture",
@@ -10118,7 +10102,8 @@
       "zh": "黎明时分贝壳遍布的海滨漫步，照片在 Naver 海岸博客，Google 海水浴场没有。",
       "vi": "Đi bộ bãi đầy vỏ sò lúc rạng đông — ảnh trên blog ven biển Naver, không phải bãi tắm Google.",
       "id": "Jalan pantai berhamburan cangkang saat fajar — foto di blog pesisir Naver, bukan pantai renang Google."
-    }
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20230710_83/1688984284238wP7qj_JPEG/515AD160-6C92-43AF-BF15-6525F251C9ED.jpeg"
   },
   {
     "theme": "k-food",
@@ -10501,7 +10486,8 @@
       "zh": "山丘吧提供的新茶精华液，通过 Naver 预约，Google 健康应用没有。",
       "vi": "Serum trà xanh đầu mùa tại quầy bar đồi — đặt qua Naver Booking, không phải app wellness Google.",
       "id": "Serum teh hijau first-flush di bar perbukitan — lewat Naver Booking, bukan app wellness Google."
-    }
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250201_70/1738399181150vrTV3_PNG/43bcefd38bc1b.png"
   },
   {
     "theme": "k-culture",
@@ -10841,7 +10827,7 @@
       "vi": "Quán hải sản nổi tiếng với lẩu hải sản và galbi jjim.",
       "id": "Institusi seafood Geoje terkenal haemul stew dan haemul galbi jjim."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmnKPzaaVIssU5xKws8jhoU3wM0kkPVdQwRpJND6mKufHy2By6MPg7mY8iZ5TB0eeBLKTKEmmtbQ2aUMBPe6gDhSJ6ubslGOvCnbuP1zdlt5cBwGkVyrRoqEU42dDeoySkGEeIyVw=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1WA4Qwcm1EPPVu7dEBU4I7MhV519e2mF0PVCOx_FYJR6zGJgJN7wjZ8_y1iJ-yPkQvwNgK3jlXis75F0VURyEKmEckq-qsLpkECnpdZKAuFroc6jR9ZicRPjyITttIW34LdBzkA=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -10874,7 +10860,7 @@
       "vi": "Mì kalguksu thủ công nước dùng đậm đà được xếp hàng buổi trưa.",
       "id": "Kalguksu potong tangan kuah kaya yang antre saat makan siang."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWliamdSR_HTNEiR25S36uBpAjwhDl_jh8u49TLvuDpZfJW5kis1lcGsQ0XfvsVux4puujWm-ZSxBDd6W0ZNZaZ6CI4CREejcSA3g8P0ZnLhfO5rnEXK7dHh99c8vl3eMjqd7aV3=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmntL0zqUeHpYLfthIi7b-A4nb4E-p0nk40xacEXxMRH_QbfV2nhBmJxXG1rwQj3wUlkaDkDNeBqyKCDniJDR7qEXzzvXWbms-MFbb48uzxolgeNq7WRFcb_QB3GMt5HxTQKYZTSdAED0iE=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -10907,7 +10893,7 @@
       "vi": "Cơm lúa mạch nồi đá kèm banchan theo mùa ở trung tâm Gohyeon.",
       "id": "Boribap panci batu dengan banchan musiman di pusat Gohyeon."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkNNa7N7ZV8JCbyxr-i29d4KE6hNuPiGrg-dqNx3sorP07RHmlfdBVQZGJ_I6jeVjcAB41BbRJ8VcbWwF1_2J02ExPBDS68mKxTbgximTh6DTgVhqtlyL9pJxxC7PkoVAlhxYJGT2DoScHL=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnO97SmFs21iwoFKxpgYPno-qtYLL1GaKdnJX9pZHgrNpS6RZOr2Nzr69g_pyPmZhgLOqp_GzYBpfyLQLWP1jEQ1OaOwOe5uUo1_byZalmM4BQdec5WJzW71JW4Q6cIAT2MEj5iu9p54jnv=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -10940,7 +10926,7 @@
       "vi": "Set duruchigi cay nổi tiếng trên chương trình ẩm thực Hàn.",
       "id": "Set duruchigi pedas yang pernah ditampilkan di acara makanan Korea."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlS8zjpNWrmxEuv0Ubre7Kthcr0SIVAiVjDkcKqwgGM-YO4b7r0x0GGqpJss8WxN3re-B85odlNk-4DhXq-m2TKogRmslh6-PAy2UEaigNpnvmCDaVNyDRokecGPiH212wXFGa_YRFywlo_=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnO7wPRT4vG1V7LftOGksDjIEedb2trsR2NQWxUZGRqyz3VcsLMqFGRQAdS_S_Ry9xMuPJauIGYOeBo5X-MIn_ftlCfPEu53feKEaZn8vUbOkEGBpLIe60xGaxdNZtE6-excYXVZ6yJa_tT=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -10973,7 +10959,7 @@
       "vi": "Cá nướng lò củi và hàu bên cảng Okpo.",
       "id": "Ikan panggang tungku kayu dan tiram di pelabuhan Okpo."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlc9gRqopcGo_62u2uZdrynrtNE5hP2IeT99ezKZZ-s8zaceM6-_iCwBHvrqsm22bEI_8jSOitA2Wky_sG1foZES948ti6Cd05RDU6TpNL_nnfOyhtau2nuvBu1t07YuvKq5STG=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWll1VkTgThGiUmmr2izVVVzRgQUTdi4C2HLaoDp7tE93O7tPjMqsLIiUFnuxonMHVaME77YwuTTA05imOzKIYvzI92KTtZRmSPesNr8GNpJ3h1cNyaYJ5uTIuE_aQsrCxp16kM0=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -11039,7 +11025,7 @@
       "vi": "Jajangmyeon cổ điển khu chợ Gohyeon.",
       "id": "Jajangmyeon klasik area pasar Gohyeon."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrfQTx7963cOMcYkQUbuhLFX09ZjXPvefyVl1QRpmNwg7wStfBKig7eq3K-0wxmLGYD9iAduVyAZciv1ELHGwoLJOgiri2l63JsEzz-0mTF2VmKxHn2yvj_iJoET9D5iCWgaAh=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnJueFulUpw4arxRoS0msgXpEmu6jECvT50Mu0644nsFQALL8zoFvsfBupFZXcM9bB8bvsYlQFAko36a3WKF3UhDRuV5Z6Th3GZ7LAQlVeiP-KJ6HRsuCzQcHgBEegsj-jSYWd4=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -11072,7 +11058,7 @@
       "vi": "Cơm Hàn gia đình được công nhân đóng tàu tin dùng.",
       "id": "Masakan Korea rumahan favorit pekerja galangan kapal."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20260818_44/1787038735532bboXF_JPEG/20260818_163739.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190614_257/1560470118430LNBqs_JPEG/W4UuveWIEjfLCn_qFOYgZ_3k.jpg"
   },
   {
     "theme": "k-food",
@@ -11204,7 +11190,7 @@
       "vi": "Quán cá nướng và lẩu hải sản lâu đời.",
       "id": "Institusi ikan bakar dan haemul jeongol."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkCDNSaaWvPqkGYSDhBKYRnEPJjVQYkRFAdFCcpIuY_F5CxLCsuaYQvE0w8wVEHE9qfmWqn1rbRepZgwkXZX0IWDjeF-gn4I_u5UtjnOZYhhbF9w0mqfcZWA3s2C9-CV8LzxDgm=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOM90CWK3tJp9BQHjWho_4n-Ox47qLd4FVO7R0LaiXPOYgzIjXCW5__iOfMIzJGXfBlOyN8qg5Ck39n-095ZTfeunivLDSM6O1885xY2ToxWbSkg71BOKh25XwW_jvlWc20Dk-=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -11237,7 +11223,7 @@
       "vi": "Đĩa hàu nướng theo mùa ở trung tâm Gohyeon.",
       "id": "Piring tiram panggang musiman di pusat Gohyeon."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20240103_237/1704247267056PPtV0_JPEG/IMG_2121.jpeg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20170203_219/1486087131692wBdzb_JPEG/186153508871230_0.jpg"
   },
   {
     "theme": "k-food",
@@ -11270,7 +11256,7 @@
       "vi": "Set cơm Hàn đầy đặn cạnh Saengsaengi.",
       "id": "Set makanan Korea porsi besar di sebelah Saengsaengi."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkC2amNU4ES3WXRxKuUrsrKCz_snqxbJ9fwRfcKOflqzBSYU44vIhmBoucopKbTANipDgC6JIUYRuess55OTZd3awcZ6v5Q-Waz2E_7gTQQsFYiKxCIUJYYcNb0TD0NZaCeJJOvzQ=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_YzA6C4K_yENttnN5R9N7jK34DzvGvvpeefCsHg9j1wgeCoARlk53jZpyrM7-jyc5hNKF0RYsEHNFvZUd7N71xInZHYYvQMYIyFqRNNLCfFTulDgHqrQK2DM9_txLlZhdkHBo-A=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -11303,7 +11289,7 @@
       "vi": "Thịt nướng và stew porsi lớn gần bến Gohyeon.",
       "id": "BBQ dan stew porsi besar dekat terminal Gohyeon."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvYmbMBOxSB08lBu9VpmvgHHHufJgPXO9v-9t68eyeT5GwonVElT9YqI7Xl2bZ5zDoa59i-uVN5cqxkGW-Y5sR1Dg58Vsuc7pkeLhs-ZpvxY4ptfC7P6vGC7gOyNRnA1dSgVjP=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlO4YQ7o6MzErs6NOzN7-FybAEjO5k9cYoAQWELwcp_MPPdEyGSivh-q7L0Au9gAk0JWgGwFBSYd7cdvbGCxGfqtbVcr460fUomaghjqnImTgKPtDueGMl-2JANRuOh25LXao-v=w800-h600-k-no"
   },
   {
     "theme": "k-food",
@@ -11402,7 +11388,7 @@
       "vi": "Trạm xe làng trong Hospital Playlist.",
       "id": "Halte bus desa lokasi syuting Hospital Playlist."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-nmRUIAotjrjxrGIRU1HPKa7GBcei6sxYxuOpGPrsqWQjS3IvtLuTaM74N8NWASasfXLMONJLTC5qJlRfGIgUoAOPBuJZh-9OEpsNcg7doIKOKPNzCMOxBleAp--jkf6iW4Pn=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8XP-nC7xV4ZeG1njkqhk7EKIGwGGBqoNSHTrYxc0ZLY_4T57JwVz09XIKyjSE2LpPMK1PRsdQf8Tn-BGzDZlUpO42YCiETQ7d7tqVS1hQkxM7Py2MPYKbMTTE8hsPpKJRwaQd=w800-h600-k-no"
   },
   {
     "theme": "hallyu",
@@ -11501,7 +11487,7 @@
       "vi": "Đảo bối cảnh tàu bệnh viện Hospital Playlist.",
       "id": "Pulau latar belakang kapal rumah sakit Hospital Playlist."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20230605_100/1685930714391dCzFw_JPEG/1_4c9Ud018svc17vkfe5r7mrlf_fvvaj.jpeg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190607_144/1559895590064USEhY_JPEG/B6TGOKMJPo0_3cUGNCYGRKzK.jpg"
   },
   {
     "theme": "hallyu",
@@ -11534,7 +11520,7 @@
       "vi": "Bến xe xuất hiện trong cảnh phố Hospital Playlist.",
       "id": "Terminal bus latar drama Hospital Playlist."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20260804_230/1785828216647kdm6n_JPEG/%C6%FA%B4%F5%BA%ED8_%C1%EF%BD%C3%B0%B3%C5%EB_1.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260918_62/1789693380620C74be_JPEG/IMG_0013..jpg"
   },
   {
     "theme": "hallyu",
@@ -11666,7 +11652,7 @@
       "vi": "Vùng biển đảo quay cảnh Hospital Playlist.",
       "id": "Perairan pulau syuting drama laut Geoje."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_84XfHiPHpfSfeEqou458gnKW3U7sZVJfd8wmumt4FB6v9P3ZqBlFtvbdcERFw9a93mErf3T85SKj6EGno_BiYqMyQpH-Qik8rH4UNqXFQxY_jQDTGAOfLFonrvkjUhIzyVyH=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlebVZqbiE5mEGt4Rbgbt8pWbKqqr722eQ8A2vGM4BWMdK5jiQ68r5Cqm5FmfTuv5SOh691i9SQc0st3-Nh-A9JgSyM_jmU4S8-H6YHWmI6lETCNg_D2ocPbE1Ip3tAT491TWam=w800-h600-k-no"
   },
   {
     "theme": "hallyu",
@@ -11699,7 +11685,7 @@
       "vi": "Vịnh yên tĩnh trong phim và variety Geoje.",
       "id": "Teluk tenang latar drama dan variety Geoje."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkODMn6rCim_A1zQGYBQ1h2NzusrNO3rWeOj1Av4WbdulTrKXdJ-0ENoDGgwAmF6T81gJDwtNYKCIaLabcwM_Bwc4GLmNkmj-bbRWFtn-01Z0Q4Oj4G9kWxIdzVIG8pI3dHhAc2=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkjY3JBuauh0-3y4u6U5r40GADFh8o9hZAMaHkpzYBhualAT1EyRe6hQ4rL4kEqbE3oT4ykTXSeSjC19jeB4d-LVf4i1J94fn1SEqVW-dfEic9qlJ4hulJtroy8oW4LqdyaUc31=w800-h600-k-no"
   },
   {
     "theme": "hallyu",
@@ -11798,7 +11784,7 @@
       "vi": "Suối đô thị xuất hiện trong phim quay tại Geoje.",
       "id": "Sungai perkotaan dalam B-roll K-drama Geoje."
     },
-    "imageUrl": "https://lh4.googleusercontent.com/proxy/1l5DPnELyyHO6Mk-w_v35kzzjQX2TDQhPt4uLC25ePAAMVEmuzp_Yta6qpim4f_w3iaM8pKm1Hqgh4bkfhFOnxDGydtvI3PgIC3WzDLONqK-Mzhn-kFvhTJxEi_5iPVpo2l5sy6J6BIf24A5wa5s3hqV8Fgt5g=w800-h600-k-no"
+    "imageUrl": "https://lh5.googleusercontent.com/proxy/z-heCda0IgIfPWQGwBynlZJbL4NbMV18hE2aGlTlX2kxNdbsAlPyZV86GeJddTYQDWj-crbyv5rFBLIS0y_E0Xtn6Hjvq2wwqpdGdpW0vHvgujnLaMYbRsG3nCiyGbkBb2S8aSzGWwmVYH7IIfIRt6quayzVrYM=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -11897,7 +11883,7 @@
       "vi": "Spa mặt và body được chứng nhận R4U.",
       "id": "Perawatan wajah dan body bersertifikat R4U."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsWwcohmDsSeEDoXN2VeHYbvEchL25aQVqcokytiFVNCkpAobLRq4CfAW3Pubu6vLa4qZm6IYLEnZ1PbVS3vw27YdccYrskMQgsgpY9kGpREfuQE85sA56PEctxV2uTEN63OeBYPfFyX3t=w800-h600-k-no"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250318_273/1742264587021TfH2v_JPEG/1000013315.jpg"
   },
   {
     "theme": "k-beauty",
@@ -11963,7 +11949,7 @@
       "vi": "Tiệm nail nổi tiếng có ghế pedicure recliner.",
       "id": "Salon nail populer dengan kursi pedicure recliner."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSYIAjyt01sRJrL1LqRoYN21nkoshj27_6tYD1s3jY-kJTSqgAOMQsTAaejyeUSaqFXf-p57d0DnlLQN0bKeLsZtF0LsA1cuQTGIJsuds4nWpv0OUoFN2ihaM0-iwQz02srmivdw=w800-h600-k-no"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20241205_99/1733382872513qdhyJ_JPEG/IMG_0522.jpeg"
   },
   {
     "theme": "k-beauty",
@@ -11996,7 +11982,7 @@
       "vi": "Salon tóc theo hẹn với thuốc perm và nhuộm cao cấp.",
       "id": "Salon rambut janji dengan produk perm dan warna premium."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJMzQNfbWwLmR7an5etPkrchZPQFIi5y-bHYDsP355igDteuhZJx7sjf7sCOnC1EJi8h4kdkLTygHoZAAhKUpU_ptu64ZqpjrweZ_49ZaiX4jk7Div4vI4oZtQdjEaSM5Yqc3BUX_a7VU=w800-h600-k-no"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20250517_107/1747443242606LBYQq_JPEG/%B6%F3%BF%F2hair.jpg"
   },
   {
     "theme": "k-beauty",
@@ -12194,7 +12180,7 @@
       "vi": "Đi bộ rừng tre giàu ion âm tốt cho da.",
       "id": "Jalan hutan bambu kaya ion negatif untuk kulit."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20240630_89/1719759411048giwsa_JPEG/1719550477872.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20220722_145/165846039525833xpu_JPEG/C34C4B9A-29B5-49B3-A92E-ABAA8AE5B7D6.jpeg"
   },
   {
     "theme": "k-beauty",
@@ -12227,7 +12213,7 @@
       "vi": "Lẩu vịt thảo dược trong khu Geoje Sea Spa.",
       "id": "Hot pot bebek herbal di Geoje Sea Spa."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQCuN7l4EtMSM8sqtDnttO5vgKEYjyL2tLIKv8fVVwzqkfcpL6bSiuLsQAbl2Cyb9MNIdnYCtHrWcMjYvywiTzCoJgDtFDKWwjzYmQstowrqc8jqulzwwbykLg-msETGp_KP7yLEzLiuiR=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDjKqDtmaZrWAXmjiBgULGjdQCN5IQ4XdfvEvRovmGkGOQOvpWALJUIo_vIoX3aXbQ1xsiFG6XKxdtGfDuc5-I1MGa5L1zihFJXuxBCAH2H8PvxLk-02HksCGHMd2Z9ACIyn-NPgYJVJFN=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -12260,7 +12246,7 @@
       "vi": "Nhà hàng hanjeongsik trong khu Geoje Sea Spa.",
       "id": "Restoran hanjeongsik di kompleks Geoje Sea Spa."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm9atKEytSAw3Q-vmGZrE6vwM-oYnUqaE15-894q3csrIPurqi22ineyoEo0NPEBqkw7UMg79uV-eVOYg9dO_6Etjw2yvVUYsIAWap5yvzuebbH6RE1MDmYznUWrGrtT1txLlFehg=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLNJwqdPo4Rq-H8zmu9ycCRPo5-_kzXVY2rM1yjTcyXzYI0Sg8LaC12y2yScOkG8yOOD7ZIoNmcUeVvEx5eX06ZQBp_q6Ea6OD-Gl22UkODrYHUle-S3JRRX8cMCAJHsSktd-FrA=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -12424,7 +12410,7 @@
       "vi": "Salon nhỏ gần cảng và bãi Gujora.",
       "id": "Salon kecil dekat pelabuhan Gujora."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5vFrsp2PW0a_1P-GL6suVBWWODrCmIZHuK4TGuqU-dBroKlJP1l_kBtOw5WmIB-2kXjqcV-LmAn-zzCUTwXyhkrk7ohunlJEh-csXbX0kpNZwrDFMUIvUTxrAGOSASz-Xp5PCe2mAX90=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9awmHmzctjaMI751ypiOw8IZ3df8_v3mEpSQZiMlMv2hrutvtAZxZgK24IbTSDT1Jl10Djdmn2bNWSL_rak5YGFwqV54TVEP0XdhpGdqeX9-jHXCzynB-cU_cXJ_g_ACOmcA5lkW8vSo=w800-h600-k-no"
   },
   {
     "theme": "k-beauty",
@@ -12523,7 +12509,7 @@
       "vi": "Di sản đóng tàu và văn hóa ngư dân.",
       "id": "Warisan galangan kapal dan budaya nelayan."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0it3uGvvE_2eHJyD5ITSIsuuTVYKyMRLY9L9DihSdiXKNfAc4WXV9GKSX44-UrV-H2VzGvAB5WqVoB0a1pEd9hR5CaFogQZM_D4Vrz7T4D6X6LkKLeeswN4L5tGCdOf90H-xZ=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8e2lzSUa64GTYqMYjGtQPBa6U41gGlwPHWbvhG2tbAKoLMztNWzo4XEgSVqOrlS5k4mU6NTkYfIZb1ogJmD5g6SgMILIm5t05aB-x9822GsPr2I-xDeofYWILVcDeN4rElf4f=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -12589,7 +12575,7 @@
       "vi": "Triển lãm hòa giải trong công viên POW.",
       "id": "Pameran rekonsiliasi di taman POW."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0it3uGvvE_2eHJyD5ITSIsuuTVYKyMRLY9L9DihSdiXKNfAc4WXV9GKSX44-UrV-H2VzGvAB5WqVoB0a1pEd9hR5CaFogQZM_D4Vrz7T4D6X6LkKLeeswN4L5tGCdOf90H-xZ=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8e2lzSUa64GTYqMYjGtQPBa6U41gGlwPHWbvhG2tbAKoLMztNWzo4XEgSVqOrlS5k4mU6NTkYfIZb1ogJmD5g6SgMILIm5t05aB-x9822GsPr2I-xDeofYWILVcDeN4rElf4f=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -12622,7 +12608,7 @@
       "vi": "Vách biển gắn truyền thuyết dân gian Geoje.",
       "id": "Tebing pantai dengan legenda rakyat Geoje."
     },
-    "imageUrl": "https://ldb-phinf.pstatic.net/20260702_166/1782946190048eJ6qB_JPEG/20220425_173011.jpg"
+    "imageUrl": "https://ldb-phinf.pstatic.net/20190328_284/1553767726031na7ka_JPEG/QABl1WqNckvgPnr6bhm03ptM.jpg"
   },
   {
     "theme": "k-culture",
@@ -12655,7 +12641,7 @@
       "vi": "Trưng bày đời sống ngư dân bên nhà văn hóa biển.",
       "id": "Pameran kehidupan nelayan di samping balai laut."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0it3uGvvE_2eHJyD5ITSIsuuTVYKyMRLY9L9DihSdiXKNfAc4WXV9GKSX44-UrV-H2VzGvAB5WqVoB0a1pEd9hR5CaFogQZM_D4Vrz7T4D6X6LkKLeeswN4L5tGCdOf90H-xZ=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8e2lzSUa64GTYqMYjGtQPBa6U41gGlwPHWbvhG2tbAKoLMztNWzo4XEgSVqOrlS5k4mU6NTkYfIZb1ogJmD5g6SgMILIm5t05aB-x9822GsPr2I-xDeofYWILVcDeN4rElf4f=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -12884,7 +12870,7 @@
       "vi": "Làng chài với tour thuyền và bữa dân gian.",
       "id": "Desa nelayan dengan tur perahu dan makanan tradisional."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5vFrsp2PW0a_1P-GL6suVBWWODrCmIZHuK4TGuqU-dBroKlJP1l_kBtOw5WmIB-2kXjqcV-LmAn-zzCUTwXyhkrk7ohunlJEh-csXbX0kpNZwrDFMUIvUTxrAGOSASz-Xp5PCe2mAX90=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9awmHmzctjaMI751ypiOw8IZ3df8_v3mEpSQZiMlMv2hrutvtAZxZgK24IbTSDT1Jl10Djdmn2bNWSL_rak5YGFwqV54TVEP0XdhpGdqeX9-jHXCzynB-cU_cXJ_g_ACOmcA5lkW8vSo=w800-h600-k-no"
   },
   {
     "theme": "k-culture",
@@ -13066,7 +13052,7 @@
       "vi": "Bãi đá yên bên cảng Gujora.",
       "id": "Pantai kerikil tenang di pelabuhan Gujora."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5vFrsp2PW0a_1P-GL6suVBWWODrCmIZHuK4TGuqU-dBroKlJP1l_kBtOw5WmIB-2kXjqcV-LmAn-zzCUTwXyhkrk7ohunlJEh-csXbX0kpNZwrDFMUIvUTxrAGOSASz-Xp5PCe2mAX90=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9awmHmzctjaMI751ypiOw8IZ3df8_v3mEpSQZiMlMv2hrutvtAZxZgK24IbTSDT1Jl10Djdmn2bNWSL_rak5YGFwqV54TVEP0XdhpGdqeX9-jHXCzynB-cU_cXJ_g_ACOmcA5lkW8vSo=w800-h600-k-no"
   },
   {
     "theme": "sanhaeng",
@@ -13165,7 +13151,7 @@
       "vi": "Bãi biển yên bờ tây hướng Gajodo.",
       "id": "Pantai tenang pantai barat menuju Gajodo."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5vFrsp2PW0a_1P-GL6suVBWWODrCmIZHuK4TGuqU-dBroKlJP1l_kBtOw5WmIB-2kXjqcV-LmAn-zzCUTwXyhkrk7ohunlJEh-csXbX0kpNZwrDFMUIvUTxrAGOSASz-Xp5PCe2mAX90=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9awmHmzctjaMI751ypiOw8IZ3df8_v3mEpSQZiMlMv2hrutvtAZxZgK24IbTSDT1Jl10Djdmn2bNWSL_rak5YGFwqV54TVEP0XdhpGdqeX9-jHXCzynB-cU_cXJ_g_ACOmcA5lkW8vSo=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -13231,7 +13217,7 @@
       "vi": "Vịnh đá ẩn trên cung đường ven biển nam.",
       "id": "Teluk kerikil tersembunyi di jalan pesisir selatan."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpencVY8E3OCw-Q72M-lUmW0i7LARRo4IHwl0DvsHGvwgPOect9fJtcsl-dNNtbPDLNCI7GbvAGgvGK0GL30kp5zfOiwUJyfQJqZmtcigLg3GmGRDW8ZpQkamWtMvAbnP0ulFn=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmgUaC0bQ5r1NX-ziR_6FlBsrU4CA5Lub9pVyuAEEx2_6Ff-qkm7e9rrnzafnk_zqh0lsW5WRHIAtdGqBkBbrgnA0oMMsUEWy1FHjii6JneG5xV8zX0wgbh7fwh3wdqY8uXOLWf=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -13264,7 +13250,7 @@
       "vi": "Bãi cát rộng dưới vách làng Myeongsa.",
       "id": "Pantai pasir lebar di bawah tebing desa Myeongsa."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm6oPmJbrg4u_-AxaTnMWZbUpvY69Hf5svrSISpOCrCbZfDpfjKzTox8OXdZZI_f9JzvjC08vxjHaBhhaxmtCZ2NXXH1HUaIdjvPpIKMadXZIPPYrOu6CVvhVugH9naPZyHnPI_1A=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWld1KIrd8ZxxFGCWa-RadV9L9KFBsqqvUu2KPeQ8DgacD7R_GWL_C4BX7be425-UvBxFwonUnq0c5Sgrl1PeZEyJ8xM98GZkwbKCBfp8x6hefWtMr5ZtGojcBGH64I7rdA_kmSipg=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -13330,7 +13316,7 @@
       "vi": "Vòng đập phổ biến cho hiking nhẹ.",
       "id": "Jalur bendungan populer untuk hiking ringan."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm_bwDhhwk94K_PP6BtD4yUENfkkCI96oixMF4TN7GZTxEJmpePDWYzeyGSwJINfngZU_otxDX-WAbnr6QoWinLpZxHgR1WfxpxdGHOTnL5MbkqvFrzNS8X83hk3pgObn-WCFh6=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkrBqWe0BqlAjeSYYueUicrU-ajtDrUZMgRI9-e7nomjB23ARNKw5rGvmroO55YtJKm_UcX9cle63jF9ocUoqVjxBisW9gykPn9cXpZDV9Y72HL9GsrgpZOxknK2wejGZZV6pu7=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -13462,7 +13448,7 @@
       "vi": "Đảo nhỏ đi bộ ven biển gần Wahyeon.",
       "id": "Pulau kecil jalan pesisir dekat Wahyeon."
     },
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_RRdCftmJTqn3h4oMJ6C8G8SwsEFX4cRilN2DLLETTWLZziZ7OUX5GlAM1_JwJ1dAMRw4mOKe-xlgv6GjOEd-Sq7iSOVIPYpYuWJ3BLk1HcFJ6cTPxncRq6Q-wVrfll90PG5y=w800-h600-k-no"
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlItMd3LFc8kLyOsGVEENNrmqjSADJPf86kR403Vvjf6mcytHjIbHPqXdij74jv_f44b3B3UkN2OsC5Vi4n52RfdELGZh3KoQ61zUaVv4cw0gLZoi6GtF5p8MwVHNebs_lqgHf_=w800-h600-k-no"
   },
   {
     "theme": "urban-nature",
@@ -13862,24 +13848,26 @@
   {
     "theme": "k-beauty",
     "region": {
-      "province": "seoul"
+      "province": "seoul",
+      "city": "seoul",
+      "district": "junggu"
     },
     "name": {
-      "ko": "K-Beauty Shop",
+      "ko": "케이뷰티샵",
       "en": "K-Beauty Shop",
-      "ja": "K-Beauty Shop",
-      "zh": "K-Beauty Shop",
+      "ja": "Kビューティショップ",
+      "zh": "K-Beauty 商店",
       "vi": "K-Beauty Shop",
       "id": "K-Beauty Shop"
     },
-    "address": "서울특별시 중구 명동8길 20",
+    "address": "서울특별시 중구 명동8나길 10",
     "rating": 4,
     "description": {
-      "en": "",
-      "ja": "",
-      "zh": "",
-      "vi": "",
-      "id": ""
+      "en": "A specialized beauty shop in Myeongdong providing a curated selection of Korean beauty products.",
+      "ja": "厳選された韓国ビューティー製品を提供する、明洞のビューティ専門店です。",
+      "zh": "明洞的一家专业美容店，提供精选的韩国美容产品。",
+      "vi": "Cửa hàng làm đẹp chuyên dụng tại Myeongdong cung cấp các sản phẩm làm đẹp Hàn Quốc được tuyển chọn.",
+      "id": "Toko kecantikan khusus di Myeongdong yang menyediakan pilihan produk kecantikan Korea terkurasi."
     },
     "imageUrl": "https://ldb-phinf.pstatic.net/20240821_40/17242106788025ckg4_JPEG/%BF%DC%B0%FC1.jpg"
   },
@@ -14360,7 +14348,7 @@
       "province": "gyeongnam",
       "city": "sancheong"
     },
-    "imageUrl": "",
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150901_215/1441045594536xLQ5N_JPEG/13491267_0.jpg",
     "difficulty": "hard",
     "seasonTips": {
       "en": "Long day or overnight hut culture. Fog and wind common on the spine — pack layers.",
@@ -14410,7 +14398,7 @@
       "province": "seoul",
       "city": "dobong"
     },
-    "imageUrl": "",
+    "imageUrl": "https://ldb-phinf.pstatic.net/20200706_29/1593987604768rOJ0j_JPEG/P8kdL1p7Yann--hxGC9ZFq3c.jpg",
     "difficulty": "hard",
     "seasonTips": {
       "en": "Dry rock seasons are safest. Avoid after heavy rain — exposed ridge.",
@@ -14468,7 +14456,7 @@
       "province": "seoul",
       "city": "gwanak"
     },
-    "imageUrl": "",
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_231/1441006676380rXj7C_JPEG/126081576764127_0.jpg",
     "difficulty": "moderate",
     "seasonTips": {
       "en": "Year-round; icy stairs in midwinter. Sunset from Yeonjudae is popular in autumn.",
@@ -14518,7 +14506,7 @@
       "province": "busan",
       "city": "geumjeong"
     },
-    "imageUrl": "",
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_269/1440992254546NLdCo_JPEG/11491328_0.jpg",
     "difficulty": "moderate",
     "seasonTips": {
       "en": "Mild winters; summer shade is limited on the fortress ridge.",
@@ -14568,7 +14556,7 @@
       "province": "chungbuk",
       "city": "boeun"
     },
-    "imageUrl": "",
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150901_63/1441045618190QI47T_JPEG/13491393_0.jpg",
     "difficulty": "moderate",
     "seasonTips": {
       "en": "Spring blossoms and autumn maples; monsoon trails get slick.",
@@ -14586,5 +14574,360 @@
       "id": "Akses Boeun; dipadukan dengan pendekatan Beopjusa.",
       "ko": "보은 접근. 법주사 코스와 연계."
     }
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": "seoul",
+      "district": "junggu"
+    },
+    "name": {
+      "ko": "올리브영 센트럴 명동 타운",
+      "en": "Olive Young Central Myeongdong Town",
+      "ja": "オリーブヤング セントラル明洞タウン",
+      "zh": "Olive Young 明洞中央店",
+      "vi": "Olive Young Central Myeongdong Town",
+      "id": "Olive Young Central Myeongdong Town"
+    },
+    "address": "서울특별시 중구 명동8길 27",
+    "rating": 4.5,
+    "description": {
+      "en": "A large-scale K-beauty health and beauty store offering a wide variety of popular Korean skincare and cosmetics.",
+      "ja": "人気の韓国スキンケアや化粧品を幅広く取り揃えた、大規模なKビューティーヘルス＆ビューティーストアです。",
+      "zh": "一家大型K-beauty健康美容店，提供各种热门的韩国护肤品和化妆品。",
+      "vi": "Cửa hàng sức khỏe và sắc đẹp K-beauty quy mô lớn cung cấp đa dạng các sản phẩm chăm sóc da và mỹ phẩm Hàn Quốc phổ biến.",
+      "id": "Toko kesehatan dan kecantikan K-beauty skala besar yang menawarkan berbagai macam perawatan kulit dan kosmetik Korea populer."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260906_278/1788621944490HAmde_JPEG/%BB%EA%B8%AE%BF%C0kv.jpg"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "seoul",
+      "city": "seoul",
+      "district": "junggu"
+    },
+    "name": {
+      "ko": "올리브영 명동역점",
+      "en": "Olive Young Myeongdong Station Branch",
+      "ja": "オリーブヤング 明洞駅店",
+      "zh": "欧利芙洋 明洞站店",
+      "vi": "Olive Young chi nhánh ga Myeongdong",
+      "id": "Olive Young Cabang Stasiun Myeongdong"
+    },
+    "address": "서울특별시 중구 퇴계로 115",
+    "rating": 4.5,
+    "description": {
+      "en": "Korea's representative health and beauty store offering a wide range of K-beauty products.",
+      "ja": "韓国を代表するヘルス＆ビューティーストアで、幅広いKビューティー製品を取り揃えています。",
+      "zh": "韩国代表性的健康美容店，提供各种K-beauty产品。",
+      "vi": "Cửa hàng sức khỏe và sắc đẹp tiêu biểu của Hàn Quốc cung cấp đa dạng các sản phẩm K-beauty.",
+      "id": "Toko kesehatan dan kecantikan representatif Korea yang menawarkan berbagai produk K-beauty."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20240823_262/1724380566223oEoBa_PNG/DE93_1.png"
+  },
+  {
+    "theme": "k-beauty",
+    "region": {
+      "province": "busan",
+      "city": "busan",
+      "district": "haeundae"
+    },
+    "name": {
+      "ko": "센텀 스파랜드",
+      "en": "Centum Spa Land",
+      "ja": "センタム スパランド",
+      "zh": "Centum Spa Land",
+      "vi": "Centum Spa Land",
+      "id": "Centum Spa Land"
+    },
+    "address": "부산광역시 해운대구 5435",
+    "rating": 4.6,
+    "description": {
+      "en": "A large-scale themed spa offering various traditional and modern bathing facilities.",
+      "ja": "伝統的および現代的な様々な入浴施設を備えた大規模なテーマスパ。",
+      "zh": "提供各种传统和现代洗浴设施的大规模主题水疗中心。",
+      "vi": "Một spa theo chủ đề quy mô lớn cung cấp nhiều cơ sở tắm truyền thống và hiện đại.",
+      "id": "Spa bertema skala besar yang menawarkan berbagai fasilitas pemandian tradisional dan modern."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20191203_87/1575341414885fTB51_JPEG/%B3%D7%C0%CC%B9%F6_%C7%C3%B7%B9%C0%CC%BD%BA_%C0%CC%B9%CC%C1%F6.jpg"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "busan",
+      "district": "nam-gu"
+    },
+    "name": {
+      "ko": "이기대",
+      "en": "Igidae Park",
+      "ja": "イギデ公園",
+      "zh": "이기대 公园",
+      "vi": "Công viên Igidae",
+      "id": "Taman Igidae"
+    },
+    "address": "부산광역시 남구 용호동 이기대공원로 105-20",
+    "rating": 4.5,
+    "description": {
+      "en": "A scenic park known for its rugged coastline and natural beauty.",
+      "ja": "険しい海岸線と自然の美しさで知られる景勝公園です。",
+      "zh": "以崎岖的海岸线和自然美景而闻名的风景公园。",
+      "vi": "Một công viên danh lam thắng cảnh nổi tiếng với đường bờ biển gồ ghề và vẻ đẹp tự nhiên.",
+      "id": "Taman pemandangan yang dikenal dengan garis pantai yang terjal dan keindahan alamnya."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20150831_195/1441023273884yoft3_JPEG/116272477376808_0.jpg"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "busan",
+      "district": "nam-gu"
+    },
+    "name": {
+      "ko": "이기대 수변공원",
+      "en": "Igidae Waterfront Park",
+      "ja": "イギデ水辺公園",
+      "zh": "이기대 水边公园",
+      "vi": "Công viên ven sông Igidae",
+      "id": "Taman Tepi Air Igidae"
+    },
+    "address": "부산광역시 남구 용호동 산122",
+    "rating": 4.3,
+    "description": {
+      "en": "A relaxing waterfront park perfect for enjoying the sea breeze.",
+      "ja": "潮風を感じながらリラックスできる水辺の公園です。",
+      "zh": "一个适合享受海风的轻松水边公园。",
+      "vi": "Một công viên ven biển thư giãn, hoàn hảo để tận hưởng làn gió biển.",
+      "id": "Taman tepi air yang santai, cocok untuk menikmati angin laut."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251210_266/1765362791837LHi11_JPEG/KakaoTalk_20251210_193249393.jpg"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "busan",
+      "district": "nam-gu"
+    },
+    "name": {
+      "ko": "이기대 해파랑길",
+      "en": "Igidae Haeparang Trail",
+      "ja": "イギデ・ヘパラン道",
+      "zh": "이기대 海帕朗路",
+      "vi": "Đường mòn Haeparang Igidae",
+      "id": "Jalur Haeparang Igidae"
+    },
+    "address": "부산광역시 남구 용호제3동 산8-1",
+    "rating": 4.5,
+    "description": {
+      "en": "A beautiful coastal walking trail offering stunning views of the ocean and cliffs.",
+      "ja": "海と崖の絶景が楽しめる美しい海岸散歩道です。",
+      "zh": "一条可以欣赏到壮丽海洋和悬崖美景的绝美海岸步道。",
+      "vi": "Một con đường đi bộ ven biển tuyệt đẹp với tầm nhìn ra đại dương và những vách đá hùng vĩ.",
+      "id": "Jalur jalan kaki pesisir yang indah dengan pemandangan laut dan tebing yang menakjubkan."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251210_266/1765362791837LHi11_JPEG/KakaoTalk_20251210_193249393.jpg"
+  },
+  {
+    "theme": "urban-nature",
+    "region": {
+      "province": "chungnam",
+      "city": "daejeon",
+      "district": "yuseong-gu"
+    },
+    "name": {
+      "ko": "유성온천공원",
+      "en": "Yuseong Hot Spring Park",
+      "ja": "ユソン温泉公園",
+      "zh": "儒城温泉公园",
+      "vi": "Công viên Suối nước nóng Yuseong",
+      "id": "Taman Pemandian Air Panas Yuseong"
+    },
+    "address": "대전광역시 유성구 봉명동 574",
+    "rating": 4,
+    "description": {
+      "en": "A relaxing urban park known for its natural hot springs and foot baths.",
+      "ja": "天然温泉と足湯で知られる、リラックスできる都市公園です。",
+      "zh": "以天然温泉和足浴而闻名的放松身心的城市公园。",
+      "vi": "Một công viên đô thị thư giãn nổi tiếng với suối nước nóng tự nhiên và bồn ngâm chân.",
+      "id": "Taman kota yang santai, terkenal dengan pemandian air panas alami dan rendam kaki."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20260907_244/17887426216867vaO3_JPEG/1000059552.jpg"
+  },
+  {
+    "theme": "sanhaeng",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeongeup"
+    },
+    "name": {
+      "ko": "내장산",
+      "en": "Naejangsan Mountain",
+      "ja": "内蔵山",
+      "zh": "内藏山",
+      "vi": "Núi Naejang",
+      "id": "Gunung Naejang"
+    },
+    "address": "전북특별자치도 정읍시",
+    "rating": 4.5,
+    "description": {
+      "en": "Famous for its stunning autumn foliage and serene mountain trails.",
+      "ja": "見事な紅葉と静かな登山道で有名です。",
+      "zh": "以壮丽的秋叶和宁静的山路而闻名。",
+      "vi": "Nổi tiếng với lá thu tuyệt đẹp và những cung đường leo núi yên bình.",
+      "id": "Terkenal dengan dedaunan musim gugur yang menakjubkan dan jalur pegunungan yang tenang."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251127_99/1764204565605p5Gb1_JPEG/KakaoTalk_20251126_173945688_01.jpg"
+  },
+  {
+    "theme": "sanhaeng",
+    "region": {
+      "province": "jeonnam",
+      "city": "jangseong"
+    },
+    "name": {
+      "ko": "내장산국립공원 백양사 지구",
+      "en": "Naejangsan National Park Baegyangsa District",
+      "ja": "内蔵山国立公園 白陽寺地区",
+      "zh": "内藏山国立公园 白阳寺地区",
+      "vi": "Khu vực chùa Baegyangsa, Vườn quốc gia Naejangsan",
+      "id": "Distrik Baegyangsa Taman Nasional Naejangsan"
+    },
+    "address": "전라남도 장성군 북하면 약수리 148-2",
+    "rating": 4.5,
+    "description": {
+      "en": "A peaceful area combining the spiritual atmosphere of Baegyangsa Temple with natural beauty.",
+      "ja": "白陽寺の精神的な雰囲気と自然の美しさが融合した穏やかなエリアです。",
+      "zh": "一个将白阳寺的精神氛围与自然美景相结合的宁静区域。",
+      "vi": "Một khu vực yên bình kết hợp giữa không khí tâm linh của chùa Baegyangsa và vẻ đẹp thiên nhiên.",
+      "id": "Area damai yang menggabungkan suasana spiritual Kuil Baegyangsa dengan keindahan alam."
+    }
+  },
+  {
+    "theme": "sanhaeng",
+    "region": {
+      "province": "jeonbuk",
+      "city": "sunchang"
+    },
+    "name": {
+      "ko": "내장산 신선봉",
+      "en": "Naejangsan Sinseonbong Peak",
+      "ja": "内蔵山 神仙峰",
+      "zh": "内藏山 神仙峰",
+      "vi": "Đỉnh Sinseonbong, Núi Naejang",
+      "id": "Puncak Sinseonbong Gunung Naejang"
+    },
+    "address": "전북특별자치도 순창군 복흥면 봉덕리 산8-2",
+    "rating": 4,
+    "description": {
+      "en": "A peak offering panoramic views of the surrounding ridges and valleys.",
+      "ja": "周囲の稜線と谷のパノラマビューが楽しめる峰です。",
+      "zh": "一个可以俯瞰周围山脊和山谷全景的山峰。",
+      "vi": "Một đỉnh núi mang lại tầm nhìn toàn cảnh các dãy núi và thung lũng xung quanh.",
+      "id": "Puncak yang menawarkan pemandangan panorama punggung gunung dan lembah di sekitarnya."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20251127_99/1764204565605p5Gb1_JPEG/KakaoTalk_20251126_173945688_01.jpg"
+  },
+  {
+    "theme": "sanhaeng",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeongeup"
+    },
+    "name": {
+      "ko": "내장산국립공원",
+      "en": "Naejangsan National Park",
+      "ja": "内蔵山国立公園",
+      "zh": "内藏山国立公园",
+      "vi": "Công viên Quốc gia Naejangsan",
+      "id": "Taman Nasional Naejangsan"
+    },
+    "address": "전북특별자치도 정읍시 내장산로 936",
+    "rating": 4.5,
+    "description": {
+      "en": "A national park famous for its stunning autumn foliage and serene mountain landscapes.",
+      "ja": "見事な紅葉と穏やかな山の風景で有名な国立公園です。",
+      "zh": "以壮丽的秋叶和宁静的山景而闻名的国立公园。",
+      "vi": "Một công viên quốc gia nổi tiếng với lá thu tuyệt đẹp và phong cảnh núi non thanh bình.",
+      "id": "Taman nasional yang terkenal dengan dedaunan musim gugur yang menakjubkan dan pemandangan gunung yang tenang."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20211217_116/1639702480957Cibpo_JPEG/KakaoTalk_20211214_093143260_06.jpg"
+  },
+  {
+    "theme": "sanhaeng",
+    "region": {
+      "province": "jeonbuk",
+      "city": "jeongeup"
+    },
+    "name": {
+      "ko": "내장산 케이블카",
+      "en": "Naejangsan Cable Car",
+      "ja": "内蔵山ケーブルカー",
+      "zh": "内藏山缆车",
+      "vi": "Cáp treo Naejangsan",
+      "id": "Kabel Kar Naejangsan"
+    },
+    "address": "전북특별자치도 정읍시 내장산로 1179-11",
+    "rating": 4,
+    "description": {
+      "en": "A cable car providing an easy way to enjoy the panoramic views of Naejangsan Mountain.",
+      "ja": "内蔵山のパノラマビューを簡単に楽しめるケーブルカーです。",
+      "zh": "提供便捷方式欣赏内藏山全景的缆车。",
+      "vi": "Cáp treo cung cấp cách dễ dàng để tận hưởng tầm nhìn toàn cảnh núi Naejangsan.",
+      "id": "Kabel kar yang menyediakan cara mudah untuk menikmati pemandangan panorama Gunung Naejangsan."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20211217_116/1639702480957Cibpo_JPEG/KakaoTalk_20211214_093143260_06.jpg"
+  },
+  {
+    "theme": "sanhaeng",
+    "region": {
+      "province": "jeonnam",
+      "city": "gwangju",
+      "district": "dong-gu"
+    },
+    "name": {
+      "ko": "무등산 서석대",
+      "en": "Mudeungsan Seoseokdae",
+      "ja": "無等山 西石台",
+      "zh": "无等山 西石台",
+      "vi": "Mudeungsan Seoseokdae",
+      "id": "Mudeungsan Seoseokdae"
+    },
+    "address": "광주광역시 동구 용연동 산354-1",
+    "rating": 4.7,
+    "description": {
+      "en": "A majestic columnar jointing cliff on Mudeungsan Mountain, offering breathtaking views.",
+      "ja": "無等山にある壮大な柱状節理の崖で, 息をのむような景色が広がっています。",
+      "zh": "无等山上雄伟的柱状节理悬崖，提供令人叹为观止的景色。",
+      "vi": "Một vách đá khớp cột hùng vĩ trên núi Mudeungsan, mang lại tầm nhìn ngoạn mục.",
+      "id": "Tebing columnar jointing yang megah di Gunung Mudeungsan, menawarkan pemandangan yang menakjubkan."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20210601_256/1622554846777XLbFs_JPEG/bl8fy2suEehA-vmT3zbZVpJv.jpeg.jpg"
+  },
+  {
+    "theme": "sanhaeng",
+    "region": {
+      "province": "jeonnam",
+      "city": "hwasun",
+      "district": "iseo-myeon"
+    },
+    "name": {
+      "ko": "무등산 입석대",
+      "en": "Mudeungsan Ipseokdae",
+      "ja": "無等山 立石台",
+      "zh": "无等山 立石台",
+      "vi": "Đỉnh Ipseokdae núi Mudeungsan",
+      "id": "Ipseokdae Gunung Mudeungsan"
+    },
+    "address": "전라남도 화순군 이서면 영평리",
+    "rating": 4,
+    "description": {
+      "en": "A magnificent columnar jointing cliff on Mudeungsan Mountain, designated as a natural monument.",
+      "ja": "無等山にある壮大な柱状節理の崖で、天然記念物に指定されています。",
+      "zh": "无等山上的壮丽柱状节理悬崖，被指定为天然纪念物。",
+      "vi": "Vách đá cột đá bazan hùng vĩ trên núi Mudeungsan, được chỉ định là di tích thiên nhiên.",
+      "id": "Tebing sendi kolom yang megah di Gunung Mudeungsan, ditetapkan sebagai monumen alam."
+    },
+    "imageUrl": "https://ldb-phinf.pstatic.net/20210601_256/1622554846777XLbFs_JPEG/bl8fy2suEehA-vmT3zbZVpJv.jpeg.jpg"
   }
 ]

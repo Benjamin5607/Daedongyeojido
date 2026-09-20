@@ -1,0 +1,45 @@
+{
+  "queueId": "sq_20260920071533_rqon1b",
+  "slug": "ginseng-field-ridge-sunset-walk-geumsan-eup",
+  "theme": "sanhaeng",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-20 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of Ginseng Field Ridge Sunset Walk — geumsan-eup, chungnam — sanhaeng, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaHiking",
+    "#Sanhaeng",
+    "#등산",
+    "#산행",
+    "#KoreaTrails",
+    "#chungnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Ginseng Field Ridge Sunset Walk",
+    "en": "Ginseng Field Ridge Sunset Walk"
+  },
+  "descriptionEn": "Ridge paths between ginseng shade tents at dusk — photos on Naver rural blogs, not Google farms.",
+  "exportedAt": "2026-09-20T07:16:46.509Z"
+}

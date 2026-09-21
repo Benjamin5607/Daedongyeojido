@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-20T14:11:09.977Z",
+  "updatedAt": "2026-09-21T07:24:01.029Z",
   "items": [
+    {
+      "id": "sq_20260921072302_93ug4g",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "hanam-pig-house-dongdaemun-jung",
+      "theme": "k-food",
+      "caption": "동대문에서 늦은 시간까지 든든하게 즐길 수 있는 고기 맛집을 찾으신다면 하남돼지집을 추천합니다. 전문가가 직접 구워주는 육즙 가득한 돼지고기로 완벽한 저녁 식사를 경험해 보세요.\n\nIf you're looking for a satisfying meat dinner that stays open late in Dongdaemun, Hanam Pig House is the place to be. Enjoy juicy, premium pork grilled to perfection by the staff. 🥩\n\nhttps://daedongyeojido-nine.vercel.app/places/hanam-pig-house-dongdaemun-jung\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #seoul",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfbEmLV7iyZIRYrw9M-mqPhnhTcHVhi5NeYLrECDAQCuGCdA_ocTdQX82FYmHnd040oxH6ej7cjEHP6s11tTWGEGq6drfu7j0V1rmrxtaCVVpDrD6hvwNdq52aY3PNsFq8zfxGQEwunlxN=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/hanam-pig-house-dongdaemun-jung",
+      "score": 132,
+      "createdAt": "2026-09-21T07:23:02.984Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260921-hanam-pig-house-dongdaemun-jung",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-21T07:24:01.027Z",
+        "alt_text": "하남돼지집동대문점 (Hanam Pig House Dongdaemun) — seoul — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260921072258_z8khpf",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "oedo-second-love-hill-ilwon",
+      "theme": "hallyu",
+      "caption": "푸른 바다와 이국적인 정원이 어우러진 외도보타니아, 그중에서도 제2사랑의언덕은 특별한 평온함을 줍니다. 300년 된 신성한 나무가 지키고 있는 이곳은 드라마 속 한 장면 같은 풍경 덕분에 많은 분이 찾는 명소입니다. 가볍게 산책하며 거제의 아름다운 자연을 만끽해 보세요 🌿\n\nExperience the serene beauty of Oedo Second Love Hill, where exotic gardens meet the deep blue sea. Home to a 300-year-old sacred tree, this lookout is a favorite for drama tours and nature lovers alike. It is the perfect spot for a peaceful stroll and breathtaking views.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/oedo-second-love-hill-ilwon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/oedo-second-love-hill-ilwon",
+      "score": 152,
+      "createdAt": "2026-09-21T07:22:58.957Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260921-oedo-second-love-hill-ilwon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-21T07:23:38.163Z",
+        "alt_text": "외도보타니아 제2사랑의언덕 (Oedo Second Love Hill) — ilwon, gyeongnam — hallyu"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260920140910_0gsz43",
       "status": "exported",

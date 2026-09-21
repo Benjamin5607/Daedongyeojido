@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-21T07:24:01.029Z",
+  "updatedAt": "2026-09-21T16:26:03.216Z",
   "items": [
+    {
+      "id": "sq_20260921162423_o4r93y",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "nojasan-2nd-observatory-dongbu",
+      "theme": "sanhaeng",
+      "caption": "노자산 제2전망대 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/nojasan-2nd-observatory-dongbu\n\nNojasan 2nd Observatory\nThe second observatory on Nojasan Mountain in Geoje\n“케이블카나, 등산 모두 가능한 곳이예요. 날씨가 좋으면 멀리멀리 보일 것 같은 아주 시원한 전망대네요. 정상으로 시간이 너무 늦어서 못갔지만, 담에는 꼭 가보구 싶어요. 제 2전망대 뿐 아니라 건물의 젤 위층에 계단으로 끝까지 올라가는 것두 꼭 추천!! 약간의 차이지만 또 새로운 느낌…”\nGuide: https://daedongyeojido-nine.vercel.app/places/nojasan-2nd-observatory-dongbu\n🔥 Trend: 거제 야호!\n\nTraveler note: 케이블카나, 등산 모두 가능한 곳이예요. 날씨가 좋으면 멀리멀리 보일 것 같은 아주 시원한 전망대네요. 정상으로 시간이 너무 늦어서 못갔지만, 담에는 꼭 가보구 싶어요. 제 2전망대 뿐 아니라 건물의 젤 위층에 계단으로 끝까지 올라가는 것두 꼭 추천!! 약간의 차이지만 또 새로운 느낌…\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #거제야호 #TravelTrend",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260613_133/1781315776626VrSWb_JPEG/1780644490268.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/nojasan-2nd-observatory-dongbu",
+      "score": 127,
+      "createdAt": "2026-09-21T16:24:23.993Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260921-nojasan-2nd-observatory-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-21T16:26:03.213Z",
+        "alt_text": "노자산 제2전망대 (Nojasan 2nd Observatory) — dongbu, gyeongnam — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260921161923_uk4uie",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "geoje-gukbap-geoje",
+      "theme": "k-food",
+      "caption": "거제 국밥 — 「거제 트렌드」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/geoje-gukbap-geoje\n\nGeoje Gukbap\nGeoje Gukbap Restaurant\n“소문듣고왔는데 술안주로 진짜좋네요 국물맛있어요”\nGuide: https://daedongyeojido-nine.vercel.app/places/geoje-gukbap-geoje\n🔥 Trend: 거제 트렌드\n\nTraveler note: 소문듣고왔는데 술안주로 진짜좋네요 국물맛있어요\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제트렌드 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20220406_106/1649228827290FCW5d_JPEG/20220406_160600.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-gukbap-geoje",
+      "score": 145,
+      "createdAt": "2026-09-21T16:19:23.207Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260921-geoje-gukbap-geoje",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-21T16:24:40.667Z",
+        "alt_text": "Pixar-style travel illustration of 거제 국밥 (Geoje Gukbap) — gyeongnam — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260921072302_93ug4g",
       "status": "exported",

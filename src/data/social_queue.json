@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-22T14:33:39.679Z",
+  "updatedAt": "2026-09-23T07:05:56.006Z",
   "items": [
+    {
+      "id": "sq_20260923070424_dk5bpa",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "okpo-victory-memorial-hall-okpo",
+      "theme": "k-culture",
+      "caption": "옥포대첩기념관 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/okpo-victory-memorial-hall-okpo\n\nOkpo Victory Memorial Hall\nIndoor exhibits on the 1592 Okpo naval battle.\nGuide: https://daedongyeojido-nine.vercel.app/places/okpo-victory-memorial-hall-okpo\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FvBt9CN3R89erCDTwVB1nCq0Zvww8zm24_mJbZPhkxdiOEIiqnFw2FyEdohknf9F_Q9gQfSxSjoZBmek7bmmzpA.webp&type=a340",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/okpo-victory-memorial-hall-okpo",
+      "score": 151,
+      "createdAt": "2026-09-23T07:04:24.327Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260923-okpo-victory-memorial-hall-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-23T07:05:56.004Z",
+        "alt_text": "Pixar-style travel illustration of 옥포대첩기념관 (Okpo Victory Memorial Hall) — okpo, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260923065923_6rx30a",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "deokwon-beach-dongbu",
+      "theme": "hallyu",
+      "caption": "덕원해수욕장 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/deokwon-beach-dongbu\n\nDeokwon Beach\n1 Night 2 Days filming beach with quiet family-friendly sand.\n“모래사장 깨끗하고, 평일이라 방문객이 적어 수상 안전요원과 방문객이 1:2정도^^; 가족단위로 오시면 좋을거 같네요. 화장실과 발씻는 곳은 있는데 샤워시설은 안보이는거 같고, 수영장 붙어있는 장소는 사유지라 주차요금 받는다는 현수막이 붙어있네요. 백사장에 설치되어있는 그늘막은 유료이고…”\nGuide: https://daedongyeojido-nine.vercel.app/places/deokwon-beach-dongbu\n🔥 Trend: 거제 야호!\n\nTraveler note: 모래사장 깨끗하고, 평일이라 방문객이 적어 수상 안전요원과 방문객이 1:2정도^^; 가족단위로 오시면 좋을거 같네요. 화장실과 발씻는 곳은 있는데 샤워시설은 안보이는거 같고, 수영장 붙어있는 장소는 사유지라 주차요금 받는다는 현수막이 붙어있네요. 백사장에 설치되어있는 그늘막은 유료이고…\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7txHUedNCyZNjOVkJXhL_tl2wkna3waZ1GIDRaCae2io7haFSTQQ3qM16kr06OBKkG6Se9WAySqwCtX6pgywsgWEm6rD-H3BlpNKZ7ApmINfqIx4uVpE4MQLLiBLF7s1H5uQmHVEgseQ=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/deokwon-beach-dongbu",
+      "score": 152,
+      "createdAt": "2026-09-23T06:59:23.531Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260923-deokwon-beach-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-23T07:05:24.168Z",
+        "alt_text": "Pixar-style travel illustration of 덕원해수욕장 (Deokwon Beach) — dongbu, gyeongnam — hallyu, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260922143304_m7n80m",
       "status": "exported",

@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20260924065837_bgb843",
+  "slug": "maemiseong-fortress-gyeongnam",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · ‘역주행 퀸’ 리센느의 진짜 시험대… 11월 3일 오리지널 신곡 컴백새  · 리센느, \"거제 야호\" 밈 하나가 2년 된 노래 살렸다…광고 문의 100 · [덕파고] 리센느 미나미, '야호~' 밈 떡상한 개그캐? 파고들수록 나오 · [2026 TMA] 리센느, '올해의 아티스트' 품었다…\"모든 순간 리마 · [영상] 리센느(RESCENE), 지금은 리센느의 시대새 창 열림",
+    "updatedAt": "2026-09-20T07:28:00.772Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-24 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of 매미성 (Maemiseong Fortress) — gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "매미성",
+    "en": "Maemiseong Fortress"
+  },
+  "descriptionEn": "",
+  "exportedAt": "2026-09-24T07:02:27.073Z"
+}

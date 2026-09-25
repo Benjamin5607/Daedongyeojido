@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-24T14:41:14.191Z",
+  "updatedAt": "2026-09-25T06:52:03.899Z",
   "items": [
+    {
+      "id": "sq_20260925065008_97al0l",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "windy-hill-nambugmyeon-2",
+      "theme": "urban-nature",
+      "caption": "거제도의 푸른 바다와 시원한 바람이 맞닿은 곳, 바람의 언덕입니다. 탁 트인 전망을 따라 천천히 걷다 보면 일상의 소란함은 사라지고 오직 자연의 평온함만 남습니다. 가벼운 산책과 함께 마음의 여유를 찾아보세요 🌿\n\nExperience the harmony of the blue ocean and refreshing breezes at Windy Hill in Geoje. A gentle stroll along the scenic ridges offers a panoramic view that clears the mind and restores the soul. It is the perfect spot for a peaceful escape into nature.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #옥포 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/windy-hill-nambugmyeon-2",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/windy-hill-nambugmyeon-2",
+      "score": 132,
+      "createdAt": "2026-09-25T06:50:08.398Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260925-windy-hill-nambugmyeon-2",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-25T06:52:03.897Z",
+        "alt_text": "Pixar-style travel illustration of 바람의 언덕 (Windy Hill) — nambugmyeon, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260925064850_qhoh79",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-pow-camp-historic-park-gyeongnam",
+      "theme": "urban-nature",
+      "caption": "거제의 푸른 자연 속에 새겨진 역사의 숨결을 느껴보세요. 거제도 포로수용소 유적공원은 단순한 전시를 넘어, 평화의 소중함을 되새기게 하는 특별한 공간입니다. 최근 '거제 야호!' 트렌드와 함께 다시금 주목받고 있는 이곳에서, 과거의 기록과 현재의 풍경이 공존하는 고요한 산책을 즐겨보시길 바랍니다. 🌿\n\nExperience the breath of history nestled within the lush nature of Geoje. The Geoje POW Camp Historic Park is more than just an exhibition; it is a poignant space that reminds us of the preciousness of peace. Following the recent 'Geoje Yaho!' trend, we invite you to take a quiet stroll through this site where historical records and scenic landscapes coexist.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam\n\n더 자세히 보기: https://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-historic-park-gyeongnam",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-pow-camp-historic-park-gyeongnam",
+      "score": 147,
+      "createdAt": "2026-09-25T06:48:50.347Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260925-geoje-pow-camp-historic-park-gyeongnam",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-25T06:51:16.032Z",
+        "alt_text": "거제도 포로수용소 유적공원 (Geoje POW Camp Historic Park) — gyeongnam — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260924144013_jdqqss",
       "status": "exported",

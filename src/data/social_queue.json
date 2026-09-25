@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-25T06:52:03.899Z",
+  "updatedAt": "2026-09-25T15:04:45.116Z",
   "items": [
+    {
+      "id": "sq_20260925150341_57dyjl",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "theme": "k-food",
+      "caption": "강원도 영월의 소박한 정취가 느껴지는 곳, 영월 메밀막국수 코너를 소개합니다. 차고를 개조해 만든 정겨운 주방에서 정성껏 썰어낸 메밀면의 식감이 일품인 곳이에요. 화려함보다는 지역 주민들이 인정하는 진정한 손맛을 느끼고 싶은 분들께 추천합니다 🍜\n\nDiscover the authentic taste of Yeongwol at the Buckwheat Makguksu Corner. This hidden gem, operating out of a cozy garage-turned-kitchen, serves hand-cut buckwheat noodles that local foodies swear by. It's the perfect spot to experience a genuine, home-style meal in Gangwon province.\n\nhttps://daedongyeojido-nine.vercel.app/places/yeongwol-buckwheat-makguksu-corner-yeongwol-eup\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gangwon #영월맛집 #메밀막국수",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260328_208/17746652230043IluE_JPEG/L1002209.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "score": 82,
+      "createdAt": "2026-09-25T15:03:41.139Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260925-yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-25T15:04:45.113Z",
+        "alt_text": "Pixar-style travel illustration of Yeongwol Buckwheat Makguksu Corner — yeongwol-eup, gangwon — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260925150144_f7p5n6",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "okpo-public-bathhouse-okpo",
+      "theme": "urban-nature",
+      "caption": "거제 옥포의 일상 속에 녹아든 휴식처, 옥포 대중탕을 소개합니다. 여행의 피로를 풀고 잠시 쉬어갈 수 있는 이곳에서 따뜻한 온기와 함께 몸과 마음을 재충전해 보세요. 거제 여행 중 만나는 소박하지만 확실한 힐링의 시간입니다 ♨️\n\nExperience a moment of pure relaxation at Okpo Public Bathhouse in Geoje. It is the perfect spot to soothe your muscles and refresh your mind after a long day of exploring the beautiful coast of Gyeongsangnam-do. A simple yet essential part of the local Korean bathing culture.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호맛집 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/okpo-public-bathhouse-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20171029_37/1509275019327O29KX_JPEG/u8VuIxTihWCfpFTS629Uc30C.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/okpo-public-bathhouse-okpo",
+      "score": 107,
+      "createdAt": "2026-09-25T15:01:44.540Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260925-okpo-public-bathhouse-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-25T15:04:07.374Z",
+        "alt_text": "Pixar-style travel illustration of 옥포 대중탕 (Okpo Public Bathhouse) — okpo, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260925065008_97al0l",
       "status": "exported",

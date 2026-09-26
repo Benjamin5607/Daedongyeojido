@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-26T06:50:06.618Z",
+  "updatedAt": "2026-09-26T14:11:53.919Z",
   "items": [
+    {
+      "id": "sq_20260926141103_wt59vl",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "seoraksan-national-park-sokcho",
+      "theme": "sanhaeng",
+      "caption": "설악산의 웅장한 화강암 봉우리와 계절마다 옷을 갈아입는 단풍은 언제 보아도 경이롭습니다. 케이블카를 타고 편하게 올라가 탁 트인 전망을 감상하거나, 정해진 코스를 따라 천천히 걸으며 자연의 숨결을 느껴보세요. 강원도 속초의 정취를 가장 잘 느낄 수 있는 곳입니다 ⛰️\n\nFrom granite peaks to vibrant autumn foliage, Seoraksan National Park is a premier destination for nature lovers. Whether you take the cable car for a panoramic view or hike the rugged trails, the scenery of Sokcho never fails to impress.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gangwon #Seoraksan\n\nhttps://daedongyeojido-nine.vercel.app/places/seoraksan-national-park-sokcho",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251231_185/1767154289284zsbog_JPEG/%C0%D4%BC%B1_%BC%B3%BE%C7%BB%EA_%B4%AB%BF%CA%C0%BB_%C0%D4%C0%BA_%BF%EF%BB%EA%B9%D9%C0%A7_%C0%BA%C7%CF%BC%F6_%C0%CC%BA%B4%B1%D4_%BA%B8%C1%A4%BA%BB.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seoraksan-national-park-sokcho",
+      "score": 65,
+      "createdAt": "2026-09-26T14:11:03.475Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260926-seoraksan-national-park-sokcho",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-26T14:11:53.917Z",
+        "alt_text": "Pixar-style travel illustration of Seoraksan National Park — gangwon — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260926141047_yao5wj",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "saengsaengi-gohyeon",
+      "theme": "k-food",
+      "caption": "거제 고현에서 제대로 된 바다의 맛을 느끼고 싶다면 '생생이'를 추천합니다. 신선한 해산물이 가득 들어간 철판 해물탕과 매콤한 해물 갈비찜이 이곳의 대표 메뉴입니다. 싱싱한 조개와 해산물의 깊은 풍미가 일품이라 현지에서도 사랑받는 곳입니다. 🐚\n\nIf you're looking for authentic flavors of the sea in Geoje, Saengsaengi is the place to be. Famous for its iron-pot haemul stew and spicy haemul galbi jjim, this spot is beloved for its incredibly fresh shellfish and rich seafood broths.\n\n더 자세한 정보는 여기서 확인하세요:\nhttps://daedongyeojido-nine.vercel.app/places/saengsaengi-gohyeon\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam #Geoje #거제맛집",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1WA4Qwcm1EPPVu7dEBU4I7MhV519e2mF0PVCOx_FYJR6zGJgJN7wjZ8_y1iJ-yPkQvwNgK3jlXis75F0VURyEKmEckq-qsLpkECnpdZKAuFroc6jR9ZicRPjyITttIW34LdBzkA=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/saengsaengi-gohyeon",
+      "score": 83,
+      "createdAt": "2026-09-26T14:10:47.718Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260926-saengsaengi-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-26T14:11:20.688Z",
+        "alt_text": "Pixar-style travel illustration of 생생이 (Saengsaengi) — gohyeon, gyeongnam — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260926064824_141sfc",
       "status": "exported",

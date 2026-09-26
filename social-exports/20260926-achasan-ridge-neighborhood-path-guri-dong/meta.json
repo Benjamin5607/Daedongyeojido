@@ -1,0 +1,45 @@
+{
+  "queueId": "sq_20260926064824_141sfc",
+  "slug": "achasan-ridge-neighborhood-path-guri-dong",
+  "theme": "sanhaeng",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-26 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of Achasan Ridge Neighborhood Path — guri-dong, gyeonggi — sanhaeng, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaHiking",
+    "#Sanhaeng",
+    "#등산",
+    "#산행",
+    "#KoreaTrails",
+    "#gyeonggi"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Achasan Ridge Neighborhood Path",
+    "en": "Achasan Ridge Neighborhood Path"
+  },
+  "descriptionEn": "Short forest loop that apartment residents jog at dawn — shared on Naver Map reviews, rarely on Google hiking apps.",
+  "exportedAt": "2026-09-26T06:50:06.615Z"
+}

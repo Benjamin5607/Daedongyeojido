@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-25T15:04:45.116Z",
+  "updatedAt": "2026-09-26T06:50:06.618Z",
   "items": [
+    {
+      "id": "sq_20260926064824_141sfc",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "achasan-ridge-neighborhood-path-guri-dong",
+      "theme": "sanhaeng",
+      "caption": "구리시의 숨은 보석, 아차산 능선 마을길을 소개합니다. 이곳은 화려한 등산 코스보다 동네 주민들이 새벽 조깅을 즐기는 소박한 숲길의 매력이 가득한 곳입니다. 길이 잘 닦여 있고 가로등이 설치되어 있어 늦은 시간에도 안전하게 산책할 수 있으며, 초보자도 부담 없이 올라가 서울의 탁 트인 전경을 감상할 수 있습니다.\n\nDiscover a local gem in Guri: the Achasan Ridge Neighborhood Path. Unlike the crowded tourist trails, this is a peaceful forest loop where residents enjoy their dawn jogs. With well-maintained paths and street lighting for safety, it's an easy climb for beginners that rewards you with a stunning panoramic view of Seoul. 🌲\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeonggi #Guri\n\nhttps://daedongyeojido-nine.vercel.app/places/achasan-ridge-neighborhood-path-guri-dong",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_260/1440992272261sxuRJ_JPEG/11491459_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/achasan-ridge-neighborhood-path-guri-dong",
+      "score": 74,
+      "createdAt": "2026-09-26T06:48:24.397Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260926-achasan-ridge-neighborhood-path-guri-dong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-26T06:50:06.615Z",
+        "alt_text": "Pixar-style travel illustration of Achasan Ridge Neighborhood Path — guri-dong, gyeonggi — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260926064807_w68ieg",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-sea-world-ilwon",
+      "theme": "urban-nature",
+      "caption": "푸른 바다의 신비로움을 가까이서 느낄 수 있는 거제씨월드입니다. 다양한 해양 생물들과 교감하며 특별한 추억을 쌓을 수 있는 곳으로, 가족이나 연인과 함께 방문해 힐링의 시간을 가져보세요 🐬\n\nExperience the wonders of the ocean at Geoje Sea World. It is a perfect destination to connect with marine life and create unforgettable memories with your loved ones.\n\nhttps://daedongyeojido-nine.vercel.app/places/geoje-sea-world-ilwon\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #옥포 #TravelTrend #gyeongnam",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20241008_76/1728345580645pOgQ3_JPEG/DSC03360.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-sea-world-ilwon",
+      "score": 132,
+      "createdAt": "2026-09-26T06:48:07.371Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260926-geoje-sea-world-ilwon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-09-26T06:49:24.392Z",
+        "alt_text": "거제씨월드 (Geoje Sea World) — ilwon, gyeongnam — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260925150341_57dyjl",
       "status": "exported",

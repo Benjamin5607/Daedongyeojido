@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-27T07:17:57.536Z",
+  "updatedAt": "2026-09-27T15:02:43.172Z",
   "items": [
+    {
+      "id": "sq_20260927150204_ck9ydx",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "seokguram-grotto-gyeongju",
+      "theme": "k-culture",
+      "caption": "경주 토함산의 고요한 새벽 공기를 가르며 마주하는 석굴암의 장엄함을 느껴보세요. 동해를 바라보며 온화한 미소를 짓고 있는 본존불의 모습은 시대를 초월한 평온함과 정교한 신라 예술의 정수를 보여줍니다. 바쁜 일상에서 잠시 벗어나 마음의 안식을 찾고 싶은 분들께 추천하는 곳입니다.\n\nExperience the solemn beauty of Seokguram Grotto, nestled atop Tohamsan Mountain in Gyeongju. The serene granite Buddha, gazing over the East Sea, embodies the pinnacle of Silla dynasty artistry and spiritual peace. It is a perfect destination for those seeking a moment of quiet reflection and timeless heritage 🧘.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #gyeongbuk #Gyeongju #UNESCO #Seokguram\n\nhttps://daedongyeojido-nine.vercel.app/places/seokguram-grotto-gyeongju",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260304_135/1772636023073XvxNy_JPEG/05hlsJpiDSbn.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seokguram-grotto-gyeongju",
+      "score": 65,
+      "createdAt": "2026-09-27T15:02:04.487Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260927-seokguram-grotto-gyeongju",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-27T15:02:43.170Z",
+        "alt_text": "Pixar-style travel illustration of Seokguram Grotto — gyeongbuk — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260927150110_s98b07",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "theme": "k-food",
+      "caption": "통영 바닷가 근처, 현지인들이 즐겨 찾는 충무김밥 골목을 소개합니다. 아삭한 무김치와 밥의 조화가 일품이며, 합리적인 가격으로 통영의 정취를 느낄 수 있는 곳입니다. 화려한 관광지보다 소박하고 진실된 로컬의 맛을 경험해 보세요. 🍙\n\nDiscover the authentic taste of Tongyeong at the Chungmu Kimbap Back Alley. Known for its radish-heavy sides and honest flavors, this is where locals gather dockside for a satisfying meal. A perfect spot for those seeking a genuine K-food experience away from the crowds.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam #Tongyeong #통영여행\n\nhttps://daedongyeojido-nine.vercel.app/places/tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_282/1441021614858MOy5P_JPEG/11694124_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "score": 82,
+      "createdAt": "2026-09-27T15:01:10.482Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260927-tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-27T15:02:23.985Z",
+        "alt_text": "Pixar-style travel illustration of Tongyeong Chungmu Kimbap Back Alley — bongpyeong, gyeongnam — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260927071703_w8cuu3",
       "status": "exported",

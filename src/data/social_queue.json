@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-26T14:11:53.919Z",
+  "updatedAt": "2026-09-27T07:17:57.536Z",
   "items": [
+    {
+      "id": "sq_20260927071703_w8cuu3",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "seongsan-ilchulbong-seongsan",
+      "theme": "k-culture",
+      "caption": "Seongsan Ilchulbong\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/seongsan-ilchulbong-seongsan\n\nSeongsan Ilchulbong\nUNESCO tuff cone crater famous for sunrise hikes and dramatic coastal cliffs.\nGuide: https://daedongyeojido-nine.vercel.app/places/seongsan-ilchulbong-seongsan\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #jeju",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_117/1440992267605I7nrM_JPEG/11491438_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seongsan-ilchulbong-seongsan",
+      "score": 65,
+      "createdAt": "2026-09-27T07:17:03.201Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260927-seongsan-ilchulbong-seongsan",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-27T07:17:57.533Z",
+        "alt_text": "Pixar-style travel illustration of Seongsan Ilchulbong — seongsan, jeju — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260927071703_f5dhox",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "mireukdo-island-hidden-ridge-trail-bongpyeong",
+      "theme": "sanhaeng",
+      "caption": "Mireukdo Island Hidden Ridge Trail\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/mireukdo-island-hidden-ridge-trail-bongpyeong\n\nMireukdo Island Hidden Ridge Trail\nRidge path with sea views locals hike on weekdays — route on Naver island blogs, not Google trail apps.\n“Pretty cool to walk around to see the murals. Would reccomend going early morning since it’s hot the weather but if it’s not hot, anytime is fine before dark.”\nGuide: https://daedongyeojido-nine.vercel.app/places/mireukdo-island-hidden-ridge-trail-bongpyeong\n\nTraveler note: Pretty cool to walk around to see the murals. Would reccomend going early morning since it’s hot the weather but if it’s not hot, anytime is fine before dark.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHLuFSKpIzfc6R_DSRPGtSOF8YvdG-1o-54xWWmAqmzeq1ZUrugx6IBpm10pakSfaWHyP_cdtPJMmget4b5ryjyCX3W9xYsHvWuQiWRmh8-7KQng18TUQXHG93PrckpQkzgU2k1w=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/mireukdo-island-hidden-ridge-trail-bongpyeong",
+      "score": 76,
+      "createdAt": "2026-09-27T07:17:03.008Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260927-mireukdo-island-hidden-ridge-trail-bongpyeong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-27T07:17:22.986Z",
+        "alt_text": "Pixar-style travel illustration of Mireukdo Island Hidden Ridge Trail — bongpyeong, gyeongnam — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260926141103_wt59vl",
       "status": "exported",

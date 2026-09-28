@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260928180018_4mipfa",
+  "slug": "sapiens-geoje-okpo-okpo",
+  "theme": "k-food",
+  "format": "place_card",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-28 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "사피엔스 거제옥포본점 (Sapiens Geoje Okpo) — okpo, gyeongnam — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWll1VkTgThGiUmmr2izVVVzRgQUTdi4C2HLaoDp7tE93O7tPjMqsLIiUFnuxonMHVaME77YwuTTA05imOzKIYvzI92KTtZRmSPesNr8GNpJ3h1cNyaYJ5uTIuE_aQsrCxp16kM0=w800-h600-k-no",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "사피엔스 거제옥포본점",
+    "en": "Sapiens Geoje Okpo"
+  },
+  "descriptionEn": "Wood-fired oven grilled fish and oyster dishes by Okpo harbor.",
+  "exportedAt": "2026-09-28T18:02:59.917Z"
+}

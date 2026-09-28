@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260928075435_7kl45f",
+  "slug": "muju-gucheondong-valley-muju",
+  "theme": "urban-nature",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-28 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of Muju Gucheondong Valley — jeonbuk — urban nature, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#jeonbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Muju Gucheondong Valley",
+    "en": "Muju Gucheondong Valley"
+  },
+  "descriptionEn": "Crystal-clear stream valley with suspension bridges and summer forest bathing.",
+  "exportedAt": "2026-09-28T07:58:27.731Z"
+}

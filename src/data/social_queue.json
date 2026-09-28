@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-27T15:02:43.172Z",
+  "updatedAt": "2026-09-28T07:58:27.735Z",
   "items": [
+    {
+      "id": "sq_20260928075435_7kl45f",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "muju-gucheondong-valley-muju",
+      "theme": "urban-nature",
+      "caption": "맑은 계곡물과 푸른 숲이 어우러진 무주 구천동 계곡에서 진정한 휴식을 경험해 보세요. 출렁다리를 건너며 느끼는 스릴과 숲속에서 즐기는 산림욕은 일상의 스트레스를 잊게 해줍니다. 계절마다 다른 매력을 뽐내는 이곳에서 자연이 주는 위로를 느껴보시길 바랍니다 🌿\n\nExperience true relaxation at Muju Gucheondong Valley, where crystal-clear streams meet lush forests. From the excitement of crossing suspension bridges to the serenity of summer forest bathing, it is a destination that offers peace in every season.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #jeonbuk #Muju #무주\n\nhttps://daedongyeojido-nine.vercel.app/places/muju-gucheondong-valley-muju",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150901_158/1441045623542JrfR2_JPEG/13491426_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/muju-gucheondong-valley-muju",
+      "score": 65,
+      "createdAt": "2026-09-28T07:54:35.648Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260928-muju-gucheondong-valley-muju",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-28T07:58:27.731Z",
+        "alt_text": "Pixar-style travel illustration of Muju Gucheondong Valley — jeonbuk — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260928075353_42zuww",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "garasan-mountain-nambugmyeon",
+      "theme": "sanhaeng",
+      "caption": "거제도의 푸른 바다와 산세가 어우러진 가라산입니다. 짧은 산행만으로도 해금강과 남해안의 탁 트인 절경을 한눈에 담을 수 있는 곳입니다. 복잡한 일상에서 벗어나 고요한 자연 속에서 진정한 휴식을 경험해 보세요. ⛰️\n\nExperience the breathtaking harmony of mountains and sea at Garasan Mountain in Geoje. A short summit hike rewards you with stunning panoramic views of Haegeumgang and the south coast. It is the perfect spot to escape the city and find peace in nature.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongnam #Geoje\n\nhttps://daedongyeojido-nine.vercel.app/places/garasan-mountain-nambugmyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwBglAq-ZpFdgin3ZyM-rh2mVUEeilkss6Ror91GMckbw3N7YUgIX2_uYYF7aiJlc_TDlif2NzzwUlo2q4elSYDRFHS8HOsFLJgzvg9ghNg5uZQJ-DRnzGQPkx1sGXDZM9jfkK=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/garasan-mountain-nambugmyeon",
+      "score": 74,
+      "createdAt": "2026-09-28T07:53:53.439Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260928-garasan-mountain-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-28T07:57:12.400Z",
+        "alt_text": "Pixar-style travel illustration of 가라산 (Garasan Mountain) — nambugmyeon, gyeongnam — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260927150204_ck9ydx",
       "status": "exported",

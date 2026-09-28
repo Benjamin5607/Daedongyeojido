@@ -21,6 +21,7 @@
   --safe-top: env(safe-area-inset-top, 0px);
   --safe-right: env(safe-area-inset-right, 0px);
   --fab-clearance: calc(1.25rem + var(--safe-bottom));
+  --fab-side-inset: 0px;
   --sticky-offset: calc(var(--app-header-height) + 0.75rem);
 }
 
@@ -28,9 +29,11 @@
 @media (max-width: 767px) {
   :root {
     --app-bottom-nav-height: 4.25rem;
+    /* Keep FAB clearly above bottom nav + thumb zone */
     --fab-clearance: calc(
-      var(--app-bottom-nav-height) + 0.75rem + var(--safe-bottom)
+      var(--app-bottom-nav-height) + 1.25rem + var(--safe-bottom)
     );
+    --fab-side-inset: 4.75rem; /* reserve corner so CTAs don't sit under FAB */
   }
 }
 
@@ -133,6 +136,26 @@ body {
 .fab-guide {
   position: fixed;
   z-index: 45;
-  right: max(1.25rem, var(--safe-right));
+  right: max(1rem, var(--safe-right));
   bottom: var(--fab-clearance);
+  width: 3.25rem;
+  height: 3.25rem;
+}
+
+@media (min-width: 640px) {
+  .fab-guide {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+}
+
+/* Reserve the FAB corner on phones so primary CTAs stay tappable */
+.fab-content-inset {
+  padding-right: 0;
+}
+
+@media (max-width: 767px) {
+  .fab-content-inset {
+    padding-right: var(--fab-side-inset, 0px);
+  }
 }

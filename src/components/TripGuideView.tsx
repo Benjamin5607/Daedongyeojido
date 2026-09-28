@@ -317,11 +317,11 @@ export function TripGuideView({
                       </div>
                     )}
 
-                    <div className="mt-3 flex flex-wrap gap-2">
+                    <div className="action-row mt-3">
                       {stop.slug && (
                         <Link
                           href={`/places/${stop.slug}`}
-                          className="rounded-full bg-[var(--color-trip-green)] px-3 py-1.5 text-[11px] font-semibold text-white"
+                          className="btn-touch inline-flex items-center rounded-full bg-[var(--color-trip-green)] px-3 py-2 text-[11px] font-semibold text-white"
                         >
                           {t.viewDetails}
                         </Link>
@@ -331,7 +331,7 @@ export function TripGuideView({
                           href={stop.naverUrl}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="rounded-full border border-[#03C75A]/40 px-3 py-1.5 text-[11px] font-semibold text-[#03C75A]"
+                          className="btn-touch inline-flex items-center rounded-full border border-[#03C75A]/40 px-3 py-2 text-[11px] font-semibold text-[#03C75A]"
                         >
                           {t.directionsOnNaver}
                         </a>
@@ -341,7 +341,7 @@ export function TripGuideView({
                           href={stop.googleUrl}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="rounded-full border border-stone-300 px-3 py-1.5 text-[11px] font-semibold text-stone-600"
+                          className="btn-touch inline-flex items-center rounded-full border border-stone-300 px-3 py-2 text-[11px] font-semibold text-stone-600"
                         >
                           {t.viewOnGoogleMaps}
                         </a>

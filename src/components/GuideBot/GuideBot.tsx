@@ -84,8 +84,8 @@ export function GuideBot({
       aria-labelledby="guide-bot-title"
       className={
         embedded
-          ? "flex h-[min(70vh,560px)] w-full flex-col overflow-hidden rounded-3xl border border-[var(--color-border)] bg-[var(--color-surface)] shadow-xl"
-          : "relative flex h-[min(85vh,640px)] w-full max-w-lg flex-col overflow-hidden rounded-t-3xl border border-[var(--color-border)] bg-[var(--color-surface)] shadow-2xl sm:rounded-3xl"
+          ? "flex h-[min(70vh,560px)] w-full min-w-0 flex-col overflow-hidden rounded-3xl border border-[var(--color-border)] bg-[var(--color-surface)] shadow-xl"
+          : "relative flex h-[min(88dvh,640px)] w-full max-w-lg flex-col overflow-hidden rounded-t-3xl border border-[var(--color-border)] bg-[var(--color-surface)] shadow-2xl sm:h-[min(85vh,640px)] sm:rounded-3xl"
       }
     >
       <header

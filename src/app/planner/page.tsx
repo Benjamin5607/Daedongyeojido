@@ -291,7 +291,7 @@ function PlannerContent() {
           <p className="mt-2 max-w-2xl text-sm text-[var(--color-muted)]">
             {t.plannerTemplatesSub}
           </p>
-          <div className="mt-5 grid gap-4 sm:grid-cols-2">
+          <div className="fab-content-inset mt-5 grid gap-4 sm:grid-cols-2">
             {ITINERARY_TEMPLATES.map((template) => {
               const { title, blurb } = getTemplateLabel(template, locale);
               return (

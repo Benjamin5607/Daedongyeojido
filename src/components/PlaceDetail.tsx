@@ -215,7 +215,7 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
 
             <p className="text-sm text-[var(--color-muted)]">{address}</p>
 
-            <div className="action-row">
+            <div className="action-row fab-content-inset">
               <button
                 type="button"
                 onClick={handleTogglePlanner}

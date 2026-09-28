@@ -134,13 +134,13 @@ export function TripGuideView({
 
   return (
     <section className="mt-10 overflow-hidden rounded-3xl border border-[var(--color-border)] bg-white shadow-sm">
-      <div className="border-b border-stone-100 bg-gradient-to-br from-[var(--color-trip-green)]/10 via-white to-[var(--color-accent-soft)]/40 px-5 py-6 sm:px-8">
-        <div className="flex flex-wrap items-start justify-between gap-4">
-          <div>
+      <div className="border-b border-stone-100 bg-gradient-to-br from-[var(--color-trip-green)]/10 via-white to-[var(--color-accent-soft)]/40 px-4 py-5 sm:px-8 sm:py-6">
+        <div className="flex flex-col gap-4 sm:flex-row sm:flex-wrap sm:items-start sm:justify-between">
+          <div className="min-w-0">
             <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[var(--color-trip-green-dark)]">
               {t.tripGuideEyebrow}
             </p>
-            <h2 className="mt-1 font-serif text-2xl font-semibold text-[var(--color-ink)] sm:text-3xl">
+            <h2 className="mt-1 font-serif text-xl font-semibold text-[var(--color-ink)] sm:text-3xl">
               {guide.meta.title}
             </h2>
             <p className="mt-2 text-sm text-[var(--color-muted)]">
@@ -150,12 +150,12 @@ export function TripGuideView({
               {t.tripGuideSource}: {guide.source === "nvidia" ? "NVIDIA NIM" : t.tripGuideSourceLocal}
             </p>
           </div>
-          <div className="flex flex-wrap gap-2">
+          <div className="action-row w-full sm:w-auto">
             <button
               type="button"
               onClick={handleEnrich}
               disabled={enriching}
-              className="rounded-full bg-stone-900 px-4 py-2 text-xs font-semibold text-white transition hover:bg-stone-800 disabled:opacity-60"
+              className="btn-touch inline-flex items-center rounded-full bg-stone-900 px-4 py-2.5 text-xs font-semibold text-white transition hover:bg-stone-800 disabled:opacity-60"
             >
               {enriching ? t.tripGuideEnriching : t.tripGuideEnrich}
             </button>
@@ -163,7 +163,7 @@ export function TripGuideView({
               <button
                 type="button"
                 onClick={onClose}
-                className="rounded-full border border-stone-300 bg-white px-4 py-2 text-xs font-medium text-stone-700"
+                className="btn-touch inline-flex items-center rounded-full border border-stone-300 bg-white px-4 py-2.5 text-xs font-medium text-stone-700"
               >
                 {t.tripGuideHide}
               </button>
@@ -185,21 +185,25 @@ export function TripGuideView({
         )}
       </div>
 
-      <div className="flex flex-wrap gap-2 border-b border-stone-100 px-5 py-3 sm:px-8">
-        {tabs.map((item) => (
-          <button
-            key={item.id}
-            type="button"
-            onClick={() => setTab(item.id)}
-            className={`rounded-full px-3.5 py-1.5 text-xs font-semibold transition ${
-              tab === item.id
-                ? "bg-[var(--color-trip-green)] text-white"
-                : "bg-stone-100 text-stone-600 hover:bg-stone-200"
-            }`}
-          >
-            {item.label}
-          </button>
-        ))}
+      <div className="sticky-under-header border-b border-stone-100 px-4 py-3 sm:px-8">
+        <div className="chip-scroll" role="tablist">
+          {tabs.map((item) => (
+            <button
+              key={item.id}
+              type="button"
+              role="tab"
+              aria-selected={tab === item.id}
+              onClick={() => setTab(item.id)}
+              className={`btn-touch rounded-full px-3.5 py-1.5 text-xs font-semibold transition ${
+                tab === item.id
+                  ? "bg-[var(--color-trip-green)] text-white"
+                  : "bg-stone-100 text-stone-600 hover:bg-stone-200"
+              }`}
+            >
+              {item.label}
+            </button>
+          ))}
+        </div>
       </div>
 
       <div className="px-5 py-6 sm:px-8">

@@ -215,12 +215,12 @@ function PlannerContent() {
 
   return (
     <PageShell>
-      <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-12">
+      <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 sm:py-12">
         {/* Banner/Header */}
-        <div className="mb-8 flex flex-col justify-between gap-4 border-b border-stone-200 pb-6 md:flex-row md:items-end">
-          <div>
-            <div className="flex items-center gap-3">
-              <h1 className="font-serif text-3xl font-bold text-[var(--color-ink)] sm:text-4xl">
+        <div className="mb-8 flex flex-col justify-between gap-4 border-b border-stone-200 pb-6 lg:flex-row lg:items-end">
+          <div className="min-w-0">
+            <div className="flex flex-wrap items-center gap-3">
+              <h1 className="font-serif text-2xl font-bold text-[var(--color-ink)] sm:text-4xl">
                 {t.plannerPageTitle}
               </h1>
               {isSharedView && (
@@ -234,12 +234,12 @@ function PlannerContent() {
             </p>
           </div>
 
-          <div className="flex flex-wrap gap-2">
+          <div className="action-row w-full shrink-0 lg:w-auto lg:max-w-md">
             {isSharedView && (
               <button
                 type="button"
                 onClick={handleImportShared}
-                className="rounded-full bg-emerald-600 px-5 py-2 text-sm font-semibold text-white shadow-md transition hover:bg-emerald-700 active:scale-95"
+                className="btn-touch inline-flex items-center rounded-full bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white shadow-md transition hover:bg-emerald-700 active:scale-95"
               >
                 💾 Save to Local Planner
               </button>
@@ -249,14 +249,14 @@ function PlannerContent() {
                 <button
                   type="button"
                   onClick={handleBuildTripGuide}
-                  className="rounded-full bg-[var(--color-trip-green)] px-5 py-2 text-sm font-semibold text-white shadow-md transition hover:bg-[var(--color-trip-green-dark)] active:scale-95"
+                  className="btn-touch inline-flex items-center rounded-full bg-[var(--color-trip-green)] px-5 py-2.5 text-sm font-semibold text-white shadow-md transition hover:bg-[var(--color-trip-green-dark)] active:scale-95"
                 >
                   {t.makeTripGuide}
                 </button>
                 <button
                   type="button"
                   onClick={handleShareTrip}
-                  className="rounded-full bg-stone-900 px-5 py-2 text-sm font-semibold text-white shadow-md transition hover:bg-stone-800 active:scale-95"
+                  className="btn-touch inline-flex items-center rounded-full bg-stone-900 px-5 py-2.5 text-sm font-semibold text-white shadow-md transition hover:bg-stone-800 active:scale-95"
                 >
                   {copySuccess ? "✓ " + t.copiedToClipboard : "🔗 " + t.shareTrip}
                 </button>
@@ -265,7 +265,7 @@ function PlannerContent() {
             <button
               type="button"
               onClick={handleClearAll}
-              className="rounded-full border border-stone-300 bg-white px-4 py-2 text-sm font-medium text-stone-700 hover:bg-stone-50 active:scale-95"
+              className="btn-touch inline-flex items-center rounded-full border border-stone-300 bg-white px-4 py-2.5 text-sm font-medium text-stone-700 hover:bg-stone-50 active:scale-95"
             >
               🗑️ {t.clearTrip}
             </button>
@@ -338,25 +338,25 @@ function PlannerContent() {
             </a>
           </div>
         ) : (
-          <div className="grid gap-8 lg:grid-cols-[1fr_minmax(350px,450px)]">
+          <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(300px,420px)]">
             {/* Days list & place cards */}
-            <div className="space-y-8">
+            <div className="min-w-0 space-y-8">
               {schedule.map((daySlugs, dayIndex) => {
                 const dayPlaces = getPlacesForDay(daySlugs);
                 return (
                   <section
                     key={dayIndex}
-                    className="rounded-3xl border border-stone-200 bg-white p-5 shadow-sm sm:p-6"
+                    className="rounded-3xl border border-stone-200 bg-white p-4 shadow-sm sm:p-6"
                   >
-                    <div className="mb-4 flex items-center justify-between border-b border-stone-100 pb-3">
-                      <h2 className="font-serif text-xl font-bold text-stone-800">
+                    <div className="mb-4 flex flex-wrap items-center justify-between gap-2 border-b border-stone-100 pb-3">
+                      <h2 className="font-serif text-lg font-bold text-stone-800 sm:text-xl">
                         🗓️ {t.dayLabel.replace("{day}", String(dayIndex + 1))}
                       </h2>
                       {schedule.length > 1 && (
                         <button
                           type="button"
                           onClick={() => handleRemoveDay(dayIndex)}
-                          className="text-xs font-semibold text-red-600 hover:underline"
+                          className="btn-touch rounded-lg px-2 text-xs font-semibold text-red-600 hover:underline"
                         >
                           {t.removeDay}
                         </button>
@@ -422,15 +422,14 @@ function PlannerContent() {
                                 </div>
                               </div>
 
-                              {/* Controls */}
-                              <div className="flex flex-wrap items-center gap-2">
-                                {/* Reordering buttons */}
+                              {/* Controls — wrap cleanly, no overlap */}
+                              <div className="flex w-full flex-wrap items-center gap-2 md:w-auto md:justify-end">
                                 <div className="flex rounded-lg border border-stone-200 bg-white p-0.5 shadow-sm">
                                   <button
                                     type="button"
                                     disabled={placeIndex === 0}
                                     onClick={() => handleMovePlace(dayIndex, placeIndex, "up")}
-                                    className="px-2 py-1 text-xs font-bold text-stone-600 hover:bg-stone-100 disabled:opacity-30 rounded-l"
+                                    className="btn-touch rounded-l px-2.5 text-xs font-bold text-stone-600 hover:bg-stone-100 disabled:opacity-30"
                                     title="Move Up"
                                   >
                                     ▲
@@ -439,14 +438,13 @@ function PlannerContent() {
                                     type="button"
                                     disabled={placeIndex === dayPlaces.length - 1}
                                     onClick={() => handleMovePlace(dayIndex, placeIndex, "down")}
-                                    className="px-2 py-1 text-xs font-bold text-stone-600 hover:bg-stone-100 disabled:opacity-30 rounded-r"
+                                    className="btn-touch rounded-r px-2.5 text-xs font-bold text-stone-600 hover:bg-stone-100 disabled:opacity-30"
                                     title="Move Down"
                                   >
                                     ▼
                                   </button>
                                 </div>
 
-                                {/* Shift Day dropdown */}
                                 <select
                                   value={dayIndex}
                                   onChange={(e) =>
@@ -456,7 +454,7 @@ function PlannerContent() {
                                       Number.parseInt(e.target.value)
                                     )
                                   }
-                                  className="rounded-lg border border-stone-200 bg-white px-2 py-1.5 text-xs text-stone-600 shadow-sm outline-none"
+                                  className="btn-touch min-w-0 flex-1 rounded-lg border border-stone-200 bg-white px-2 text-xs text-stone-600 shadow-sm outline-none sm:flex-none"
                                 >
                                   {schedule.map((_, dIdx) => (
                                     <option key={dIdx} value={dIdx}>
@@ -465,11 +463,10 @@ function PlannerContent() {
                                   ))}
                                 </select>
 
-                                {/* Remove Button */}
                                 <button
                                   type="button"
                                   onClick={() => handleRemovePlace(dayIndex, placeIndex)}
-                                  className="rounded-lg border border-red-200 bg-white px-2.5 py-1.5 text-xs font-bold text-red-600 hover:bg-red-50"
+                                  className="btn-touch rounded-lg border border-red-200 bg-white px-2.5 text-xs font-bold text-red-600 hover:bg-red-50"
                                 >
                                   {t.removeFromPlanner}
                                 </button>
@@ -493,28 +490,44 @@ function PlannerContent() {
             </div>
 
             {/* Sidebar with Sticky Map & Route Insights */}
-            <div className="space-y-6 lg:sticky lg:top-24 lg:h-[calc(100vh-140px)] flex flex-col min-h-0">
-              <div className="flex-1 min-h-[350px] relative">
+            <div
+              className="flex min-h-0 min-w-0 flex-col space-y-6 lg:sticky lg:overflow-y-auto"
+              style={{
+                top: "var(--sticky-offset)",
+                maxHeight:
+                  "calc(100dvh - var(--app-header-height) - 1.5rem)",
+              }}
+            >
+              <div className="relative min-h-[280px] flex-1 sm:min-h-[350px]">
                 <PlannerMap places={allSelectedPlaces} />
               </div>
 
-              {/* Day stats and Route info */}
               <div className="rounded-2xl border border-stone-200 bg-white p-5 shadow-sm">
-                <h3 className="font-serif text-lg font-bold text-stone-800 mb-3">📍 Route Overview</h3>
+                <h3 className="mb-3 font-serif text-lg font-bold text-stone-800">
+                  📍 Route Overview
+                </h3>
                 <dl className="grid grid-cols-2 gap-4 text-center text-sm">
-                  <div className="rounded-xl bg-stone-50 p-3 border border-stone-100">
-                    <dt className="text-xs text-stone-400 uppercase font-bold tracking-wider">Total Days</dt>
-                    <dd className="text-lg font-bold text-[var(--color-trip-green-dark)] mt-1">{schedule.length}</dd>
+                  <div className="rounded-xl border border-stone-100 bg-stone-50 p-3">
+                    <dt className="text-xs font-bold uppercase tracking-wider text-stone-400">
+                      Total Days
+                    </dt>
+                    <dd className="mt-1 text-lg font-bold text-[var(--color-trip-green-dark)]">
+                      {schedule.length}
+                    </dd>
                   </div>
-                  <div className="rounded-xl bg-stone-50 p-3 border border-stone-100">
-                    <dt className="text-xs text-stone-400 uppercase font-bold tracking-wider">Total Places</dt>
-                    <dd className="text-lg font-bold text-[var(--color-trip-green-dark)] mt-1">{allSelectedPlaces.length}</dd>
+                  <div className="rounded-xl border border-stone-100 bg-stone-50 p-3">
+                    <dt className="text-xs font-bold uppercase tracking-wider text-stone-400">
+                      Total Places
+                    </dt>
+                    <dd className="mt-1 text-lg font-bold text-[var(--color-trip-green-dark)]">
+                      {allSelectedPlaces.length}
+                    </dd>
                   </div>
                 </dl>
                 <button
                   type="button"
                   onClick={handleBuildTripGuide}
-                  className="mt-4 w-full rounded-full bg-[var(--color-trip-green)] px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-[var(--color-trip-green-dark)]"
+                  className="btn-touch mt-4 w-full rounded-full bg-[var(--color-trip-green)] px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-[var(--color-trip-green-dark)]"
                 >
                   {t.makeTripGuide}
                 </button>

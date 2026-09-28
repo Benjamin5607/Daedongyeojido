@@ -138,7 +138,7 @@ export function GuideBot({
         type="button"
         onClick={() => setOpen(true)}
         aria-label={fabLabel}
-        className={`fixed bottom-6 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-br ${fabClass} text-2xl text-white shadow-lg ring-4 transition hover:scale-105 hover:shadow-xl active:scale-95`}
+        className={`fab-guide flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-br ${fabClass} text-2xl text-white shadow-lg ring-4 transition hover:scale-105 hover:shadow-xl active:scale-95`}
       >
         <span aria-hidden>{fabEmoji}</span>
       </button>
@@ -151,7 +151,9 @@ export function GuideBot({
             className="absolute inset-0 bg-black/40 backdrop-blur-sm"
             onClick={handleClose}
           />
-          {panel}
+          <div className="relative z-10 w-full max-w-lg sm:w-auto">
+            {panel}
+          </div>
         </div>
       )}
     </>

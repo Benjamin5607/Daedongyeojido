@@ -55,7 +55,7 @@ export function ThemeTabs({
       <div
         role="tablist"
         aria-label={t.themeTablistAria}
-        className="chip-scroll -mx-1 px-1 pb-1 sm:flex-wrap sm:overflow-visible"
+        className="chip-scroll flex -mx-1 px-1 pb-1 sm:flex-wrap sm:overflow-visible"
       >
         {THEME_TAB_IDS.map((theme) => {
           const isActive = theme === activeTheme;

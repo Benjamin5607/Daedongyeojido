@@ -186,7 +186,7 @@ export function TripGuideView({
       </div>
 
       <div className="sticky-under-header border-b border-stone-100 px-4 py-3 sm:px-8">
-        <div className="chip-scroll" role="tablist">
+        <div className="chip-scroll flex" role="tablist">
           {tabs.map((item) => (
             <button
               key={item.id}

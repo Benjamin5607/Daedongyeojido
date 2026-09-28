@@ -96,9 +96,12 @@ body {
   }
 }
 
-/* Horizontal chip scroller — prevents wrap jump / overlap */
+/*
+ * Horizontal chip scroller — do NOT set display here.
+ * Tailwind `hidden` / `md:flex` / `lg:hidden` must win for nav chrome.
+ * Call sites add `flex` (or responsive flex) themselves.
+ */
 .chip-scroll {
-  display: flex;
   gap: 0.5rem;
   overflow-x: auto;
   overscroll-behavior-x: contain;

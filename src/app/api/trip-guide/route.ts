@@ -1,8 +1,10 @@
 import type { GuideApiConfig } from "@/lib/guideBot/types";
 import { getProviderInfo } from "@/lib/guideBot/providers";
+import { nvidiaFetchWithRetry } from "@/lib/nvidiaFetch";
 import type { TripGuide, TripGuideStop } from "@/lib/tripGuide/types";
 
 export const dynamic = "force-dynamic";
+export const maxDuration = 120;
 
 interface TripGuideRequestBody {
   config?: GuideApiConfig;
@@ -56,28 +58,35 @@ Rules:
 - Match the language of the input tips (English/Japanese/Chinese/etc.).
 - Max 60 words per field. No markdown fences.`;
 
-  const upstream = await fetch(
-    "https://integrate.api.nvidia.com/v1/chat/completions",
-    {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${config.apiKey}`,
-        "Content-Type": "application/json",
+  let upstream: Response;
+  try {
+    upstream = await nvidiaFetchWithRetry(
+      "https://integrate.api.nvidia.com/v1/chat/completions",
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${config.apiKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          model,
+          messages: [
+            { role: "system", content: system },
+            {
+              role: "user",
+              content: `Enrich these stops:\n${JSON.stringify(compact, null, 2)}`,
+            },
+          ],
+          temperature: 0.4,
+          max_tokens: 2500,
+        }),
       },
-      body: JSON.stringify({
-        model,
-        messages: [
-          { role: "system", content: system },
-          {
-            role: "user",
-            content: `Enrich these stops:\n${JSON.stringify(compact, null, 2)}`,
-          },
-        ],
-        temperature: 0.4,
-        max_tokens: 2500,
-      }),
-    }
-  );
+      { attempts: 3, timeoutMs: 100_000, label: "NVIDIA trip-guide" }
+    );
+  } catch (err) {
+    const message = err instanceof Error ? err.message : String(err);
+    return Response.json({ error: message }, { status: 502 });
+  }
 
   const text = await upstream.text();
   if (!upstream.ok) {

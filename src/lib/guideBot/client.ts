@@ -72,27 +72,55 @@ async function chatNvidia(
   messages: ChatMessage[]
 ): Promise<string> {
   // NVIDIA hosted chat blocks browser CORS — proxy through our API route.
-  const response = await fetch("/api/guide-chat", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ config, system, messages }),
-  });
-
-  const body = await response.text();
-  if (!response.ok) {
-    let detail = body.slice(0, 200);
+  let lastError: unknown;
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
     try {
-      const parsed = JSON.parse(body) as { error?: string };
-      if (parsed.error) detail = parsed.error;
-    } catch {
-      /* keep raw */
-    }
-    throw new Error(`NVIDIA ${response.status}: ${detail}`);
-  }
+      const response = await fetch("/api/guide-chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ config, system, messages }),
+      });
 
-  const data = JSON.parse(body) as { content?: string };
-  if (!data.content?.trim()) throw new Error("NVIDIA returned empty response.");
-  return data.content;
+      const body = await response.text();
+      if (!response.ok) {
+        let detail = body.slice(0, 200);
+        try {
+          const parsed = JSON.parse(body) as { error?: string };
+          if (parsed.error) detail = parsed.error;
+        } catch {
+          /* keep raw */
+        }
+        // Retry transient gateway / overload responses
+        if (
+          (response.status === 502 ||
+            response.status === 503 ||
+            response.status === 429) &&
+          attempt < 3
+        ) {
+          await new Promise((r) => setTimeout(r, 700 * attempt));
+          continue;
+        }
+        throw new Error(`NVIDIA ${response.status}: ${detail}`);
+      }
+
+      const data = JSON.parse(body) as { content?: string };
+      if (!data.content?.trim()) {
+        throw new Error("NVIDIA returned empty response.");
+      }
+      return data.content;
+    } catch (err) {
+      lastError = err;
+      const msg = err instanceof Error ? err.message : String(err);
+      const retryable =
+        /fetch failed|Failed to fetch|timed out|502|503|429/i.test(msg) &&
+        attempt < 3;
+      if (!retryable) throw err;
+      await new Promise((r) => setTimeout(r, 700 * attempt));
+    }
+  }
+  throw lastError instanceof Error
+    ? lastError
+    : new Error("NVIDIA chat failed after retries");
 }
 
 export async function sendGuideChat(

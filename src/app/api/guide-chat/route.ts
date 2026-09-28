@@ -1,7 +1,9 @@
 import { getProviderInfo } from "@/lib/guideBot/providers";
 import type { ChatMessage, GuideApiConfig } from "@/lib/guideBot/types";
+import { nvidiaFetchWithRetry } from "@/lib/nvidiaFetch";
 
 export const dynamic = "force-dynamic";
+export const maxDuration = 120;
 
 /**
  * Browser → NVIDIA integrate.api.nvidia.com is blocked by CORS.
@@ -37,25 +39,33 @@ export async function POST(request: Request) {
   }
 
   const model = getProviderInfo("nvidia").model;
-  const upstream = await fetch(
-    "https://integrate.api.nvidia.com/v1/chat/completions",
-    {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${config.apiKey}`,
-        "Content-Type": "application/json",
+
+  let upstream: Response;
+  try {
+    upstream = await nvidiaFetchWithRetry(
+      "https://integrate.api.nvidia.com/v1/chat/completions",
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${config.apiKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          model,
+          messages: [
+            { role: "system", content: system },
+            ...messages.map((m) => ({ role: m.role, content: m.content })),
+          ],
+          temperature: 0.7,
+          max_tokens: 1024,
+        }),
       },
-      body: JSON.stringify({
-        model,
-        messages: [
-          { role: "system", content: system },
-          ...messages.map((m) => ({ role: m.role, content: m.content })),
-        ],
-        temperature: 0.7,
-        max_tokens: 1024,
-      }),
-    }
-  );
+      { attempts: 3, timeoutMs: 90_000, label: "NVIDIA guide-chat" }
+    );
+  } catch (err) {
+    const message = err instanceof Error ? err.message : String(err);
+    return Response.json({ error: message }, { status: 502 });
+  }
 
   const text = await upstream.text();
   if (!upstream.ok) {

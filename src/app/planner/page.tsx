@@ -12,7 +12,14 @@ import {
   getTemplateLabel,
   ITINERARY_TEMPLATES,
 } from "@/lib/itineraryTemplates";
+import { buildLocalTripGuide } from "@/lib/tripGuide/buildLocalGuide";
+import {
+  loadTripGuide,
+  saveTripGuide,
+} from "@/lib/tripGuide/storage";
+import type { TripGuide } from "@/lib/tripGuide/types";
 import { PlannerMap } from "@/components/PlannerMap";
+import { TripGuideView } from "@/components/TripGuideView";
 
 const LOCAL_STORAGE_KEY = "daedongyeojido_planner";
 
@@ -27,6 +34,8 @@ function PlannerContent() {
   const [isSharedView, setIsSharedView] = useState(false);
   const [sharedImported, setSharedImported] = useState(false);
   const [copySuccess, setCopySuccess] = useState(false);
+  const [tripGuide, setTripGuide] = useState<TripGuide | null>(null);
+  const [guideNotice, setGuideNotice] = useState<string | null>(null);
 
   // Initialize from LocalStorage or URL params
   useEffect(() => {
@@ -56,6 +65,11 @@ function PlannerContent() {
     // Default: Start with single empty Day 1
     setSchedule([[]]);
   }, [searchParams]);
+
+  useEffect(() => {
+    const savedGuide = loadTripGuide();
+    if (savedGuide) setTripGuide(savedGuide);
+  }, []);
 
   // Persist to local storage (only when NOT in shared view, or after importing)
   const saveToLocal = (nextSchedule: string[][]) => {
@@ -182,6 +196,23 @@ function PlannerContent() {
   const allSelectedPlaces = schedule.flatMap((slugs) => getPlacesForDay(slugs));
   const isScheduleEmpty = schedule.every((day) => day.length === 0);
 
+  const handleBuildTripGuide = () => {
+    if (schedule.every((day) => day.length === 0)) {
+      setGuideNotice(t.tripGuideNeedPlaces);
+      return;
+    }
+    const guide = buildLocalTripGuide(schedule, locale);
+    setTripGuide(guide);
+    saveTripGuide(guide);
+    setGuideNotice(t.tripGuideBuilt);
+    setTimeout(() => setGuideNotice(null), 4000);
+    requestAnimationFrame(() => {
+      document
+        .getElementById("trip-guide")
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  };
+
   return (
     <PageShell>
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-12">
@@ -214,13 +245,22 @@ function PlannerContent() {
               </button>
             )}
             {!isScheduleEmpty && (
-              <button
-                type="button"
-                onClick={handleShareTrip}
-                className="rounded-full bg-stone-900 px-5 py-2 text-sm font-semibold text-white shadow-md transition hover:bg-stone-800 active:scale-95"
-              >
-                {copySuccess ? "✓ " + t.copiedToClipboard : "🔗 " + t.shareTrip}
-              </button>
+              <>
+                <button
+                  type="button"
+                  onClick={handleBuildTripGuide}
+                  className="rounded-full bg-[var(--color-trip-green)] px-5 py-2 text-sm font-semibold text-white shadow-md transition hover:bg-[var(--color-trip-green-dark)] active:scale-95"
+                >
+                  {t.makeTripGuide}
+                </button>
+                <button
+                  type="button"
+                  onClick={handleShareTrip}
+                  className="rounded-full bg-stone-900 px-5 py-2 text-sm font-semibold text-white shadow-md transition hover:bg-stone-800 active:scale-95"
+                >
+                  {copySuccess ? "✓ " + t.copiedToClipboard : "🔗 " + t.shareTrip}
+                </button>
+              </>
             )}
             <button
               type="button"
@@ -235,6 +275,12 @@ function PlannerContent() {
         {sharedImported && (
           <div className="mb-6 rounded-xl bg-emerald-50 border border-emerald-200 p-4 text-sm font-semibold text-emerald-800 shadow-sm">
             ✓ Shared itinerary successfully imported and saved to your device!
+          </div>
+        )}
+
+        {guideNotice && (
+          <div className="mb-6 rounded-xl border border-[var(--color-trip-green)]/30 bg-[var(--color-trip-green)]/10 p-4 text-sm font-semibold text-[var(--color-trip-green-dark)] shadow-sm">
+            {guideNotice}
           </div>
         )}
 
@@ -465,8 +511,25 @@ function PlannerContent() {
                     <dd className="text-lg font-bold text-[var(--color-trip-green-dark)] mt-1">{allSelectedPlaces.length}</dd>
                   </div>
                 </dl>
+                <button
+                  type="button"
+                  onClick={handleBuildTripGuide}
+                  className="mt-4 w-full rounded-full bg-[var(--color-trip-green)] px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-[var(--color-trip-green-dark)]"
+                >
+                  {t.makeTripGuide}
+                </button>
               </div>
             </div>
+          </div>
+        )}
+
+        {tripGuide && (
+          <div id="trip-guide">
+            <TripGuideView
+              guide={tripGuide}
+              onGuideChange={setTripGuide}
+              onClose={() => setTripGuide(null)}
+            />
           </div>
         )}
       </div>

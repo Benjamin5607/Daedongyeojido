@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20260929074813_a8cb6i",
+  "slug": "bulguksa-temple-gyeongju",
+  "theme": "k-culture",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": true,
+  "caption_ai_generated": false,
+  "image_ai_generated": true,
+  "imageProvider": "nvidia-vision-flux",
+  "imageModel": "meta/llama-3.2-11b-vision-instruct+black-forest-labs/flux.1-dev",
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-09-29 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Pixar-style travel illustration of Bulguksa Temple — gyeongbuk — k culture, with Emily as a traveler in frame (based on real place photo)",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#gyeongbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": null,
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Bulguksa Temple",
+    "en": "Bulguksa Temple"
+  },
+  "descriptionEn": "UNESCO Silla-era temple masterpiece with stone pagodas and lotus ponds.",
+  "exportedAt": "2026-09-29T07:49:21.868Z"
+}

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-28T18:02:59.920Z",
+  "updatedAt": "2026-09-29T07:49:21.871Z",
   "items": [
+    {
+      "id": "sq_20260929074813_a8cb6i",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "bulguksa-temple-gyeongju",
+      "theme": "k-culture",
+      "caption": "Bulguksa Temple\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/bulguksa-temple-gyeongju\n\nBulguksa Temple\nUNESCO Silla-era temple masterpiece with stone pagodas and lotus ponds.\nGuide: https://daedongyeojido-nine.vercel.app/places/bulguksa-temple-gyeongju\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #gyeongbuk",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_3/1441013639378uCTFr_JPEG/11663971_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/bulguksa-temple-gyeongju",
+      "score": 65,
+      "createdAt": "2026-09-29T07:48:13.311Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260929-bulguksa-temple-gyeongju",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-29T07:49:21.868Z",
+        "alt_text": "Pixar-style travel illustration of Bulguksa Temple — gyeongbuk — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260929074312_car7bi",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "jirisan-cheonwangbong-peak-sancheong",
+      "theme": "sanhaeng",
+      "caption": "지리산 천왕봉\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/jirisan-cheonwangbong-peak-sancheong\n\nJirisan Cheonwangbong Peak\nSouth Korea’s mainland high point and classic multi-day ridge hike.\nGuide: https://daedongyeojido-nine.vercel.app/places/jirisan-cheonwangbong-peak-sancheong\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150901_215/1441045594536xLQ5N_JPEG/13491267_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/jirisan-cheonwangbong-peak-sancheong",
+      "score": 65,
+      "createdAt": "2026-09-29T07:43:12.519Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260929-jirisan-cheonwangbong-peak-sancheong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-29T07:49:02.978Z",
+        "alt_text": "Pixar-style travel illustration of 지리산 천왕봉 (Jirisan Cheonwangbong Peak) — gyeongnam — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260928180018_4mipfa",
       "status": "exported",

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-29T16:25:07.056Z",
+  "updatedAt": "2026-09-30T07:40:49.514Z",
   "items": [
+    {
+      "id": "sq_20260930074007_qknjkg",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+      "theme": "sanhaeng",
+      "caption": "진안 마이산의 능선을 따라 걷다 보면, 바람에 흩날리는 오색 기도 깃발과 신비로운 돌탑들이 우리를 맞이합니다. 일반적인 지도 앱으로는 찾기 어려운 숨은 길이지만, 그 끝에서 마주하는 풍경은 말로 다 표현할 수 없을 만큼 경이롭습니다. 고요한 산행 속에서 마음의 평온을 찾아보세요.\n\nWalking along the ridge of Maisan in Jinan, you'll encounter mysterious stone pagodas and colorful prayer flags fluttering in the wind. This hidden gem is rarely found on global trail apps, but the breathtaking views make every step worth it. Experience a moment of serenity on this unique Korean trail. 🚩\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #jeonbuk #진안\n\nhttps://daedongyeojido-nine.vercel.app/places/maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_81/1440992256801Q9C9p_JPEG/11491367_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+      "score": 76,
+      "createdAt": "2026-09-30T07:40:07.327Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260930-maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-30T07:40:49.511Z",
+        "alt_text": "Pixar-style travel illustration of Maisan Tapsa Ridge Prayer Flag Trail — jinan-gun, jeonbuk — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20260930073949_mr88os",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "haegeumgang-nambugmyeon",
+      "theme": "urban-nature",
+      "caption": "바다의 금강산이라 불리는 거제 해금강의 웅장함을 만나보세요. 수직 해식절벽과 신비로운 십자동굴이 어우러진 이곳은 대자연의 위용을 그대로 간직한 국가지정유산입니다. 크루즈를 타고 기암괴석 사이를 누비며 일상의 스트레스를 날려보시길 바랍니다 🌊\n\nExperience the grandeur of Haegeumgang, often called the 'Geumgangsan of the Sea.' From the dramatic vertical cliffs to the mysterious Cross Cave, this national scenic treasure offers a breathtaking encounter with nature. Take a cruise and immerse yourself in the awe-inspiring coastal landscapes of Geoje.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/haegeumgang-nambugmyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190731_261/1564566356569XmlhQ_JPEG/wlpMkd2Se8t3ajItsjx2UMYw.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/haegeumgang-nambugmyeon",
+      "score": 155,
+      "createdAt": "2026-09-30T07:39:49.833Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20260930-haegeumgang-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-09-30T07:40:29.944Z",
+        "alt_text": "Pixar-style travel illustration of 해금강 (Haegeumgang) — nambugmyeon, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20260929162247_g47opa",
       "status": "exported",

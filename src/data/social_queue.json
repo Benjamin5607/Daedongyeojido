@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-01T08:01:29.360Z",
+  "updatedAt": "2026-10-01T16:55:20.697Z",
   "items": [
+    {
+      "id": "sq_20261001165444_j6sbj0",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "mungyeong-omija-valley-syrup-shop-mungyeong-si",
+      "theme": "k-food",
+      "caption": "문경의 깊은 자연이 담긴 오미자 밸리 시럽 숍을 소개합니다. 이곳은 구글 지도보다는 현지인들의 포레스트 블로그에서 더 유명한 숨은 명소예요. 정성껏 만든 수제 오미자 시럽과 산야초 음료 한 잔으로 몸과 마음을 맑게 비워보세요. 🌿\n\nDiscover the essence of Mungyeong at the Omija Valley Syrup Shop. More of a local secret found on foraging blogs than on global maps, this spot offers homemade omija syrup and mountain-herb drinks that capture the purity of the region.\n\nhttps://daedongyeojido-nine.vercel.app/places/mungyeong-omija-valley-syrup-shop-mungyeong-si\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongbuk #문경 #Mungyeong",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnB_S02JyiWtDki_J2z-Maxtx-0OQmsm2UxmnvgMUDRkOo0gFzlcyDISifOxDTchDazZHX2bfYVFKrn7t7RgRCFZl58ZMmY_qzgsw2MCG7EqjrVlxksoalujPg0eMF31KaxTo7_=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/mungyeong-omija-valley-syrup-shop-mungyeong-si",
+      "score": 82,
+      "createdAt": "2026-10-01T16:54:44.206Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261001-mungyeong-omija-valley-syrup-shop-mungyeong-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-01T16:55:20.694Z",
+        "alt_text": "Mungyeong Omija Valley Syrup Shop — mungyeong-si, gyeongbuk — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261001165425_8cv6yy",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "hakdong-black-pebble-beach-dongbu",
+      "theme": "urban-nature",
+      "caption": "파도에 씻겨 내려가는 몽돌의 소리를 들어보세요. 거제 학동흑진주몽돌해변은 일반적인 모래사장과는 다른, 검은 몽돌이 만들어내는 자연의 리듬이 매력적인 곳입니다. 최근 '거제 야호!' 트렌드와 함께 더욱 주목받고 있는 이곳에서 일상의 소음을 잠시 잊고 진정한 힐링을 경험해 보세요 🌊\n\nListen to the rhythmic sound of rolling pebbles washed by the waves. Hakdong Black Pebble Beach in Geoje is a special place where black stones create a unique natural melody, unlike typical sandy shores. Following the recent 'Geoje Yaho!' trend, it's the perfect spot to escape the city noise and find true peace 🐚\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/hakdong-black-pebble-beach-dongbu",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_228/1440992302696jMcSm_JPEG/11491803_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/hakdong-black-pebble-beach-dongbu",
+      "score": 129,
+      "createdAt": "2026-10-01T16:54:25.376Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261001-hakdong-black-pebble-beach-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-01T16:54:57.241Z",
+        "alt_text": "Pixar-style travel illustration of 학동흑진주몽돌해변 (Hakdong Black Pebble Beach) — dongbu, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261001075840_3r1rpt",
       "status": "exported",

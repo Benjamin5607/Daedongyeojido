@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20261001165444_j6sbj0",
+  "slug": "mungyeong-omija-valley-syrup-shop-mungyeong-si",
+  "theme": "k-food",
+  "format": "place_card",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-01 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "Mungyeong Omija Valley Syrup Shop — mungyeong-si, gyeongbuk — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#gyeongbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=1200&q=80",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Mungyeong Omija Valley Syrup Shop",
+    "en": "Mungyeong Omija Valley Syrup Shop"
+  },
+  "descriptionEn": "Homemade omija syrup and mountain-herb drinks — pinned on Naver foraging blogs, not Google cafes.",
+  "exportedAt": "2026-10-01T16:55:20.694Z"
+}

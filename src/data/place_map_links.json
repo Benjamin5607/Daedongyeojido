@@ -21,23 +21,23 @@
   },
   "maple-tree-house-itaewon-yongsan": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EB%A9%94%EC%9D%B4%ED%94%8C%ED%8A%B8%EB%A6%AC%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%9D%B4%ED%83%9C%EC%9B%90%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/%EB%A9%94%EC%9D%B4%ED%94%8C%ED%8A%B8%EB%A6%AC%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%9D%B4%ED%83%9C%EC%9B%90%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/Maple%20Tree%20House%20Itaewon%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "메이플트리하우스 이태원 서울특별시 용산구",
-    "naverQuery": "메이플트리하우스 이태원 서울특별시 용산구",
+    "naverQuery": "Maple Tree House Itaewon 서울특별시 용산구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:31.566Z"
+    "updatedAt": "2026-10-01T10:46:04.376Z"
   },
   "tongin-market-mapo": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%ED%86%B5%EC%9D%B8%EC%8B%9C%EC%9E%A5%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/%ED%86%B5%EC%9D%B8%EC%8B%9C%EC%9E%A5%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/Tongin%20Market%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "통인시장 서울특별시 마포구",
-    "naverQuery": "통인시장 서울특별시 마포구",
+    "naverQuery": "Tongin Market 서울특별시 마포구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:32.567Z"
+    "updatedAt": "2026-10-01T10:46:05.379Z"
   },
   "myeongdong-kyoja-jung-seoul": {
     "googleUrl": "https://www.google.com/maps/place/%EB%AA%85%EB%8F%99%EA%B5%90%EC%9E%90+%EB%B3%B8%EC%A0%90/data=!4m7!3m6!1s0x357ca2f00d41b15b:0x7d50d5b6b0623a1d!8m2!3d37.5610151!4d126.9860829!16s%2Fg%2F11csqxcpw1!19sChIJW7FBDfCifDURHTpisLbVUH0",
@@ -71,13 +71,13 @@
   },
   "k-star-road-gangnam": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=K%EC%8A%A4%ED%83%80%EB%A1%9C%EB%93%9C%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/K%EC%8A%A4%ED%83%80%EB%A1%9C%EB%93%9C%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/K-Star%20Road%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "K스타로드 서울특별시 강남구",
-    "naverQuery": "K스타로드 서울특별시 강남구",
+    "naverQuery": "K-Star Road 서울특별시 강남구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:33.568Z"
+    "updatedAt": "2026-10-01T10:46:06.380Z"
   },
   "hongdae-playground-mapo": {
     "googleUrl": "https://www.google.com/maps/place/%ED%99%8D%EB%8C%80+%EB%86%80%EC%9D%B4%ED%84%B0+hongdae+Playground+latin+bar/data=!4m7!3m6!1s0x357c997713b304ef:0xd8fa1ba963c0c94c!8m2!3d37.559045!4d126.9234885!16s%2Fg%2F11h8cfzh6f!19sChIJ7wSzE3eZfDURTMnAY6kb-tg",
@@ -111,13 +111,13 @@
   },
   "ahc-spa-gangnam-gangnam": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=AHC%20%EC%8A%A4%ED%8C%8C%20%EA%B0%95%EB%82%A8%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/AHC%20%EC%8A%A4%ED%8C%8C%20%EA%B0%95%EB%82%A8%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/AHC%20Spa%20Gangnam%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "AHC 스파 강남 서울특별시 강남구",
-    "naverQuery": "AHC 스파 강남 서울특별시 강남구",
+    "naverQuery": "AHC Spa Gangnam 서울특별시 강남구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:34.569Z"
+    "updatedAt": "2026-10-01T10:46:22.179Z"
   },
   "innisfree-flagship-hongdae-mapo": {
     "googleUrl": "https://www.google.com/maps/place/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC+%EB%AA%85%EB%8F%992%EA%B0%80%EC%A0%90/data=!4m7!3m6!1s0x357ca2f06d367469:0xc8fe6ca033c37529!8m2!3d37.562591!4d126.9855245!16s%2Fg%2F1v96jqtv!19sChIJaXQ2bfCifDURKXXDM6Bs_sg",
@@ -141,23 +141,23 @@
   },
   "bukchon-hanok-village-jongno": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%81%EC%B4%8C%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A2%85%EB%A1%9C%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/%EB%B6%81%EC%B4%8C%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A2%85%EB%A1%9C%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/Bukchon%20Hanok%20Village%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A2%85%EB%A1%9C%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "북촌한옥마을 서울특별시 종로구",
-    "naverQuery": "북촌한옥마을 서울특별시 종로구",
+    "naverQuery": "Bukchon Hanok Village 서울특별시 종로구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:35.570Z"
+    "updatedAt": "2026-10-01T10:46:23.179Z"
   },
   "national-museum-of-korea-yongsan": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/National%20Museum%20of%20Korea%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "국립중앙박물관 서울특별시 용산구",
-    "naverQuery": "국립중앙박물관 서울특별시 용산구",
+    "naverQuery": "National Museum of Korea 서울특별시 용산구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:36.571Z"
+    "updatedAt": "2026-10-01T10:46:24.179Z"
   },
   "changdeokgung-palace-jongno": {
     "googleUrl": "https://www.google.com/maps/place/%EC%B0%BD%EB%8D%95%EA%B6%81/data=!4m7!3m6!1s0x357ca25bce7408e3:0xff296b97da565068!8m2!3d37.5794309!4d126.9910426!16s%2Fg%2F11b7gr9kq4!19sChIJ4wh0zluifDURaFBW2pdrKf8",
@@ -231,13 +231,13 @@
   },
   "gukje-market-jung-busan": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EC%A0%9C%EC%8B%9C%EC%9E%A5%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/%EA%B5%AD%EC%A0%9C%EC%8B%9C%EC%9E%A5%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/Gukje%20Market%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "국제시장 부산광역시 중구",
-    "naverQuery": "국제시장 부산광역시 중구",
+    "naverQuery": "Gukje Market 부산광역시 중구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:37.572Z"
+    "updatedAt": "2026-10-01T10:46:25.181Z"
   },
   "millak-waterfront-cafe-street-suyeong": {
     "googleUrl": "https://www.google.com/maps/place/%EB%B0%80%EB%9D%BD+%EB%8D%94+%EB%A7%88%EC%BC%93/data=!4m7!3m6!1s0x3568ed339d191f8b:0xf3f4b00e9d418b03!8m2!3d35.1541919!4d129.1270348!16s%2Fg%2F11ghrgqvyn!19sChIJix8ZnTPtaDURA4tBnQ6w9PM",
@@ -251,13 +251,13 @@
   },
   "busan-cinema-center-haeundae": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%EC%98%81%ED%99%94%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%EC%98%81%ED%99%94%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/Busan%20Cinema%20Center%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "부산영화의전당 부산광역시 해운대구",
-    "naverQuery": "부산영화의전당 부산광역시 해운대구",
+    "naverQuery": "Busan Cinema Center 부산광역시 해운대구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:38.573Z"
+    "updatedAt": "2026-10-01T10:46:26.182Z"
   },
   "haeundae-blueline-park-beach-train-haeundae": {
     "googleUrl": "https://www.google.com/maps/place/%ED%95%B4%EC%9A%B4%EB%8C%80+%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B8%ED%8C%8C%ED%81%AC+%EC%B2%AD%EC%82%AC%ED%8F%AC%EC%A0%95%EA%B1%B0%EC%9E%A5/data=!4m7!3m6!1s0x35688dd211fb03b3:0x49f97f0666b5e6c3!8m2!3d35.1613733!4d129.1918758!16s%2Fg%2F11l7dv2jr9!19sChIJswP7EdKNaDURw-a1ZgZ_-Uk",
@@ -321,13 +321,13 @@
   },
   "clubd-oasis-spa-haeundae-haeundae": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%ED%81%B4%EB%9F%BDD%20%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%20%EC%8A%A4%ED%8C%8C%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC",
-    "naverUrl": "https://map.naver.com/v5/search/%ED%81%B4%EB%9F%BDD%20%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%20%EC%8A%A4%ED%8C%8C%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC",
+    "naverUrl": "https://map.naver.com/v5/search/ClubD%20Oasis%20Spa%20Haeundae%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "클럽D 오아시스 스파 해운대 부산광역시 해운대구",
-    "naverQuery": "클럽D 오아시스 스파 해운대 부산광역시 해운대구",
+    "naverQuery": "ClubD Oasis Spa Haeundae 부산광역시 해운대구",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:39.575Z"
+    "updatedAt": "2026-10-01T10:46:27.183Z"
   },
   "beomeosa-temple-geumjeong": {
     "googleUrl": "https://www.google.com/maps/place/%EB%B2%94%EC%96%B4%EC%82%AC/data=!4m7!3m6!1s0x356896d2fbb70eb1:0xfe17959ed0eb6142!8m2!3d35.2839899!4d129.0687639!16zL20vMGJ3c3M0!19sChIJsQ63-9KWaDURQmHr0J6VF_4",
@@ -341,13 +341,13 @@
   },
   "haedong-yonggungsa-temple-gijang": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B8%B0%EC%9E%A5%EA%B5%B0",
-    "naverUrl": "https://map.naver.com/v5/search/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B8%B0%EC%9E%A5%EA%B5%B0",
+    "naverUrl": "https://map.naver.com/v5/search/Haedong%20Yonggungsa%20Temple%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B8%B0%EC%9E%A5%EA%B5%B0",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "해동용궁사 부산광역시 기장군",
-    "naverQuery": "해동용궁사 부산광역시 기장군",
+    "naverQuery": "Haedong Yonggungsa Temple 부산광역시 기장군",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:40.579Z"
+    "updatedAt": "2026-10-01T10:46:28.185Z"
   },
   "gamcheon-culture-village-museum-alley-saha": {
     "googleUrl": "https://www.google.com/maps/place/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84/data=!4m7!3m6!1s0x3568e9b7a3113a51:0x977e01d7224cf6a3!8m2!3d35.0973904!4d129.0105924!16s%2Fg%2F11bw5svjmk!19sChIJUToRo7fpaDURo_ZMItcBfpc",
@@ -431,13 +431,13 @@
   },
   "seogwipo-maeil-olle-market-seogwipo-si": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EA%B7%80%ED%8F%AC%EB%A7%A4%EC%9D%BC%EC%98%AC%EB%A0%88%EC%8B%9C%EC%9E%A5%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%84%9C%EA%B7%80%ED%8F%AC%EB%A7%A4%EC%9D%BC%EC%98%AC%EB%A0%88%EC%8B%9C%EC%9E%A5%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Seogwipo%20Maeil%20Olle%20Market%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "서귀포매일올레시장 제주특별자치도 서귀포시",
-    "naverQuery": "서귀포매일올레시장 제주특별자치도 서귀포시",
+    "naverQuery": "Seogwipo Maeil Olle Market 제주특별자치도 서귀포시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:41.579Z"
+    "updatedAt": "2026-10-01T10:46:43.173Z"
   },
   "aewol-handam-coastal-cafe-street-aewol": {
     "googleUrl": "https://www.google.com/maps/place/%EC%95%A0%EC%9B%94%EC%B0%9C/data=!4m7!3m6!1s0x350cf7be19e0f66d:0x1a687a448155f709!8m2!3d33.476462!4d126.354087!16s%2Fg%2F11f7827ym7!19sChIJbfbgGb73DDURCfdVgUR6aBo",
@@ -501,33 +501,33 @@
   },
   "osulloc-tea-museum-jeju-si": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%84%A4%EB%A1%9D%ED%8B%B0%EB%AE%A4%EC%A7%80%EC%97%84%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%98%A4%EC%84%A4%EB%A1%9D%ED%8B%B0%EB%AE%A4%EC%A7%80%EC%97%84%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Osulloc%20Tea%20Museum%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "오설록티뮤지엄 제주특별자치도 제주시",
-    "naverQuery": "오설록티뮤지엄 제주특별자치도 제주시",
+    "naverQuery": "Osulloc Tea Museum 제주특별자치도 제주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:48.726Z"
+    "updatedAt": "2026-10-01T10:46:44.175Z"
   },
   "sanbangsan-carbonated-hot-spring-seogwipo-si": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%82%B0%EB%B0%A9%EC%82%B0%ED%83%84%EC%82%B0%EC%98%A8%EC%B2%9C%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%82%B0%EB%B0%A9%EC%82%B0%ED%83%84%EC%82%B0%EC%98%A8%EC%B2%9C%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Sanbangsan%20Carbonated%20Hot%20Spring%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "산방산탄산온천 제주특별자치도 서귀포시",
-    "naverQuery": "산방산탄산온천 제주특별자치도 서귀포시",
+    "naverQuery": "Sanbangsan Carbonated Hot Spring 제주특별자치도 서귀포시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:49.726Z"
+    "updatedAt": "2026-10-01T10:46:45.177Z"
   },
   "camellia-hill-spa-garden-jeju-si": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B9%B4%EB%A9%9C%EB%A6%AC%EC%95%84%ED%9E%90%20%EC%8A%A4%ED%8C%8C%20%EA%B0%80%EB%93%A0%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%B9%B4%EB%A9%9C%EB%A6%AC%EC%95%84%ED%9E%90%20%EC%8A%A4%ED%8C%8C%20%EA%B0%80%EB%93%A0%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Camellia%20Hill%20Spa%20Garden%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "카멜리아힐 스파 가든 제주특별자치도 제주시",
-    "naverQuery": "카멜리아힐 스파 가든 제주특별자치도 제주시",
+    "naverQuery": "Camellia Hill Spa Garden 제주특별자치도 제주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:50.728Z"
+    "updatedAt": "2026-10-01T10:46:46.178Z"
   },
   "jeju-folk-village-pyoseon": {
     "googleUrl": "https://www.google.com/maps/place/%EC%A0%9C%EC%A3%BC%EB%AF%BC%EC%86%8D%EC%B4%8C/data=!4m7!3m6!1s0x350d0934b0268049:0x745657a1405f86d!8m2!3d33.322511!4d126.841868!16s%2Fg%2F1tdyt3mp!19sChIJSYAmsDQJDTURbfgFFHplRQc",
@@ -541,13 +541,13 @@
   },
   "haenyeo-museum-jeju-si": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%B4%EB%85%80%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%ED%95%B4%EB%85%80%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Haenyeo%20Museum%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "해녀박물관 제주특별자치도 제주시",
-    "naverQuery": "해녀박물관 제주특별자치도 제주시",
+    "naverQuery": "Haenyeo Museum 제주특별자치도 제주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:51.730Z"
+    "updatedAt": "2026-10-01T10:46:47.179Z"
   },
   "seongsan-ilchulbong-seongsan": {
     "googleUrl": "https://www.google.com/maps/place/%EC%84%AD%EC%A7%80%EC%BD%94%EC%A7%80/data=!4m7!3m6!1s0x350d131682df90fb:0x3e20058eb88a16f1!8m2!3d33.4242095!4d126.931111!16s%2Fg%2F11cfjrrrh!19sChIJ-5DfghYTDTUR8RaKuI4FID4",
@@ -561,43 +561,43 @@
   },
   "yongduam-rock-jeju-si": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%A9%EB%91%90%EC%95%94%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%9A%A9%EB%91%90%EC%95%94%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Yongduam%20Rock%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "용두암 제주특별자치도 제주시",
-    "naverQuery": "용두암 제주특별자치도 제주시",
+    "naverQuery": "Yongduam Rock 제주특별자치도 제주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:52.731Z"
+    "updatedAt": "2026-10-01T10:46:48.180Z"
   },
   "hallasan-national-park-jeju-si": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%9C%EB%9D%BC%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%ED%95%9C%EB%9D%BC%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Hallasan%20National%20Park%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "한라산국립공원 제주특별자치도 제주시",
-    "naverQuery": "한라산국립공원 제주특별자치도 제주시",
+    "naverQuery": "Hallasan National Park 제주특별자치도 제주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:53.731Z"
+    "updatedAt": "2026-10-01T10:46:49.182Z"
   },
   "manjanggul-cave-gujwa": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EB%A7%8C%EC%9E%A5%EA%B5%B4%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%E6%97%A7%E5%B7%A6%E9%82%91",
-    "naverUrl": "https://map.naver.com/v5/search/%EB%A7%8C%EC%9E%A5%EA%B5%B4%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%E6%97%A7%E5%B7%A6%E9%82%91",
+    "naverUrl": "https://map.naver.com/v5/search/Manjanggul%20Cave%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%E6%97%A7%E5%B7%A6%E9%82%91",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "만장굴 제주특별자치도 제주시 旧左邑",
-    "naverQuery": "만장굴 제주특별자치도 제주시 旧左邑",
+    "naverQuery": "Manjanggul Cave 제주특별자치도 제주시 旧左邑",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:54.734Z"
+    "updatedAt": "2026-10-01T10:46:50.183Z"
   },
   "cheonjiyeon-waterfall-seogwipo-si": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EC%A7%80%EC%97%B0%ED%8F%AD%ED%8F%AC%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%B2%9C%EC%A7%80%EC%97%B0%ED%8F%AD%ED%8F%AC%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Cheonjiyeon%20Waterfall%20%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "천지연폭포 제주특별자치도 서귀포시",
-    "naverQuery": "천지연폭포 제주특별자치도 서귀포시",
+    "naverQuery": "Cheonjiyeon Waterfall 제주특별자치도 서귀포시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:55.735Z"
+    "updatedAt": "2026-10-01T10:46:51.184Z"
   },
   "seogwipo-olle-trail-section-seogwipo-si": {
     "googleUrl": "https://www.google.com/maps/place/%5B%EC%A0%9C%EC%A3%BC%EC%98%AC%EB%A0%88+7%EC%BD%94%EC%8A%A4%5D+%EC%A0%9C%EC%A3%BC%EC%98%AC%EB%A0%88+%EC%97%AC%ED%96%89%EC%9E%90%EC%84%BC%ED%84%B0-%EC%9B%94%ED%8F%89+%EC%98%AC%EB%A0%88/data=!4m7!3m6!1s0x350c53b90803565b:0x3193f3a4687d38ea!8m2!3d33.2413514!4d126.547998!16s%2Fg%2F11bbt6xkm6!19sChIJW1YDCLlTDDUR6jh9aKTzkzE",
@@ -671,13 +671,13 @@
   },
   "heyri-art-valley-paju": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%ED%97%A4%EC%9D%B4%EB%A6%AC%EC%98%88%EC%88%A0%EB%A7%88%EC%9D%84%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%ED%97%A4%EC%9D%B4%EB%A6%AC%EC%98%88%EC%88%A0%EB%A7%88%EC%9D%84%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Heyri%20Art%20Valley%20%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "헤이리예술마을 경기도 파주시",
-    "naverQuery": "헤이리예술마을 경기도 파주시",
+    "naverQuery": "Heyri Art Valley 경기도 파주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:13:56.737Z"
+    "updatedAt": "2026-10-01T10:46:52.188Z"
   },
   "petite-france-gapyeong": {
     "googleUrl": "https://www.google.com/maps/place/Quartier+de+La+Petite+France/data=!4m7!3m6!1s0x4796c93fcd8f8a4d:0x614380f7578373b4!8m2!3d48.5811419!4d7.7415077!16s%2Fg%2F11fj4vlp8w!19sChIJTYqPzT_JlkcRtHODV_eAQ2E",
@@ -941,13 +941,13 @@
   },
   "seongyojang-house-gangneung": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%A0%EA%B5%90%EC%9E%A5%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EA%B0%95%EB%A6%89%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%84%A0%EA%B5%90%EC%9E%A5%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EA%B0%95%EB%A6%89%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Seongyojang%20House%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EA%B0%95%EB%A6%89%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "선교장 강원특별자치도 강릉시",
-    "naverQuery": "선교장 강원특별자치도 강릉시",
+    "naverQuery": "Seongyojang House 강원특별자치도 강릉시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:00.536Z"
+    "updatedAt": "2026-10-01T10:46:53.189Z"
   },
   "chuncheon-puppet-theater-chuncheon": {
     "googleUrl": "https://www.google.com/maps/place/%EC%B6%98%EC%B2%9C%EC%9D%B8%ED%98%95%EA%B7%B9%EC%9E%A5/data=!4m7!3m6!1s0x3562e8b47197f17b:0x2a97043b75e9f15e!8m2!3d37.9215327!4d127.7202201!16s%2Fg%2F121m8703!19sChIJe_GXcbToYjURXvHpdTsElyo",
@@ -961,13 +961,13 @@
   },
   "naksansa-temple-yangyang": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EB%82%99%EC%82%B0%EC%82%AC%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%96%91%EC%96%91%EA%B5%B0",
-    "naverUrl": "https://map.naver.com/v5/search/%EB%82%99%EC%82%B0%EC%82%AC%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%96%91%EC%96%91%EA%B5%B0",
+    "naverUrl": "https://map.naver.com/v5/search/Naksansa%20Temple%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%96%91%EC%96%91%EA%B5%B0",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "낙산사 강원특별자치도 양양군",
-    "naverQuery": "낙산사 강원특별자치도 양양군",
+    "naverQuery": "Naksansa Temple 강원특별자치도 양양군",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:01.537Z"
+    "updatedAt": "2026-10-01T10:46:54.190Z"
   },
   "seoraksan-national-park-sokcho": {
     "googleUrl": "https://www.google.com/maps/place/%EC%84%A4%EC%95%85%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90/data=!4m7!3m6!1s0x5fd8a3681fcc5ad3:0x47de2c13a58fd57e!8m2!3d38.1573652!4d128.4355274!16zL20vMGYxX3Q2!19sChIJ01rMH2ij2F8RftWPpRMs3kc",
@@ -1031,13 +1031,13 @@
   },
   "jukdo-market-pohang-pohang": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%ED%95%AD%20%EC%A3%BD%EB%8F%84%EC%8B%9C%EC%9E%A5%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%ED%8F%AC%ED%95%AD%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%ED%8F%AC%ED%95%AD%20%EC%A3%BD%EB%8F%84%EC%8B%9C%EC%9E%A5%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%ED%8F%AC%ED%95%AD%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Jukdo%20Market%20Pohang%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%ED%8F%AC%ED%95%AD%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "포항 죽도시장 경상북도 포항시",
-    "naverQuery": "포항 죽도시장 경상북도 포항시",
+    "naverQuery": "Jukdo Market Pohang 경상북도 포항시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:02.538Z"
+    "updatedAt": "2026-10-01T10:46:55.192Z"
   },
   "gyeongju-traditional-liquor-street-gyeongju": {
     "googleUrl": "https://www.google.com/maps/place/%EA%B2%BD%EC%A3%BC%EA%B5%90%EB%8F%99%EB%B2%95%EC%A3%BC/data=!4m7!3m6!1s0x35664e5fd050820f:0xab7e6707b8c65a21!8m2!3d35.8307578!4d129.2159712!16s%2Fg%2F1tdhjpyn!19sChIJD4JQ0F9OZjURIVrGuAdnfqs",
@@ -1181,13 +1181,13 @@
   },
   "cheomseongdae-observatory-gyeongju": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EA%B2%BD%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%B2%A8%EC%84%B1%EB%8C%80%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EA%B2%BD%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Cheomseongdae%20Observatory%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EA%B2%BD%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "첨성대 경상북도 경주시",
-    "naverQuery": "첨성대 경상북도 경주시",
+    "naverQuery": "Cheomseongdae Observatory 경상북도 경주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:03.539Z"
+    "updatedAt": "2026-10-01T10:46:56.193Z"
   },
   "homigot-sunrise-square-pohang": {
     "googleUrl": "https://www.google.com/maps/place/%ED%98%B8%EB%AF%B8%EA%B3%B6+%ED%95%B4%EB%A7%9E%EC%9D%B4%EA%B4%91%EC%9E%A5/data=!4m7!3m6!1s0x356713df8abedfe1:0xd19344505ac4a299!8m2!3d36.0767625!4d129.5678594!16s%2Fg%2F11dxh938nn!19sChIJ4d--it8TZzURmaLEWlBEk9E",
@@ -1221,13 +1221,13 @@
   },
   "jeonju-nambu-market-gyodong": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%20%EB%82%A8%EB%B6%80%EC%8B%9C%EC%9E%A5%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%E5%8D%97%E9%83%A8%E5%B8%82%E5%A0%B4",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%A0%84%EC%A3%BC%20%EB%82%A8%EB%B6%80%EC%8B%9C%EC%9E%A5%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%E5%8D%97%E9%83%A8%E5%B8%82%E5%A0%B4",
+    "naverUrl": "https://map.naver.com/v5/search/Jeonju%20Nambu%20Market%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%E5%8D%97%E9%83%A8%E5%B8%82%E5%A0%B4",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "전주 남부시장 전북특별자치도 전주시 南部市場",
-    "naverQuery": "전주 남부시장 전북특별자치도 전주시 南部市場",
+    "naverQuery": "Jeonju Nambu Market 전북특별자치도 전주시 南部市場",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:04.540Z"
+    "updatedAt": "2026-10-01T10:46:57.194Z"
   },
   "jeonju-kongnamul-gukbap-alley-jeonju": {
     "googleUrl": "https://www.google.com/maps/place/%EC%A0%84%EC%A3%BC%EC%99%B1%EC%9D%B4%EC%BD%A9%EB%82%98%EB%AC%BC%EA%B5%AD%EB%B0%A5%EC%A0%84%EB%AC%B8%EC%A0%90/data=!4m7!3m6!1s0x357023342e3ae5c3:0xba27458ca45e4b3f!8m2!3d35.8183312!4d127.1491582!16s%2Fg%2F11qgk3qrl_!19sChIJw-U6LjQjcDURP0tepIxFJ7o",
@@ -1281,13 +1281,13 @@
   },
   "jaman-mural-village-jeonju": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9E%90%EB%A7%8C%EB%B2%BD%ED%99%94%EB%A7%88%EC%9D%84%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%9E%90%EB%A7%8C%EB%B2%BD%ED%99%94%EB%A7%88%EC%9D%84%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Jaman%20Mural%20Village%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "자만벽화마을 전북특별자치도 전주시",
-    "naverQuery": "자만벽화마을 전북특별자치도 전주시",
+    "naverQuery": "Jaman Mural Village 전북특별자치도 전주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:05.541Z"
+    "updatedAt": "2026-10-01T10:46:58.195Z"
   },
   "jeonju-oriental-medicine-museum-jeonju": {
     "googleUrl": "https://www.google.com/maps/place/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%A7%80%EB%B0%95%EB%AC%BC%EA%B4%80/data=!4m7!3m6!1s0x35703c93fd612e49:0xda6c980fc9d7974e!8m2!3d35.8489359!4d127.10024!16s%2Fg%2F1tcycb_m!19sChIJSS5h_ZM8cDURTpfXyQ-YbNo",
@@ -1351,13 +1351,13 @@
   },
   "jeonju-traditional-wine-museum-jeonju": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%EC%A0%84%ED%86%B5%EC%88%A0%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C",
-    "naverUrl": "https://map.naver.com/v5/search/%EC%A0%84%EC%A3%BC%EC%A0%84%ED%86%B5%EC%88%A0%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/Jeonju%20Traditional%20Wine%20Museum%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "전주전통술박물관 전북특별자치도 전주시",
-    "naverQuery": "전주전통술박물관 전북특별자치도 전주시",
+    "naverQuery": "Jeonju Traditional Wine Museum 전북특별자치도 전주시",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:06.544Z"
+    "updatedAt": "2026-10-01T10:46:59.197Z"
   },
   "jeonju-sago-archives-jeonju": {
     "googleUrl": "https://www.google.com/maps/place/%EC%A0%84%EC%A3%BC%EC%82%AC%EA%B3%A0/data=!4m7!3m6!1s0x3570249e2c607419:0x74473342e7b11868!8m2!3d35.8154873!4d127.1501542!16s%2Fg%2F11gbwy8g76!19sChIJGXRgLJ4kcDURaBix50IzR3Q",
@@ -1381,13 +1381,13 @@
   },
   "maisan-provincial-park-jinan": {
     "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EB%A7%88%EC%9D%B4%EC%82%B0%EB%8F%84%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A7%84%EC%95%88%EA%B5%B0",
-    "naverUrl": "https://map.naver.com/v5/search/%EB%A7%88%EC%9D%B4%EC%82%B0%EB%8F%84%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A7%84%EC%95%88%EA%B5%B0",
+    "naverUrl": "https://map.naver.com/v5/search/Maisan%20Provincial%20Park%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A7%84%EC%95%88%EA%B5%B0",
     "googleSource": "search",
     "naverSource": "search",
     "googleQuery": "마이산도립공원 전북특별자치도 진안군",
-    "naverQuery": "마이산도립공원 전북특별자치도 진안군",
+    "naverQuery": "Maisan Provincial Park 전북특별자치도 진안군",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:07.546Z"
+    "updatedAt": "2026-10-01T10:47:00.198Z"
   },
   "wansan-park-wansan": {
     "googleUrl": "https://www.google.com/maps/place/%EC%99%84%EC%82%B0%EA%B3%B5%EC%9B%90/data=!4m7!3m6!1s0x357024bea91b9db5:0x1f8026c88b2a4e27!8m2!3d35.803227!4d127.1418709!16s%2Fg%2F11cs5mwv9z!19sChIJtZ0bqb4kcDURJ04qi8gmgB8",
@@ -2987,7 +2987,7 @@
     "googleQuery": "경상남도 양산시 통도사로 108 경상남도 양산시 梁山市",
     "naverQuery": "경상남도 양산시 통도사로 108 경상남도 양산시 梁山市",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:08.547Z"
+    "updatedAt": "2026-10-01T10:47:01.199Z"
   },
   "hwagae-valley-cherry-blossom-secret-path-hadong-eup": {
     "googleUrl": "https://www.google.com/maps/place/%EC%8B%AD%EB%A6%AC%EB%B2%9A%EA%BD%83%EA%B8%B8/data=!4m7!3m6!1s0x356e38a56f33bd27:0x640f89c2595be2ae!8m2!3d35.1997222!4d127.6297222!16s%2Fg%2F119x20t13!19sChIJJ70zb6U4bjURruJbWcKJD2Q",
@@ -3417,7 +3417,7 @@
     "googleQuery": "거제도해수보양온천 경상남도 거제시 일운면",
     "naverQuery": "거제도해수보양온천 경상남도 거제시 일운면",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:09.549Z"
+    "updatedAt": "2026-10-01T10:47:02.203Z"
   },
   "geoje-sea-spa-massage-center-ilwon": {
     "googleUrl": "https://www.google.com/maps/place/%EA%B1%B0%EC%A0%9C%EC%8B%9C%ED%95%B4%EC%88%98%EB%B3%B4%EC%96%91%EC%98%A8%EC%B2%9C/data=!4m7!3m6!1s0x356ecd5efd3cce95:0xe78b420fbd40c8d0!8m2!3d34.8914138!4d128.6344683!16s%2Fg%2F1tf7q0cq!19sChIJlc48_V7NbjUR0MhAvQ9Ci-c",
@@ -3577,7 +3577,7 @@
     "googleQuery": "아트박스 거제고현점 경상남도 거제시 고현동",
     "naverQuery": "아트박스 거제고현점 경상남도 거제시 고현동",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:10.550Z"
+    "updatedAt": "2026-10-01T10:47:03.204Z"
   },
   "geoje-sea-spa-hair-salon-ilwon": {
     "googleUrl": "https://www.google.com/maps/place/%EA%B1%B0%EC%A0%9C%EC%8B%9C%ED%95%B4%EC%88%98%EB%B3%B4%EC%96%91%EC%98%A8%EC%B2%9C/data=!4m7!3m6!1s0x356ecd5efd3cce95:0xe78b420fbd40c8d0!8m2!3d34.8914138!4d128.6344683!16s%2Fg%2F1tf7q0cq!19sChIJlc48_V7NbjUR0MhAvQ9Ci-c",
@@ -3617,7 +3617,7 @@
     "googleQuery": "거제포로수용소유적공원 경상남도 거제시 고현동",
     "naverQuery": "거제포로수용소유적공원 경상남도 거제시 고현동",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:10:20.884Z"
+    "updatedAt": "2026-10-01T10:44:00.927Z"
   },
   "pow-camp-museum-gohyeon": {
     "googleUrl": "https://www.google.com/maps/place/%EA%B1%B0%EC%A0%9C%EB%8F%84+%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C+%EC%9C%A0%EC%A0%81%EA%B3%B5%EC%9B%90/data=!4m7!3m6!1s0x356ecd13bc14ed81:0xc9fba8f32f2fdf3!8m2!3d34.8758202!4d128.6242828!16s%2Fm%2F0cmbgyb!19sChIJge0UvBPNbjUR8_3yMo-6nww",
@@ -3667,7 +3667,7 @@
     "googleQuery": "해금강테마박물관 경상남도 거제시 남부면",
     "naverQuery": "해금강테마박물관 경상남도 거제시 남부면",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:10:21.885Z"
+    "updatedAt": "2026-10-01T10:44:01.929Z"
   },
   "cheongma-memorial-hall-okpo": {
     "googleUrl": "https://www.google.com/maps/place/%EC%98%A5%ED%8F%AC%EB%8C%80%EC%B2%A9%EA%B8%B0%EB%85%90%EA%B3%B5%EC%9B%90/data=!4m7!3m6!1s0x35692c4ad5b4929d:0x1a79834a87430a9c!8m2!3d34.9002164!4d128.7140182!16s%2Fg%2F120xjcyq!19sChIJnZK01UosaTURnApDh0qDeRo",
@@ -3737,7 +3737,7 @@
     "googleQuery": "매미성 경상남도 거제시 장목면",
     "naverQuery": "매미성 경상남도 거제시 장목면",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:10:22.886Z"
+    "updatedAt": "2026-10-01T10:44:02.930Z"
   },
   "sinseondae-cliff-nambugmyeon": {
     "googleUrl": "https://www.google.com/maps/place/%EC%8B%A0%EC%84%A0%EB%8C%80/data=!4m7!3m6!1s0x35693550b3a17d3d:0xf01d7a5ecf530db2!8m2!3d34.7381229!4d128.6625755!16s%2Fg%2F1tx137qm!19sChIJPX2hs1A1aTURsg1Tz156HfA",
@@ -3987,7 +3987,7 @@
     "googleQuery": "가조도 경상남도 거제시 사등면",
     "naverQuery": "가조도 경상남도 거제시 사등면",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:14.458Z"
+    "updatedAt": "2026-10-01T10:47:04.205Z"
   },
   "naedo-island-ilwon": {
     "googleUrl": "https://www.google.com/maps/place/%EB%82%B4%EB%8F%84%EA%B8%B8/data=!4m7!3m6!1s0x356934756fdfd061:0xa9eb88209395343a!8m2!3d34.7885857!4d128.7138749!16s%2Fg%2F119tpqlls!19sChIJYdDfb3U0aTUROjSVkyCI66k",
@@ -4007,7 +4007,7 @@
     "googleQuery": "거가대교 경상남도 거제시 고현동",
     "naverQuery": "거가대교 경상남도 거제시 고현동",
     "googleVerified": false,
-    "updatedAt": "2026-09-01T09:14:15.458Z"
+    "updatedAt": "2026-10-01T10:47:05.206Z"
   },
   "jung-gu": {
     "googleUrl": "https://www.google.com/maps/place/%ED%95%98%EB%82%A8%EB%8F%BC%EC%A7%80%EC%A7%91+%EB%8F%99%EB%8C%80%EB%AC%B8%EC%A0%90/data=!4m7!3m6!1s0x357ca3910202f71f:0xbebd39610a57a393!8m2!3d37.5667657!4d127.006847!16s%2Fg%2F11k9gtfd8t!19sChIJH_cCApGjfDURk6NXCmE5vb4",
@@ -4712,5 +4712,643 @@
     "naverQuery": "서초 피부과 클리닉 서울특별시 seocho",
     "googleVerified": true,
     "updatedAt": "2026-09-01T09:14:52.894Z"
+  },
+  "oedo-botania-gyeongnam": {
+    "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EC%99%B8%EB%8F%84%20%EB%B3%B4%ED%83%80%EB%8B%88%EC%95%84%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%99%B8%EB%8F%84%20%EB%B3%B4%ED%83%80%EB%8B%88%EC%95%84%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "googleSource": "search",
+    "naverSource": "search",
+    "googleQuery": "외도 보타니아 경상남도",
+    "naverQuery": "외도 보타니아 경상남도",
+    "googleVerified": false,
+    "updatedAt": "2026-10-01T10:43:59.926Z"
+  },
+  "hanam-pig-house-dongdaemun-jung": {
+    "googleUrl": "https://www.google.com/maps/place/%ED%95%98%EB%82%A8%EB%8F%BC%EC%A7%80%EC%A7%91+%EB%8F%99%EB%8C%80%EB%AC%B8%EC%A0%90/data=!4m7!3m6!1s0x357ca3910202f71f:0xbebd39610a57a393!8m2!3d37.5667657!4d127.006847!16s%2Fg%2F11k9gtfd8t!19sChIJH_cCApGjfDURk6NXCmE5vb4?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5667657,127.006847",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "하남돼지집동대문점 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:44:06.191Z"
+  },
+  "geoje-haegeumgang-jangseungpo": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%99%B8%EB%8F%84%ED%95%B4%EA%B8%88%EA%B0%95%EC%9E%A5%EC%8A%B9%ED%8F%AC%EC%9C%A0%EB%9E%8C%EC%84%A0/data=!4m7!3m6!1s0x35692de69e446bdd:0x1f8972cff6f91fd4!8m2!3d34.8661182!4d128.7246586!16s%2Fg%2F11btstvw20!19sChIJ3WtEnuYtaTUR1B_59s9yiR8?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/34.8661182,128.7246586",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "거제 해금강 경상남도 거제시 장승포동",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:44:09.294Z"
+  },
+  "windy-hill-nambugmyeon-2": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%B0%94%EB%9E%8C%EC%9D%98+%EC%96%B8%EB%8D%95/data=!4m7!3m6!1s0x3569354f821da2c1:0xaf30e52aa20b6a8a!8m2!3d34.7446779!4d128.6631429!16s%2Fg%2F11f79h4qq5!19sChIJwaIdgk81aTURimoLoirlMK8?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/34.7446779,128.6631429",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "바람의 언덕 경상남도 거제시 남부면",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:44:12.102Z"
+  },
+  "geoje-sea-world-ilwon": {
+    "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B1%B0%EC%A0%9C%EC%94%A8%EC%9B%94%EB%93%9C%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EA%B1%B0%EC%A0%9C%EC%8B%9C%20%EC%9D%BC%EC%9A%B4%EB%A9%B4",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B1%B0%EC%A0%9C%EC%94%A8%EC%9B%94%EB%93%9C%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EA%B1%B0%EC%A0%9C%EC%8B%9C%20%EC%9D%BC%EC%9A%B4%EB%A9%B4",
+    "googleSource": "search",
+    "naverSource": "search",
+    "googleQuery": "거제씨월드 경상남도 거제시 일운면",
+    "naverQuery": "거제씨월드 경상남도 거제시 일운면",
+    "googleVerified": false,
+    "updatedAt": "2026-10-01T10:44:30.061Z"
+  },
+  "geoje-maengjong-bamboo-theme-park-hacheong": {
+    "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B1%B0%EC%A0%9C%EB%A7%B9%EC%A2%85%EC%A3%BD%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EA%B1%B0%EC%A0%9C%EC%8B%9C%20%ED%95%98%EC%B2%AD%EB%A9%B4",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B1%B0%EC%A0%9C%EB%A7%B9%EC%A2%85%EC%A3%BD%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EA%B1%B0%EC%A0%9C%EC%8B%9C%20%ED%95%98%EC%B2%AD%EB%A9%B4",
+    "googleSource": "search",
+    "naverSource": "search",
+    "googleQuery": "거제맹종죽 테마파크 경상남도 거제시 하청면",
+    "naverQuery": "거제맹종죽 테마파크 경상남도 거제시 하청면",
+    "googleVerified": false,
+    "updatedAt": "2026-10-01T10:44:47.521Z"
+  },
+  "maemiseong-fortress-gyeongnam": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%A7%A4%EB%AF%B8%EC%84%B1/data=!4m5!3m4!1s0x35692b7038cd87ff:0x81b543aca0fb0ff0!16s%2Fg%2F11h6rpn14j!19sChIJ_4fNOHAraTUR8A_7oKxDtYE!20s8Q6CXP94%2B938JFPG?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%A7%A4%EB%AF%B8%EC%84%B1%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "매미성 경상남도 거제시 장목면 복항길",
+    "naverQuery": "매미성 경상남도",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:44:56.123Z"
+  },
+  "geoje-pow-camp-historic-park-gyeongnam": {
+    "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B1%B0%EC%A0%9C%EB%8F%84%20%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C%20%EC%9C%A0%EC%A0%81%EA%B3%B5%EC%9B%90%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B1%B0%EC%A0%9C%EB%8F%84%20%ED%8F%AC%EB%A1%9C%EC%88%98%EC%9A%A9%EC%86%8C%20%EC%9C%A0%EC%A0%81%EA%B3%B5%EC%9B%90%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "googleSource": "search",
+    "naverSource": "search",
+    "googleQuery": "거제도 포로수용소 유적공원 경상남도",
+    "naverQuery": "거제도 포로수용소 유적공원 경상남도",
+    "googleVerified": false,
+    "updatedAt": "2026-10-01T10:45:14.137Z"
+  },
+  "geoje-grilled-fish-soy-crab-geoje": {
+    "googleUrl": "https://www.google.com/maps/place/%EA%B1%B0%EC%A0%9C%EB%8F%84%EC%83%9D%EC%84%A0%EA%B5%AC%EC%9D%B4+%EA%B0%84%EC%9E%A5%EA%B2%8C%EC%9E%A5/data=!4m7!3m6!1s0x356ecdf319294fd7:0x639f32b760a7ba78!8m2!3d34.8923811!4d128.6194916!16s%2Fg%2F11wj6ydh65!19sChIJ108pGfPNbjUReLqnYLcyn2M?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/34.8923811,128.6194916",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "거제도생선구이간장게장 경상남도 거제시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:45:17.307Z"
+  },
+  "geoje-gukbap-geoje": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%8B%A0%EB%8B%A4%EC%97%B0+%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EC%83%81%EB%8F%99%EC%A0%90/data=!4m7!3m6!1s0x356ecd004c45bb8b:0xeeab7ce4b3a06b80!8m2!3d34.8686977!4d128.635925!16s%2Fg%2F11mm214l7v!19sChIJi7tFTADNbjURgGugs-R8q-4?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/34.8686977,128.635925",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "거제 국밥 경상남도 거제시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:45:20.536Z"
+  },
+  "nojasan-2nd-observatory-dongbu": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%85%B8%EC%9E%90%EC%82%B0+%EC%A0%9C2%EC%A0%84%EB%A7%9D%EB%8C%80/data=!4m7!3m6!1s0x356ecb5482a3a4a3:0x2237fad7b4e03715!8m2!3d34.7832654!4d128.6159489!16s%2Fg%2F11hj1qpdr7!19sChIJo6SjglTLbjURFTfgtNf6NyI?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/34.7832654,128.6159489",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "노자산 제2전망대 경상남도 거제시 동부면",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:45:23.309Z"
+  },
+  "moraeseong-bunsik": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%AA%A8%EB%9E%98%EC%84%B1%EB%B6%84%EC%8B%9D/data=!4m7!3m6!1s0x35692c4f35b5c723:0x69ca6710a833a457!8m2!3d34.9113626!4d128.7103931!16s%2Fg%2F11scql1d5t!19sChIJI8e1NU8saTURV6QzqBBnymk?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/34.9113626,128.7103931",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "모래성분식 경상남도 거제시 덕포동",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:45:26.128Z"
+  },
+  "okpo-public-bathhouse-okpo": {
+    "googleUrl": "https://www.google.com/maps/place/%EA%B1%B0%EC%A0%9C%EC%8B%9C%ED%95%B4%EC%88%98%EB%B3%B4%EC%96%91%EC%98%A8%EC%B2%9C/data=!4m7!3m6!1s0x356ecd5efd3cce95:0xe78b420fbd40c8d0!8m2!3d34.8914138!4d128.6344683!16s%2Fg%2F1tf7q0cq!19sChIJlc48_V7NbjUR0MhAvQ9Ci-c?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/34.8914138,128.6344683",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "옥포 대중탕 경상남도 거제시 옥포동",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:45:28.942Z"
+  },
+  "maemiseong-fortress-gyeongnam-2": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%A7%A4%EB%AF%B8%EC%84%B1/data=!4m5!3m4!1s0x35692b7038cd87ff:0x81b543aca0fb0ff0!16s%2Fg%2F11h6rpn14j!19sChIJ_4fNOHAraTUR8A_7oKxDtYE!20s8Q6CXP94%2B938JFPG?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%A7%A4%EB%AF%B8%EC%84%B1%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "매미성 경상남도 거제시 장목면 복항길",
+    "naverQuery": "매미성 경상남도",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:45:37.442Z"
+  },
+  "geoje-sea-world-gyeongnam": {
+    "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B1%B0%EC%A0%9C%EC%94%A8%EC%9B%94%EB%93%9C%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B1%B0%EC%A0%9C%EC%94%A8%EC%9B%94%EB%93%9C%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "googleSource": "search",
+    "naverSource": "search",
+    "googleQuery": "거제씨월드 경상남도",
+    "naverQuery": "거제씨월드 경상남도",
+    "googleVerified": false,
+    "updatedAt": "2026-10-01T10:45:54.868Z"
+  },
+  "maemi-castle-jangmok-myeon": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%A7%A4%EB%AF%B8%EC%84%B1/data=!4m5!3m4!1s0x35692b7038cd87ff:0x81b543aca0fb0ff0!16s%2Fg%2F11h6rpn14j!19sChIJ_4fNOHAraTUR8A_7oKxDtYE!20s8Q6CXP94%2B938JFPG?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%A7%A4%EB%AF%B8%EC%84%B1%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%20%EA%B1%B0%EC%A0%9C%EC%8B%9C%20jangmok-myeon",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "매미성 경상남도 거제시 장목면 복항길",
+    "naverQuery": "매미성 경상남도 거제시 jangmok-myeon",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:46:03.376Z"
+  },
+  "olive-young-myeongdong-town-junggu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81+%EB%AA%85%EB%8F%99+%ED%83%80%EC%9A%B4/data=!4m5!3m4!1s0x357ca2efe0d570f5:0x1ed61ca1e03d322a!16s%2Fg%2F11f3n40rnm!19sChIJ9XDV4O-ifDURKjI94KEc1h4!20s8Q98HX7P%2BH3FR924?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%20%EB%AA%85%EB%8F%99%20%ED%83%80%EC%9A%B4%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20junggu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "Olive Young Myeongdong Town Korea",
+    "naverQuery": "올리브영 명동 타운 서울특별시 junggu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:46:21.179Z"
+  },
+  "igidae-coastal-walk-nam-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%9D%B4%EA%B8%B0%EB%8C%80+%ED%95%B4%EC%95%88%EC%82%B0%EC%B1%85%EB%A1%9C/data=!4m5!3m4!1s0x3568ed1ac550c0af:0xa6672be7b7e79fc5!16s%2Fg%2F11f_vbx900!19sChIJr8BQxRrtaDURxZ_nt-crZ6Y!20s8Q7F449H%2B64HJXHF?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%9D%B4%EA%B8%B0%EB%8C%80%20%ED%95%B4%EC%95%88%EC%82%B0%EC%B1%85%EB%A1%9C%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20nam-gu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "Igidae Coastal Walk Korea",
+    "naverQuery": "이기대 해안산책로 부산광역시 nam-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:46:42.173Z"
+  },
+  "bogwangrodwaejijip-yongsan-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%B3%B4%EA%B4%91%EC%A0%95+%EC%9D%B4%ED%83%9C%EC%9B%90%EC%A0%90/data=!4m7!3m6!1s0x357ca3246595ba9d:0xdf10072b84b12e5f!8m2!3d37.5333181!4d126.9945515!16s%2Fg%2F11vr534tv7!19sChIJnbqVZSSjfDURXy6xhCsHEN8?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5333181,126.9945515",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "보광로돼지집 서울특별시 yongsan-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:08.335Z"
+  },
+  "dasanrodwaejijip-jung-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%ED%95%98%EB%82%A8%EB%8F%BC%EC%A7%80%EC%A7%91+%EB%8F%99%EB%8C%80%EB%AC%B8%EC%A0%90/data=!4m7!3m6!1s0x357ca3910202f71f:0xbebd39610a57a393!8m2!3d37.5667657!4d127.006847!16s%2Fg%2F11k9gtfd8t!19sChIJH_cCApGjfDURk6NXCmE5vb4?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5667657,127.006847",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "다산로돼지집 서울특별시 jung-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:11.185Z"
+  },
+  "hallyustorm-hongdae-kpop-aelbeom-mit-gutjeu-maejang-seoul": {
+    "googleUrl": "https://www.google.com/maps/place/Hallyusupertstore+Hongdae/data=!4m7!3m6!1s0x357c9947c5285c4f:0xf1866ecc66d3cf54!8m2!3d37.5519978!4d126.9183597!16s%2Fg%2F11nttk4452!19sChIJT1woxUeZfDURVM_TZsxuhvE?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5519978,126.9183597",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "HALLYUSTORM 홍대 KPOP 앨범 및 굿즈 매장 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:14.209Z"
+  },
+  "keipap-seukweeo-hongdae-seoul": {
+    "googleUrl": "https://www.google.com/maps/place/L7+%ED%99%8D%EB%8C%80/data=!4m10!3m9!1s0x357c99bd6ac965e5:0x65ab0d65b12cf311!5m2!4m1!1i2!8m2!3d37.5556155!4d126.9215951!16s%2Fg%2F11gh4m97_d!19sChIJ5WXJar2ZfDUREfMssWUNq2U?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5556155,126.9215951",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "케이팝 스퀘어 홍대 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:17.006Z"
+  },
+  "yeonseosijang-eunpyeong": {
+    "googleUrl": "https://www.google.com/maps/place/%EA%B5%AD%EC%A0%9C%EA%B2%B0%ED%98%BC%EC%97%98%EB%A6%BC%EC%9B%A8%EB%94%A9/data=!4m7!3m6!1s0x357c9785fb8e4c3b:0x4709714ddcaf8c9!8m2!3d37.619634!4d126.921408!16s%2Fg%2F11fqtlxm9x!19sChIJO0yO-4WXfDURyfjK3RSXcAQ?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.619634,126.921408",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "연서시장 서울특별시 eunpyeong",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:19.834Z"
+  },
+  "bukchon-hanokmaeul-jongno": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%B6%81%EC%B4%8C+%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84/data=!4m7!3m6!1s0x357ca2daaff8c14f:0xcdbcbaa9ffc9e59a!8m2!3d37.5814696!4d126.9849519!16s%2Fm%2F043pdws!19sChIJT8H4r9qifDURmuXJ_6m6vM0?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5814696,126.9849519",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "북촌 한옥마을 서울특별시 종로구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:22.616Z"
+  },
+  "namsan-dulregil-jung": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%82%A8%EC%82%B0%EB%93%B1%EC%8B%AC+NamsanSirloin+%E5%8D%97%E5%B1%B1%E7%89%9B%E9%87%8C%E8%84%8A+%E7%84%BC%E3%81%8D%E8%82%89/data=!4m7!3m6!1s0x357ca3f05e5976e1:0x7bd923b177a1f12b!8m2!3d37.5597648!4d126.9850288!16s%2Fg%2F11vj97mx22!19sChIJ4XZZXvCjfDURK_Ghd7Ej2Xs?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5597648,126.9850288",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "남산 둘레길 서울특별시 jung",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:25.418Z"
+  },
+  "namsan-dulregil-jinipro-seoul": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%82%A8%EC%82%B0%EB%93%B1%EC%8B%AC+NamsanSirloin+%E5%8D%97%E5%B1%B1%E7%89%9B%E9%87%8C%E8%84%8A+%E7%84%BC%E3%81%8D%E8%82%89/data=!4m7!3m6!1s0x357ca3f05e5976e1:0x7bd923b177a1f12b!8m2!3d37.5597648!4d126.9850288!16s%2Fg%2F11vj97mx22!19sChIJ4XZZXvCjfDURK_Ghd7Ej2Xs?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5597648,126.9850288",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "남산 둘레길 진입로 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:28.248Z"
+  },
+  "seoul-seupa-masaji-jung-gu": {
+    "googleUrl": "https://www.google.com/maps/place/myeongdong+massage+Ace+Therapy%28%EB%AA%85%EB%8F%99+%EB%A7%88%EC%82%AC%EC%A7%80+%EC%97%90%EC%9D%B4%EC%8A%A4%29%E3%83%9E%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B8/data=!4m7!3m6!1s0x357ca3acea593279:0x49d97d27710681ff!8m2!3d37.5632651!4d126.9854775!16s%2Fg%2F11sd_h9vhm!19sChIJeTJZ6qyjfDUR_4EGcSd92Uk?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5632651,126.9854775",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "서울 스파 마사지 서울특별시 jung-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:31.140Z"
+  },
+  "myeongdong-seupa-masaji-jung": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%BD%94%EB%A6%AC%EC%95%84%EC%8A%A4%ED%8C%8C+%EB%AA%85%EB%8F%99%EB%B3%B8%EC%A0%90/data=!4m7!3m6!1s0x357ca2efd90465a9:0x7b4f93f6c7f8591d!8m2!3d37.564185!4d126.9845205!16s%2Fg%2F119tjyxj5!19sChIJqWUE2e-ifDURHVn4x_aTT3s?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.564185,126.9845205",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "명동 스파 마사지 서울특별시 jung",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:33.949Z"
+  },
+  "gangnam-pibugwa-keulrinik-seocho": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%BD%80%EC%86%A1%EC%9D%98%EC%9B%90+%EA%B0%95%EB%82%A8/data=!4m7!3m6!1s0x357ca1000a6e497b:0x9633f0bfe2c9c1b1!8m2!3d37.5009067!4d127.0257504!16s%2Fg%2F11yb_tqw8j!19sChIJe0luCgChfDURscHJ4r_wM5Y?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5009067,127.0257504",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "강남 피부과 클리닉 서울특별시 seocho",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:36.749Z"
+  },
+  "poeunro6gil-27-mapo": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%A7%9D%EC%9B%90%EC%8B%9C%EC%9E%A5/data=!4m7!3m6!1s0x357c9928af31a803:0xf6cfdd1b789bf926!8m2!3d37.5559018!4d126.9062854!16s%2Fg%2F11c60jfvk0!19sChIJA6gxryiZfDURJvmbeBvdz_Y?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5559018,126.9062854",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "포은로6길 27 서울특별시 마포구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:39.552Z"
+  },
+  "peurimieomseupael-gangnam-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+703-2/data=!4m7!3m6!1s0x357ca406404b5abf:0xbf48fda29df0a50c!8m2!3d37.5042346!4d127.0439554!16s%2Fg%2F11bzp4nlb9!19sChIJv1pLQAakfDURDKXwnaL9SL8?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5042346,127.0439554",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "프리미엄스파엘 서울특별시 gangnam-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:42.455Z"
+  },
+  "k-beauty-shop-junggu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%BC%80%EC%9D%B4%EB%B7%B0%ED%8B%B0%EC%83%B5+%EB%8F%99%EB%8C%80%EB%AC%B8%28K-Beauty+Shop+Dongdaemun%29/data=!4m5!3m4!1s0x357ca3af2b6845e1:0x4c423ca2fc148b5f!16s%2Fg%2F11yftj3cl2!19sChIJ4UVoK6-jfDURX4sU_KI8Qkw!20s8Q99H295%2B47H298C?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%BC%80%EC%9D%B4%EB%B7%B0%ED%8B%B0%EC%83%B5%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20junggu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "케이뷰티샵 서울특별시 junggu",
+    "naverQuery": "케이뷰티샵 서울특별시 junggu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:48.379Z"
+  },
+  "olribeuyeong-myeongdong-taun-seoul": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81+%EB%AA%85%EB%8F%99+%ED%83%80%EC%9A%B4/data=!4m7!3m6!1s0x357ca2efe0d570f5:0x1ed61ca1e03d322a!8m2!3d37.563946!4d126.9851624!16s%2Fg%2F11f3n40rnm!19sChIJ9XDV4O-ifDURKjI94KEc1h4?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.563946,126.9851624",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "올리브영 명동 타운 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:51.188Z"
+  },
+  "keibyutisyap-k-beauty-shop-seoul": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%BC%80%EC%9D%B4%EB%B7%B0%ED%8B%B0%EC%83%B5+%EB%8F%99%EB%8C%80%EB%AC%B8%28K-Beauty+Shop+Dongdaemun%29/data=!4m7!3m6!1s0x357ca3af2b6845e1:0x4c423ca2fc148b5f!8m2!3d37.5678013!4d127.0082256!16s%2Fg%2F11yftj3cl2!19sChIJ4UVoK6-jfDURX4sU_KI8Qkw?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5678013,127.0082256",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "케이뷰티샵 K-Beauty Shop 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:54.134Z"
+  },
+  "olribeuyeong-senteureol-myeongdong-taun-seoul": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%86%94%EB%9D%BC%EB%A6%AC%EC%95%84+%EB%8B%88%EC%8B%9C%ED%85%8C%EC%B8%A0+%ED%98%B8%ED%85%94+%EC%84%9C%EC%9A%B8+%EB%AA%85%EB%8F%99/data=!4m10!3m9!1s0x357ca2f043064ba3:0x94b1ec49def2a16d!5m2!4m1!1i2!8m2!3d37.562448!4d126.9853684!16s%2Fg%2F11b7vtlk4d!19sChIJo0sGQ_CifDURbaHy3knssZQ?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.562448,126.9853684",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "올리브영 센트럴 명동 타운 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:56.934Z"
+  },
+  "seupa-masaji-gangnam-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%8A%A4%ED%8C%8C%EB%A0%88%EC%9D%B4/data=!4m7!3m6!1s0x357ca3c27597064b:0x8a22db6bce1f37eb!8m2!3d37.5179489!4d127.0181942!16s%2Fg%2F1td45xl6!19sChIJSwaXdcKjfDUR6zcfzmvbIoo?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5179489,127.0181942",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "스파 마사지 서울특별시 gangnam-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:47:59.885Z"
+  },
+  "myeongdong-masaji-jung": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%BD%94%EB%A6%AC%EC%95%84%EC%8A%A4%ED%8C%8C+%EB%AA%85%EB%8F%99%EB%B3%B8%EC%A0%90/data=!4m7!3m6!1s0x357ca2efd90465a9:0x7b4f93f6c7f8591d!8m2!3d37.564185!4d126.9845205!16s%2Fg%2F119tjyxj5!19sChIJqWUE2e-ifDURHVn4x_aTT3s?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.564185,126.9845205",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "명동 마사지 서울특별시 jung",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:02.852Z"
+  },
+  "nonhyeon-masaji-gangnam": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EB%85%BC%ED%98%84%EB%8F%99+221-13/data=!4m7!3m6!1s0x357ca3f099491c11:0x120c000a18f6a6ec!8m2!3d37.5098201!4d127.0331008!16s%2Fg%2F11bzdlp0yc!19sChIJERxJmfCjfDUR7Kb2GAoADBI?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5098201,127.0331008",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "논현 마사지 서울특별시 강남구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:05.669Z"
+  },
+  "myeongdong-kbyuti-syoping-junggu": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%AA%85%EB%8F%99%EA%B1%B0%EB%A6%AC/data=!4m7!3m6!1s0x357ca2eff71c7725:0x8bebc98f14e6cc6f!8m2!3d37.5641885!4d126.986118!16s%2Fg%2F11cmpypsss!19sChIJJXcc9--ifDURb8zmFI_J64s?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5641885,126.986118",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "명동 K뷰티 쇼핑 서울특별시 junggu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:08.451Z"
+  },
+  "poeunro-jeontongsijang-mapo": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%A7%9D%EC%9B%90%EC%8B%9C%EC%9E%A5/data=!4m7!3m6!1s0x357c9928af31a803:0xf6cfdd1b789bf926!8m2!3d37.5559018!4d126.9062854!16s%2Fg%2F11c60jfvk0!19sChIJA6gxryiZfDURJvmbeBvdz_Y?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5559018,126.9062854",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "포은로 전통시장 서울특별시 마포구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:11.254Z"
+  },
+  "jahamunro-jeontongsijang-jongno": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%9E%90%ED%95%98%EB%AC%B8%EB%A1%9C15%EA%B8%B8/data=!4m7!3m6!1s0x357ca2bdd4bb207d:0x1986cace3ba65d26!8m2!3d37.5808569!4d126.969813!16s%2Fg%2F119v6zysr!19sChIJfSC71L2ifDURJl2mO87Khhk?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5808569,126.969813",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "자하문로 전통시장 서울특별시 종로구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:14.032Z"
+  },
+  "bukchon-hanokmaeul-cheheom-jongno": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%B6%81%EC%B4%8C+%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84/data=!4m7!3m6!1s0x357ca2daaff8c14f:0xcdbcbaa9ffc9e59a!8m2!3d37.5814696!4d126.9849519!16s%2Fm%2F043pdws!19sChIJT8H4r9qifDURmuXJ_6m6vM0?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5814696,126.9849519",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "북촌 한옥마을 체험 서울특별시 종로구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:16.855Z"
+  },
+  "sanbandeul-busanjin": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%82%B0%EB%B0%98%EB%93%A4+%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EC%84%9C%EB%A9%B4+%EC%A0%84%ED%8F%AC%EC%B9%B4%ED%8E%98%EA%B1%B0%EB%A6%AC+%EB%B3%B8%EC%A0%90/data=!4m7!3m6!1s0x3568ebabdf19c1ad:0xd7883c2238742d91!8m2!3d35.155333!4d129.0627983!16s%2Fg%2F11x8rc2q30!19sChIJrcEZ36vraDURkS10OCI8iNc?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/35.155333,129.0627983",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "산반들 부산광역시 busanjin",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:19.670Z"
+  },
+  "yeoksamdong-peurimieomseupa-gangnam": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+703-2/data=!4m7!3m6!1s0x357ca406404b5abf:0xbf48fda29df0a50c!8m2!3d37.5042346!4d127.0439554!16s%2Fg%2F11bzp4nlb9!19sChIJv1pLQAakfDURDKXwnaL9SL8?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5042346,127.0439554",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "역삼동 프리미엄스파 서울특별시 강남구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:22.548Z"
+  },
+  "jaedong-hanokmaeul-jongno": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%82%A8%EC%82%B0%EA%B3%A8%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84/data=!4m7!3m6!1s0x357ca2fcfa6a299b:0x79c3be57e1edbdfe!8m2!3d37.559315!4d126.994477!16s%2Fm%2F043qqp1!19sChIJmylq-vyifDUR_r3t4Ve-w3k?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.559315,126.994477",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "재동 한옥마을 서울특별시 종로구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:25.332Z"
+  },
+  "miraebilding-seupa-masaji-jung-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%BD%94%EB%A6%AC%EC%95%84%EC%8A%A4%ED%8C%8C+%EB%AA%85%EB%8F%99%EB%B3%B8%EC%A0%90/data=!4m7!3m6!1s0x357ca2efd90465a9:0x7b4f93f6c7f8591d!8m2!3d37.564185!4d126.9845205!16s%2Fg%2F119tjyxj5!19sChIJqWUE2e-ifDURHVn4x_aTT3s?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.564185,126.9845205",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "미래빌딩 스파 마사지 서울특별시 jung-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:28.265Z"
+  },
+  "gangnam-blskeulrinik-gangnam": {
+    "googleUrl": "https://www.google.com/maps/place/%EA%B0%95%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90/data=!4m7!3m6!1s0x357b507c3f99d923:0xe65af86dd2e93c95!8m2!3d37.27574!4d127.13249!16zL20vMGQ5bTE5!19sChIJI9mZP3xQezURlTzp0m34WuY?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.27574,127.13249",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "강남 BLS클리닉 서울특별시 강남구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:31.113Z"
+  },
+  "wonyeongbilding-seupa-gangnam": {
+    "googleUrl": "https://www.google.com/maps/place/4%EC%B8%B5/data=!4m6!3m5!1s0x357ca3949b00c341:0xbb8a44b623fa06b4!8m2!3d37.5238505!4d127.0234579!19sIiAaHgoWChQKEglBwwCblKN8NRERPj4A-WJZHxIENOy4tQ?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5238505,127.0234579",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "원영빌딩 스파 서울특별시 강남구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:33.895Z"
+  },
+  "seocho-pibugwa-keulrinik-seocho": {
+    "googleUrl": "https://www.google.com/maps/place/Swatch+Gangnam/data=!4m7!3m6!1s0x357ca1b5cfe60041:0xd81a3ca52b221d74!8m2!3d37.5027604!4d127.0248957!16s%2Fg%2F11w4bgmjy_!19sChIJQQDmz7WhfDURdB0iK6U8Gtg?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.5027604,127.0248957",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "서초 피부과 클리닉 서울특별시 seocho",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:36.772Z"
+  },
+  "jirisan-cheonwangbong-peak-sancheong": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%A7%80%EB%A6%AC%EC%82%B0+%EC%B2%9C%EC%99%95%EB%B4%89/data=!4m5!3m4!1s0x356e4c7b8696dbef:0xc6ef68426b5b16af!16s%2Fg%2F1q64pdq2b!19sChIJ79uWhntMbjURrxZba0Jo78Y!20s8Q798PPJ%2BR7W6QX5?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%A7%80%EB%A6%AC%EC%82%B0%20%EC%B2%9C%EC%99%95%EB%B4%89%20%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "지리산 천왕봉 Sancheong, Gyeongnam",
+    "naverQuery": "지리산 천왕봉 경상남도",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:45.776Z"
+  },
+  "dobongsan-podae-ridge-dobong": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%8F%84%EB%B4%89%EC%82%B0/data=!4m7!3m6!1s0x357cbf177edc0bc3:0x1ae9a0955fd477cb!8m2!3d37.7004635!4d127.0156843!16s%2Fm%2F04lgyg9!19sChIJwwvcfhe_fDURy3fUX5Wg6Ro?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.7004635,127.0156843",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "도봉산 포대능선 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:48.871Z"
+  },
+  "gwanaksan-yeonjudae-gwanak": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%8C%80%ED%95%9C%EB%B6%88%EA%B5%90%EC%A1%B0%EA%B3%84%EC%A2%85+%EC%97%B0%EC%A3%BC%EB%8C%80/data=!4m7!3m6!1s0x357b5fe56985521f:0xd553d520f657b0d5!8m2!3d37.4447771!4d126.964654!16s%2Fm%2F0nbfkzx!19sChIJH1KFaeVfezUR1bBX9iDVU9U?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/37.4447771,126.964654",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "관악산 연주대 서울특별시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:51.651Z"
+  },
+  "geumjeongsan-godangbong-geumjeong": {
+    "googleUrl": "https://www.google.com/maps/place/%EA%B8%88%EC%A0%95%EC%82%B0/data=!4m7!3m6!1s0x356896c408191635:0xf5a6d18f8a38d24!8m2!3d35.2830419!4d129.0554739!16zL20vMGR6MjQz!19sChIJNRYZCMSWaDURJI2j-BhtWg8?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/35.2830419,129.0554739",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "금정산 고당봉 부산광역시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:54.456Z"
+  },
+  "songnisan-munjangdae-boeun": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%86%8D%EB%A6%AC%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90/data=!4m7!3m6!1s0x356502d02adab7a3:0x5f2d5a1d6f450c28!8m2!3d36.5174022!4d127.8172645!16s%2Fm%2F0ddgs61!19sChIJo7faKtACZTURKAxFbx1aLV8?g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/36.5174022,127.8172645",
+    "googleSource": "place",
+    "naverSource": "coords",
+    "naverQuery": "속리산 문장대 충청북도 보은군",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:48:57.372Z"
+  },
+  "olive-young-central-myeongdong-town-junggu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81+%EC%84%BC%ED%8A%B8%EB%9F%B4+%EB%AA%85%EB%8F%99+%ED%83%80%EC%9A%B4/data=!4m5!3m4!1s0x357ca39ccb700c57:0x1bd7eb1a217ced99!16s%2Fg%2F11nb2_8_km!19sChIJVwxwy5yjfDURme18IRrr1xs!20s8Q98HX7M%2B2X83GH2?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%20%EC%84%BC%ED%8A%B8%EB%9F%B4%20%EB%AA%85%EB%8F%99%20%ED%83%80%EC%9A%B4%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20junggu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "올리브영 센트럴 명동 타운 서울특별시 junggu",
+    "naverQuery": "올리브영 센트럴 명동 타운 서울특별시 junggu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:49:03.431Z"
+  },
+  "olive-young-myeongdong-station-branch-junggu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81+%EB%AA%85%EB%8F%99%EC%97%AD%EC%A0%90Oliveyoung+Myeongdong+Station+Branch/data=!4m5!3m4!1s0x357ca3000e83ec63:0x3470f2a426dfd929!16s%2Fg%2F11wbdf18w_!19sChIJY-yDDgCjfDURKdnfJqTycDQ!20s8Q98HX6M%2BCXMM6JC?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%20%EB%AA%85%EB%8F%99%EC%97%AD%EC%A0%90%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20junggu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "올리브영 명동역점 서울특별시 junggu",
+    "naverQuery": "올리브영 명동역점 서울특별시 junggu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:49:09.636Z"
+  },
+  "centum-spa-land-haeundae": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%84%BC%ED%85%80+%EC%8A%A4%ED%8C%8C%EB%9E%9C%EB%93%9C/data=!4m5!3m4!1s0x35689370748bfb1d:0xa779f19c513ab79f!16s%2Fg%2F11f66gh36s!19sChIJHfuLdHCTaDURn7c6UZzxeac!20s8Q7F549H%2BHV6R9R3?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%84%BC%ED%85%80%20%EC%8A%A4%ED%8C%8C%EB%9E%9C%EB%93%9C%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "센텀 스파랜드 부산광역시 해운대구",
+    "naverQuery": "센텀 스파랜드 부산광역시 해운대구",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:49:15.778Z"
+  },
+  "igidae-park-nam-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%9D%B4%EA%B8%B0%EB%8C%80/data=!4m5!3m4!1s0x3568ed0044c7540b:0x488877a315e44c6f!16s%2Fm%2F0nbctk2!19sChIJC1THRADtaDURb0zkFaN3iEg!20s8Q7F44JC%2BVCJC3V5?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%9D%B4%EA%B8%B0%EB%8C%80%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20nam-gu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "이기대 부산광역시 nam-gu",
+    "naverQuery": "이기대 부산광역시 nam-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:49:21.791Z"
+  },
+  "igidae-waterfront-park-nam-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%9D%B4%EA%B8%B0%EB%8C%80+%EC%88%98%EB%B3%80%EA%B3%B5%EC%9B%90/data=!4m5!3m4!1s0x3568edd2c44612e3:0x657ef42b90083e31!16s%2Fg%2F11fv3c67yp!19sChIJ4xJGxNLtaDURMT4IkCv0fmU!20s8Q7F448F%2B59M3HFG?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%9D%B4%EA%B8%B0%EB%8C%80%20%EC%88%98%EB%B3%80%EA%B3%B5%EC%9B%90%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20nam-gu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "Igidae Waterfront Park 부산광역시 남구 용호동 산122",
+    "naverQuery": "이기대 수변공원 부산광역시 nam-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:49:33.432Z"
+  },
+  "igidae-haeparang-trail-nam-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%9D%B4%EA%B8%B0%EB%8C%80+%ED%95%B4%ED%8C%8C%EB%9E%91%EA%B8%B8%28%EC%82%B0%EC%B1%85%EB%A1%9C%29/data=!4m5!3m4!1s0x3568ed9831d77197:0xe37b77c90f2375c!16s%2Fg%2F11h45n8hyh!19sChIJl3HXMZjtaDURXDfykHy3Nw4!20s8Q7F44HC%2BQRC26RC?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%9D%B4%EA%B8%B0%EB%8C%80%20%ED%95%B4%ED%8C%8C%EB%9E%91%EA%B8%B8%20%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20nam-gu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "이기대 해파랑길 부산광역시 nam-gu",
+    "naverQuery": "이기대 해파랑길 부산광역시 nam-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:49:39.417Z"
+  },
+  "yuseong-hot-spring-park-yuseong-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C%EA%B3%B5%EC%9B%90/data=!4m5!3m4!1s0x35654b834e74259b:0x9269361372f78aca!16s%2Fg%2F122x7w18!19sChIJmyV0ToNLZTURyor3chM2aZI!20s8Q89984V%2B49JJRHC?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C%EA%B3%B5%EC%9B%90%20%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20yuseong-gu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "유성온천공원 충청남도 yuseong-gu",
+    "naverQuery": "유성온천공원 충청남도 yuseong-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:49:45.578Z"
+  },
+  "naejangsan-mountain-jeongeup": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%82%B4%EC%9E%A5%EC%82%B0/data=!4m5!3m4!1s0x3571b96c9ebe8085:0x5ecd026213a99e4d!16zL20vMDhxOHp6!19sChIJhYC-nmy5cTURTZ6pE2ICzV4!20s8Q78FVHQ%2BV5Q3F62?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%82%B4%EC%9E%A5%EC%82%B0%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%95%EC%9D%8D%EC%8B%9C",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "Naejangsan Mountain Korea",
+    "naverQuery": "내장산 전북특별자치도 정읍시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:49:59.568Z"
+  },
+  "naejangsan-national-park-baegyangsa-district-jangseong": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%82%B4%EC%9E%A5%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90/data=!4m5!3m4!1s0x3571b96cb5c7e69d:0xdd7e0fa318a5f348!16s%2Fm%2F0ddbd7t!19sChIJnebHtWy5cTURSPOlGKMPft0!20s8Q78FVJQ%2BCPQHXFC?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%82%B4%EC%9E%A5%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EB%B0%B1%EC%96%91%EC%82%AC%20%EC%A7%80%EA%B5%AC%20%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "Naejangsan National Park Baegyangsa District Korea",
+    "naverQuery": "내장산국립공원 백양사 지구 전라남도",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:50:14.016Z"
+  },
+  "naejangsan-sinseonbong-peak-sunchang": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%82%B4%EC%9E%A5%EC%82%B0/data=!4m5!3m4!1s0x3571b96c9ebe8085:0x5ecd026213a99e4d!16zL20vMDhxOHp6!19sChIJhYC-nmy5cTURTZ6pE2ICzV4!20s8Q78FVHQ%2BV5Q3F62?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%82%B4%EC%9E%A5%EC%82%B0%20%EC%8B%A0%EC%84%A0%EB%B4%89%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%88%9C%EC%B0%BD%EA%B5%B0",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "Naejangsan Sinseonbong Peak Korea",
+    "naverQuery": "내장산 신선봉 전북특별자치도 순창군",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:50:28.029Z"
+  },
+  "naejangsan-national-park-jeongeup": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%82%B4%EC%9E%A5%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90/data=!4m5!3m4!1s0x3571b96cb5c7e69d:0xdd7e0fa318a5f348!16s%2Fm%2F0ddbd7t!19sChIJnebHtWy5cTURSPOlGKMPft0!20s8Q78FVJQ%2BCPQHXFC?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%82%B4%EC%9E%A5%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%95%EC%9D%8D%EC%8B%9C",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "내장산국립공원 전북특별자치도 정읍시 내장산로 936",
+    "naverQuery": "내장산국립공원 전북특별자치도 정읍시",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:50:37.026Z"
+  },
+  "naejangsan-cable-car-jeongeup": {
+    "googleUrl": "https://www.google.com/maps/search/?api=1&query=%EB%82%B4%EC%9E%A5%EC%82%B0%20%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%95%EC%9D%8D%EC%8B%9C",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%82%B4%EC%9E%A5%EC%82%B0%20%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4%20%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%95%EC%9D%8D%EC%8B%9C",
+    "googleSource": "search",
+    "naverSource": "search",
+    "googleQuery": "내장산 케이블카 전북특별자치도 정읍시",
+    "naverQuery": "내장산 케이블카 전북특별자치도 정읍시",
+    "googleVerified": false,
+    "updatedAt": "2026-10-01T10:50:54.533Z"
+  },
+  "mudeungsan-seoseokdae-dong-gu": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%AC%B4%EB%93%B1%EC%82%B0+%EC%84%9C%EC%84%9D%EB%8C%80/data=!4m5!3m4!1s0x3571f37a1fe5fa0d:0x979fb3711626b2c9!16s%2Fg%2F1trts6j7!19sChIJDfrlH3rzcTURybImFnGzn5c!20s8Q7942C3%2BF5V7WJG?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%AC%B4%EB%93%B1%EC%82%B0%20%EC%84%9C%EC%84%9D%EB%8C%80%20%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84%20dong-gu",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "무등산 서석대 전라남도 dong-gu",
+    "naverQuery": "무등산 서석대 전라남도 dong-gu",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:51:00.322Z"
+  },
+  "mudeungsan-ipseokdae-iseo-myeon": {
+    "googleUrl": "https://www.google.com/maps/place/%EB%AC%B4%EB%93%B1%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90/data=!4m5!3m4!1s0x3571f3007b897b25:0xb93065886f7b9d27!16s%2Fg%2F11z7crz41c!19sChIJJXuJewDzcTURJ517b4hlMLk!20s8Q794282%2BRRV8Q3H?g_ep=EgoyMDI2MDkyOC4wIJJjKgBIAVAD",
+    "naverUrl": "https://map.naver.com/v5/search/%EB%AC%B4%EB%93%B1%EC%82%B0%20%EC%9E%85%EC%84%9D%EB%8C%80%20%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84%20iseo-myeon",
+    "googleSource": "place",
+    "naverSource": "search",
+    "googleQuery": "Mudeungsan Ipseokdae 전라남도 화순군 이서면 영평리",
+    "naverQuery": "무등산 입석대 전라남도 iseo-myeon",
+    "googleVerified": true,
+    "updatedAt": "2026-10-01T10:51:12.061Z"
   }
 }

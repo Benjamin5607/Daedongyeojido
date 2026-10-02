@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-02T07:46:26.537Z",
+  "updatedAt": "2026-10-02T16:16:43.783Z",
   "items": [
+    {
+      "id": "sq_20261002160855_s3relu",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "jeonju-bibimbap-street-wansan",
+      "theme": "k-food",
+      "caption": "전주 여행에서 빼놓을 수 없는 필수 코스, 전주 비빔밥 거리입니다. 다채로운 색감의 나물과 정갈한 밑반찬이 어우러진 비빔밥 한 그릇에서 한국의 전통적인 맛과 멋을 동시에 느낄 수 있습니다. 친절한 서비스와 식후에 제공되는 달콤한 야쿠르트까지, 기분 좋은 한 끼 식사를 경험해 보세요.\n\nExperience the authentic taste of Korea at Jeonju Bibimbap Street. As the birthplace of bibimbap, this street is home to heritage restaurants serving colorful, nutritious bowls accompanied by a variety of traditional side dishes. From the vibrant presentation to the warm hospitality, it is a must-visit destination for any food lover.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonbuk #Jeonju #Bibimbap\n\nhttps://daedongyeojido-nine.vercel.app/places/jeonju-bibimbap-street-wansan",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCAH-OLTJOvInLchWIfc7jMqrdAwLDMKWOetjNs43bdZtkZh8cjLVHm1uGctVZ6ZkwFZ3_qe7lvQSz7N5mnFuerMCbH6SrHVhIT1bWcAsbe2FSnfVobezXC8yMvgkbIS4ANnbxOecF9pM=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/jeonju-bibimbap-street-wansan",
+      "score": 82,
+      "createdAt": "2026-10-02T16:08:55.130Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261002-jeonju-bibimbap-street-wansan",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-02T16:16:43.780Z",
+        "alt_text": "Jeonju Bibimbap Street — wansan, jeonbuk — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261002160827_qr9luv",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "pow-camp-museum-gohyeon",
+      "theme": "k-culture",
+      "caption": "거제도의 푸른 바다 곁에는 우리가 잊지 말아야 할 역사의 기록이 남아있습니다. 포로수용소유적박물관은 당시의 삶을 생생하게 보여주는 유물과 영상 기록을 통해 평화의 소중함을 되새기게 하는 곳입니다. 거제 여행 중 잠시 발걸음을 멈추고 깊은 울림을 느껴보세요.\n\nLocated by the blue waters of Geoje, the POW Camp Museum preserves a poignant chapter of history. Through original artifacts and archival films, it offers a space to reflect on the hardships of the past and the enduring value of peace. A meaningful stop for those seeking a deeper understanding of Korean history. 🕊️\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #거제야호 #TravelTrend #gyeongnam #Geoje\n\nhttps://daedongyeojido-nine.vercel.app/places/pow-camp-museum-gohyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/pow-camp-museum-gohyeon",
+      "score": 128,
+      "createdAt": "2026-10-02T16:08:27.939Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261002-pow-camp-museum-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-02T16:12:36.461Z",
+        "alt_text": "포로수용소유적박물관 (POW Camp Museum) — gohyeon, gyeongnam — k culture"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261002074529_rf9qek",
       "status": "exported",

@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261004151240_tmefaa",
+  "slug": "hybe-headquarters-yongsan",
+  "theme": "hallyu",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "trend-crawl",
+    "updatedAt": "2026-10-04T09:16:27.859Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-04 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "하이브 본사 (HYBE Headquarters) — yongsan, seoul — hallyu",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#Hallyu",
+    "#KDrama",
+    "#한류",
+    "#KoreaTravel",
+    "#거제야호",
+    "#TravelTrend",
+    "#seoul"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20260407_56/1775497357788XdT0R_JPEG/IMG_1252.jpeg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "하이브 본사",
+    "en": "HYBE Headquarters"
+  },
+  "descriptionEn": "The headquarters of HYBE, the agency behind global superstars like BTS.",
+  "exportedAt": "2026-10-04T15:21:02.435Z"
+}

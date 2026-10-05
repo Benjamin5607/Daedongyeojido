@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261005190659_sj3m3s",
+  "slug": "nojasan-2nd-observatory-dongbu",
+  "theme": "sanhaeng",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-16T05:13:48.216Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-05 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "노자산 제2전망대 (Nojasan 2nd Observatory) — dongbu, gyeongnam — sanhaeng",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaHiking",
+    "#Sanhaeng",
+    "#등산",
+    "#산행",
+    "#KoreaTrails",
+    "#거제야호",
+    "#TravelTrend"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QHlzn3c1YwpPx0cvMJZDCDPI1LX7wspNLdhjkN72UCIMiPLb0xeAfVuy-qnb_nniXnOZJrbaUt5gCfQBGoe_4TSLPZWoIENFhFYYTx-udGuWG3hafB3J3ek6RXRrxwDsWEeYVqYm7WrM6f=w800-h600-k-no",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "노자산 제2전망대",
+    "en": "Nojasan 2nd Observatory"
+  },
+  "descriptionEn": "The second observatory on Nojasan Mountain in Geoje",
+  "exportedAt": "2026-10-05T19:15:06.067Z"
+}

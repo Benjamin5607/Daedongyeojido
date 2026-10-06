@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261006163344_t3zodr",
+  "slug": "geoje-haegeumgang-jangseungpo",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · [그때 그 광고]저랑 드실래요?…'나랑드'가 살아났다새 창 열림 · '대세' 굳힌 리센느, 11월 컴백으로 증명할 '리센느다움'[초점S]새  · [가수 브랜드 리포트] 리센느, 노래와 멤버콘텐츠가 함께 갔다새 창 열림 · 이서진 \"돈 많으면 행복, 주식하지 마\"...리센느에 현실 조언새 창 열 · 오마이걸 미미→리센느 원이..'아이돌 1인 유튜브'도 뜬다! [★FOCU",
+    "updatedAt": "2026-10-04T07:46:59.253Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-06 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "거제 해금강 (Geoje Haegeumgang) — jangseungpo, gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20260721_25/1784611119404WoqDx_JPEG/IMG_0005.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제 해금강",
+    "en": "Geoje Haegeumgang"
+  },
+  "descriptionEn": "Geojehaegumgang is a popular tourist destination in Geoje, South Gyeongsang Province.",
+  "exportedAt": "2026-10-06T16:39:42.397Z"
+}

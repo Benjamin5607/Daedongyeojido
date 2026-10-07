@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261007172836_30he3s",
+  "slug": "maemi-castle-jangmok-myeon-2",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "trend-crawl",
+    "updatedAt": "2026-10-04T09:16:27.859Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-07 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "매미성 (Maemi Castle) — jangmok-myeon, gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20251002_253/1759385151619lLF2D_JPEG/P1000362.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "매미성",
+    "en": "Maemi Castle"
+  },
+  "descriptionEn": "A unique fortress built by a single person using stones, offering a stunning view of the ocean.",
+  "exportedAt": "2026-10-07T17:29:53.643Z"
+}

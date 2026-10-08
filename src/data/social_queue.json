@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-07T17:29:53.646Z",
+  "updatedAt": "2026-10-08T08:16:25.150Z",
   "items": [
+    {
+      "id": "sq_20261008081509_gqm7sn",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "maemiseong-fortress-gyeongnam",
+      "theme": "urban-nature",
+      "caption": "한 사람의 정성과 시간이 쌓여 만들어진 거제의 특별한 성벽, 매미성입니다. 푸른 바다와 중세 유럽풍의 성벽이 어우러져 마치 낯선 여행지에 온 듯한 기분을 느끼게 해줍니다. 파도 소리를 들으며 성벽 길을 걷다 보면 일상의 고민은 잠시 잊고 온전한 휴식을 경험하실 수 있습니다.\n\nMaemiseong Fortress is a unique landmark in Geoje, built by the dedication and time of a single person. The harmony between the deep blue sea and the medieval European-style walls makes you feel as if you've stepped into a foreign land. Walking along the fortress walls to the sound of the waves offers a perfect moment of healing and escape from daily life. 🌊\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/maemiseong-fortress-gyeongnam",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QTzrp1T13Tzkj01YIgM0UufZZaXEVUlKo9V9a9-ahRL_Clmw0MGqWe9TnBT14jW1dBhO8-p-KYGFgPnc1a7KCnjM35xpeol2oNXxCtaoDDKQsqQ0yBdKnki_UcwB-3FR2wEbE=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/maemiseong-fortress-gyeongnam",
+      "score": 147,
+      "createdAt": "2026-10-08T08:15:09.846Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261008-maemiseong-fortress-gyeongnam",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-08T08:16:25.147Z",
+        "alt_text": "Pixar-style travel illustration of 매미성 (Maemiseong Fortress) — gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261008081307_s03lwb",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "oedo-botania-gyeongnam",
+      "theme": "hallyu",
+      "caption": "외도 보타니아 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/oedo-botania-gyeongnam\n\nOedo Botania\n\nGuide: https://daedongyeojido-nine.vercel.app/places/oedo-botania-gyeongnam\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20231012_184/16970418656854qPtR_JPEG/20231011_135722.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/oedo-botania-gyeongnam",
+      "score": 147,
+      "createdAt": "2026-10-08T08:13:07.782Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261008-oedo-botania-gyeongnam",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-08T08:16:01.020Z",
+        "alt_text": "외도 보타니아 (Oedo Botania) — gyeongnam — hallyu"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261007172836_30he3s",
       "status": "exported",

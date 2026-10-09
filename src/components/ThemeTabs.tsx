@@ -55,7 +55,7 @@ export function ThemeTabs({
       <div
         role="tablist"
         aria-label={t.themeTablistAria}
-        className="flex flex-wrap gap-2"
+        className="chip-scroll flex -mx-1 px-1 pb-1 sm:flex-wrap sm:overflow-visible"
       >
         {THEME_TAB_IDS.map((theme) => {
           const isActive = theme === activeTheme;
@@ -65,14 +65,14 @@ export function ThemeTabs({
               role="tab"
               aria-selected={isActive}
               onClick={() => onThemeChange(theme)}
-              className={`group flex items-center gap-2 rounded-full border px-4 py-2.5 text-sm font-medium transition ${
+              className={`group inline-flex items-center gap-2 rounded-full border px-3.5 py-2.5 text-sm font-medium transition sm:px-4 ${
                 isActive
                   ? "border-[var(--color-accent)] bg-[var(--color-accent)] text-white shadow-md shadow-[var(--color-accent)]/25"
                   : "border-[var(--color-border)] bg-white/80 text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)]"
               }`}
             >
               <span aria-hidden>{THEME_ICONS[theme]}</span>
-              <span>{t.themes[theme]}</span>
+              <span className="whitespace-nowrap">{t.themes[theme]}</span>
             </button>
           );
         })}

@@ -31,7 +31,7 @@ export function SearchBar({
   return (
     <form
       onSubmit={handleSubmit}
-      className={`flex w-full overflow-hidden rounded-full border bg-white shadow-lg ${
+      className={`flex w-full min-w-0 overflow-hidden rounded-full border bg-white shadow-lg ${
         isHero
           ? "border-[var(--color-border)] shadow-[var(--color-trip-green)]/10"
           : "border-[var(--color-border)] shadow-sm"
@@ -48,13 +48,17 @@ export function SearchBar({
         placeholder={t.searchPlaceholder}
         autoFocus={autoFocus}
         className={`min-w-0 flex-1 bg-transparent text-[var(--color-ink)] outline-none placeholder:text-[var(--color-muted)] ${
-          isHero ? "px-6 py-4 text-base sm:text-lg" : "px-4 py-2.5 text-sm"
+          isHero
+            ? "px-4 py-3.5 text-sm sm:px-6 sm:py-4 sm:text-lg"
+            : "px-4 py-2.5 text-sm"
         }`}
       />
       <button
         type="submit"
-        className={`shrink-0 bg-[var(--color-trip-green)] font-semibold text-white transition hover:bg-[var(--color-trip-green-dark)] ${
-          isHero ? "px-8 py-4 text-sm sm:text-base" : "px-5 py-2.5 text-sm"
+        className={`btn-touch shrink-0 bg-[var(--color-trip-green)] font-semibold text-white transition hover:bg-[var(--color-trip-green-dark)] ${
+          isHero
+            ? "px-4 py-3.5 text-sm sm:px-8 sm:py-4 sm:text-base"
+            : "px-5 py-2.5 text-sm"
         }`}
       >
         {t.searchPlaces}

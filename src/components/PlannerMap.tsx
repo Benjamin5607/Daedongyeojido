@@ -90,8 +90,8 @@ export function PlannerMap({ places }: PlannerMapProps) {
   }, [leafletLoaded, places]);
 
   return (
-    <div className="relative h-full w-full overflow-hidden rounded-2xl border border-[var(--color-border)] shadow-sm bg-stone-50 min-h-[400px]">
-      <div ref={mapRef} className="absolute inset-0 h-full w-full z-10" />
+    <div className="relative h-full min-h-[280px] w-full overflow-hidden rounded-2xl border border-[var(--color-border)] bg-stone-50 shadow-sm sm:min-h-[400px]">
+      <div ref={mapRef} className="absolute inset-0 z-10 h-full w-full" />
     </div>
   );
 }

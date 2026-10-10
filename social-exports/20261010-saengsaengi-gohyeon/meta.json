@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20261010154543_4jhip4",
+  "slug": "saengsaengi-gohyeon",
+  "theme": "k-food",
+  "format": "place_card",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-10 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "생생이 (Saengsaengi) — gohyeon, gyeongnam — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RUWywumkK79aAvfEXxYDMXfgApQF-KHtVmrnXoKJ9oGbJ7_4RSOW0kgEIjZC8cljeAvSaCG4JZ3M5m0iA7Jl9e8UPjGlmF5rBE7Pfou23M561QYKk_lI7kRzPasaC44K-dwP2CTQ=w800-h600-k-no",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "생생이",
+    "en": "Saengsaengi"
+  },
+  "descriptionEn": "Geoje seafood institution famous for iron-pot haemul stew and haemul galbi jjim.",
+  "exportedAt": "2026-10-10T15:46:58.739Z"
+}

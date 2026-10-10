@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-10T07:54:06.409Z",
+  "updatedAt": "2026-10-10T15:47:24.730Z",
   "items": [
+    {
+      "id": "sq_20261010154550_vdd9gf",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "achasan-ridge-neighborhood-path-guri-dong",
+      "theme": "sanhaeng",
+      "caption": "새벽녘 주민들의 가벼운 조깅 코스로 사랑받는 아차산 능선 마을길을 소개합니다. 가파른 등산로보다는 편안한 숲길에 가까워 초보자도 부담 없이 오를 수 있는 곳이에요. 잘 정비된 데크길과 가로등 덕분에 늦은 시간에도 안전하게 서울의 야경을 감상하며 산책하기 좋습니다.\n\nDiscover the Achasan Ridge Neighborhood Path, a peaceful forest loop favored by locals for dawn jogs. Unlike challenging peaks, this gentle trail is perfect for beginners, offering a rewarding view of the Seoul skyline without the strain. With well-maintained decks and streetlights, it's a safe and serene spot for an evening stroll. 🌲\n\nhttps://daedongyeojido-nine.vercel.app/places/achasan-ridge-neighborhood-path-guri-dong\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeonggi #guri",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_260/1440992272261sxuRJ_JPEG/11491459_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/achasan-ridge-neighborhood-path-guri-dong",
+      "score": 74,
+      "createdAt": "2026-10-10T15:45:50.272Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261010-achasan-ridge-neighborhood-path-guri-dong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-10T15:47:24.727Z",
+        "alt_text": "Pixar-style travel illustration of Achasan Ridge Neighborhood Path — guri-dong, gyeonggi — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261010154543_4jhip4",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "saengsaengi-gohyeon",
+      "theme": "k-food",
+      "caption": "거제 고현에서 제대로 된 바다의 맛을 느끼고 싶다면 '생생이'를 추천합니다. 시원한 국물이 일품인 해물탕과 매콤달콤한 해물갈비찜까지, 신선한 해산물이 가득 담겨 있어 든든한 한 끼 식사로 제격인 곳입니다.\n\nIf you're looking for authentic flavors of the sea in Geoje, Saengsaengi is the place to be. From the refreshing iron-pot haemul stew to the savory haemul galbi jjim, every dish is packed with fresh seafood for a satisfying meal. 🍲\n\nhttps://daedongyeojido-nine.vercel.app/places/saengsaengi-gohyeon\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam #Geoje #거제맛집",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RUWywumkK79aAvfEXxYDMXfgApQF-KHtVmrnXoKJ9oGbJ7_4RSOW0kgEIjZC8cljeAvSaCG4JZ3M5m0iA7Jl9e8UPjGlmF5rBE7Pfou23M561QYKk_lI7kRzPasaC44K-dwP2CTQ=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/saengsaengi-gohyeon",
+      "score": 83,
+      "createdAt": "2026-10-10T15:45:43.182Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261010-saengsaengi-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-10T15:46:58.739Z",
+        "alt_text": "생생이 (Saengsaengi) — gohyeon, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261010075256_8xyajg",
       "status": "exported",

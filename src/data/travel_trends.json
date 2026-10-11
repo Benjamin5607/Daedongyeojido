@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-04T07:46:59.253Z",
+  "updatedAt": "2026-10-11T08:19:33.010Z",
   "articleCount": 12,
   "signals": [
     {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · [그때 그 광고]저랑 드실래요?…'나랑드'가 살아났다새 창 열림 · '대세' 굳힌 리센느, 11월 컴백으로 증명할 '리센느다움'[초점S]새  · [가수 브랜드 리포트] 리센느, 노래와 멤버콘텐츠가 함께 갔다새 창 열림 · 이서진 \"돈 많으면 행복, 주식하지 마\"...리센느에 현실 조언새 창 열 · 오마이걸 미미→리센느 원이..'아이돌 1인 유튜브'도 뜬다! [★FOCU",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 여행지에서 쓰레기를 줍는 사람들, 그들은 왜 웃고 있을까새 창 열림 · \"멤버 취향 담고 포토카드 더했다\"…CU, 리센느빵 흥행 비결새 창 열림 · 한국식으로 재탄생한 日 문화…일상 속 'J컬처'와 그늘 [Now 2.30 · 리센느, 지상파 메인뉴스 출격...11일 'SBS 8뉴스' 챙기세요새 창 · '역주행 1위' 리센느 원이, 촬영 중 오열 사태…\"할머님들 인생은 지금",
       "score": 100,
       "regionHints": [
         "거제",
@@ -34,35 +34,35 @@
       "queryCount": 8
     },
     {
-      "label": "통영 섬바다 음식학교",
-      "source": "통영 동피랑",
+      "label": "양양 하조대",
+      "source": "이슈현장",
+      "score": 90,
+      "regionHints": [
+        "양양"
+      ],
+      "placeHints": [
+        "하조대",
+        "서피비치"
+      ],
+      "theme": "urban-nature",
+      "queryCount": 2
+    },
+    {
+      "label": "통영 동피랑",
+      "source": "이퓨월드",
       "score": 85,
       "regionHints": [
         "통영"
       ],
       "placeHints": [
-        "섬바다 음식학교"
-      ],
-      "theme": "k-food",
-      "queryCount": 1
-    },
-    {
-      "label": "양양 하조대 보행로",
-      "source": "양양 서피비치 핫플",
-      "score": 70,
-      "regionHints": [
-        "양양",
-        "하조대"
-      ],
-      "placeHints": [
-        "하조대"
+        "동피랑마을"
       ],
       "theme": "urban-nature",
       "queryCount": 1
     },
     {
       "label": "거제 트렌드",
-      "source": "[그때 그 광고]저랑 드실래요?…'나랑드'가 살아났다새 창 열림",
+      "source": "여행지에서 쓰레기를 줍는 사람들, 그들은 왜 웃고 있을까새 창 열림",
       "score": 40,
       "regionHints": [
         "거제"
@@ -91,13 +91,18 @@
     },
     {
       "theme": "urban-nature",
-      "query": "양양 하조대",
-      "trendLabel": "양양 하조대 보행로"
+      "query": "양양 서피비치",
+      "trendLabel": "양양 하조대"
     },
     {
       "theme": "k-food",
       "query": "거제 평화족발",
       "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "urban-nature",
+      "query": "양양 하조대",
+      "trendLabel": "양양 하조대"
     },
     {
       "theme": "k-food",
@@ -130,15 +135,15 @@
       "trendLabel": "거제 야호!"
     },
     {
-      "theme": "k-food",
-      "query": "통영 섬바다 음식학교",
-      "trendLabel": "통영 섬바다 음식학교"
+      "theme": "urban-nature",
+      "query": "통영 동피랑마을",
+      "trendLabel": "통영 동피랑"
     }
   ],
-  "matchedExistingCount": 22,
+  "matchedExistingCount": 23,
   "regionBoostCount": 92,
   "regionBuckets": {
     "gyeongnam": 9,
-    "gangwon": 1
+    "gangwon": 2
   }
 }

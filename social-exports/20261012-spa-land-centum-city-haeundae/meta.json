@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20261012081500_gqkkmi",
+  "slug": "spa-land-centum-city-haeundae",
+  "theme": "k-beauty",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-12 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "스파랜드 신세계백화점 센텀시티점 (Spa Land Centum City) — haeundae, busan — k beauty",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KBeauty",
+    "#BeautyTravel",
+    "#뷰티",
+    "#KStyle",
+    "#busan"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20191203_87/1575341414885fTB51_JPEG/%B3%D7%C0%CC%B9%F6_%C7%C3%B7%B9%C0%CC%BD%BA_%C0%CC%B9%CC%C1%F6.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "스파랜드 신세계백화점 센텀시티점",
+    "en": "Spa Land Centum City"
+  },
+  "descriptionEn": "A premium luxury spa located within Shinsegae Centum City, offering a traditional Korean sauna experience.",
+  "exportedAt": "2026-10-12T08:15:41.330Z"
+}

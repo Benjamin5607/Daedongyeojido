@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-12T08:15:41.333Z",
+  "updatedAt": "2026-10-12T19:43:54.694Z",
   "items": [
+    {
+      "id": "sq_20261012194105_h5rmhc",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "sapiens-geoje-okpo-okpo",
+      "theme": "k-food",
+      "caption": "거제 옥포항의 푸른 바다 곁에서 즐기는 특별한 한 끼, 사피엔스 거제옥포본점을 소개합니다. 화덕에서 정성껏 구워낸 생선구이와 신선한 굴 요리가 일품인 곳으로, 담백한 풍미와 함께 거제의 정취를 만끽할 수 있습니다. 🐟\n\nExperience a special meal by the serene Okpo harbor at Sapiens Geoje Okpo. From wood-fired grilled fish to fresh oyster dishes, enjoy the authentic flavors of Geoje in a warm, inviting atmosphere.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam #Geoje #거제도맛집\n\nhttps://daedongyeojido-nine.vercel.app/places/sapiens-geoje-okpo-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251020_237/1760943364002L3EM6_JPEG/1000012642.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/sapiens-geoje-okpo-okpo",
+      "score": 82,
+      "createdAt": "2026-10-12T19:41:05.876Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261012-sapiens-geoje-okpo-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-12T19:43:54.691Z",
+        "alt_text": "사피엔스 거제옥포본점 (Sapiens Geoje Okpo) — okpo, gyeongnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261012194049_ns0f8w",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "theme": "k-food",
+      "caption": "순천만 습지의 고요한 아침을 깨우는 따뜻한 한 그릇, 순천만 짱뚱어탕 전문점을 소개합니다. 관광객들이 붐비기 전, 현지인들이 사랑하는 깊고 진한 짱뚱어죽으로 든든하게 하루를 시작해 보세요. 자극적이지 않으면서도 입안 가득 퍼지는 바다의 풍미가 일품입니다 🥣\n\nStart your morning at Suncheon Bay with a comforting bowl of Salted Shrimp Porridge. Before the crowds arrive at the wetlands, enjoy this local favorite known for its rich, savory flavor and nourishing warmth. A true taste of Jeonnam's coastal heritage 🌾\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonnam #Suncheon #순천여행\n\nhttps://daedongyeojido-nine.vercel.app/places/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260412_30/1776002899195qrlYw_JPEG/KakaoTalk_20260312_153759613_18.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "score": 82,
+      "createdAt": "2026-10-12T19:40:49.706Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261012-suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-12T19:42:28.741Z",
+        "alt_text": "Suncheon Bay Salted Shrimp Porridge Shop — suncheon-si, jeonnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261012081500_gqkkmi",
       "status": "exported",

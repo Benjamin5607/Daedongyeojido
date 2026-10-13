@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-13T08:41:05.812Z",
+  "updatedAt": "2026-10-13T17:27:42.283Z",
   "items": [
+    {
+      "id": "sq_20261013172504_6jagck",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "namwon-chunhyang-gukbap-backstreet-namwon-si",
+      "theme": "k-food",
+      "caption": "남원의 진짜 맛을 찾고 있다면 관광객 거리보다는 골목 안쪽으로 발걸음을 옮겨보세요. 현지인들이 아끼는 국밥 골목의 깊고 진한 국물 한 그릇이 여행의 피로를 따뜻하게 녹여줍니다. 화려한 광고보다 지역 주민들의 솔직한 평가가 증명하는 남원의 숨은 맛집입니다 🍲\n\nIf you're looking for the authentic taste of Namwon, step away from the tourist strips and head into the backstreets. A bowl of rich, hearty gukbap from this local favorite is the perfect way to warm up and recharge during your journey. Experience the real flavors loved by the residents of Jeollabuk-do.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonbuk #Namwon #남원맛집\n\nhttps://daedongyeojido-nine.vercel.app/places/namwon-chunhyang-gukbap-backstreet-namwon-si",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20250328_11/17431268478575ocDv_JPEG/%BF%F9%B3%B2%BD%D3.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/namwon-chunhyang-gukbap-backstreet-namwon-si",
+      "score": 82,
+      "createdAt": "2026-10-13T17:25:04.756Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261013-namwon-chunhyang-gukbap-backstreet-namwon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-13T17:27:42.280Z",
+        "alt_text": "Pixar-style travel illustration of Namwon Chunhyang Gukbap Backstreet — namwon-si, jeonbuk — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261013172338_bxpc1m",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "sanbong-ssambap-okpo-okpo",
+      "theme": "k-food",
+      "caption": "거제 옥포에서 만나는 건강한 한 상, 산봉쌈밥입니다. 거제에서 직접 재배한 신선한 유기농 쌈채소와 정갈한 반찬들이 어우러져 몸과 마음이 모두 건강해지는 기분을 느낄 수 있어요. 특히 깊은 맛의 한우 국밥은 방문객들이 입을 모아 칭찬하는 별미입니다. 깨끗한 공간과 친절한 서비스 덕분에 소중한 사람과 함께 편안한 식사를 즐기기에 제격인 곳입니다 🌿\n\nExperience a wholesome Korean meal at Sanbong Ssambap in Okpo, Geoje. Enjoy a variety of organic vegetable wraps grown locally in Geoje, paired with hearty side dishes. Their rich Hanwoo beef soup is a must-try, highly praised for its deep flavor. With a clean atmosphere and friendly service, it's the perfect spot for a nourishing meal with your loved ones.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/sanbong-ssambap-okpo-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SA7riJnaExYMEh7oqqROCWcwyreaK2m30QI_XOlltEbv-_cmdH38p13yGJJY_eHvye6XaUi0ECuNMNPLPnXalpsfYjSFwd8eeELsXP6ShbCJfdEW9ybKDM4w8Ly1_3-1og_fNwoX-pYZM=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/sanbong-ssambap-okpo-okpo",
+      "score": 145,
+      "createdAt": "2026-10-13T17:23:38.726Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261013-sanbong-ssambap-okpo-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-13T17:26:59.010Z",
+        "alt_text": "Pixar-style travel illustration of 산봉쌈밥 거제옥포본점 (Sanbong Ssambap Okpo) — okpo, gyeongnam — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261013084017_8oo1k0",
       "status": "exported",

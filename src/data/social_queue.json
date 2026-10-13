@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-12T19:43:54.694Z",
+  "updatedAt": "2026-10-13T08:41:05.812Z",
   "items": [
+    {
+      "id": "sq_20261013084017_8oo1k0",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "seokguram-grotto-gyeongju",
+      "theme": "k-culture",
+      "caption": "경주 토함산의 고요한 새벽 공기를 가르며 마주하는 석굴암의 자비로운 미소. 동해를 바라보며 서 있는 거대한 화강암 불상은 시대를 초월한 평온함과 정교한 예술성을 동시에 보여줍니다. 잠시 일상의 소란함을 내려놓고 천년의 세월이 깃든 고요 속에 머물러 보세요.\n\nExperience the timeless serenity of Seokguram Grotto, perched atop Tohamsan Mountain in Gyeongju. This UNESCO World Heritage site houses a magnificent granite Buddha overlooking the East Sea, blending spiritual depth with exquisite ancient craftsmanship. It is a place to find inner peace amidst the whispers of history. 🧘‍♂️\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #gyeongbuk #Gyeongju #UNESCO #Seokguram\n\nhttps://daedongyeojido-nine.vercel.app/places/seokguram-grotto-gyeongju",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260304_135/1772636023073XvxNy_JPEG/05hlsJpiDSbn.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seokguram-grotto-gyeongju",
+      "score": 65,
+      "createdAt": "2026-10-13T08:40:17.454Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261013-seokguram-grotto-gyeongju",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-13T08:41:05.809Z",
+        "alt_text": "Pixar-style travel illustration of Seokguram Grotto — gyeongbuk — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261013084006_8k4byt",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "seoraksan-national-park-sokcho",
+      "theme": "sanhaeng",
+      "caption": "Seoraksan National Park\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/seoraksan-national-park-sokcho\n\nSeoraksan National Park\nGranite peaks, autumn foliage, and cable car views — Korea premier mountain park.\n“Not as scenic or special as i expected”\nGuide: https://daedongyeojido-nine.vercel.app/places/seoraksan-national-park-sokcho\n\nTraveler note: Not as scenic or special as i expected\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gangwon",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251231_185/1767154289284zsbog_JPEG/%C0%D4%BC%B1_%BC%B3%BE%C7%BB%EA_%B4%AB%BF%CA%C0%BB_%C0%D4%C0%BA_%BF%EF%BB%EA%B9%D9%C0%A7_%C0%BA%C7%CF%BC%F6_%C0%CC%BA%B4%B1%D4_%BA%B8%C1%A4%BA%BB.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seoraksan-national-park-sokcho",
+      "score": 65,
+      "createdAt": "2026-10-13T08:40:06.501Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261013-seoraksan-national-park-sokcho",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-13T08:40:48.499Z",
+        "alt_text": "Pixar-style travel illustration of Seoraksan National Park — gangwon — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261012194105_h5rmhc",
       "status": "exported",

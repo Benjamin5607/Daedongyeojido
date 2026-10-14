@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20261014065228_524iw4",
+  "slug": "bulguksa-temple-gyeongju",
+  "theme": "k-culture",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-14 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Bulguksa Temple — gyeongbuk — k culture",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#gyeongbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20150831_3/1441013639378uCTFr_JPEG/11663971_0.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Bulguksa Temple",
+    "en": "Bulguksa Temple"
+  },
+  "descriptionEn": "UNESCO Silla-era temple masterpiece with stone pagodas and lotus ponds.",
+  "exportedAt": "2026-10-14T06:53:02.756Z"
+}

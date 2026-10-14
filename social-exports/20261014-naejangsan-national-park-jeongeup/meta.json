@@ -1,0 +1,45 @@
+{
+  "queueId": "sq_20261014065221_wymcex",
+  "slug": "naejangsan-national-park-jeongeup",
+  "theme": "sanhaeng",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-14 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "내장산국립공원 (Naejangsan National Park) — jeonbuk — sanhaeng",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaHiking",
+    "#Sanhaeng",
+    "#등산",
+    "#산행",
+    "#KoreaTrails",
+    "#jeonbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20211217_116/1639702480957Cibpo_JPEG/KakaoTalk_20211214_093143260_06.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "내장산국립공원",
+    "en": "Naejangsan National Park"
+  },
+  "descriptionEn": "One of Korea's most famous national parks, renowned for its stunning autumn foliage.",
+  "exportedAt": "2026-10-14T06:52:44.585Z"
+}

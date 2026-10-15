@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-14T14:59:50.043Z",
+  "updatedAt": "2026-10-15T06:50:44.616Z",
   "items": [
+    {
+      "id": "sq_20261015065003_d3qh6o",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "pow-camp-oyster-grill-gohyeon",
+      "theme": "k-food",
+      "caption": "포로수용소굴구이 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/pow-camp-oyster-grill-gohyeon\n\nPOW Camp Oyster Grill\nCharcoal-grilled oysters near the POW memorial park.\n“오래전 들렀던 곳. 굴구이 처음 먹어본 곳. 사장님이 택배로 보내주시기도 한다 했었는데. 지금도 건강히 잘 계신지 모르겠네.”\nGuide: https://daedongyeojido-nine.vercel.app/places/pow-camp-oyster-grill-gohyeon\n🔥 Trend: 거제 야호!\n\nTraveler note: 오래전 들렀던 곳. 굴구이 처음 먹어본 곳. 사장님이 택배로 보내주시기도 한다 했었는데. 지금도 건강히 잘 계신지 모르겠네.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tkvwy4AEU_8Bss3xtjwbRpYHtuoevtUQhCmXn85trwA0MNd3DKHcX5l8N-gcK3gFhkXWgWc9CYI6pb9BYF262AVhAxRUBOuQoWVCBLuh5kEmev3hxt88pv3ShP4Tf1AHxfUOcz=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/pow-camp-oyster-grill-gohyeon",
+      "score": 152,
+      "createdAt": "2026-10-15T06:50:03.514Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261015-pow-camp-oyster-grill-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-15T06:50:44.613Z",
+        "alt_text": "포로수용소굴구이 (POW Camp Oyster Grill) — gohyeon, gyeongnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261015064502_m9s1mi",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "windy-hill-nambugmyeon",
+      "theme": "hallyu",
+      "caption": "거제도의 푸른 바다와 시원한 바람이 맞닿은 곳, 바람의언덕을 소개합니다. 드라마 '미스터 션샤인'의 배경이 되었던 이곳은 탁 트인 풍경 덕분에 걷는 것만으로도 힐링이 되는 장소입니다. 최근 리센느 멤버들의 발자취와 함께 거제의 매력이 다시금 주목받고 있어 더욱 특별하게 느껴지네요. 일상의 소란함을 잠시 잊고 거제의 자연 속에서 여유로운 산책을 즐겨보세요 🌿\n\nExperience the refreshing breeze and breathtaking ocean views at Windy Hill in Geoje. Known as a filming location for the K-drama 'Mr. Sunshine,' this scenic spot is perfect for a peaceful stroll. With the recent trend of 'Geoje Yaho!' and the influence of Hallyu stars, it's the perfect time to visit and capture your own cinematic moments.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/windy-hill-nambugmyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RuLy2ELWXSP5HGS3yhFPi9usyR1sIG0CM1l-ZfJAzVCccJlEYyfp7vArND5J8Gz6uuhoFejc9HF_qIKfQiyAF35upG3bsliQ4XMYVDAzflfpsah_ZPHEyMYsb-weKBfRtTzFc=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/windy-hill-nambugmyeon",
+      "score": 154,
+      "createdAt": "2026-10-15T06:45:02.736Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261015-windy-hill-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-15T06:50:30.080Z",
+        "alt_text": "Pixar-style travel illustration of 바람의언덕 (Windy Hill) — nambugmyeon, gyeongnam — hallyu, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261014145849_b7ebcr",
       "status": "exported",

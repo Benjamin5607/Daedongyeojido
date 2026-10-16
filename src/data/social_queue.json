@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-15T14:42:35.798Z",
+  "updatedAt": "2026-10-16T06:39:56.744Z",
   "items": [
+    {
+      "id": "sq_20261016063416_ytsdik",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+      "theme": "sanhaeng",
+      "caption": "진안 마이산의 능선을 따라 걷는 타프사 기도 깃발 길을 소개합니다. 돌탑의 신비로움과 바람에 흩날리는 기도 깃발이 어우러져 고요한 평온함을 주는 곳입니다. 특히 비가 내리는 날이면 돌산에서 쏟아지는 물줄기가 마치 폭포수처럼 장관을 이룬다고 하니, 날씨가 흐린 날 방문해 보시는 것도 추천드립니다.\n\nDiscover the Maisan Tapsa Ridge Prayer Flag Trail in Jinan. This hidden gem features a stunning ridge path lined with mysterious stone pagodas and colorful prayer flags. While not found on most global trail apps, it is a beloved local route. Visitors say the mountain transforms into a series of waterfalls during the rain, offering a truly mystical atmosphere.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #jeonbuk #진안\n\nhttps://daedongyeojido-nine.vercel.app/places/maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_81/1440992256801Q9C9p_JPEG/11491367_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+      "score": 76,
+      "createdAt": "2026-10-16T06:34:16.242Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261016-maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-16T06:39:56.741Z",
+        "alt_text": "Maisan Tapsa Ridge Prayer Flag Trail — jinan-gun, jeonbuk — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261016063311_cb69v8",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "hakdong-black-pebble-beach-dongbu",
+      "theme": "urban-nature",
+      "caption": "파도에 씻겨 내려가는 몽돌의 소리를 들어보세요. 거제 학동흑진주몽돌해변은 검은 빛의 둥근 돌들이 만들어내는 자연의 리듬이 매력적인 곳입니다. 바쁜 일상에서 벗어나 파도 소리에 귀를 기울이며 진정한 쉼을 경험해 보세요.\n\nListen to the rhythmic sound of rolling pebbles washed by the waves. Hakdong Black Pebble Beach in Geoje is a place where the natural harmony of black stones creates a soothing melody. Escape the hustle and bustle of city life and find peace in the sound of the ocean. 🌊\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/hakdong-black-pebble-beach-dongbu",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T7omoctP3y3XSON5UxM8WAtXtqerRbnuLdi9gSV2ud2-vqhYAYDS6z3vw7XuuttbIgEsiwX24W1ND6_zrdxKb4Q6tvGljPo4ZIpJPFTfO6AwQ0QIi_c3CAG0TdxAfjOEFUOTA1BseHjvBo=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/hakdong-black-pebble-beach-dongbu",
+      "score": 154,
+      "createdAt": "2026-10-16T06:33:11.768Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261016-hakdong-black-pebble-beach-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-16T06:36:57.710Z",
+        "alt_text": "학동흑진주몽돌해변 (Hakdong Black Pebble Beach) — dongbu, gyeongnam — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261015144150_r65kec",
       "status": "exported",

@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261017062200_m6y5rn",
+  "slug": "pow-camp-museum-gohyeon",
+  "theme": "k-culture",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · 여행지에서 쓰레기를 줍는 사람들, 그들은 왜 웃고 있을까새 창 열림 · \"멤버 취향 담고 포토카드 더했다\"…CU, 리센느빵 흥행 비결새 창 열림 · 한국식으로 재탄생한 日 문화…일상 속 'J컬처'와 그늘 [Now 2.30 · 리센느, 지상파 메인뉴스 출격...11일 'SBS 8뉴스' 챙기세요새 창 · '역주행 1위' 리센느 원이, 촬영 중 오열 사태…\"할머님들 인생은 지금",
+    "updatedAt": "2026-10-11T08:19:33.010Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-17 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "포로수용소유적박물관 (POW Camp Museum) — gohyeon, gyeongnam — k culture",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tkvwy4AEU_8Bss3xtjwbRpYHtuoevtUQhCmXn85trwA0MNd3DKHcX5l8N-gcK3gFhkXWgWc9CYI6pb9BYF262AVhAxRUBOuQoWVCBLuh5kEmev3hxt88pv3ShP4Tf1AHxfUOcz=w800-h600-k-no",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "포로수용소유적박물관",
+    "en": "POW Camp Museum"
+  },
+  "descriptionEn": "Museum documenting POW life with films and original artifacts.",
+  "exportedAt": "2026-10-17T06:26:59.487Z"
+}

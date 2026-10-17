@@ -13,6 +13,35 @@
   --color-trip-green-light: #34d399;
   --background: var(--color-surface);
   --foreground: var(--color-ink);
+
+  /* Stable chrome heights — keep scroll anchors from jumping */
+  --app-header-height: 4rem; /* h-16 brand bar */
+  --app-bottom-nav-height: 0px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+  --fab-clearance: calc(1.25rem + var(--safe-bottom));
+  --fab-side-inset: 0px;
+  --sticky-offset: calc(var(--app-header-height) + 0.75rem);
+}
+
+/* Phone: fixed bottom nav (< md / 768px) */
+@media (max-width: 767px) {
+  :root {
+    --app-bottom-nav-height: 4.25rem;
+    /* Keep FAB clearly above bottom nav + thumb zone */
+    --fab-clearance: calc(
+      var(--app-bottom-nav-height) + 1.25rem + var(--safe-bottom)
+    );
+    --fab-side-inset: 4.75rem; /* reserve corner so CTAs don't sit under FAB */
+  }
+}
+
+/* Tablet: brand bar + chip mid-nav (md–lg) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  :root {
+    --app-header-height: 6.75rem;
+  }
 }
 
 @theme inline {
@@ -22,6 +51,12 @@
   --font-serif: var(--font-noto-serif);
 }
 
+html {
+  overflow-x: clip;
+  scroll-padding-top: var(--sticky-offset);
+  scroll-behavior: smooth;
+}
+
 body {
   background:
     radial-gradient(circle at 10% 10%, rgba(47, 107, 79, 0.08), transparent 35%),
@@ -29,9 +64,98 @@ body {
     linear-gradient(180deg, #faf7f2 0%, #f3ede4 100%);
   color: var(--foreground);
   font-family: var(--font-noto-sans), "Segoe UI", sans-serif;
-  min-height: 100vh;
+  min-height: 100dvh;
+  overflow-x: clip;
+  padding-bottom: calc(var(--app-bottom-nav-height) + var(--safe-bottom));
 }
 
 .font-serif {
   font-family: var(--font-noto-serif), "Times New Roman", serif;
+}
+
+/* Touch-friendly primary controls */
+.btn-touch {
+  min-height: 2.75rem;
+  min-width: 2.75rem;
+}
+
+/* Action rows: stack on phones, wrap cleanly on tablets+ */
+.action-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: stretch;
+}
+
+@media (max-width: 639px) {
+  .action-row {
+    flex-direction: column;
+  }
+
+  .action-row > * {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+/*
+ * Horizontal chip scroller — do NOT set display here.
+ * Tailwind `hidden` / `md:flex` / `lg:hidden` must win for nav chrome.
+ * Call sites add `flex` (or responsive flex) themselves.
+ */
+.chip-scroll {
+  gap: 0.5rem;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x proximity;
+  padding-bottom: 0.15rem;
+  scrollbar-width: none;
+}
+
+.chip-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.chip-scroll > * {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+}
+
+/* Sticky section tabs that sit under the fixed header */
+.sticky-under-header {
+  position: sticky;
+  top: var(--app-header-height);
+  z-index: 20;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(10px);
+}
+
+/* GuideBot FAB clearance above bottom chrome */
+.fab-guide {
+  position: fixed;
+  z-index: 45;
+  right: max(1rem, var(--safe-right));
+  bottom: var(--fab-clearance);
+  width: 3.25rem;
+  height: 3.25rem;
+}
+
+@media (min-width: 640px) {
+  .fab-guide {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+}
+
+/* Reserve the FAB corner on phones so primary CTAs stay tappable */
+.fab-content-inset {
+  padding-right: 0;
+}
+
+@media (max-width: 767px) {
+  .fab-content-inset {
+    padding-right: var(--fab-side-inset, 0px);
+  }
 }

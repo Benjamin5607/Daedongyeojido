@@ -84,8 +84,8 @@ export function GuideBot({
       aria-labelledby="guide-bot-title"
       className={
         embedded
-          ? "flex h-[min(70vh,560px)] w-full flex-col overflow-hidden rounded-3xl border border-[var(--color-border)] bg-[var(--color-surface)] shadow-xl"
-          : "relative flex h-[min(85vh,640px)] w-full max-w-lg flex-col overflow-hidden rounded-t-3xl border border-[var(--color-border)] bg-[var(--color-surface)] shadow-2xl sm:rounded-3xl"
+          ? "flex h-[min(70vh,560px)] w-full min-w-0 flex-col overflow-hidden rounded-3xl border border-[var(--color-border)] bg-[var(--color-surface)] shadow-xl"
+          : "relative flex h-[min(88dvh,640px)] w-full max-w-lg flex-col overflow-hidden rounded-t-3xl border border-[var(--color-border)] bg-[var(--color-surface)] shadow-2xl sm:h-[min(85vh,640px)] sm:rounded-3xl"
       }
     >
       <header
@@ -138,7 +138,7 @@ export function GuideBot({
         type="button"
         onClick={() => setOpen(true)}
         aria-label={fabLabel}
-        className={`fixed bottom-6 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-br ${fabClass} text-2xl text-white shadow-lg ring-4 transition hover:scale-105 hover:shadow-xl active:scale-95`}
+        className={`fab-guide flex items-center justify-center rounded-full bg-gradient-to-br ${fabClass} text-xl text-white shadow-lg ring-4 transition hover:scale-105 hover:shadow-xl active:scale-95 sm:text-2xl`}
       >
         <span aria-hidden>{fabEmoji}</span>
       </button>
@@ -151,7 +151,9 @@ export function GuideBot({
             className="absolute inset-0 bg-black/40 backdrop-blur-sm"
             onClick={handleClose}
           />
-          {panel}
+          <div className="relative z-10 w-full max-w-lg sm:w-auto">
+            {panel}
+          </div>
         </div>
       )}
     </>

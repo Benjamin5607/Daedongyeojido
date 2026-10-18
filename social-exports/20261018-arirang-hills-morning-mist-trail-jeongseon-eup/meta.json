@@ -1,0 +1,45 @@
+{
+  "queueId": "sq_20261018064710_znu3fr",
+  "slug": "arirang-hills-morning-mist-trail-jeongseon-eup",
+  "theme": "sanhaeng",
+  "format": "series",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-18 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Arirang Hills Morning Mist Trail — jeongseon-eup, gangwon — sanhaeng",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaHiking",
+    "#Sanhaeng",
+    "#등산",
+    "#산행",
+    "#KoreaTrails",
+    "#gangwon"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20250410_286/1744265311779mwQg8_JPEG/IMG_0384.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Arirang Hills Morning Mist Trail",
+    "en": "Arirang Hills Morning Mist Trail"
+  },
+  "descriptionEn": "Ridge walk through morning fog above rice terraces — route shared on Naver hiking blogs, not Google trails.",
+  "exportedAt": "2026-10-18T06:48:47.031Z"
+}

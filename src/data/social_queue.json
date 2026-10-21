@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-20T14:55:09.018Z",
+  "updatedAt": "2026-10-21T06:46:59.455Z",
   "items": [
+    {
+      "id": "sq_20261021064418_cqmkw7",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-haegeumgang-jangseungpo",
+      "theme": "urban-nature",
+      "caption": "바다의 금강산이라 불리는 거제 해금강의 웅장함을 만나보세요. 수직 해식절벽과 신비로운 십자동굴이 어우러진 이곳은 대자연의 위용을 그대로 간직한 거제의 대표 명소입니다. 파도 소리와 함께 기암괴석 사이를 거닐며 일상의 소란함을 잠시 잊고 진정한 힐링을 경험해 보시길 바랍니다 🌊\n\nExperience the grandeur of Geoje Haegeumgang, often called the 'Diamond Mountain of the Sea.' From towering sea cliffs to the mysterious Cross Cave, this landmark showcases the breathtaking power of nature. It is the perfect place to escape the city noise and immerse yourself in the scenic beauty of the coast.\n\nhttps://daedongyeojido-nine.vercel.app/places/geoje-haegeumgang-jangseungpo\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260721_25/1784611119404WoqDx_JPEG/IMG_0005.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-haegeumgang-jangseungpo",
+      "score": 152,
+      "createdAt": "2026-10-21T06:44:18.080Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261021-geoje-haegeumgang-jangseungpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-21T06:46:59.451Z",
+        "alt_text": "거제 해금강 (Geoje Haegeumgang) — jangseungpo, gyeongnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261021064407_ccaj10",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "haegeumgang-theme-museum-nambugmyeon",
+      "theme": "k-culture",
+      "caption": "거제의 푸른 바다와 자연의 신비로움을 한곳에서 만날 수 있는 해금강테마박물관입니다. 국가지정 명승인 해금강의 아름다운 섬들과 그 속에 담긴 이야기를 인터랙티브한 전시로 생생하게 경험해 보세요. 거제의 자연이 주는 평온함과 예술적 영감을 동시에 느낄 수 있는 공간입니다 🌊\n\nDiscover the mysteries of Geoje's blue ocean at the Haegeumgang Theme Museum. Through interactive exhibits, you can explore the breathtaking beauty and stories of the Haegeumgang islets, a designated national scenic spot. It is a perfect place to find both peace and artistic inspiration in nature 🌿\n\nhttps://daedongyeojido-nine.vercel.app/places/haegeumgang-theme-museum-nambugmyeon\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #거제야호 #TravelTrend #gyeongnam #Geoje",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_70/1441015743532WU5wh_JPEG/SUBMIT_1338260858475_12360135.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/haegeumgang-theme-museum-nambugmyeon",
+      "score": 152,
+      "createdAt": "2026-10-21T06:44:07.408Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261021-haegeumgang-theme-museum-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-21T06:44:33.888Z",
+        "alt_text": "Pixar-style travel illustration of 해금강테마박물관 (Haegeumgang Theme Museum) — nambugmyeon, gyeongnam — k culture, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261020145207_vwyf95",
       "status": "exported",

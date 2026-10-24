@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-23T14:59:36.913Z",
+  "updatedAt": "2026-10-24T06:48:35.173Z",
   "items": [
+    {
+      "id": "sq_20261024064725_rwgrve",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "jangsu-oyster-gukbap-okpo",
+      "theme": "k-food",
+      "caption": "거제 옥포에서 만나는 바다의 깊은 맛, 장수굴국밥입니다. 매일 공수되는 신선한 거제 굴이 듬뿍 들어가 국물이 깔끔하고 담백합니다. 든든한 한 끼 식사로 몸과 마음을 따뜻하게 채워보세요 🍲\n\nExperience the deep flavors of the ocean at Jangsu Oyster Gukbap in Okpo, Geoje. With fresh local oysters delivered daily, every bowl offers a clean and savory taste. It is the perfect hearty meal to warm your soul.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/jangsu-oyster-gukbap-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20190114_139/15474730548131Qnh9_JPEG/2Kf8kCAiSSuYamjDMU2u0RYC.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/jangsu-oyster-gukbap-okpo",
+      "score": 131,
+      "createdAt": "2026-10-24T06:47:25.654Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261024-jangsu-oyster-gukbap-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-24T06:48:35.169Z",
+        "alt_text": "Pixar-style travel illustration of 장수굴국밥 (Jangsu Oyster Gukbap) — okpo, gyeongnam — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261024064323_lau0jg",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "windy-hill-nambugmyeon-2",
+      "theme": "urban-nature",
+      "caption": "바람의 언덕 — 「옥포」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/windy-hill-nambugmyeon-2\n\nWindy Hill\nA scenic hill with a beautiful view of the surrounding area\n“아름다운 거제의 바다와 바람을 느낄 수 있는 최고의 장소. 거제도 여행때마다 이 곳에 오면, 이름 그대로 시원한 바람을 마음껏 즐길 수 있었습니다. (2026년 가을)”\nGuide: https://daedongyeojido-nine.vercel.app/places/windy-hill-nambugmyeon-2\n🔥 Trend: 옥포\n\nTraveler note: 아름다운 거제의 바다와 바람을 느낄 수 있는 최고의 장소. 거제도 여행때마다 이 곳에 오면, 이름 그대로 시원한 바람을 마음껏 즐길 수 있었습니다. (2026년 가을)\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #옥포 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T4XgRtR8fG4zKfg1gsa142qn8t6YLoedenN07gFmh5mCMFJVOG-axEucaS8pyQ405b6z4kaC5YavDOSmQl5yTmd_krdu03NISgktpBIMpM1HU0s9qe3CMrjeNHE6tkGkore4M=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/windy-hill-nambugmyeon-2",
+      "score": 132,
+      "createdAt": "2026-10-24T06:43:23.817Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261024-windy-hill-nambugmyeon-2",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-24T06:47:44.161Z",
+        "alt_text": "Pixar-style travel illustration of 바람의 언덕 (Windy Hill) — nambugmyeon, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261023145143_564mzg",
       "status": "exported",

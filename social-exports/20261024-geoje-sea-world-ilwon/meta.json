@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261024135913_kh5xs9",
+  "slug": "geoje-sea-world-ilwon",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "옥포",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-16T05:13:48.216Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-24 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "거제씨월드 (Geoje Sea World) — ilwon, gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#옥포",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20240718_51/1721282237962knP9p_JPEG/YHW09952.JPG",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제씨월드",
+    "en": "Geoje Sea World"
+  },
+  "descriptionEn": "A marine-themed park with various attractions and activities",
+  "exportedAt": "2026-10-24T14:04:14.875Z"
+}

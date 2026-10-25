@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-18T06:58:49.875Z",
+  "updatedAt": "2026-10-25T07:18:27.027Z",
   "articleCount": 12,
   "signals": [
     {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 태연, 대세 후배 아이돌 변신 몰라줘 버럭 “왜 숙연해” (놀토)[결정적 · 문희준, 데뷔 30주년 자축→H.O.T. 완전체 예고…\"11개월째 대화만 · 관광지 매출 134.4% 증가시킨 ‘거제야호‘새 창 열림 · BTS 지민 닮기 위해 30번 넘게 성형수술…서인영 \"타고난 분위기 따라 · 원이 \"리센느 대박? 지금도 꿈 같아…이젠 1등하고 싶어\"(안원잘부)새  · 리센느 만나고 10㎞ 38분 찍었다…'카카오프렌즈런' 직접 뛰어보니[페이 · 컴백 앞둔 리센느 원이 \"원래 목표는 100위 안, 이젠 1등이 목표\" ",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 삼성전자, 리센느 품고 갤럭시폴드8 캠페인···아이폰 듀오 맞불새 창 열 · 리센느, 미니 4집 '펄스' 트랙리스트 공개…타이틀곡은 '위드'새 창 열 · ‘거제 야호’ 리센느, 방탄소년단·임영웅 제쳤다…가수 브랜드평판 1... · 미야오, 수능 맞아 전국 고등학교에 응원 보냈다새 창 열림 · 폴리뉴스 모닝브리핑 10월 23일 금요일새 창 열림",
       "score": 100,
       "regionHints": [
         "거제",
@@ -34,46 +34,38 @@
       "queryCount": 8
     },
     {
-      "label": "함안 낙화놀이",
-      "source": "news",
-      "score": 95,
+      "label": "양양 서피비치",
+      "source": "이슈현장",
+      "score": 90,
       "regionHints": [
-        "함안"
+        "양양"
       ],
       "placeHints": [
-        "무진정"
+        "서피비치",
+        "하조대"
       ],
-      "theme": "k-culture",
-      "queryCount": 1
+      "theme": "urban-nature",
+      "queryCount": 2
     },
     {
-      "label": "거제 야호",
-      "source": "news",
-      "score": 70,
+      "label": "통영 동피랑",
+      "source": "통영시",
+      "score": 85,
       "regionHints": [
-        "거제"
+        "통영"
       ],
-      "placeHints": [],
+      "placeHints": [
+        "동피랑 벽화마을"
+      ],
       "theme": "urban-nature",
       "queryCount": 1
     },
     {
       "label": "거제 트렌드",
-      "source": "태연, 대세 후배 아이돌 변신 몰라줘 버럭 “왜 숙연해” (놀토)[결정적...새 창 열림",
+      "source": "삼성전자, 리센느 품고 갤럭시폴드8 캠페인···아이폰 듀오 맞불새 창 열림",
       "score": 40,
       "regionHints": [
         "거제"
-      ],
-      "placeHints": [],
-      "theme": "hallyu",
-      "queryCount": 0
-    },
-    {
-      "label": "통영 트렌드",
-      "source": "함안 낙화놀이, 해외 관광객 끌어들이는 경남 대표 콘텐츠로새 창 열림",
-      "score": 40,
-      "regionHints": [
-        "통영"
       ],
       "placeHints": [],
       "theme": "hallyu",
@@ -98,14 +90,19 @@
       "trendLabel": "거제 야호!"
     },
     {
-      "theme": "k-culture",
-      "query": "함안 무진정",
-      "trendLabel": "함안 낙화놀이"
+      "theme": "urban-nature",
+      "query": "양양 서피비치",
+      "trendLabel": "양양 서피비치"
     },
     {
       "theme": "k-food",
       "query": "거제 평화족발",
       "trendLabel": "거제 야호!"
+    },
+    {
+      "theme": "urban-nature",
+      "query": "양양 하조대",
+      "trendLabel": "양양 서피비치"
     },
     {
       "theme": "k-food",
@@ -139,14 +136,14 @@
     },
     {
       "theme": "urban-nature",
-      "query": "거제시청",
-      "trendLabel": "거제 야호"
+      "query": "통영 동피랑 벽화마을",
+      "trendLabel": "통영 동피랑"
     }
   ],
   "matchedExistingCount": 23,
   "regionBoostCount": 92,
   "regionBuckets": {
     "gyeongnam": 9,
-    "other": 1
+    "gangwon": 2
   }
 }

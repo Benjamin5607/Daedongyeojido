@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-25T07:11:38.411Z",
+  "updatedAt": "2026-10-25T14:25:19.715Z",
   "items": [
+    {
+      "id": "sq_20261025141659_011lx4",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "ginseng-field-ridge-sunset-walk-geumsan-eup",
+      "theme": "sanhaeng",
+      "caption": "Ginseng Field Ridge Sunset Walk\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/ginseng-field-ridge-sunset-walk-geumsan-eup\n\nGinseng Field Ridge Sunset Walk\nRidge paths between ginseng shade tents at dusk — photos on Naver rural blogs, not Google farms.\n“일단 금산 명물인 어죽을 점심으로 먹고 인삼축제를 즐기면서 인삼튀김을 먹으니 너무나 좋았습니다.”\nGuide: https://daedongyeojido-nine.vercel.app/places/ginseng-field-ridge-sunset-walk-geumsan-eup\n\nTraveler note: 일단 금산 명물인 어죽을 점심으로 먹고 인삼축제를 즐기면서 인삼튀김을 먹으니 너무나 좋았습니다.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #chungnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_280/1441006732154xQDQz_JPEG/12047081_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/ginseng-field-ridge-sunset-walk-geumsan-eup",
+      "score": 74,
+      "createdAt": "2026-10-25T14:16:59.583Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261025-ginseng-field-ridge-sunset-walk-geumsan-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-25T14:25:19.711Z",
+        "alt_text": "Ginseng Field Ridge Sunset Walk — geumsan-eup, chungnam — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261025141158_k8nz8v",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "hakdong-1-night-2-days-restaurant-dongbu",
+      "theme": "k-food",
+      "caption": "거제 학동 흑진주 몽돌해변의 파도 소리를 뒤로하고 즐기는 정갈한 생선구이 한 상. 갓 구워낸 생선의 고소함과 정성 가득한 밑반찬이 어우러져 든든한 한 끼를 선사합니다. 바다 여행 중 만나는 따뜻한 집밥 같은 시간을 경험해 보세요.\n\nEnjoy a hearty grilled fish set meal just steps away from the scenic Hakdong Black Pebble Beach in Geoje. With perfectly grilled fish and a variety of side dishes, it's the perfect spot to refuel with a comforting, home-style Korean meal during your coastal trip. 🐟\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam #Geoje #거제도맛집\n\nhttps://daedongyeojido-nine.vercel.app/places/hakdong-1-night-2-days-restaurant-dongbu",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ravm9URysGBOXttJUDoi0gqAeB1XvMO0ON51Fu-uK6AdAJojBCm7Ip1OT0vgGNBU7n4rmR8QeW6hTURXx4MBpoHKtd_ru0smoU-y9PLPBMfqVzNKNBHILK53ey4grBP-pJSbS5dQEpSMig=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/hakdong-1-night-2-days-restaurant-dongbu",
+      "score": 82,
+      "createdAt": "2026-10-25T14:11:58.807Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261025-hakdong-1-night-2-days-restaurant-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-25T14:20:45.141Z",
+        "alt_text": "학동1박2일맛있는집 (Hakdong 1 Night 2 Days Restaurant) — dongbu, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261025071100_4oc6at",
       "status": "exported",

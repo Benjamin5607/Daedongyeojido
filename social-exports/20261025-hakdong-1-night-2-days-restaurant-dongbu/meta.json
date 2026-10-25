@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20261025141158_k8nz8v",
+  "slug": "hakdong-1-night-2-days-restaurant-dongbu",
+  "theme": "k-food",
+  "format": "place_card",
+  "slot": "evening",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-25 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "학동1박2일맛있는집 (Hakdong 1 Night 2 Days Restaurant) — dongbu, gyeongnam — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ravm9URysGBOXttJUDoi0gqAeB1XvMO0ON51Fu-uK6AdAJojBCm7Ip1OT0vgGNBU7n4rmR8QeW6hTURXx4MBpoHKtd_ru0smoU-y9PLPBMfqVzNKNBHILK53ey4grBP-pJSbS5dQEpSMig=w800-h600-k-no",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "학동1박2일맛있는집",
+    "en": "Hakdong 1 Night 2 Days Restaurant"
+  },
+  "descriptionEn": "Fresh grilled fish set meals steps from Hakdong black-pebble beach.",
+  "exportedAt": "2026-10-25T14:20:45.141Z"
+}

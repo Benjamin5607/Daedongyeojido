@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-26T07:23:10.340Z",
+  "updatedAt": "2026-10-26T16:41:17.620Z",
   "items": [
+    {
+      "id": "sq_20261026164014_b2973q",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "garasan-mountain-nambugmyeon",
+      "theme": "sanhaeng",
+      "caption": "거제 남부면의 숨은 보석, 가라산에 올랐습니다. 짧은 산행만으로도 해금강과 남해안의 푸른 절경이 한눈에 들어오는 곳입니다. 복잡한 일상에서 벗어나 탁 트인 바다 전망을 마주하며 진정한 휴식을 느껴보세요. ⛰️\n\nExperience the hidden gem of Geoje, Garasan Mountain. A short but rewarding hike that offers breathtaking panoramic views of Haegeumgang and the south coast. It is the perfect spot to escape the city and reconnect with nature.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongnam #Geoje\n\nhttps://daedongyeojido-nine.vercel.app/places/garasan-mountain-nambugmyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q6yaEdFqNhj-RhcIU3CZ4zB8pf9dC6sIG8z_4m6dtoFwFhj5XusnkcgNWMCAOQTZIEeIZBk1mqU1_AwTKXuW-2PA4AbHUH66wljhlfWTBo2_x8aT5Y20dn0InTVULEmuTM2bjJ=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/garasan-mountain-nambugmyeon",
+      "score": 74,
+      "createdAt": "2026-10-26T16:40:14.293Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261026-garasan-mountain-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-26T16:41:17.616Z",
+        "alt_text": "Pixar-style travel illustration of 가라산 (Garasan Mountain) — nambugmyeon, gyeongnam — sanhaeng, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261026163717_u9xvy3",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "theme": "k-food",
+      "caption": "Yeongwol Buckwheat Makguksu Corner\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/yeongwol-buckwheat-makguksu-corner-yeongwol-eup\n\nYeongwol Buckwheat Makguksu Corner\nHand-cut buckwheat noodles in a garage-turned-kitchen — Naver reviewers swear by it; Google has no menu.\n“방문일 2026.10.3 붉은 메밀꽃은 처음이라 한번은 가볼만 합니다. 주차장이라고 할만한 공간이 없어보였고 축제 진입로에서부터 모두 갓길주차 해서 눈치게임해야해요. 입구에 간이화장실 있고 깨끗했어요.”\nGuide: https://daedongyeojido-nine.vercel.app/places/yeongwol-buckwheat-makguksu-corner-yeongwol-eup\n\nTraveler note: 방문일 2026.10.3 붉은 메밀꽃은 처음이라 한번은 가볼만 합니다. 주차장이라고 할만한 공간이 없어보였고 축제 진입로에서부터 모두 갓길주차 해서 눈치게임해야해요. 입구에 간이화장실 있고 깨끗했어요.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gangwon",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260328_208/17746652230043IluE_JPEG/L1002209.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "score": 82,
+      "createdAt": "2026-10-26T16:37:17.882Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261026-yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-10-26T16:40:45.380Z",
+        "alt_text": "Pixar-style travel illustration of Yeongwol Buckwheat Makguksu Corner — yeongwol-eup, gangwon — k food, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261026072143_8kted8",
       "status": "exported",

@@ -1,0 +1,45 @@
+{
+  "queueId": "sq_20261028075005_w1xops",
+  "slug": "seoraksan-national-park-sokcho",
+  "theme": "sanhaeng",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-28 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Seoraksan National Park — gangwon — sanhaeng",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaHiking",
+    "#Sanhaeng",
+    "#등산",
+    "#산행",
+    "#KoreaTrails",
+    "#gangwon"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20251231_185/1767154289284zsbog_JPEG/%C0%D4%BC%B1_%BC%B3%BE%C7%BB%EA_%B4%AB%BF%CA%C0%BB_%C0%D4%C0%BA_%BF%EF%BB%EA%B9%D9%C0%A7_%C0%BA%C7%CF%BC%F6_%C0%CC%BA%B4%B1%D4_%BA%B8%C1%A4%BA%BB.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Seoraksan National Park",
+    "en": "Seoraksan National Park"
+  },
+  "descriptionEn": "Granite peaks, autumn foliage, and cable car views — Korea premier mountain park.",
+  "exportedAt": "2026-10-28T07:56:55.301Z"
+}

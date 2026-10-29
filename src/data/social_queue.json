@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-29T08:04:22.292Z",
+  "updatedAt": "2026-10-29T16:56:27.004Z",
   "items": [
+    {
+      "id": "sq_20261029164854_ieet46",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "gongju-gukhwajeong-rice-cake-shop-row-ungjin",
+      "theme": "k-food",
+      "caption": "Gongju Gukhwajeong Rice Cake Shop Row\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/gongju-gukhwajeong-rice-cake-shop-row-ungjin\n\nGongju Gukhwajeong Rice Cake Shop Row\nCenturies-old rice cake shops on a quiet lane — Naver food heritage posts, not Google bakeries.\n“공주를 갔다면 들려서 사거는걸 추천하고 주차는 어려우나 인근 공주문화예술촌 앞 노상주차를 하는것도 방법이다”\nGuide: https://daedongyeojido-nine.vercel.app/places/gongju-gukhwajeong-rice-cake-shop-row-ungjin\n\nTraveler note: 공주를 갔다면 들려서 사거는걸 추천하고 주차는 어려우나 인근 공주문화예술촌 앞 노상주차를 하는것도 방법이다\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #chungnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkoZDz_f24pVH8x85pNm_7ZmAuLQri83xJNjYMdpaYwC3I8YAKf4oiin07sG_-BFQp3tnr_HLmPjeOG2ytJJamqW_ur94qHOLlOQxFJpbD17Che8K3TAkc6SfihTy76SoKRZYtQj0aGKgdU=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/gongju-gukhwajeong-rice-cake-shop-row-ungjin",
+      "score": 82,
+      "createdAt": "2026-10-29T16:48:54.377Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261029-gongju-gukhwajeong-rice-cake-shop-row-ungjin",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-29T16:56:27.000Z",
+        "alt_text": "Gongju Gukhwajeong Rice Cake Shop Row — ungjin, chungnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261029164353_eafwnp",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "oedo-botania-lee-house-ilwon",
+      "theme": "hallyu",
+      "caption": "외도보타니아 리하우스 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/oedo-botania-lee-house-ilwon\n\nOedo Botania Lee House\nMediterranean exterior and hanok interior from Winter Sonata.\n“I really enjoyed this island. The owners have really exceeded them selves in creating the gardens. I was lucky cause the weather was also amazing. Only negativ…”\nGuide: https://daedongyeojido-nine.vercel.app/places/oedo-botania-lee-house-ilwon\n🔥 Trend: 거제 야호!\n\nTraveler note: I really enjoyed this island. The owners have really exceeded them selves in creating the gardens. I was lucky cause the weather was also amazing. Only negativ…\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXEEmZSM81Foqq9SFBSsq0Zk0EtH-mKJG9D6JfxdtlHteD4XiicTe2M25VzdL_kMUgzciTOCq_x85kkO6VgQhMcDxpoE0dxdkiHoJlbbRfFKIwTuh_sTxKpxzP3vb6fJbJ9W8=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/oedo-botania-lee-house-ilwon",
+      "score": 129,
+      "createdAt": "2026-10-29T16:43:53.582Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261029-oedo-botania-lee-house-ilwon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-29T16:52:06.664Z",
+        "alt_text": "외도보타니아 리하우스 (Oedo Botania Lee House) — ilwon, gyeongnam — hallyu"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261029075456_3ne3pg",
       "status": "exported",

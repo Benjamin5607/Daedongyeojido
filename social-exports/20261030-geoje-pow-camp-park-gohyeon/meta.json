@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261030163521_061xls",
+  "slug": "geoje-pow-camp-park-gohyeon",
+  "theme": "k-culture",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · 삼성전자, 리센느 품고 갤럭시폴드8 캠페인···아이폰 듀오 맞불새 창 열 · 리센느, 미니 4집 '펄스' 트랙리스트 공개…타이틀곡은 '위드'새 창 열 · ‘거제 야호’ 리센느, 방탄소년단·임영웅 제쳤다…가수 브랜드평판 1... · 미야오, 수능 맞아 전국 고등학교에 응원 보냈다새 창 열림 · 폴리뉴스 모닝브리핑 10월 23일 금요일새 창 열림",
+    "updatedAt": "2026-10-25T07:18:27.027Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-30 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "거제포로수용소유적공원 (Geoje POW Camp Park) — gohyeon, gyeongnam — k culture",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "거제포로수용소유적공원",
+    "en": "Geoje POW Camp Park"
+  },
+  "descriptionEn": "Living history park on Korea's largest Korean War POW camp site.",
+  "exportedAt": "2026-10-30T16:39:46.638Z"
+}

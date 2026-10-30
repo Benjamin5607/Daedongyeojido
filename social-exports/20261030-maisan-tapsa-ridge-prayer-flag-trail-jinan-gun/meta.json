@@ -1,0 +1,45 @@
+{
+  "queueId": "sq_20261030075952_0ug3hh",
+  "slug": "maisan-tapsa-ridge-prayer-flag-trail-jinan-gun",
+  "theme": "sanhaeng",
+  "format": "series",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-10-30 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Maisan Tapsa Ridge Prayer Flag Trail — jinan-gun, jeonbuk — sanhaeng",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaHiking",
+    "#Sanhaeng",
+    "#등산",
+    "#산행",
+    "#KoreaTrails",
+    "#jeonbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20150831_81/1440992256801Q9C9p_JPEG/11491367_0.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Maisan Tapsa Ridge Prayer Flag Trail",
+    "en": "Maisan Tapsa Ridge Prayer Flag Trail"
+  },
+  "descriptionEn": "Ridge path with stone pagodas and prayer flags — route on Naver hiking blogs, not Google trail apps.",
+  "exportedAt": "2026-10-30T08:06:10.199Z"
+}

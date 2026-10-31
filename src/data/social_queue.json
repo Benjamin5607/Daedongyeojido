@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-30T16:41:49.673Z",
+  "updatedAt": "2026-10-31T07:56:43.103Z",
   "items": [
+    {
+      "id": "sq_20261031075139_kjclmv",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "juwangsan-hidden-waterfall-trail-cheongsong-eup",
+      "theme": "sanhaeng",
+      "caption": "Juwangsan Hidden Waterfall Trail\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/juwangsan-hidden-waterfall-trail-cheongsong-eup\n\nJuwangsan Hidden Waterfall Trail\nUnmarked waterfall path locals hike on weekdays — route on Naver hiking blogs, not Google trail apps.\n“계곡길이 너무 편해서 깜짝 놀랐네요 산책로처럼 갈 수 있고 기암괴석이 아름다웠습니다. 한 번쯤 가볼만해요”\nGuide: https://daedongyeojido-nine.vercel.app/places/juwangsan-hidden-waterfall-trail-cheongsong-eup\n\nTraveler note: 계곡길이 너무 편해서 깜짝 놀랐네요 산책로처럼 갈 수 있고 기암괴석이 아름다웠습니다. 한 번쯤 가볼만해요\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongbuk",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_206/1440992279168UWwhw_JPEG/11491524_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/juwangsan-hidden-waterfall-trail-cheongsong-eup",
+      "score": 76,
+      "createdAt": "2026-10-31T07:51:39.704Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261031-juwangsan-hidden-waterfall-trail-cheongsong-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-31T07:56:43.098Z",
+        "alt_text": "Juwangsan Hidden Waterfall Trail — cheongsong-eup, gyeongbuk — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261031074638_ic42tl",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "pow-camp-museum-gohyeon",
+      "theme": "k-culture",
+      "caption": "포로수용소유적박물관 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/pow-camp-museum-gohyeon\n\nPOW Camp Museum\nMuseum documenting POW life with films and original artifacts.\n“This place was amazing and full of hostory I never knew.”\nGuide: https://daedongyeojido-nine.vercel.app/places/pow-camp-museum-gohyeon\n🔥 Trend: 거제 야호!\n\nTraveler note: This place was amazing and full of hostory I never knew.\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SItEqbb_eMNdp_n5mTfrjLquK6FPw8WvOIyTIkEtc70IkApY1wYKZvHykxF_RD3nAjWXXlX61cJloaiFB1Xn9gAtFZzH32lt5URagnrd0IDRlbp9OKsNCOCezYrCBFSQZLuvc3=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/pow-camp-museum-gohyeon",
+      "score": 153,
+      "createdAt": "2026-10-31T07:46:38.918Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261031-pow-camp-museum-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-31T07:54:20.477Z",
+        "alt_text": "포로수용소유적박물관 (POW Camp Museum) — gohyeon, gyeongnam — k culture"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261030163737_1f5sg1",
       "status": "exported",

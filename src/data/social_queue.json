@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-31T07:56:43.103Z",
+  "updatedAt": "2026-10-31T15:46:27.727Z",
   "items": [
+    {
+      "id": "sq_20261031154040_43bnqt",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "jeonju-bibimbap-street-wansan",
+      "theme": "k-food",
+      "caption": "전주 여행에서 빼놓을 수 없는 필수 코스, 전주 비빔밥 거리입니다. 형형색색의 신선한 나물과 정갈한 밑반찬이 어우러진 비빔밥 한 그릇에서 한국의 미와 맛을 동시에 느낄 수 있습니다. 현지 식당의 친절한 설명과 함께 제대로 된 비빔밥 먹는 법을 배워보는 특별한 경험을 즐겨보세요 🍲\n\nVisit Jeonju Bibimbap Street, the birthplace of Korea's most iconic mixed rice dish. Here, you can enjoy colorful bowls of bibimbap served with a variety of traditional side dishes in heritage restaurants. From savory dolsot (stone pot) to fresh yukhoe (beef tartare), it is a true feast for the senses.\n\nCheck out more details here:\nhttps://daedongyeojido-nine.vercel.app/places/jeonju-bibimbap-street-wansan\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonbuk #Jeonju #전주여행",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCAH-OLTJOvInLchWIfc7jMqrdAwLDMKWOetjNs43bdZtkZh8cjLVHm1uGctVZ6ZkwFZ3_qe7lvQSz7N5mnFuerMCbH6SrHVhIT1bWcAsbe2FSnfVobezXC8yMvgkbIS4ANnbxOecF9pM=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/jeonju-bibimbap-street-wansan",
+      "score": 82,
+      "createdAt": "2026-10-31T15:40:40.579Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261031-jeonju-bibimbap-street-wansan",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-31T15:46:27.725Z",
+        "alt_text": "Jeonju Bibimbap Street — wansan, jeonbuk — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261031153857_ob3j7s",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "okpo-great-victory-park-okpo",
+      "theme": "k-culture",
+      "caption": "거제도의 푸른 바다를 배경으로 이순신 장군의 첫 승전보가 울려 퍼졌던 곳, 옥포대첩기념공원을 소개합니다. 임진왜란의 흐름을 바꾼 역사적인 현장에서 장군의 숭고한 정신과 용기를 느껴보세요. 탁 트인 전망과 함께 한국의 강인한 역사를 되짚어보는 고요한 산책을 추천합니다 ⚓️\n\nDiscover the site of Admiral Yi Sun-sin's first victory of the Imjin War at Okpo Great Victory Park. Set against the stunning backdrop of Geoje's coastline, this memorial offers a peaceful space to reflect on the courage and strategic brilliance that shaped Korean history.\n\nhttps://daedongyeojido-nine.vercel.app/places/okpo-great-victory-park-okpo\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #거제야호 #TravelTrend #gyeongnam #Geoje",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sdtfeb9_QqM4Xe5sKrYkexRSmUzTStL6dLyfMOic1r8pjo85_2XjDhHfXxSm9Sj026nDJ0Pw0wgAKuVUS0M0JZigKPykW7fcz4fkfDOUV_HBcccWCvMrdjaUlmaf_jcSJokkI=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/okpo-great-victory-park-okpo",
+      "score": 128,
+      "createdAt": "2026-10-31T15:38:57.318Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261031-okpo-great-victory-park-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-10-31T15:44:12.207Z",
+        "alt_text": "옥포대첩기념공원 (Okpo Great Victory Park) — okpo, gyeongnam — k culture"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261031075139_kjclmv",
       "status": "exported",

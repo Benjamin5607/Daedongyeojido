@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261101163940_il01fm",
+  "slug": "maemi-castle-jangmok",
+  "theme": "k-culture",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · A2O LITE “미혼 앤 비혼~”…‘밈→가수→노래’ 흥행 공식 증명새  · 한 달 만에 200만개 팔렸다…민음사빵 뛰어넘은 ‘리센느빵’ [강예슬의. · 리센느 소속사 더뮤즈, 직원 사칭 사기 경고···\"법적 조치 착수\"새 창 · 리센느, 함께해서 찬란해새 창 열림",
+    "updatedAt": "2026-11-01T08:47:44.329Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-11-01 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "매미성 (Maemi Castle) — jangmok, gyeongnam — k culture",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20251002_253/1759385151619lLF2D_JPEG/P1000362.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "매미성",
+    "en": "Maemi Castle"
+  },
+  "descriptionEn": "Stone wall built by one fisherman after Typhoon Maemi.",
+  "exportedAt": "2026-11-01T16:46:54.720Z"
+}

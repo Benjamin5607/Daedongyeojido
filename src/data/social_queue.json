@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-04T17:53:01.987Z",
+  "updatedAt": "2026-11-05T08:48:56.668Z",
   "items": [
+    {
+      "id": "sq_20261105084307_jb1p82",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "maemi-castle-jangmok-myeon-2",
+      "theme": "urban-nature",
+      "caption": "한 개인의 집념과 정성으로 쌓아 올린 거제의 특별한 성, 매미성을 소개합니다. 유럽의 고성처럼 이국적인 돌벽 너머로 펼쳐지는 푸른 바다의 조화가 일품인 곳이에요. 파도 소리를 들으며 성벽 길을 걷다 보면 일상의 고민은 잠시 잊고 오직 풍경에만 집중하게 됩니다. 거제 여행의 낭만을 더하고 싶다면 꼭 방문해 보세요 🏰\n\nDiscover Maemi Castle, a unique fortress built by a single individual's passion in Geoje. With its European-style stone architecture and breathtaking ocean views, it feels like stepping into a fairytale. Stroll along the fortress walls and let the sound of the waves bring you peace and inspiration. A must-visit spot for those seeking romance and scenic beauty in Korea.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/maemi-castle-jangmok-myeon-2",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251002_253/1759385151619lLF2D_JPEG/P1000362.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/maemi-castle-jangmok-myeon-2",
+      "score": 150,
+      "createdAt": "2026-11-05T08:43:07.224Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261105-maemi-castle-jangmok-myeon-2",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-05T08:48:56.664Z",
+        "alt_text": "매미성 (Maemi Castle) — jangmok-myeon, gyeongnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261105084257_9aa6qu",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "maemi-castle-jangmok-myeon",
+      "theme": "hallyu",
+      "caption": "한 개인의 집념과 정성으로 쌓아 올린 거제의 특별한 성, 매미성입니다. 푸른 바다를 배경으로 펼쳐진 이국적인 성벽을 걷다 보면 마치 유럽의 어느 해안 마을에 온 듯한 기분이 듭니다. 최근 다양한 트렌드와 함께 다시금 주목받고 있는 이곳에서, 파도 소리와 함께 여유로운 산책을 즐겨보세요 🌊\n\nMaemi Castle is a unique architectural marvel in Geoje, built entirely by a single individual. Walking along the exotic stone walls with the deep blue ocean as a backdrop feels like stepping into a coastal village in Europe. Come and experience the serene atmosphere and stunning views that have made this spot a trending destination 🏰\n\nhttps://daedongyeojido-nine.vercel.app/places/maemi-castle-jangmok-myeon\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KoreaTravel #거제야호 #TravelTrend #gyeongnam #거제도 #MaemiCastle",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZQfG2l4H_8XkDnw48WZLUPk4NYiCfZt0zr0mZFOqCi6DssWKAVZUm-_4TmgyJCPEvpwa8dsTztqf8Weo7S9htSPzX7av-0oIL0WAKVPLpm2BI0inSHU045gAcGFuHLtYQf5r4=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/maemi-castle-jangmok-myeon",
+      "score": 150,
+      "createdAt": "2026-11-05T08:42:57.502Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261105-maemi-castle-jangmok-myeon",
+        "imageFile": "image.png",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-05T08:45:45.830Z",
+        "alt_text": "매미성 (Maemi Castle) — jangmok-myeon, gyeongnam — hallyu"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261104175243_ba2v6f",
       "status": "exported",

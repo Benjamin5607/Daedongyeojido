@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261105175328_qewd1p",
+  "slug": "maemiseong-fortress-gyeongnam",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · A2O LITE “미혼 앤 비혼~”…‘밈→가수→노래’ 흥행 공식 증명새  · 한 달 만에 200만개 팔렸다…민음사빵 뛰어넘은 ‘리센느빵’ [강예슬의. · 리센느 소속사 더뮤즈, 직원 사칭 사기 경고···\"법적 조치 착수\"새 창 · 리센느, 함께해서 찬란해새 창 열림",
+    "updatedAt": "2026-11-01T08:47:44.329Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-11-05 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "매미성 (Maemiseong Fortress) — gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.png",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZQfG2l4H_8XkDnw48WZLUPk4NYiCfZt0zr0mZFOqCi6DssWKAVZUm-_4TmgyJCPEvpwa8dsTztqf8Weo7S9htSPzX7av-0oIL0WAKVPLpm2BI0inSHU045gAcGFuHLtYQf5r4=w800-h600-k-no",
+  "imageContentType": "image/png",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "매미성",
+    "en": "Maemiseong Fortress"
+  },
+  "descriptionEn": "",
+  "exportedAt": "2026-11-05T17:59:22.081Z"
+}

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-07T08:04:16.197Z",
+  "updatedAt": "2026-11-07T16:09:56.607Z",
   "items": [
+    {
+      "id": "sq_20261107160927_xlztvg",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "geoje-sea-world-ilwon",
+      "theme": "urban-nature",
+      "caption": "푸른 바다의 신비로움을 가까이서 느낄 수 있는 거제씨월드입니다. 다양한 해양 생물들과 교감하며 특별한 추억을 쌓을 수 있는 곳으로, 가족이나 연인과 함께 방문해 도심 속 자연의 여유를 만끽해 보세요. 🐬\n\nExperience the wonders of the ocean at Geoje Sea World. From interactive activities to breathtaking marine displays, it's the perfect spot to connect with nature and create lasting memories with your loved ones.\n\n더 자세한 정보는 여기서 확인하세요:\nhttps://daedongyeojido-nine.vercel.app/places/geoje-sea-world-ilwon\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #옥포 #TravelTrend #gyeongnam",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20240718_51/1721282237962knP9p_JPEG/YHW09952.JPG",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-sea-world-ilwon",
+      "score": 107,
+      "createdAt": "2026-11-07T16:09:27.296Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261107-geoje-sea-world-ilwon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-11-07T16:09:56.602Z",
+        "alt_text": "Pixar-style travel illustration of 거제씨월드 (Geoje Sea World) — ilwon, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261107160831_7i5zn6",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "okpo-public-bathhouse-okpo",
+      "theme": "urban-nature",
+      "caption": "거제 옥포에서 만나는 진정한 휴식, 옥포 대중탕입니다. 바쁜 일상 속에서 잠시 벗어나 따뜻한 온기 속에 몸을 녹이며 피로를 풀 수 있는 곳이에요. 친절한 서비스와 함께 편안한 수면실까지 갖춰져 있어, 여행 중 지친 몸을 재충전하기에 더할 나위 없습니다. 거제 여행의 마무리를 포근한 힐링으로 채워보세요 ♨️\n\nExperience true relaxation at Okpo Public Bathhouse in Geoje. It is the perfect spot to unwind and melt away the stress of your travels in the warm waters. With friendly staff and a cozy sleeping area, it offers a peaceful sanctuary to recharge your energy before heading back out into the city.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호맛집 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/okpo-public-bathhouse-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QoXdbxJ6DBM4AM9DKV8vveccpCGnrldEG396J7XEdA_l6z9C4Z17O5JKqVD7HLy7GZJCJ_bU1ex1HUl7XQD27aAom3P3KP3USiBxnVCBNYbF--0W8wulBvSUL7ysEJjI0dx_LX=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/okpo-public-bathhouse-okpo",
+      "score": 107,
+      "createdAt": "2026-11-07T16:08:31.658Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261107-okpo-public-bathhouse-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": true,
+        "imageProvider": "nvidia-vision-flux",
+        "exportedAt": "2026-11-07T16:09:43.730Z",
+        "alt_text": "Pixar-style travel illustration of 옥포 대중탕 (Okpo Public Bathhouse) — okpo, gyeongnam — urban nature, with Emily as a traveler in frame (based on real place photo)"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261107075739_y3wuqg",
       "status": "exported",

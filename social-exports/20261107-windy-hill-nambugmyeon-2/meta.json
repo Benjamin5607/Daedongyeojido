@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261107075728_qazulh",
+  "slug": "windy-hill-nambugmyeon-2",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "옥포",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-16T05:13:48.216Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-11-07 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "바람의 언덕 (Windy Hill) — nambugmyeon, gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#옥포",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TPI46yP7gjXCNBs2hvNpa_7NpRgX81rnUStYtoCcNoKZM4U1crDHIpKgWhUruSHJe5RSBKkX-r4K71iV-4ko0SI4cnlA9yrQG5wHjnv80OruRWPUgp9qTUpJyTEGO6pMe3yZKpRw=w800-h600-k-no",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "바람의 언덕",
+    "en": "Windy Hill"
+  },
+  "descriptionEn": "A scenic hill with a beautiful view of the surrounding area",
+  "exportedAt": "2026-11-07T08:00:12.888Z"
+}

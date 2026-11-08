@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-08T08:22:27.633Z",
+  "updatedAt": "2026-11-08T16:45:16.778Z",
   "items": [
+    {
+      "id": "sq_20261108163709_gjs5x1",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "ginseng-field-ridge-sunset-walk-geumsan-eup",
+      "theme": "sanhaeng",
+      "caption": "금산의 고요한 능선을 따라 걷는 시간. 인삼 차광막 사이로 펼쳐진 독특한 풍경과 붉게 물드는 노을이 어우러져 마음까지 평온해지는 곳입니다. 금산의 명물인 어죽과 바삭한 인삼튀김으로 든든하게 배를 채운 뒤, 숨겨진 로컬 산책로를 따라 천천히 걸어보세요. 🌅\n\nA peaceful stroll along the ridges of Geumsan. Experience the unique scenery of ginseng shade tents blending with the golden hues of dusk. After enjoying local delicacies like Eojuk (fish porridge) and crispy ginseng fries, take a slow walk through this hidden local gem.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #chungnam #Geumsan\n\nhttps://daedongyeojido-nine.vercel.app/places/ginseng-field-ridge-sunset-walk-geumsan-eup",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_280/1441006732154xQDQz_JPEG/12047081_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/ginseng-field-ridge-sunset-walk-geumsan-eup",
+      "score": 74,
+      "createdAt": "2026-11-08T16:37:09.800Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261108-ginseng-field-ridge-sunset-walk-geumsan-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-08T16:45:16.774Z",
+        "alt_text": "Ginseng Field Ridge Sunset Walk — geumsan-eup, chungnam — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261108163445_1ejxks",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "sapiens-geoje-okpo-okpo",
+      "theme": "k-food",
+      "caption": "거제 옥포항의 푸른 바다 곁에서 즐기는 특별한 한 끼, 사피엔스 거제옥포본점을 소개합니다. 화덕에서 정성껏 구워낸 생선구이와 신선한 굴 요리가 일품인 곳이에요. 겉은 바삭하고 속은 촉촉한 화덕구이의 풍미와 함께 거제의 여유로운 분위기를 만끽해 보세요. 🐟\n\nExperience a special meal by the serene Okpo harbor at Sapiens Geoje Okpo. This spot specializes in wood-fired oven grilled fish and fresh oyster dishes, offering a perfect balance of smoky flavor and tender texture. It is a wonderful place to enjoy the essence of Geoje's coastal flavors.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam #Geoje #거제도맛집\n\nhttps://daedongyeojido-nine.vercel.app/places/sapiens-geoje-okpo-okpo",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20261024_205/17928497415475I4F9_JPEG/1000024233.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/sapiens-geoje-okpo-okpo",
+      "score": 82,
+      "createdAt": "2026-11-08T16:34:45.270Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261108-sapiens-geoje-okpo-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-08T16:41:15.435Z",
+        "alt_text": "사피엔스 거제옥포본점 (Sapiens Geoje Okpo) — okpo, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261108082205_1xgo2p",
       "status": "exported",

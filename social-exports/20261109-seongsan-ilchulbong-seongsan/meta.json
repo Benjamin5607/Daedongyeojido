@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20261109090014_cgcnpx",
+  "slug": "seongsan-ilchulbong-seongsan",
+  "theme": "k-culture",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-11-09 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Seongsan Ilchulbong — seongsan, jeju — k culture",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#jeju"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20150831_117/1440992267605I7nrM_JPEG/11491438_0.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Seongsan Ilchulbong",
+    "en": "Seongsan Ilchulbong"
+  },
+  "descriptionEn": "UNESCO tuff cone crater famous for sunrise hikes and dramatic coastal cliffs.",
+  "exportedAt": "2026-11-09T09:05:17.659Z"
+}

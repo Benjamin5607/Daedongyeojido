@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-09T09:05:17.663Z",
+  "updatedAt": "2026-11-09T20:42:07.418Z",
   "items": [
+    {
+      "id": "sq_20261109203521_ck026v",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "garasan-mountain-nambugmyeon",
+      "theme": "sanhaeng",
+      "caption": "거제도의 푸른 바다를 한눈에 담을 수 있는 가라산입니다. 짧은 산행만으로도 해금강과 남해안의 절경이 펼쳐지는 곳이라 가벼운 마음으로 오르기 좋습니다. 복잡한 일상에서 벗어나 탁 트인 수평선을 바라보며 진정한 휴식을 경험해 보세요 ⛰️\n\nExperience the breathtaking views of the south coast at Garasan Mountain in Geoje. This short summit hike rewards you with a stunning panorama of Haegeumgang and the sparkling blue ocean. It is the perfect spot for those seeking a quick escape into nature.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongnam #Geoje\n\nhttps://daedongyeojido-nine.vercel.app/places/garasan-mountain-nambugmyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RXB2Aw58IEeHLkJ7srNWphRIgGtu_nxYO35GS8xjBPA7ECaekSqHEDRhvL7hcItFJI2IeERmfAqoyH486Ax-F4qy2-g7VhAjeZUk_GmM7hW1GiNusbwWN7XCrTnZlRmBihNeI=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/garasan-mountain-nambugmyeon",
+      "score": 74,
+      "createdAt": "2026-11-09T20:35:21.817Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261109-garasan-mountain-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-09T20:42:07.415Z",
+        "alt_text": "가라산 (Garasan Mountain) — nambugmyeon, gyeongnam — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261109203147_gnadjd",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "theme": "k-food",
+      "caption": "강원도 영월의 소박한 정취가 담긴 메밀 막국수 한 그릇 어떠신가요? 차고를 개조해 만든 정겨운 주방에서 정성껏 썰어낸 메밀면의 담백함을 느껴보세요. 화려하진 않지만 현지인들이 인정하는 깊은 맛이 기다리고 있습니다 🍜\n\nLooking for an authentic taste of Gangwon-do? Visit this hidden gem in Yeongwol, where hand-cut buckwheat noodles are served in a cozy, garage-turned-kitchen. It's a simple spot with a flavor that speaks for itself.\n\n더 자세한 정보는 여기서 확인하세요:\nhttps://daedongyeojido-nine.vercel.app/places/yeongwol-buckwheat-makguksu-corner-yeongwol-eup\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gangwon #영월맛집 #막국수",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260328_208/17746652230043IluE_JPEG/L1002209.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "score": 82,
+      "createdAt": "2026-11-09T20:31:47.651Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261109-yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-09T20:39:09.348Z",
+        "alt_text": "Yeongwol Buckwheat Makguksu Corner — yeongwol-eup, gangwon — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261109090014_cgcnpx",
       "status": "exported",

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-09T20:42:07.418Z",
+  "updatedAt": "2026-11-10T09:02:03.538Z",
   "items": [
+    {
+      "id": "sq_20261110085747_ub1xdp",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "spa-land-centum-city-haeundae",
+      "theme": "k-beauty",
+      "caption": "부산 해운대에서 누리는 완벽한 휴식, 스파랜드 센텀시티입니다. 신세계백화점 내에 위치한 이곳은 다양한 테마의 사우나와 찜질방을 갖춘 프리미엄 스파 공간입니다. 여행 중 쌓인 피로를 풀고 K-뷰티의 정수인 한국식 스파 문화를 경험하며 몸과 마음을 재충전해 보세요. 🌿\n\nExperience the ultimate relaxation at Spa Land Centum City in Haeundae, Busan. Located within Shinsegae Department Store, this premium luxury spa offers a variety of themed saunas and baths. It is the perfect place to unwind from your travels and immerse yourself in the authentic K-beauty spa culture.\n\nhttps://daedongyeojido-nine.vercel.app/places/spa-land-centum-city-haeundae\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KBeauty #BeautyTravel #뷰티 #KStyle #busan #haeundae #스파랜드",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20191203_87/1575341414885fTB51_JPEG/%B3%D7%C0%CC%B9%F6_%C7%C3%B7%B9%C0%CC%BD%BA_%C0%CC%B9%CC%C1%F6.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/spa-land-centum-city-haeundae",
+      "score": 65,
+      "createdAt": "2026-11-10T08:57:47.864Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261110-spa-land-centum-city-haeundae",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-10T09:02:03.533Z",
+        "alt_text": "스파랜드 신세계백화점 센텀시티점 (Spa Land Centum City) — haeundae, busan — k beauty"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261110085637_u1r2yt",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "achasan-ridge-neighborhood-path-guri-dong",
+      "theme": "sanhaeng",
+      "caption": "구리시의 숨은 보석, 아차산 능선 마을길을 소개합니다. 새벽녘이면 인근 주민들이 가볍게 조깅을 즐기는 이곳은 화려한 관광지보다 소박한 숲길의 정취가 가득한 곳입니다. 특히 전망대에서 내려다보는 한강의 탁 트인 풍경은 일상의 스트레스를 잊게 할 만큼 평온합니다. 가벼운 산책과 함께 서울의 전경을 한눈에 담아보세요 🌿\n\nDiscover a hidden local gem in Guri: the Achasan Ridge Neighborhood Path. This quiet forest loop is a favorite morning jogging spot for residents, offering a peaceful escape away from the crowds. The highlight is the breathtaking panoramic view of the Han River, providing a serene perspective of the city skyline. Perfect for those seeking a gentle hike and a moment of reflection.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeonggi #Guri\n\nhttps://daedongyeojido-nine.vercel.app/places/achasan-ridge-neighborhood-path-guri-dong",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_260/1440992272261sxuRJ_JPEG/11491459_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/achasan-ridge-neighborhood-path-guri-dong",
+      "score": 74,
+      "createdAt": "2026-11-10T08:56:37.706Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261110-achasan-ridge-neighborhood-path-guri-dong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-10T08:59:58.247Z",
+        "alt_text": "Achasan Ridge Neighborhood Path — guri-dong, gyeonggi — sanhaeng"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261109203521_ck026v",
       "status": "exported",

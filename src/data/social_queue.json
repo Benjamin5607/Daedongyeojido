@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-10T09:02:03.538Z",
+  "updatedAt": "2026-11-10T17:39:52.109Z",
   "items": [
+    {
+      "id": "sq_20261110173251_fs0kxw",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "theme": "k-food",
+      "caption": "순천만 습지의 고요한 아침을 깨우는 따뜻한 한 그릇, 순천만 젓갈죽 전문점을 소개합니다. 관광객들이 붐비기 전, 정갈하게 끓여낸 젓갈죽으로 든든하게 배를 채워보세요. 드넓은 갈대밭과 갯벌의 생명력을 마주하기 전, 몸과 마음을 데워줄 완벽한 시작이 될 것입니다. 🥣\n\nStart your morning at Suncheon Bay with a comforting bowl of salted shrimp porridge. Before the crowds arrive at the wetlands, enjoy a hearty meal that fuels your exploration of the wild reeds and mudflats. A hidden gem ranked high by locals for a reason.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #jeonnam #순천여행 #순천맛집\n\nhttps://daedongyeojido-nine.vercel.app/places/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260412_30/1776002899195qrlYw_JPEG/KakaoTalk_20260312_153759613_18.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+      "score": 82,
+      "createdAt": "2026-11-10T17:32:51.194Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261110-suncheon-bay-salted-shrimp-porridge-shop-suncheon-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-10T17:39:52.104Z",
+        "alt_text": "Suncheon Bay Salted Shrimp Porridge Shop — suncheon-si, jeonnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261110173120_pufjfy",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "theme": "k-food",
+      "caption": "통영 바닷가 근처, 현지인들이 즐겨 찾는 충무김밥 골목을 소개합니다. 아삭한 석박지와 깔끔하게 무쳐낸 오징어무침의 조화가 일품인 곳이에요. 화려한 관광지 식당보다 더 정겨운 통영의 진짜 맛을 느껴보세요 🌊\n\nDiscover the authentic taste of Tongyeong at the Chungmu Kimbap Back Alley. Known for its crisp radish kimchi and perfectly seasoned spicy squid, this is where locals head for a reliable, dockside meal.\n\nhttps://daedongyeojido-nine.vercel.app/places/tongyeong-chungmu-kimbap-back-alley-bongpyeong\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam #Tongyeong #통영맛집",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_282/1441021614858MOy5P_JPEG/11694124_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+      "score": 82,
+      "createdAt": "2026-11-10T17:31:20.469Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261110-tongyeong-chungmu-kimbap-back-alley-bongpyeong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-10T17:36:54.687Z",
+        "alt_text": "Tongyeong Chungmu Kimbap Back Alley — bongpyeong, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261110085747_ub1xdp",
       "status": "exported",

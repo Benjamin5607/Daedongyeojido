@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261112085636_hekvxn",
+  "slug": "pow-camp-oyster-grill-gohyeon",
+  "theme": "k-food",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · 전국+수도권+2054 시청률 土 예능 1위 '놀뭐' '95 서울가요제 1 · 리센느, 아이브·블랙핑크 제치고 걸그룹 브랜드평판 1위… 대세 입증했.. · 100kg 나갔던 이소라, '6년 은둔' 칩거 깬 이유..\"유재석 믿고  · 이소라·거미→고경표·미나미까지…'놀뭐' 95 서울가요제, 또 일내겠네.. · [투데이 窓] AI 시대, 자기다움이라는 아름다움새 창 열림",
+    "updatedAt": "2026-11-08T08:39:26.033Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-11-12 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "포로수용소굴구이 (POW Camp Oyster Grill) — gohyeon, gyeongnam — k food",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanFood",
+    "#KFood",
+    "#맛집",
+    "#한식",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S1GA0WJkixRfLPBloZt726Wiz9U3L5N63md8TR0JLsiL1FRy0FqCI2-HXVIfM3DOboaHSw9M5Cut1Pbz84k-fzTcCpSV1XHSRICqKjiG4I3nF6uAMA6lRZHpPwBcWCrBGELw-O=w800-h600-k-no",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "포로수용소굴구이",
+    "en": "POW Camp Oyster Grill"
+  },
+  "descriptionEn": "Charcoal-grilled oysters near the POW memorial park.",
+  "exportedAt": "2026-11-12T09:02:17.328Z"
+}

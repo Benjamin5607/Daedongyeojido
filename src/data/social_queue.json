@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-15T17:05:56.711Z",
+  "updatedAt": "2026-11-16T08:58:36.452Z",
   "items": [
+    {
+      "id": "sq_20261116085143_t0vap7",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "seokguram-grotto-gyeongju",
+      "theme": "k-culture",
+      "caption": "경주 토함산의 고요한 품에 안긴 석굴암에서 마음의 평온을 찾아보세요. 8세기 신라 시대의 정교한 예술성이 돋보이는 이곳은 동해를 바라보는 인자한 부처님의 미소가 깊은 울림을 줍니다. 가벼운 산책로를 따라 걷다 보면 마주하게 되는 경이로운 석조 건축의 정수를 경험해 보세요.\n\nFind serenity at Seokguram Grotto, nestled in the embrace of Tohamsan Mountain in Gyeongju. This UNESCO World Heritage site showcases the exquisite artistry of the 8th-century Silla Kingdom, featuring a granite Buddha that gazes peacefully over the East Sea. Enjoy a gentle 15-minute walk from the parking area to witness one of Korea's most profound spiritual treasures 🧘\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #Gyeongju #gyeongbuk #UNESCO #경주여행\n\nhttps://daedongyeojido-nine.vercel.app/places/seokguram-grotto-gyeongju",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260304_135/1772636023073XvxNy_JPEG/05hlsJpiDSbn.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seokguram-grotto-gyeongju",
+      "score": 65,
+      "createdAt": "2026-11-16T08:51:43.077Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261116-seokguram-grotto-gyeongju",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-16T08:58:36.447Z",
+        "alt_text": "Seokguram Grotto — gyeongbuk — k culture"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261116084810_gum6wu",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-cable-car-dongbu",
+      "theme": "urban-nature",
+      "caption": "거제도의 푸른 바다와 산세가 한눈에 들어오는 거제케이블카입니다. 크리스탈 캐빈의 투명한 바닥 너머로 펼쳐지는 아찔한 풍경과 정상 전망대에서 마주하는 파노라마 뷰는 일상의 스트레스를 잊게 해줍니다. 최근 리센느 멤버들이 방문해 더욱 화제가 되고 있는 이곳에서 특별한 추억을 남겨보세요 🚠\n\nExperience the breathtaking panorama of Geoje Island at the Geoje Cable Car. From the thrilling crystal glass-floor cabins to the stunning observatory at the summit, every moment offers a fantastic view of nature. Come and discover why this spot is trending right now.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/geoje-cable-car-dongbu",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T29Tjehr2Y_tbuvq7B5JXzGol56VK1YFi_7bQ3OoJu2Z4BKa0tTuO_t-hrpGbHngWiKP5Djur9-PdqSxiuSqLZGU9JW20I5My_kXw-Rt21szw9ms5ispg86fTyjtRebrdiUwQ_Gw=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-cable-car-dongbu",
+      "score": 153,
+      "createdAt": "2026-11-16T08:48:10.118Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261116-geoje-cable-car-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-16T08:54:35.611Z",
+        "alt_text": "거제케이블카 (Geoje Cable Car) — dongbu, gyeongnam — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261115170040_aks24l",
       "status": "exported",

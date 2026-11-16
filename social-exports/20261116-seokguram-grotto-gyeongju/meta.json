@@ -1,0 +1,44 @@
+{
+  "queueId": "sq_20261116085143_t0vap7",
+  "slug": "seokguram-grotto-gyeongju",
+  "theme": "k-culture",
+  "format": "place_card",
+  "slot": "morning",
+  "trend": null,
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-11-16 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "Seokguram Grotto — gyeongbuk — k culture",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreanCulture",
+    "#Heritage",
+    "#한국문화",
+    "#TempleStay",
+    "#gyeongbuk"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://ldb-phinf.pstatic.net/20260304_135/1772636023073XvxNy_JPEG/05hlsJpiDSbn.jpg",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "Seokguram Grotto",
+    "en": "Seokguram Grotto"
+  },
+  "descriptionEn": "UNESCO stone grotto housing a serene granite Buddha overlooking the East Sea.",
+  "exportedAt": "2026-11-16T08:58:36.447Z"
+}

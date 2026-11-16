@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-16T08:58:36.452Z",
+  "updatedAt": "2026-11-16T20:04:29.043Z",
   "items": [
+    {
+      "id": "sq_20261116200418_txojof",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "hakdong-1-night-2-days-restaurant-dongbu",
+      "theme": "k-food",
+      "caption": "거제 학동 흑진주 몽돌해변의 파도 소리를 뒤로하고 즐기는 신선한 생선구이 정찬을 만나보세요. 정갈하게 차려진 한 상 차림이 여행의 허기를 따뜻하게 채워줍니다. 🐟\n\nEnjoy a fresh grilled fish set meal just steps away from the scenic Hakdong black-pebble beach in Geoje. A comforting and authentic Korean meal to fuel your coastal journey.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam #Geoje #거제도맛집\n\nhttps://daedongyeojido-nine.vercel.app/places/hakdong-1-night-2-days-restaurant-dongbu",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rwc53UHMQvjIfSPE7-9-CO_nlXDIX_xsCh-4ZcsXGOvtrrQBKtpN8sWkHfU9-uHltQks3yeJesAAXrC2IvK6FrOH88O8UbwqwqjKCzbJuVSmD8KLAZihjBHMiS_FGTAHTe6nLNSI3RsYy3=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/hakdong-1-night-2-days-restaurant-dongbu",
+      "score": 82,
+      "createdAt": "2026-11-16T20:04:18.191Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261116-hakdong-1-night-2-days-restaurant-dongbu",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-16T20:04:29.038Z",
+        "alt_text": "학동1박2일맛있는집 (Hakdong 1 Night 2 Days Restaurant) — dongbu, gyeongnam — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261116200250_1pou0i",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "hybe-headquarters-yongsan",
+      "theme": "hallyu",
+      "caption": "용산의 랜드마크, 하이브 본사를 방문해 보세요. 글로벌 음악 시장을 이끄는 BTS와 수많은 아티스트들의 에너지가 느껴지는 곳입니다. K-팝의 중심지에서 현대적인 건축미와 한류의 열기를 동시에 경험해 보시길 바랍니다.\n\nVisit the HYBE Headquarters in Yongsan, the heart of the global entertainment industry. As the home of BTS and many other world-class artists, it is a must-visit spot to feel the energy of K-pop and admire its modern architecture. 🎵\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KDrama #한류 #KoreaTravel #거제야호 #TravelTrend #seoul\n\nhttps://daedongyeojido-nine.vercel.app/places/hybe-headquarters-yongsan",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260407_56/1775497357788XdT0R_JPEG/IMG_1252.jpeg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/hybe-headquarters-yongsan",
+      "score": 122,
+      "createdAt": "2026-11-16T20:02:50.012Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261116-hybe-headquarters-yongsan",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-16T20:04:26.775Z",
+        "alt_text": "하이브 본사 (HYBE Headquarters) — yongsan, seoul — hallyu"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261116085143_t0vap7",
       "status": "exported",

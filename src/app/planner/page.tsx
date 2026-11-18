@@ -324,7 +324,7 @@ function PlannerContent() {
         </section>
 
         {isScheduleEmpty ? (
-          <div className="rounded-3xl border border-dashed border-stone-300 bg-stone-50/50 p-12 text-center text-stone-500 shadow-inner">
+          <div className="fab-content-inset rounded-3xl border border-dashed border-stone-300 bg-stone-50/50 p-8 text-center text-stone-500 shadow-inner sm:p-12">
             <span className="text-5xl" aria-hidden>🗺️</span>
             <h3 className="mt-4 text-lg font-semibold text-stone-800">{t.plannerPageTitle}</h3>
             <p className="mx-auto mt-2 max-w-md text-sm leading-relaxed text-stone-500">
@@ -332,7 +332,7 @@ function PlannerContent() {
             </p>
             <a
               href="/"
-              className="mt-5 inline-flex items-center gap-1.5 rounded-full bg-[var(--color-trip-green)] px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-[var(--color-trip-green-dark)]"
+              className="btn-touch mt-5 inline-flex items-center gap-1.5 rounded-full bg-[var(--color-trip-green)] px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-[var(--color-trip-green-dark)]"
             >
               🔍 Browse Places
             </a>

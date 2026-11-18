@@ -31,9 +31,9 @@
     --app-bottom-nav-height: 4.25rem;
     /* Keep FAB clearly above bottom nav + thumb zone */
     --fab-clearance: calc(
-      var(--app-bottom-nav-height) + 1.25rem + var(--safe-bottom)
+      var(--app-bottom-nav-height) + 1.5rem + var(--safe-bottom)
     );
-    --fab-side-inset: 4.75rem; /* reserve corner so CTAs don't sit under FAB */
+    --fab-side-inset: 5rem; /* reserve corner so CTAs don't sit under FAB */
   }
 }
 

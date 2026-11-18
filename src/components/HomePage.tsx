@@ -59,37 +59,37 @@ export function HomePage() {
   return (
     <PageShell>
       <section className="relative overflow-hidden border-b border-[var(--color-border)] bg-gradient-to-br from-[var(--color-trip-green)]/10 via-white to-[var(--color-accent-soft)]/40">
-        <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6 sm:py-20">
+        <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-20">
           <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-[var(--color-trip-green-dark)]">
             {t.heroEyebrow}
           </p>
-          <h1 className="max-w-3xl font-serif text-4xl font-semibold leading-tight text-[var(--color-ink)] sm:text-5xl">
+          <h1 className="max-w-3xl font-serif text-3xl font-semibold leading-tight text-[var(--color-ink)] sm:text-5xl">
             {t.heroTitle}
           </h1>
-          <p className="mt-4 max-w-2xl text-base leading-relaxed text-[var(--color-muted)] sm:text-lg">
+          <p className="mt-4 max-w-2xl text-sm leading-relaxed text-[var(--color-muted)] sm:text-lg">
             {t.heroSubtitle}
           </p>
 
-          <div className="mt-8 max-w-2xl">
+          <div className="mt-6 max-w-2xl sm:mt-8">
             <SearchBar size="hero" />
           </div>
 
-          <dl className="mt-10 grid grid-cols-3 gap-4 sm:max-w-lg">
-            <div className="rounded-2xl bg-white/80 px-4 py-3 text-center shadow-sm backdrop-blur">
-              <dt className="text-xs text-[var(--color-muted)]">{t.statPlaces}</dt>
-              <dd className="font-serif text-2xl font-semibold text-[var(--color-trip-green-dark)]">
+          <dl className="mt-8 grid grid-cols-3 gap-2 sm:mt-10 sm:max-w-lg sm:gap-4">
+            <div className="rounded-2xl bg-white/80 px-2 py-3 text-center shadow-sm backdrop-blur sm:px-4">
+              <dt className="text-[10px] text-[var(--color-muted)] sm:text-xs">{t.statPlaces}</dt>
+              <dd className="font-serif text-xl font-semibold text-[var(--color-trip-green-dark)] sm:text-2xl">
                 {stats.placeCount}+
               </dd>
             </div>
-            <div className="rounded-2xl bg-white/80 px-4 py-3 text-center shadow-sm backdrop-blur">
-              <dt className="text-xs text-[var(--color-muted)]">{t.statRegions}</dt>
-              <dd className="font-serif text-2xl font-semibold text-[var(--color-trip-green-dark)]">
+            <div className="rounded-2xl bg-white/80 px-2 py-3 text-center shadow-sm backdrop-blur sm:px-4">
+              <dt className="text-[10px] text-[var(--color-muted)] sm:text-xs">{t.statRegions}</dt>
+              <dd className="font-serif text-xl font-semibold text-[var(--color-trip-green-dark)] sm:text-2xl">
                 {stats.provinceCount}
               </dd>
             </div>
-            <div className="rounded-2xl bg-white/80 px-4 py-3 text-center shadow-sm backdrop-blur">
-              <dt className="text-xs text-[var(--color-muted)]">{t.statReviews}</dt>
-              <dd className="font-serif text-2xl font-semibold text-[var(--color-trip-green-dark)]">
+            <div className="rounded-2xl bg-white/80 px-2 py-3 text-center shadow-sm backdrop-blur sm:px-4">
+              <dt className="text-[10px] text-[var(--color-muted)] sm:text-xs">{t.statReviews}</dt>
+              <dd className="font-serif text-xl font-semibold text-[var(--color-trip-green-dark)] sm:text-2xl">
                 {(stats.reviewCount / 1000).toFixed(1)}k
               </dd>
             </div>

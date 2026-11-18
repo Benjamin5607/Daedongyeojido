@@ -151,7 +151,10 @@ export function GuideBot({
             className="absolute inset-0 bg-black/40 backdrop-blur-sm"
             onClick={handleClose}
           />
-          <div className="relative z-10 w-full max-w-lg sm:w-auto">
+          <div
+            className="relative z-10 w-full max-w-lg sm:w-auto"
+            style={{ paddingBottom: "var(--safe-bottom)" }}
+          >
             {panel}
           </div>
         </div>

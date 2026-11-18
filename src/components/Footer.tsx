@@ -9,7 +9,7 @@ export function Footer() {
 
   return (
     <footer className="mt-auto border-t border-[var(--color-border)] bg-[var(--color-ink)] text-white">
-      <div className="mx-auto grid max-w-6xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-3">
+      <div className="mx-auto grid max-w-6xl gap-8 px-4 py-10 sm:gap-10 sm:px-6 sm:py-12 md:grid-cols-3">
         <div>
           <p className="font-serif text-xl font-semibold">{t.siteTitle}</p>
           <p className="mt-2 text-sm leading-relaxed text-white/70">

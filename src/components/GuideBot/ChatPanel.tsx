@@ -325,12 +325,12 @@ export function ChatPanel({
 
   return (
     <div className="flex h-full min-h-0 flex-col">
-      <div className="flex items-center justify-between border-b border-[var(--color-border)] bg-stone-50/70 px-4 py-2.5">
-        <div className="flex gap-2">
+      <div className="flex flex-wrap items-center justify-between gap-2 border-b border-[var(--color-border)] bg-stone-50/70 px-3 py-2.5 sm:px-4">
+        <div className="flex min-w-0 flex-wrap gap-1.5">
           <button
             type="button"
             onClick={() => setActiveTab("chat")}
-            className={`rounded-lg px-3 py-1.5 text-xs font-semibold transition ${
+            className={`btn-touch rounded-lg px-3 py-1.5 text-xs font-semibold transition ${
               activeTab === "chat"
                 ? "bg-[var(--color-trip-green)] text-white shadow-sm"
                 : "text-stone-600 hover:bg-stone-100"
@@ -342,7 +342,7 @@ export function ChatPanel({
             <button
               type="button"
               onClick={() => setActiveTab("map")}
-              className={`rounded-lg px-3 py-1.5 text-xs font-semibold transition ${
+              className={`btn-touch rounded-lg px-3 py-1.5 text-xs font-semibold transition ${
                 activeTab === "map"
                   ? "bg-amber-600 text-white shadow-sm"
                   : "text-stone-600 hover:bg-stone-100"
@@ -353,24 +353,26 @@ export function ChatPanel({
           )}
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex min-w-0 flex-wrap items-center gap-2">
           <button
             type="button"
             onClick={handleNearby}
             disabled={loading || locating}
-            className="flex items-center gap-1 rounded-full bg-[var(--color-trip-green)]/10 px-2.5 py-1.5 text-[10px] font-bold text-[var(--color-trip-green-dark)] transition hover:bg-[var(--color-trip-green)]/20 disabled:opacity-50"
+            className="btn-touch inline-flex max-w-full items-center gap-1 rounded-full bg-[var(--color-trip-green)]/10 px-2.5 py-1.5 text-[10px] font-bold text-[var(--color-trip-green-dark)] transition hover:bg-[var(--color-trip-green)]/20 disabled:opacity-50"
           >
-            {mode === "hiking" ? "⛰️" : "🧭"}{" "}
-            {locating
-              ? t.guideBotLocationLoading
-              : mode === "hiking"
-                ? t.guideBotHikingNearby
-                : t.guideBotNearby}
+            <span aria-hidden>{mode === "hiking" ? "⛰️" : "🧭"}</span>
+            <span className="truncate">
+              {locating
+                ? t.guideBotLocationLoading
+                : mode === "hiking"
+                  ? t.guideBotHikingNearby
+                  : t.guideBotNearby}
+            </span>
           </button>
           <button
             type="button"
             onClick={onChangeKey}
-            className="text-[10px] font-medium text-[var(--color-muted)] underline hover:text-[var(--color-ink)]"
+            className="shrink-0 text-[10px] font-medium text-[var(--color-muted)] underline hover:text-[var(--color-ink)]"
           >
             {t.guideBotChangeKey}
           </button>

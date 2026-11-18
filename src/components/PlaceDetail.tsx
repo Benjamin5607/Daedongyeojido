@@ -215,14 +215,14 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
 
             <p className="text-sm text-[var(--color-muted)]">{address}</p>
 
-            <div className="flex flex-col gap-2 sm:flex-row sm:flex-wrap">
+            <div className="action-row fab-content-inset">
               <button
                 type="button"
                 onClick={handleTogglePlanner}
-                className={`inline-flex flex-1 items-center justify-center gap-1.5 rounded-xl px-4 py-3 text-sm font-semibold transition shadow-sm ${
+                className={`btn-touch inline-flex items-center justify-center gap-1.5 rounded-xl px-4 py-3 text-sm font-semibold shadow-sm transition sm:flex-1 ${
                   isInPlanner
-                    ? "bg-emerald-600 hover:bg-emerald-700 text-white"
-                    : "bg-white border border-stone-300 text-stone-700 hover:bg-stone-50"
+                    ? "bg-emerald-600 text-white hover:bg-emerald-700"
+                    : "border border-stone-300 bg-white text-stone-700 hover:bg-stone-50"
                 }`}
               >
                 <span>{isInPlanner ? "❤️" : "🤍"}</span>
@@ -231,7 +231,7 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
               <button
                 type="button"
                 onClick={handleSharePlace}
-                className="inline-flex flex-1 items-center justify-center rounded-xl border border-[var(--color-border)] px-4 py-3 text-sm font-semibold text-[var(--color-ink)] transition hover:border-[var(--color-trip-green)]"
+                className="btn-touch inline-flex items-center justify-center rounded-xl border border-[var(--color-border)] px-4 py-3 text-sm font-semibold text-[var(--color-ink)] transition hover:border-[var(--color-trip-green)] sm:flex-1"
               >
                 {shareCopied ? t.placeLinkCopied : t.sharePlace}
               </button>
@@ -239,7 +239,7 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
                 href={naverMapUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex flex-1 items-center justify-center rounded-xl bg-[#03C75A] px-4 py-3 text-sm font-semibold text-white transition hover:bg-[#02a84a]"
+                className="btn-touch inline-flex items-center justify-center rounded-xl bg-[#03C75A] px-4 py-3 text-sm font-semibold text-white transition hover:bg-[#02a84a] sm:flex-1"
               >
                 {t.directionsOnNaver}
               </a>
@@ -247,7 +247,7 @@ export function PlaceDetail({ place }: PlaceDetailProps) {
                 href={googleMapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex flex-1 items-center justify-center rounded-xl border border-[var(--color-border)] px-4 py-3 text-sm font-semibold text-[var(--color-ink)] transition hover:border-[var(--color-trip-green)]"
+                className="btn-touch inline-flex items-center justify-center rounded-xl border border-[var(--color-border)] px-4 py-3 text-sm font-semibold text-[var(--color-ink)] transition hover:border-[var(--color-trip-green)] sm:flex-1"
               >
                 {t.viewOnGoogleMaps}
               </a>

@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-17T19:05:25.316Z",
+  "updatedAt": "2026-11-18T09:26:48.834Z",
   "items": [
+    {
+      "id": "sq_20261118092642_qteguu",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-maengjong-bamboo-theme-park-hacheong",
+      "theme": "urban-nature",
+      "caption": "초록빛 대나무 숲길을 걸으며 마음의 여유를 찾아보세요. 거제 맹종죽 테마파크는 울창한 대나무 숲이 주는 고요함과 자연의 생명력을 동시에 느낄 수 있는 곳입니다. 일상의 소음에서 벗어나 오직 바람 소리와 대나무 잎 부딪히는 소리에 집중하며 진정한 힐링을 경험해 보세요 🌿\n\nStep into a world of serenity at Geoje Maengjong Bamboo Theme Park. Wander through towering bamboo groves and discover the cultural beauty of the Mengjongjuk tree. It is the perfect destination to escape the city bustle and reconnect with nature in the heart of Geoje 🎋\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제트렌드 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/geoje-maengjong-bamboo-theme-park-hacheong",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20220722_145/165846039525833xpu_JPEG/C34C4B9A-29B5-49B3-A92E-ABAA8AE5B7D6.jpeg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-maengjong-bamboo-theme-park-hacheong",
+      "score": 152,
+      "createdAt": "2026-11-18T09:26:42.910Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261118-geoje-maengjong-bamboo-theme-park-hacheong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-18T09:26:48.831Z",
+        "alt_text": "거제맹종죽 테마파크 (Geoje Maengjong Bamboo Theme Park) — hacheong, gyeongnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261118092634_zd1x6f",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "moraeseong-bunsik",
+      "theme": "k-culture",
+      "caption": "거제 덕포동의 푸른 바다를 바라보며 즐기는 분식의 여유, 모래성분식입니다. 최근 거제 출신 아티스트의 맛집으로 알려지며 더욱 주목받고 있는 곳인데요. 특히 바삭함이 일품인 치킨과 매콤한 떡볶이의 조합은 거제 여행 중 놓칠 수 없는 별미입니다. 탁 트인 오션뷰와 함께 기분 좋은 한 끼를 경험해 보세요.\n\nEnjoy a relaxing meal with a stunning ocean view at Moraeseong Bunsik in Deokpo-dong, Geoje. Recently highlighted as a favorite spot for local celebrities, this gem is best known for its incredibly crispy chicken and savory tteokbokki. It is the perfect place to savor authentic Korean comfort food while gazing at the beautiful Geoje coastline.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #거제야호 #TravelTrend #gyeongnam #Geoje #Kfood #거제맛집\n\nhttps://daedongyeojido-nine.vercel.app/places/moraeseong-bunsik",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RIi4gIGnTnL_3sV0_o_xCG-sYFdcREqB0cMB7ae56p-okBlPSifDrTE7hePSOO5q7ryrDRAKs--pn8BXwJIMKac0m2q0WpkflBQAUMV4MdHQ3gC65fl0cMW59T5P2UZNH9b0YzHA8qOeI=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/moraeseong-bunsik",
+      "score": 152,
+      "createdAt": "2026-11-18T09:26:34.219Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261118-moraeseong-bunsik",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-18T09:26:45.712Z",
+        "alt_text": "모래성분식 (Moraeseong Bunsik) — 덕포동, gyeongnam — k culture"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261117190504_i03lj8",
       "status": "exported",

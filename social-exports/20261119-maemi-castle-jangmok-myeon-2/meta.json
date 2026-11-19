@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261119185545_ii8876",
+  "slug": "maemi-castle-jangmok-myeon-2",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "evening",
+  "trend": {
+    "label": "거제 야호!",
+    "source": "리센느 / 원이·미나미 거제 콘텐츠 · 거제시 주민자치회, 제8회 경상남도 주민자치박람회 참가새 창 열림 · 리센느, 하루 1시간 잔다더니…미나미 결국 건강 악화 스케줄 불참새 창  · 아이돌 90%는 중소돌…리센느 나올 확률은 '1.4%'새 창 열림 · 리센느, 엄청 뜨겁다새 창 열림 · \"메르치 사이소\" 사투리의 변신…지역 홍보·관광상품으로 인기새 창 열림",
+    "updatedAt": "2026-11-15T08:52:58.705Z"
+  },
+  "captionSource": "nvidia",
+  "is_ai_generated": true,
+  "caption_ai_generated": true,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-11-19 19:00",
+    "slot": "evening"
+  },
+  "alt_text": "매미성 (Maemi Castle) — jangmok-myeon, gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제야호",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.png",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T-lruU8GCTI6FJKBfFS_rnVTQx9SErjMaHX0JBT3oS9WCY5VryU7vve7CLktpv48d3NDIcb7buMoydfw9Y2JSZXZ4qdm9S5BVeFPARZt_9HXqQAq9_J2dXuydR0m4mB_kZCqOH=w800-h600-k-no",
+  "imageContentType": "image/png",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "매미성",
+    "en": "Maemi Castle"
+  },
+  "descriptionEn": "A unique fortress built by a civilian, offering stunning ocean views and European-style stone architecture.",
+  "exportedAt": "2026-11-19T18:55:52.327Z"
+}

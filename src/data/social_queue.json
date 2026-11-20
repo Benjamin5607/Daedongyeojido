@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-20T09:22:37.244Z",
+  "updatedAt": "2026-11-20T18:25:43.630Z",
   "items": [
+    {
+      "id": "sq_20261120182347_r0snwu",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "maemiseong-fortress-gyeongnam-2",
+      "theme": "hallyu",
+      "caption": "거제도의 푸른 바다와 중세 유럽의 성벽이 만난 곳, 매미성을 소개합니다. 한 사람의 정성으로 쌓아 올린 이곳은 마치 영화 속 한 장면 같은 이국적인 분위기를 자아내어 많은 이들의 발길이 닿는 곳입니다. 파도 소리를 들으며 성벽 길을 걷다 보면 일상의 고민은 잠시 잊고 여유를 찾으실 수 있을 거예요. 🌊\n\nDiscover the unique charm of Maemiseong Fortress in Geoje, where medieval European-style walls meet the deep blue sea of Korea. Built by a single person's dedication, this fortress offers a cinematic atmosphere that feels like a getaway to another world. Take a peaceful stroll along the stone walls and let the sound of the waves refresh your soul.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KoreaTravel #거제야호 #TravelTrend #gyeongnam #거제도 #Maemiseong\n\nhttps://daedongyeojido-nine.vercel.app/places/maemiseong-fortress-gyeongnam-2",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T-lruU8GCTI6FJKBfFS_rnVTQx9SErjMaHX0JBT3oS9WCY5VryU7vve7CLktpv48d3NDIcb7buMoydfw9Y2JSZXZ4qdm9S5BVeFPARZt_9HXqQAq9_J2dXuydR0m4mB_kZCqOH=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/maemiseong-fortress-gyeongnam-2",
+      "score": 122,
+      "createdAt": "2026-11-20T18:23:47.391Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261120-maemiseong-fortress-gyeongnam-2",
+        "imageFile": "image.png",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-20T18:25:43.623Z",
+        "alt_text": "매미성 (Maemiseong Fortress) — gyeongnam — hallyu"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261120182252_40gfht",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "geoje-grilled-fish-soy-crab-geoje",
+      "theme": "k-food",
+      "caption": "거제도 여행에서 놓칠 수 없는 든든한 한 끼, 거제도생선구이간장게장을 소개합니다. 겉바속촉하게 구워낸 생선구이는 물론, 짭조름한 간장게장까지 함께 즐길 수 있는 곳이에요. 특히 정갈한 기본 반찬과 더불어 김치전, 부추전, 마라 새우 등 다채로운 메뉴가 준비된 푸짐한 셀프바가 이곳의 숨은 매력입니다. 🐟\n\nExperience a hearty seafood feast at Geoje Grilled Fish & Soy Crab. From perfectly grilled fish to savory soy-marinated crab, every dish captures the essence of Geoje's coast. Don't miss their impressive self-service bar, featuring a variety of Korean pancakes and side dishes that make the meal even more special.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제음식 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/geoje-grilled-fish-soy-crab-geoje",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TozF8r_Z4RwvPX1kkceVrqqsD_z95PaaIq7mn3rkOmP4orS9UXPtYUOqg5AEaRHR9S9pr_AtF31OLYdqSPZLcMdOyjSkoDmQwbzgNIWONGOHHk-cpJHYxxIUfhUcNQeSz7bEXiD-9XYyna=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-grilled-fish-soy-crab-geoje",
+      "score": 125,
+      "createdAt": "2026-11-20T18:22:52.533Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261120-geoje-grilled-fish-soy-crab-geoje",
+        "imageFile": "image.png",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-20T18:24:24.355Z",
+        "alt_text": "거제도생선구이간장게장 (Geoje Grilled Fish & Soy Crab) — gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261120092227_kvlrcd",
       "status": "exported",

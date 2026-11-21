@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-20T18:25:43.630Z",
+  "updatedAt": "2026-11-21T09:06:58.305Z",
   "items": [
+    {
+      "id": "sq_20261121085832_j7x7hh",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-pow-camp-historic-park-gyeongnam",
+      "theme": "urban-nature",
+      "caption": "거제도의 푸른 자연 속에 자리 잡은 포로수용소 유적공원에서 역사의 숨결을 느껴보세요. 도시의 편리함과 자연의 평온함이 공존하는 이곳은 단순한 관람을 넘어 깊은 생각에 잠기게 하는 특별한 공간입니다. 거제의 매력을 새롭게 발견하고 싶은 분들께 추천합니다.\n\nExperience the echoes of history at Geoje POW Camp Historic Park, where urban structure meets the serenity of nature. It is a place for reflection and discovery, offering a unique perspective on the past amidst the beautiful landscapes of Geoje.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호 #TravelTrend #gyeongnam\n\nhttps://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-historic-park-gyeongnam",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-pow-camp-historic-park-gyeongnam",
+      "score": 147,
+      "createdAt": "2026-11-21T08:58:32.469Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261121-geoje-pow-camp-historic-park-gyeongnam",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-21T09:06:58.300Z",
+        "alt_text": "거제도 포로수용소 유적공원 (Geoje POW Camp Historic Park) — gyeongnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261121085757_2zs96m",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-sea-world-gyeongnam",
+      "theme": "hallyu",
+      "caption": "거제의 푸른 바다와 똑똑한 벨루가를 만날 수 있는 거제씨월드입니다. 귀여운 해양 동물들과 교감하며 특별한 추억을 만들어보세요. 요즘 핫한 '거제 야호!' 트렌드와 함께 경남 여행의 즐거움을 더해보시길 추천합니다 🐬\n\nExperience the magic of the ocean at Geoje Sea World, where you can meet the intelligent and friendly beluga whales. It is the perfect spot to create unforgettable memories in Gyeongnam. Join the 'Geoje Yaho!' trend and discover the charm of the coast.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #Hallyu #KoreaTravel #거제야호 #TravelTrend #gyeongnam #거제씨월드 #GeojeSeaWorld\n\nhttps://daedongyeojido-nine.vercel.app/places/geoje-sea-world-gyeongnam",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20241008_76/1728345580645pOgQ3_JPEG/DSC03360.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-sea-world-gyeongnam",
+      "score": 147,
+      "createdAt": "2026-11-21T08:57:57.427Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261121-geoje-sea-world-gyeongnam",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-21T09:03:01.562Z",
+        "alt_text": "거제씨월드 (Geoje Sea World) — gyeongnam — hallyu"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261120182347_r0snwu",
       "status": "exported",

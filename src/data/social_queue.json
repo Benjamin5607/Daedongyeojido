@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-22T09:11:31.719Z",
+  "updatedAt": "2026-11-22T17:53:32.443Z",
   "items": [
+    {
+      "id": "sq_20261122174829_m2ucyk",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+      "theme": "sanhaeng",
+      "caption": "문경새재의 깊은 가을을 만끽할 수 있는 능선 루프 코스를 소개합니다. 단풍의 끝자락에서도 여전히 아름다운 색감이 가득하며, 오르는 길 중간중간 뒤를 돌아볼 때마다 새로운 풍경이 펼쳐지는 매력적인 곳입니다. 약간의 오르막이 있지만, 그만큼 보람찬 경치를 선사하는 문경의 숨은 보석 같은 길입니다 🍂\n\nExperience the lingering beauty of autumn at the Mungyeong Saejae Pass Ridge Loop. This historic trail offers stunning vistas, especially when you pause to look back at the path you've climbed. While the ascent can be challenging, the vibrant colors and serene atmosphere make every step worth it.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongbuk #mungyeong\n\nhttps://daedongyeojido-nine.vercel.app/places/mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20180419_12/15241022115696zyVx_JPEG/-R-J-BLQC1P5udeVHAWakh02.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+      "score": 74,
+      "createdAt": "2026-11-22T17:48:29.273Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261122-mungyeong-saejae-pass-ridge-loop-mungyeong-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-22T17:53:32.437Z",
+        "alt_text": "Mungyeong Saejae Pass Ridge Loop — mungyeong-si, gyeongbuk — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261122174401_ugpyha",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "saengsaengi-gohyeon",
+      "theme": "k-food",
+      "caption": "생생이\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/saengsaengi-gohyeon\n\nSaengsaengi\nGeoje seafood institution famous for iron-pot haemul stew and haemul galbi jjim.\n“싱싱하고 조개 맛있게 먹었어요”\nGuide: https://daedongyeojido-nine.vercel.app/places/saengsaengi-gohyeon\n\nTraveler note: 싱싱하고 조개 맛있게 먹었어요\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QxZVgGF6IQ2Fu_-wDyRaoJ6hwqCMF7T0IiMCmbNrx5NZOf0wxbtvW_QP8tQOcrU4TtBGOA1vUdbaY6RthMhwU8V7wMfhn1lIjgZ-p_38UjawRF2syudbEqfmB1hd0Rh0S0EeFZkA=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/saengsaengi-gohyeon",
+      "score": 83,
+      "createdAt": "2026-11-22T17:44:01.056Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261122-saengsaengi-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-22T17:50:33.241Z",
+        "alt_text": "생생이 (Saengsaengi) — gohyeon, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261122090933_zugvqq",
       "status": "exported",

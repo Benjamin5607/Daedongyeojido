@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-15T08:52:58.705Z",
+  "updatedAt": "2026-11-22T09:26:30.851Z",
   "articleCount": 12,
   "signals": [
     {
       "label": "거제 야호!",
-      "source": "리센느 / 원이·미나미 거제 콘텐츠 · 거제시 주민자치회, 제8회 경상남도 주민자치박람회 참가새 창 열림 · 리센느, 하루 1시간 잔다더니…미나미 결국 건강 악화 스케줄 불참새 창  · 아이돌 90%는 중소돌…리센느 나올 확률은 '1.4%'새 창 열림 · 리센느, 엄청 뜨겁다새 창 열림 · \"메르치 사이소\" 사투리의 변신…지역 홍보·관광상품으로 인기새 창 열림",
+      "source": "리센느 / 원이·미나미 거제 콘텐츠 · [공주다문화] 다시 주목받는 일본의 갸루 문화새 창 열림 · 리센느, 기다림이 박동이 될 때 [박송아의 RE:생각]새 창 열림 · 리센느, 초동 60만 장·올림픽홀 입성… 커리어 하이 속 남은 과제새 창 · 운전 배우던 웹예능에서 시작된 약속, 9개월 뒤 리센느 원이의 '마마 엔 · 리센느 원이, '전참시'서 어머니의 특별한 응원 공개…10개월의 변화새  · '효율왕' 채령, 기상 2시간 만에 청소·홈케어·코디 완료 (전참시)새  · '전참시' 거제 합동 콘서트 200석에 3만 5000명 신청…유영우·원이",
       "score": 100,
       "regionHints": [
         "거제",
@@ -34,37 +34,32 @@
       "queryCount": 8
     },
     {
-      "label": "통영 동피랑",
-      "source": "news",
+      "label": "통영 한시 여행",
+      "source": "이왕조 시인",
       "score": 85,
       "regionHints": [
         "통영"
       ],
       "placeHints": [
-        "동피랑",
-        "박경리 기념관",
-        "윤이상 기념관"
+        "동피랑"
       ],
       "theme": "k-culture",
-      "queryCount": 2
+      "queryCount": 1
     },
     {
-      "label": "양양 하조대",
-      "source": "news",
-      "score": 70,
+      "label": "거제 합동 콘서트",
+      "source": "전참시",
+      "score": 75,
       "regionHints": [
-        "양양"
+        "거제"
       ],
-      "placeHints": [
-        "하조대",
-        "서피비치"
-      ],
-      "theme": "urban-nature",
-      "queryCount": 2
+      "placeHints": [],
+      "theme": "hallyu",
+      "queryCount": 1
     },
     {
       "label": "거제 트렌드",
-      "source": "거제시 주민자치회, 제8회 경상남도 주민자치박람회 참가새 창 열림",
+      "source": "[공주다문화] 다시 주목받는 일본의 갸루 문화새 창 열림",
       "score": 40,
       "regionHints": [
         "거제"
@@ -92,19 +87,9 @@
       "trendLabel": "거제 야호!"
     },
     {
-      "theme": "urban-nature",
-      "query": "양양 서피비치",
-      "trendLabel": "양양 하조대"
-    },
-    {
       "theme": "k-food",
       "query": "거제 평화족발",
       "trendLabel": "거제 야호!"
-    },
-    {
-      "theme": "urban-nature",
-      "query": "양양 하조대",
-      "trendLabel": "양양 하조대"
     },
     {
       "theme": "k-food",
@@ -138,19 +123,18 @@
     },
     {
       "theme": "k-culture",
-      "query": "통영 동피랑벽화마을",
-      "trendLabel": "통영 동피랑"
+      "query": "통영 동피랑마을",
+      "trendLabel": "통영 한시 여행"
     },
     {
-      "theme": "k-culture",
-      "query": "통영 박경리 기념관",
-      "trendLabel": "통영 동피랑"
+      "theme": "hallyu",
+      "query": "거제시청",
+      "trendLabel": "거제 합동 콘서트"
     }
   ],
   "matchedExistingCount": 23,
   "regionBoostCount": 92,
   "regionBuckets": {
-    "gyeongnam": 10,
-    "gangwon": 2
+    "gyeongnam": 10
   }
 }

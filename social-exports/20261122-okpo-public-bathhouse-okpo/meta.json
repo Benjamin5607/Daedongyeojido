@@ -1,0 +1,50 @@
+{
+  "queueId": "sq_20261122090433_jodhv1",
+  "slug": "okpo-public-bathhouse-okpo",
+  "theme": "urban-nature",
+  "format": "trend",
+  "slot": "morning",
+  "trend": {
+    "label": "거제 야호 맛집",
+    "source": "trend-crawl",
+    "updatedAt": "2026-08-16T05:13:48.216Z"
+  },
+  "captionSource": "local",
+  "is_ai_generated": false,
+  "caption_ai_generated": false,
+  "image_ai_generated": false,
+  "imageProvider": "poi-download",
+  "imageModel": null,
+  "ai_disclosure": "If posting AI-assisted images or captions, enable the platform AI-generated content label when available.",
+  "suggested_post": {
+    "timezone": "Asia/Seoul",
+    "localTime": "2026-11-22 11:00",
+    "slot": "morning"
+  },
+  "alt_text": "옥포 대중탕 (Okpo Public Bathhouse) — okpo, gyeongnam — urban nature",
+  "hashtags": [
+    "#Korea",
+    "#VisitKorea",
+    "#한국여행",
+    "#Daedongyeojido",
+    "#대동여지도",
+    "#KoreaNature",
+    "#ScenicKorea",
+    "#자연",
+    "#힐링여행",
+    "#거제야호맛집",
+    "#TravelTrend",
+    "#gyeongnam"
+  ],
+  "imageFile": "image.jpg",
+  "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ReyKKyEprRfK3glUq_HxMZWQhs8pcoOArKbbwMVJc3F8vuqUfhza6IsSFEmKpJe-IrnMbsWvz0op5n103Pfh0_YpQ_eyW-rlFPB5TPMgG3ikz7Qz-5C34ulW5H4dUvSzzAaAnV=w800-h600-k-no",
+  "imageContentType": "image/jpeg",
+  "sourceImageSaved": true,
+  "emilyReference": "scripts/social/assets/emily-reference.png",
+  "placeName": {
+    "ko": "옥포 대중탕",
+    "en": "Okpo Public Bathhouse"
+  },
+  "descriptionEn": "A sauna and public bathhouse in Okpo, Geoje, South Gyeongsang Province",
+  "exportedAt": "2026-11-22T09:10:31.201Z"
+}

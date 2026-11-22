@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-21T17:19:57.526Z",
+  "updatedAt": "2026-11-22T09:11:31.719Z",
   "items": [
+    {
+      "id": "sq_20261122090933_zugvqq",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "geoje-sea-world-ilwon",
+      "theme": "urban-nature",
+      "caption": "거제씨월드 — 「옥포」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/geoje-sea-world-ilwon\n\nGeoje Sea World\nA marine-themed park with various attractions and activities\nGuide: https://daedongyeojido-nine.vercel.app/places/geoje-sea-world-ilwon\n🔥 Trend: 옥포\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #옥포 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20241008_76/1728345580645pOgQ3_JPEG/DSC03360.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-sea-world-ilwon",
+      "score": 132,
+      "createdAt": "2026-11-22T09:09:33.990Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261122-geoje-sea-world-ilwon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-22T09:11:31.715Z",
+        "alt_text": "거제씨월드 (Geoje Sea World) — ilwon, gyeongnam — urban nature"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261122090433_jodhv1",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "okpo-public-bathhouse-okpo",
+      "theme": "urban-nature",
+      "caption": "옥포 대중탕 — 「거제 야호 맛집」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/okpo-public-bathhouse-okpo\n\nOkpo Public Bathhouse\nA sauna and public bathhouse in Okpo, Geoje, South Gyeongsang Province\n“시설이 정말 좋아요. 수영, 헬스, GX, 요가, 필라테스까지 거의 모든 운동을 한 곳에서 할 수 있습니다. 헬스장은 리모델링하면서 기구도 새로 들여와서 운동하기 좋아졌어요. 열심히 운동하고 해수천 사우나에서 풀면 덤으로 힐링까지 됩니다! 다만 가격이 점점 올라가요ㅠ”\nGuide: https://daedongyeojido-nine.vercel.app/places/okpo-public-bathhouse-okpo\n🔥 Trend: 거제 야호 맛집\n\nTraveler note: 시설이 정말 좋아요. 수영, 헬스, GX, 요가, 필라테스까지 거의 모든 운동을 한 곳에서 할 수 있습니다. 헬스장은 리모델링하면서 기구도 새로 들여와서 운동하기 좋아졌어요. 열심히 운동하고 해수천 사우나에서 풀면 덤으로 힐링까지 됩니다! 다만 가격이 점점 올라가요ㅠ\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaNature #ScenicKorea #자연 #힐링여행 #거제야호맛집 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ReyKKyEprRfK3glUq_HxMZWQhs8pcoOArKbbwMVJc3F8vuqUfhza6IsSFEmKpJe-IrnMbsWvz0op5n103Pfh0_YpQ_eyW-rlFPB5TPMgG3ikz7Qz-5C34ulW5H4dUvSzzAaAnV=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/okpo-public-bathhouse-okpo",
+      "score": 132,
+      "createdAt": "2026-11-22T09:04:33.233Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261122-okpo-public-bathhouse-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-22T09:10:31.201Z",
+        "alt_text": "옥포 대중탕 (Okpo Public Bathhouse) — okpo, gyeongnam — urban nature"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261121171706_mzbwvv",
       "status": "exported",

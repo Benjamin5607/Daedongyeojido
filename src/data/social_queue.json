@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-23T10:09:16.852Z",
+  "updatedAt": "2026-11-23T22:02:34.517Z",
   "items": [
+    {
+      "id": "sq_20261123215938_42kfs2",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "ginseng-field-ridge-sunset-walk-geumsan-eup",
+      "theme": "sanhaeng",
+      "caption": "금산의 고요한 능선을 따라 걷는 특별한 산책길을 소개합니다. 인삼 차광막 사이로 펼쳐진 능선 길을 걷다 보면, 어느덧 붉게 물드는 노을이 마음을 차분하게 만들어줍니다. 금산의 명물인 어죽과 바삭한 인삼튀김으로 든든하게 배를 채운 뒤, 현지인들만 아는 숨은 풍경 속으로 천천히 걸어 들어가 보세요. 🌅\n\nExperience a unique stroll along the ridges of Geumsan. Walking through the paths between ginseng shade tents at dusk offers a serene view that captures the true essence of the countryside. After enjoying local delicacies like fish porridge and fried ginseng, immerse yourself in this hidden gem where the sunset paints the landscape in gold.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #chungnam #Geumsan\n\nhttps://daedongyeojido-nine.vercel.app/places/ginseng-field-ridge-sunset-walk-geumsan-eup",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_280/1441006732154xQDQz_JPEG/12047081_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/ginseng-field-ridge-sunset-walk-geumsan-eup",
+      "score": 74,
+      "createdAt": "2026-11-23T21:59:38.596Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261123-ginseng-field-ridge-sunset-walk-geumsan-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-23T22:02:34.512Z",
+        "alt_text": "Ginseng Field Ridge Sunset Walk — geumsan-eup, chungnam — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261123215702_t6ab9q",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "theme": "k-food",
+      "caption": "강원도 영월의 소박한 정취가 담긴 메밀 막국수 한 그릇 어떠신가요? 차고를 개조해 만든 정겨운 주방에서 정성껏 썰어낸 손막국수를 맛볼 수 있는 곳입니다. 화려함보다는 투박한 진심이 느껴지는 맛이라 현지 방문객들의 찬사가 이어지는 곳이에요. 붉은 메밀꽃이 피는 계절에 방문해 영월의 여유를 만끽해 보세요. 🍜\n\nLooking for an authentic taste of Yeongwol? Visit this charming spot where hand-cut buckwheat noodles are served in a cozy, garage-turned-kitchen. While it lacks a fancy menu, the local reviews speak for themselves. It's the perfect place to enjoy a simple, hearty meal while soaking in the rustic atmosphere of Gangwon province.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gangwon #영월맛집 #막국수\n\nhttps://daedongyeojido-nine.vercel.app/places/yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20260328_208/17746652230043IluE_JPEG/L1002209.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+      "score": 82,
+      "createdAt": "2026-11-23T21:57:02.988Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261123-yeongwol-buckwheat-makguksu-corner-yeongwol-eup",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-23T22:00:31.557Z",
+        "alt_text": "Yeongwol Buckwheat Makguksu Corner — yeongwol-eup, gangwon — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261123100435_srvg14",
       "status": "exported",

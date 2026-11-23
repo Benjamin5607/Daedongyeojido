@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-22T17:53:32.443Z",
+  "updatedAt": "2026-11-23T10:09:16.852Z",
   "items": [
+    {
+      "id": "sq_20261123100435_srvg14",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "seongsan-ilchulbong-seongsan",
+      "theme": "k-culture",
+      "caption": "제주 동쪽 끝, 바다 위에 우뚝 솟은 성산일출봉에서 맞이하는 아침은 특별합니다. 유네스코 세계자연유산으로 지정된 이곳의 웅장한 분화구와 해안 절벽은 자연의 경이로움을 그대로 보여줍니다. 정상을 향한 가벼운 하이킹 후, 제주 해녀들의 강인한 삶이 담긴 물질 공연까지 함께 감상해 보세요. 🌅\n\nExperience the breathtaking beauty of Seongsan Ilchulbong, a UNESCO World Heritage tuff cone crater on the eastern edge of Jeju. Whether you're hiking up for a legendary sunrise or exploring the dramatic coastal cliffs, the views are truly unforgettable. Don't miss the traditional Haenyeo (women divers) performance at the base of the peak.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #jeju #제주여행 #SeongsanIlchulbong #성산일출봉\n\nhttps://daedongyeojido-nine.vercel.app/places/seongsan-ilchulbong-seongsan",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_117/1440992267605I7nrM_JPEG/11491438_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seongsan-ilchulbong-seongsan",
+      "score": 65,
+      "createdAt": "2026-11-23T10:04:35.943Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261123-seongsan-ilchulbong-seongsan",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-23T10:09:16.847Z",
+        "alt_text": "Seongsan Ilchulbong — seongsan, jeju — k culture"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261123100131_b5qi0z",
+      "status": "exported",
+      "slot": "morning",
+      "format": "series",
+      "slug": "mireukdo-island-hidden-ridge-trail-bongpyeong",
+      "theme": "sanhaeng",
+      "caption": "통영의 숨은 보석, 미륵도 비밀 능선길을 소개합니다. 구글 지도나 일반 트레킹 앱에는 잘 나오지 않지만, 현지인들이 평일에 조용히 찾는 특별한 코스입니다. 능선을 따라 걷다 보면 펼쳐지는 푸른 바다 전망이 일품이며, 복잡한 일상을 벗어나 진정한 휴식을 느끼기에 충분한 곳입니다.\n\nDiscover the Mireukdo Island Hidden Ridge Trail, a true local gem in Tongyeong. This path isn't found on most global trail apps, but it's a favorite among locals for its serene atmosphere and breathtaking sea views. If you're looking for a quiet escape away from the crowds, this ridge hike is well worth the visit 🌊.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongnam #Tongyeong\n\n상세 정보 확인하기: https://daedongyeojido-nine.vercel.app/places/mireukdo-island-hidden-ridge-trail-bongpyeong",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHLuFSKpIzfc6R_DSRPGtSOF8YvdG-1o-54xWWmAqmzeq1ZUrugx6IBpm10pakSfaWHyP_cdtPJMmget4b5ryjyCX3W9xYsHvWuQiWRmh8-7KQng18TUQXHG93PrckpQkzgU2k1w=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/mireukdo-island-hidden-ridge-trail-bongpyeong",
+      "score": 76,
+      "createdAt": "2026-11-23T10:01:31.137Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261123-mireukdo-island-hidden-ridge-trail-bongpyeong",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-23T10:08:00.848Z",
+        "alt_text": "Mireukdo Island Hidden Ridge Trail — bongpyeong, gyeongnam — sanhaeng"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261122174829_m2ucyk",
       "status": "exported",

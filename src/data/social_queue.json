@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-23T22:02:34.517Z",
+  "updatedAt": "2026-11-24T11:57:05.347Z",
   "items": [
+    {
+      "id": "sq_20261124115157_2smnoq",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "spa-land-centum-city-haeundae",
+      "theme": "k-beauty",
+      "caption": "부산 해운대에서 만나는 프리미엄 휴식, 스파랜드 센텀시티입니다. 신세계백화점 내에 위치해 접근성이 좋으며, 다양한 테마의 사우나와 찜질방에서 K-뷰티의 정수인 힐링 케어를 경험할 수 있습니다. 가족, 친구와 함께 일상의 피로를 풀며 여유로운 시간을 보내보세요 🌿\n\nExperience premium relaxation at Spa Land Centum City in Haeundae, Busan. Located within Shinsegae Department Store, this luxury spa offers a variety of themed saunas and baths, perfect for those seeking a true K-beauty healing retreat. It is an ideal spot to unwind and recharge with your loved ones.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KBeauty #BeautyTravel #뷰티 #KStyle #busan #해운대 #스파랜드\n\nhttps://daedongyeojido-nine.vercel.app/places/spa-land-centum-city-haeundae",
+      "captionSource": "nvidia",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20191203_87/1575341414885fTB51_JPEG/%B3%D7%C0%CC%B9%F6_%C7%C3%B7%B9%C0%CC%BD%BA_%C0%CC%B9%CC%C1%F6.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/spa-land-centum-city-haeundae",
+      "score": 65,
+      "createdAt": "2026-11-24T11:51:57.024Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261124-spa-land-centum-city-haeundae",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-24T11:57:05.341Z",
+        "alt_text": "스파랜드 신세계백화점 센텀시티점 (Spa Land Centum City) — haeundae, busan — k beauty"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261124114903_mm8573",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "garasan-mountain-nambugmyeon",
+      "theme": "sanhaeng",
+      "caption": "거제 남부면의 숨은 보석, 가라산에 올랐습니다. 짧은 산행 끝에 마주하는 해금강과 남해안의 탁 트인 절경은 일상의 피로를 잊게 하기에 충분합니다. 고요한 숲길과 푸른 바다의 조화를 직접 경험해 보세요 ⛰️\n\nDiscover the hidden gem of Geoje, Garasan Mountain. A short but rewarding hike that leads you to breathtaking panoramic views of Haegeumgang and the south coast. Experience the perfect harmony of serene forest trails and the deep blue sea.\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gyeongnam #Geoje\n\nhttps://daedongyeojido-nine.vercel.app/places/garasan-mountain-nambugmyeon",
+      "captionSource": "nvidia",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TwMIsBChlV92gO7yKpLrjwe2uU_ZSDX_tDGWFot5IUv29f0GQ-6aNZqbnWSxrAxkud4jTNBLMw4juNJ6gTWbhX3pETdohOz6Ms2IhmAWCmtj4o1aMqVEAQwUi2X4PBgiqs09U=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/garasan-mountain-nambugmyeon",
+      "score": 74,
+      "createdAt": "2026-11-24T11:49:03.150Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261124-garasan-mountain-nambugmyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": true,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-24T11:53:31.732Z",
+        "alt_text": "가라산 (Garasan Mountain) — nambugmyeon, gyeongnam — sanhaeng"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261123215938_42kfs2",
       "status": "exported",

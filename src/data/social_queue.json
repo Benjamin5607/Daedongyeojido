@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-24T20:37:49.277Z",
+  "updatedAt": "2026-11-25T10:43:33.703Z",
   "items": [
+    {
+      "id": "sq_20261125104008_6e89qv",
+      "status": "exported",
+      "slot": "morning",
+      "format": "place_card",
+      "slug": "seoraksan-national-park-sokcho",
+      "theme": "sanhaeng",
+      "caption": "Seoraksan National Park\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/seoraksan-national-park-sokcho\n\nSeoraksan National Park\nGranite peaks, autumn foliage, and cable car views — Korea premier mountain park.\nGuide: https://daedongyeojido-nine.vercel.app/places/seoraksan-national-park-sokcho\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreaHiking #Sanhaeng #등산 #산행 #KoreaTrails #gangwon",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20251231_185/1767154289284zsbog_JPEG/%C0%D4%BC%B1_%BC%B3%BE%C7%BB%EA_%B4%AB%BF%CA%C0%BB_%C0%D4%C0%BA_%BF%EF%BB%EA%B9%D9%C0%A7_%C0%BA%C7%CF%BC%F6_%C0%CC%BA%B4%B1%D4_%BA%B8%C1%A4%BA%BB.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/seoraksan-national-park-sokcho",
+      "score": 65,
+      "createdAt": "2026-11-25T10:40:08.564Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261125-seoraksan-national-park-sokcho",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-25T10:43:33.698Z",
+        "alt_text": "Seoraksan National Park — gangwon — sanhaeng"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261125104008_2jcfxx",
+      "status": "exported",
+      "slot": "morning",
+      "format": "trend",
+      "slug": "sanbong-ssambap-okpo-okpo",
+      "theme": "k-food",
+      "caption": "산봉쌈밥 거제옥포본점 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/sanbong-ssambap-okpo-okpo\n\nSanbong Ssambap Okpo\nOrganic vegetable ssambap wraps with Geoje-grown greens.\n“소고기국밥이 배추를 넣어 단맛이 강함. 고기는 너무 작아 쪼가리 같음. 고기 맛은 괜찮음. 그런데 우리 테이블 옆옆 손님이 거의 국밥을 남기고 갔는데 종업원이 국속의 고기만 모두 건지고 다른 음식은 섞어서 버리는 것으로 테이블을 정리함. 건진 고기를 어떤 용도로 사용할 지 모르겠지만 …”\nGuide: https://daedongyeojido-nine.vercel.app/places/sanbong-ssambap-okpo-okpo\n🔥 Trend: 거제 야호!\n\nTraveler note: 소고기국밥이 배추를 넣어 단맛이 강함. 고기는 너무 작아 쪼가리 같음. 고기 맛은 괜찮음. 그런데 우리 테이블 옆옆 손님이 거의 국밥을 남기고 갔는데 종업원이 국속의 고기만 모두 건지고 다른 음식은 섞어서 버리는 것으로 테이블을 정리함. 건진 고기를 어떤 용도로 사용할 지 모르겠지만 …\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R98zjATCXlMP93iOjCS9A1Yl6EL0igwi-ikdPCjn30SiO-u1eUzTjAHP5PVz7XLHeGuu-v62iDov_J5JElvued62aeTIHIVAEc8_xX_wcssIlh3_6feK3Xw8PrOy39grRcjNp5O6dxBRQ=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/sanbong-ssambap-okpo-okpo",
+      "score": 152,
+      "createdAt": "2026-11-25T10:40:08.335Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261125-sanbong-ssambap-okpo-okpo",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-25T10:41:35.901Z",
+        "alt_text": "산봉쌈밥 거제옥포본점 (Sanbong Ssambap Okpo) — okpo, gyeongnam — k food"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261124203108_ikhcxi",
       "status": "exported",

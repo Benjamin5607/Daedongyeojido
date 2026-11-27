@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-27T10:24:13.973Z",
+  "updatedAt": "2026-11-27T19:30:21.090Z",
   "items": [
+    {
+      "id": "sq_20261127192215_1rbd93",
+      "status": "exported",
+      "slot": "evening",
+      "format": "place_card",
+      "slug": "mungyeong-omija-valley-syrup-shop-mungyeong-si",
+      "theme": "k-food",
+      "caption": "Mungyeong Omija Valley Syrup Shop\n한국 여행지 추천 · 대동여지도\n더 보기: https://daedongyeojido-nine.vercel.app/places/mungyeong-omija-valley-syrup-shop-mungyeong-si\n\nMungyeong Omija Valley Syrup Shop\nHomemade omija syrup and mountain-herb drinks — pinned on Naver foraging blogs, not Google cafes.\n“음...문경에 가볼곳이 그리 많지 않아 갔는데 입장료를 받을만한 수준은 아니지 싶어요. 콘텐츠 개발을 하시면 좋겠어요”\nGuide: https://daedongyeojido-nine.vercel.app/places/mungyeong-omija-valley-syrup-shop-mungyeong-si\n\nTraveler note: 음...문경에 가볼곳이 그리 많지 않아 갔는데 입장료를 받을만한 수준은 아니지 싶어요. 콘텐츠 개발을 하시면 좋겠어요\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanFood #KFood #맛집 #한식 #gyeongbuk",
+      "captionSource": "local",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnB_S02JyiWtDki_J2z-Maxtx-0OQmsm2UxmnvgMUDRkOo0gFzlcyDISifOxDTchDazZHX2bfYVFKrn7t7RgRCFZl58ZMmY_qzgsw2MCG7EqjrVlxksoalujPg0eMF31KaxTo7_=w800-h600-k-no",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/mungyeong-omija-valley-syrup-shop-mungyeong-si",
+      "score": 82,
+      "createdAt": "2026-11-27T19:22:15.954Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261127-mungyeong-omija-valley-syrup-shop-mungyeong-si",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-27T19:30:21.085Z",
+        "alt_text": "Mungyeong Omija Valley Syrup Shop — mungyeong-si, gyeongbuk — k food"
+      },
+      "error": null
+    },
+    {
+      "id": "sq_20261127192215_3q3dh5",
+      "status": "exported",
+      "slot": "evening",
+      "format": "trend",
+      "slug": "geoje-pow-camp-park-gohyeon",
+      "theme": "k-culture",
+      "caption": "거제포로수용소유적공원 — 「거제 야호!」\n한국 여행 큐레이션, 대동여지도.\n더 보기: https://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-park-gohyeon\n\nGeoje POW Camp Park\nLiving history park on Korea's largest Korean War POW camp site.\nGuide: https://daedongyeojido-nine.vercel.app/places/geoje-pow-camp-park-gohyeon\n🔥 Trend: 거제 야호!\n\n#Korea #VisitKorea #한국여행 #Daedongyeojido #대동여지도 #KoreanCulture #Heritage #한국문화 #TempleStay #거제야호 #TravelTrend #gyeongnam",
+      "captionSource": "local",
+      "imageUrl": "https://ldb-phinf.pstatic.net/20150831_98/1441017989459Hzhge_JPEG/116173427143377_0.jpg",
+      "mirroredImageUrl": "https://daedongyeojido-nine.vercel.app/api/media-proxy/geoje-pow-camp-park-gohyeon",
+      "score": 129,
+      "createdAt": "2026-11-27T19:22:15.924Z",
+      "approvedAt": null,
+      "publishedAt": null,
+      "meta": {
+        "packDir": "social-exports/20261127-geoje-pow-camp-park-gohyeon",
+        "imageFile": "image.jpg",
+        "is_ai_generated": false,
+        "image_ai_generated": false,
+        "imageProvider": "poi-download",
+        "exportedAt": "2026-11-27T19:26:18.242Z",
+        "alt_text": "거제포로수용소유적공원 (Geoje POW Camp Park) — gohyeon, gyeongnam — k culture"
+      },
+      "error": null
+    },
     {
       "id": "sq_20261127101606_bef3xp",
       "status": "exported",
